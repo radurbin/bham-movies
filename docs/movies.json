@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-30T20:24:38.584967",
+    "generated_at": "2026-07-31T01:50:05.236669",
     "movie_count": 65,
     "showtime_count": 2157,
     "theaters": {
@@ -5912,45 +5912,6 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 145557232,
-          "datetime": "2026-07-30T23:20:00",
-          "datetime_utc": "2026-07-31T04:20:00Z",
-          "auditorium": 2,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-07-30/summit/all/145557232",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
             }
           ]
         },
@@ -29876,6 +29837,46 @@
               "type": "SENIOR",
               "price": 16.49,
               "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 145688723,
+          "datetime": "2026-07-30T23:20:00",
+          "datetime_utc": "2026-07-31T04:20:00Z",
+          "auditorium": 2,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-07-30/summit/all/145688723",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.59,
+              "tax": 1.6
+            },
+            {
+              "type": "CHILD",
+              "price": 14.29,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.94,
+              "tax": 1.45
             }
           ]
         },
