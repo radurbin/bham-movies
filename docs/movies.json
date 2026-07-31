@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-07-30T21:10:50.469017",
-    "movie_count": 74,
-    "showtime_count": 2193,
+    "generated_at": "2026-07-31T02:19:37.760537",
+    "movie_count": 72,
+    "showtime_count": 2189,
     "theaters": {
       "AMC Summit 16": 729,
       "AMC Patton Creek 15": 885,
       "AMC Vestavia Hills 10": 543,
-      "Sidewalk Film Center Cinema": 36
+      "Sidewalk Film Center Cinema": 32
     }
   },
   "movies": [
@@ -9142,70 +9142,6 @@
               "tax": 1.43
             }
           ]
-        }
-      ]
-    },
-    {
-      "sort_index": "malcolm x",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Malcolm X",
-      "release_year": 1992,
-      "runtime": "PT03H21M",
-      "rating": "PG-13",
-      "genres": [
-        "Biography",
-        "Drama",
-        "History"
-      ],
-      "poster": "posters/malcolm-x-1992.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "Biographical epic of the controversial and influential Black Nationalist leader, from his early life and career as a small-time gangster, to his ministry as a member of the Nation of Islam and his eventual assassination.",
-      "directors": [
-        "Spike Lee"
-      ],
-      "writers": [
-        "Arnold Perl",
-        "Spike Lee",
-        "Alex Haley"
-      ],
-      "actors": [
-        "Denzel Washington",
-        "Angela Bassett",
-        "Delroy Lindo"
-      ],
-      "imdb_id": "tt0104797",
-      "imdb_rating": "7.7",
-      "imdb_votes": "110,202",
-      "rotten_tomatoes": "89%",
-      "metacritic": "73/100",
-      "awards": "Nominated for 2 Oscars. 19 wins & 24 nominations total",
-      "language": "English, Arabic",
-      "country": "Japan, United States",
-      "box_office": "$48,169,910",
-      "website": null,
-      "movie_url": null,
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center Cinema",
-          "showtime_id": 0,
-          "datetime": "2026-07-30T15:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=2562&d=2026-07-30",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
         }
       ]
     },
@@ -33064,7 +33000,7 @@
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-07-31/summit/all/144538629",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -83646,44 +83582,6 @@
           "theater_id": 0,
           "theater": "Sidewalk Film Center Cinema",
           "showtime_id": 0,
-          "datetime": "2026-07-30T14:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-07-30",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center Cinema",
-          "showtime_id": 0,
-          "datetime": "2026-07-30T17:45",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-07-30",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center Cinema",
-          "showtime_id": 0,
           "datetime": "2026-07-31T14:15",
           "datetime_utc": null,
           "auditorium": null,
@@ -84994,65 +84892,6 @@
               "tax": 0.29
             }
           ]
-        }
-      ]
-    },
-    {
-      "sort_index": "to wong foo, thanks for everything, julie newmar",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "To Wong Foo, Thanks for Everything, Julie Newmar",
-      "release_year": 1995,
-      "runtime": "PT01H48M",
-      "rating": null,
-      "genres": [
-        "Documentary",
-        "Short"
-      ],
-      "poster": null,
-      "backdrop": null,
-      "short_description": null,
-      "plot": null,
-      "directors": [
-        "N/A"
-      ],
-      "writers": [
-        "N/A"
-      ],
-      "actors": [
-        "N/A"
-      ],
-      "imdb_id": "tt2708390",
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "awards": "N/A",
-      "language": "English",
-      "country": "United States",
-      "box_office": "N/A",
-      "website": null,
-      "movie_url": null,
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center Cinema",
-          "showtime_id": 0,
-          "datetime": "2026-07-30T19:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=4932&d=2026-07-30",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
         }
       ]
     },
