@@ -92,14 +92,9 @@
 					cell.innerHTML = `<div class="date">${dateObj.toDateString()}</div><div class="posters"></div>`;
 					const posters = cell.querySelector('.posters');
 
-					for (const entry of Object.values(days[d])) {
-						const movie = entry.movie;
-						const shows = entry.shows;
+				const sortedEntries = Object.values(days[d]).sort((a, b) => b.shows.length - a.shows.length);
 
-						const hasPoster = movie.poster && movie.poster !== 'None' && movie.poster !== 'null';
-
-						let el;
-
+				for (const entry of sortedEntries) {
 						if (hasPoster) {
 							el = document.createElement('img');
 							el.className = 'poster';
