@@ -23,6 +23,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import shutil
 from collections import Counter
 from datetime import datetime
@@ -89,36 +90,93 @@ class MoviePipeline:
 
         print(f"Fetched {len(sidewalk_movies)} movies from Sidewalk/TMS.")
 
-        # Merge sidewalk movies into AMC movies by title+year
-        key_map = {}
+        # Merge sidewalk movies into AMC movies using a smarter
+        # normalized-title matching strategy (ignores articles,
+        # punctuation, and accepts substring matches when years
+        # are compatible).
+
+        def normalize_title(t: str) -> str:
+            if not t:
+                return ""
+            s = t.lower().strip()
+            for p in ("the ", "a ", "an "):
+                if s.startswith(p):
+                    s = s[len(p):]
+                    break
+            s = re.sub(r"[^a-z0-9\s]", "", s)
+            s = " ".join(s.split())
+            return s
+
+        title_map: dict[str, list[Movie]] = {}
 
         for m in self.movies:
-            key = (m.title.lower(), m.release_year)
-            key_map[key] = m
+            n = normalize_title(m.title)
+            title_map.setdefault(n, []).append(m)
 
         added = 0
 
         for sm in sidewalk_movies:
-            key = (sm.title.lower(), sm.release_year)
+            ns = normalize_title(sm.title)
 
-            if key in key_map:
-                # merge showtimes
-                existing = key_map[key]
-                for st in sm.showtimes:
-                    existing.add_showtime(st)
+            merged = False
 
-                # fill missing metadata conservatively
-                if not existing.poster and sm.poster:
-                    existing.poster = sm.poster
-                if not existing.runtime and sm.runtime:
-                    existing.runtime = sm.runtime
-                if not existing.rating and getattr(sm, 'rating', None):
-                    existing.rating = sm.rating
+            # direct normalized-title candidates
+            candidates = title_map.get(ns, [])
 
-            else:
-                self.movies.append(sm)
-                key_map[key] = sm
-                added += 1
+            for existing in candidates:
+                year_ok = (
+                    existing.release_year == sm.release_year
+                    or existing.release_year is None
+                    or sm.release_year is None
+                )
+                if year_ok:
+                    # merge
+                    for st in sm.showtimes:
+                        existing.add_showtime(st)
+                    if not existing.poster and sm.poster:
+                        existing.poster = sm.poster
+                    if not existing.runtime and sm.runtime:
+                        existing.runtime = sm.runtime
+                    if not existing.rating and getattr(sm, "rating", None):
+                        existing.rating = sm.rating
+                    merged = True
+                    break
+
+            if merged:
+                continue
+
+            # try substring matches across known normalized titles
+            for k, lst in list(title_map.items()):
+                if not k or not ns:
+                    continue
+                if ns in k or k in ns:
+                    for existing in lst:
+                        year_ok = (
+                            existing.release_year == sm.release_year
+                            or existing.release_year is None
+                            or sm.release_year is None
+                        )
+                        if year_ok:
+                            for st in sm.showtimes:
+                                existing.add_showtime(st)
+                            if not existing.poster and sm.poster:
+                                existing.poster = sm.poster
+                            if not existing.runtime and sm.runtime:
+                                existing.runtime = sm.runtime
+                            if not existing.rating and getattr(sm, "rating", None):
+                                existing.rating = sm.rating
+                            merged = True
+                            break
+                if merged:
+                    break
+
+            if merged:
+                continue
+
+            # no match found; add as new movie
+            self.movies.append(sm)
+            title_map.setdefault(ns, []).append(sm)
+            added += 1
 
         print(f"Merged Sidewalk movies: {added} new movies added.")
 
