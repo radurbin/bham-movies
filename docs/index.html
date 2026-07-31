@@ -15,7 +15,10 @@
 			.poster-fallback{display:flex;align-items:center;justify-content:center;text-align:center;padding:6px;background:#2a2a2a;color:#fff;font-size:10px;font-weight:bold;line-height:1.2;overflow:hidden;min-height:90px;border-radius:4px}
 			#modal{display:none;position:fixed;inset:0;background:#000a;align-items:center;justify-content:center}
 			#content{background:#222;max-width:900px;width:95%;padding:18px;border-radius:10px;display:grid;grid-template-columns:220px 1fr;gap:16px;max-height:90vh;overflow:auto}
-			.badge{display:inline-block;background:#444;padding:3px 7px;border-radius:99px;margin:2px}
+				.badge{display:inline-block;background:#444;padding:3px 7px;border-radius:99px;margin:2px}
+				.show-badge{cursor:pointer;background:#2a6bf6;color:#fff;padding:6px 8px;border-radius:6px;margin:3px;display:inline-block}
+				.show-badge.sold{background:#a33}
+				.show-tooltip{position:absolute;background:#222;border:1px solid #444;padding:8px;border-radius:6px;color:#ddd;z-index:9999;min-width:200px;box-shadow:0 6px 18px rgba(0,0,0,0.6)}
 			small{color:#bbb}
 		</style>
 	</head>
@@ -146,13 +149,65 @@
 						<h2>Showtimes</h2>
 						${Object.entries(groups).map(([theater, list]) => `
 							<h3>${theater}</h3>
-							${list.map(s => `<div><a class="badge" href="${s.purchase_url || '#'}" target="_blank">${new Date(s.datetime).toLocaleTimeString([], {hour:'numeric',minute:'2-digit'})}</a></div>`).join('')}
+							${list.map(s => {
+								const time = new Date(s.datetime).toLocaleTimeString([], {hour:'numeric',minute:'2-digit'});
+								const fmt = s.premium_format || 'Standard';
+								// Encode attributes for use in data-attrs
+								const attrs = (s.attributes || []).join(', ');
+								const prices = (s.ticket_prices || []).map(p=>`${p.type}: $${p.price}`).join(', ');
+								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-prices="${prices}">${time} · ${fmt}</span></div>`;
+							}).join('')}
 						`).join('')}
 						<hr>
 						<p><b>Directors:</b> ${(movie.directors || []).join(', ')}<br><b>Cast:</b> ${(movie.actors || []).join(', ')}</p>
 					</div>`;
 
 				MODAL.style.display = 'flex';
+
+				// Attach hover / click handlers to showtime badges
+				const tooltip = document.createElement('div');
+				tooltip.className = 'show-tooltip';
+				tooltip.style.display = 'none';
+				document.body.appendChild(tooltip);
+
+				function showTooltip(el) {
+					const dt = el.getAttribute('data-datetime') || '';
+					const fmt = el.getAttribute('data-format') || '';
+					const aud = el.getAttribute('data-auditorium') || '';
+					const sold = el.getAttribute('data-sold') === 'true';
+					const almost = el.getAttribute('data-almost') === 'true';
+					const cancelled = el.getAttribute('data-cancelled') === 'true';
+					const attrs = el.getAttribute('data-attrs') || '';
+					const prices = el.getAttribute('data-prices') || '';
+
+					tooltip.innerHTML = `
+						<div><b>${new Date(dt).toLocaleString()}</b></div>
+						<div style="margin-top:6px"><b>Format:</b> ${fmt}</div>
+						${aud? `<div><b>Auditorium:</b> ${aud}</div>`: ''}
+						${prices? `<div><b>Prices:</b> ${prices}</div>`: ''}
+						${attrs? `<div><b>Attributes:</b> ${attrs}</div>`: ''}
+						${sold? `<div style="color:#faa"><b>Sold out</b></div>`: (almost? `<div style="color:#ffb"><b>Almost sold out</b></div>`: '')}
+						${cancelled? `<div style="color:#888"><b>Cancelled</b></div>`: ''}
+					`;
+
+					const r = el.getBoundingClientRect();
+					tooltip.style.left = Math.min(window.innerWidth - 220, Math.max(8, r.left)) + 'px';
+					tooltip.style.top = (window.scrollY + r.bottom + 8) + 'px';
+					tooltip.style.display = 'block';
+				}
+
+				function hideTooltip() {
+					tooltip.style.display = 'none';
+				}
+
+				document.querySelectorAll('.show-badge').forEach(b => {
+					b.addEventListener('mouseenter', () => showTooltip(b));
+					b.addEventListener('mouseleave', hideTooltip);
+					b.addEventListener('click', (ev) => { ev.stopPropagation(); showTooltip(b); });
+				});
+
+				// Hide tooltip when clicking outside
+				document.addEventListener('click', hideTooltip);
 			}
 
 			// Wire up load button
