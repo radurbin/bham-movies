@@ -95,6 +95,12 @@
 				const sortedEntries = Object.values(days[d]).sort((a, b) => b.shows.length - a.shows.length);
 
 				for (const entry of sortedEntries) {
+						const movie = entry.movie;
+						const shows = entry.shows;
+
+						const hasPoster = movie.poster && movie.poster !== 'None' && movie.poster !== 'null';
+
+						let el;
 						if (hasPoster) {
 							el = document.createElement('img');
 							el.className = 'poster';
