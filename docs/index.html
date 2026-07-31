@@ -1,0 +1,165 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<title>Movie Calendar</title>
+		<style>
+			body{margin:0;background:#111;color:#eee;font-family:Arial}
+			header{padding:12px;background:#181818;position:sticky;top:0;z-index:2}
+			#grid{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;padding:10px}
+			.day{background:#1f1f1f;border-radius:8px;padding:8px;min-height:0}
+			.date{font-weight:bold}
+			.posters{display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:6px;margin-top:8px;align-content:start}
+			.poster{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:4px;cursor:pointer;display:block}
+			.poster-fallback{display:flex;align-items:center;justify-content:center;text-align:center;padding:6px;background:#2a2a2a;color:#fff;font-size:10px;font-weight:bold;line-height:1.2;overflow:hidden;min-height:90px;border-radius:4px}
+			#modal{display:none;position:fixed;inset:0;background:#000a;align-items:center;justify-content:center}
+			#content{background:#222;max-width:900px;width:95%;padding:18px;border-radius:10px;display:grid;grid-template-columns:220px 1fr;gap:16px;max-height:90vh;overflow:auto}
+			.badge{display:inline-block;background:#444;padding:3px 7px;border-radius:99px;margin:2px}
+			small{color:#bbb}
+		</style>
+	</head>
+	<body>
+		<header>
+			<button id="loadBtn">Load Movies</button>
+			<span id="status" style="margin-left:12px"></span>
+		</header>
+
+		<main>
+			<div id="grid"></div>
+		</main>
+
+		<div id="modal" onclick="if(event.target===this)modal.style.display='none'">
+			<div id="content"></div>
+		</div>
+
+		<script>
+			// Frontend reads the generated movies.json and local posters in the same folder.
+			const STATUS = document.getElementById('status');
+			const GRID = document.getElementById('grid');
+			const MODAL = document.getElementById('modal');
+			const CONTENT = document.getElementById('content');
+
+			async function load() {
+				STATUS.textContent = 'Loading...';
+
+				try {
+					const res = await fetch('./movies.json');
+					const data = await res.json();
+
+					const movies = data.movies || [];
+
+					// Build day -> movieKey -> { movie, shows }
+					const days = {};
+
+					for (const movie of movies) {
+						for (const show of movie.showtimes || []) {
+							const date = (show.datetime || '').slice(0, 10);
+							if (!date) continue;
+							days[date] = days[date] || {};
+							const key = `${movie.title}::${movie.release_year || ''}::${movie.movie_id || ''}`;
+							days[date][key] = days[date][key] || { movie, shows: [] };
+							days[date][key].shows.push(show);
+						}
+					}
+
+					render(days);
+					STATUS.textContent = `${data.metadata?.showtime_count || 0} showtimes, ${data.metadata?.movie_count || movies.length} movies`;
+
+				} catch (err) {
+					console.error(err);
+					STATUS.textContent = 'Failed to load movies.json';
+				}
+			}
+
+			function render(days) {
+				GRID.innerHTML = '';
+
+				const sortedDates = Object.keys(days).sort();
+
+				for (const d of sortedDates) {
+					const cell = document.createElement('div');
+					cell.className = 'day';
+					const dateObj = new Date(d + 'T12:00:00');
+					cell.innerHTML = `<div class="date">${dateObj.toDateString()}</div><div class="posters"></div>`;
+					const posters = cell.querySelector('.posters');
+
+					for (const entry of Object.values(days[d])) {
+						const movie = entry.movie;
+						const shows = entry.shows;
+
+						const hasPoster = movie.poster && movie.poster !== 'None' && movie.poster !== 'null';
+
+						let el;
+
+						if (hasPoster) {
+							el = document.createElement('img');
+							el.className = 'poster';
+							el.src = movie.poster; // posters are relative to this index.html
+							el.alt = movie.title;
+							el.onerror = () => {
+								const f = document.createElement('div');
+								f.className = 'poster poster-fallback';
+								f.textContent = movie.title;
+								f.title = movie.title;
+								f.onclick = () => openMovie(movie, shows);
+								el.replaceWith(f);
+							};
+						} else {
+							el = document.createElement('div');
+							el.className = 'poster poster-fallback';
+							el.textContent = movie.title;
+							el.title = movie.title;
+						}
+
+						el.onclick = () => openMovie(movie, shows);
+
+						posters.appendChild(el);
+					}
+
+					GRID.appendChild(cell);
+				}
+			}
+
+			function openMovie(movie, shows) {
+				// Group shows by theater
+				const groups = {};
+				for (const s of shows) {
+					const t = s.theater || s.theatre || 'Unknown';
+					groups[t] = groups[t] || [];
+					groups[t].push(s);
+				}
+
+				const posterHtml = movie.poster ? `<img style="width:220px;border-radius:6px" src="${movie.poster}" alt="${movie.title}">` : `<div class='poster poster-fallback' style='width:220px;height:330px'>${movie.title}</div>`;
+
+				CONTENT.innerHTML = `
+					<div>${posterHtml}</div>
+					<div>
+						<button onclick="MODAL.style.display='none'" style="float:right">✕</button>
+						<h1>${movie.title}</h1>
+						<div>
+							<span class="badge">${movie.imdb_rating || ''} IMDb</span>
+							<span class="badge">${movie.release_year || ''}</span>
+							<span class="badge">${(movie.genres || []).join(', ')}</span>
+						</div>
+						<p><small>${movie.plot || movie.short_description || ''}</small></p>
+						<h2>Showtimes</h2>
+						${Object.entries(groups).map(([theater, list]) => `
+							<h3>${theater}</h3>
+							${list.map(s => `<div><a class="badge" href="${s.purchase_url || '#'}" target="_blank">${new Date(s.datetime).toLocaleTimeString([], {hour:'numeric',minute:'2-digit'})}</a></div>`).join('')}
+						`).join('')}
+						<hr>
+						<p><b>Directors:</b> ${(movie.directors || []).join(', ')}<br><b>Cast:</b> ${(movie.actors || []).join(', ')}</p>
+					</div>`;
+
+				MODAL.style.display = 'flex';
+			}
+
+			// Wire up load button
+			document.getElementById('loadBtn').addEventListener('click', load);
+
+			// Auto-load on page open
+			load();
+		</script>
+	</body>
+</html>
