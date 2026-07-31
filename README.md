@@ -46,6 +46,7 @@ Add the following repository secrets under Settings → Secrets & variables → 
 
 - `AMC_API_KEY` — your AMC API key (X-AMC-Vendor-Key header)
 - `OMDB_API_KEY` — your OMDb API key
+ - `TMS_API_KEY` — your TMS / Gracenote API key used to fetch Sidewalk showtimes
 
 CI / GitHub Actions
 
@@ -66,6 +67,7 @@ This project currently includes showtimes for four theaters:
 - AMC Patton Creek 15 (theater id 4103)
 - AMC Vestavia Hills 10 (theater id 4105)
 - Sidewalk Film Center + Cinema (integrated later as a future source / `SIDEWALK_THEATER` in `config.py`)
+ - Sidewalk Film Center + Cinema (included via the TMS API and merged into `movies.json`)
 
 How far in the future is fetched
 

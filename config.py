@@ -86,7 +86,7 @@ AMC_THEATERS = {
 }
 
 SIDEWALK_THEATER = {
-    "name": "Sidewalk Film Center + Cinema",
+    "name": "Sidewalk Film Center Cinema",
     "city": "Birmingham",
 }
 

@@ -37,6 +37,7 @@ from config import (
 
 from fetchers.amc import AMCFetcher
 from fetchers.omdb import OMDbFetcher
+from fetchers.sidewalk import SidewalkFetcher
 
 from models import Movie
 
@@ -74,9 +75,52 @@ class MoviePipeline:
 
         print()
 
-        print(
-            f"Fetched {len(self.movies)} unique movies."
-        )
+        print(f"Fetched {len(self.movies)} unique movies from AMC.")
+
+        # Fetch Sidewalk movies and merge them in
+        print()
+        print("=" * 60)
+        print("Fetching Sidewalk showtimes (TMS)")
+        print("=" * 60)
+
+        sidewalk = SidewalkFetcher()
+
+        sidewalk_movies = sidewalk.fetch_movies()
+
+        print(f"Fetched {len(sidewalk_movies)} movies from Sidewalk/TMS.")
+
+        # Merge sidewalk movies into AMC movies by title+year
+        key_map = {}
+
+        for m in self.movies:
+            key = (m.title.lower(), m.release_year)
+            key_map[key] = m
+
+        added = 0
+
+        for sm in sidewalk_movies:
+            key = (sm.title.lower(), sm.release_year)
+
+            if key in key_map:
+                # merge showtimes
+                existing = key_map[key]
+                for st in sm.showtimes:
+                    existing.add_showtime(st)
+
+                # fill missing metadata conservatively
+                if not existing.poster and sm.poster:
+                    existing.poster = sm.poster
+                if not existing.runtime and sm.runtime:
+                    existing.runtime = sm.runtime
+                if not existing.rating and getattr(sm, 'rating', None):
+                    existing.rating = sm.rating
+
+            else:
+                self.movies.append(sm)
+                key_map[key] = sm
+                added += 1
+
+        print(f"Merged Sidewalk movies: {added} new movies added.")
 
     # ---------------------------------------------------------
 
