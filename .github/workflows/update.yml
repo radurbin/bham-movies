@@ -2,7 +2,8 @@ name: Update movies.json
 
 on:
   schedule:
-    - cron: '0 6 * * *' # daily at 06:00 UTC
+    - cron: '0 10 * * *' # 4:00 AM CST
+    - cron: '0 22 * * *' # 4:00 PM CST
   workflow_dispatch: {}
 
 # Allow the workflow to push changes to the repository
