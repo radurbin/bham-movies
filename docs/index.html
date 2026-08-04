@@ -233,7 +233,8 @@
 					tooltip.innerHTML = html;
 					tooltip.style.display = 'block';
 
-					if(showId && !sold && !cancelled) {
+					if(showId && !sold && !cancelled && !el.dataset.seatmapFetched) {
+						el.dataset.seatmapFetched = 'true';
 						getCachedSeatmap(showId, (seatmapHtml) => {
 							const parser = new DOMParser();
 							const doc = parser.parseFromString(seatmapHtml, 'text/html');
@@ -266,7 +267,14 @@
 				}
 
 				document.querySelectorAll('.show-badge').forEach(b => {
-					b.addEventListener('mouseenter', () => showTooltip(b));
+					b.addEventListener('mouseenter', () => {
+						if(!b.dataset.seatmapLoaded) {
+							b.dataset.seatmapLoaded = 'true';
+							showTooltip(b);
+						} else {
+							showTooltip(b);
+						}
+					});
 					b.addEventListener('mouseleave', hideTooltip);
 					b.addEventListener('click', (ev) => { ev.stopPropagation(); showTooltip(b); });
 				});
