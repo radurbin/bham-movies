@@ -20,6 +20,17 @@
 				.show-badge.sold{background:#a33}
 				.show-tooltip{position:absolute;background:#222;border:1px solid #444;padding:8px;border-radius:6px;color:#ddd;z-index:11001;min-width:200px;box-shadow:0 6px 18px rgba(0,0,0,0.6)}
 			small{color:#bbb}
+			.seatmap-hover{position:fixed;bottom:20px;right:20px;background:#222;border:1px solid #444;border-radius:10px;max-width:400px;z-index:9999;overflow:auto;max-height:80vh}
+			.seatmap-hover .seat-detail{padding:0}
+			.seat{width:12px;height:12px;border-radius:2px;display:inline-block}
+			.seat--empty{background:#444}
+			.seat--available{background:#0f9}
+			.seat--booked{background:#f90}
+			.seat-row{display:flex;gap:2px;margin:2px 0;align-items:center}
+			.row-label{font-size:11px;width:15px;text-align:center}
+			.seat-line{display:flex;gap:2px}
+			.screen,.front-label{text-align:center;font-size:10px;margin:4px 0;color:#bbb}
+			.seat-legend{font-size:10px;margin-top:8px;padding:4px;text-align:center;color:#bbb}
 		</style>
 	</head>
 	<body>
@@ -161,7 +172,12 @@
 								// Encode attributes for use in data-attrs
 								const attrs = (s.attributes || []).join(', ');
 								const prices = (s.ticket_prices || []).map(p=>`${p.type}: $${p.price}`).join(', ');
-								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-prices="${prices}">${time} · ${fmt}</span></div>`;
+								const today = new Date().toDateString();
+								const tomorrow = new Date(Date.now() + 86400000).toDateString();
+								const showDate = new Date(s.datetime).toDateString();
+								const isAmcTodayTomorrow = (s.theater || s.theatre || '').includes('AMC') && (showDate === today || showDate === tomorrow);
+
+								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmcTodayTomorrow ? `data-show-id="${s.showtime_id||s.id}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-prices="${prices}">${time} · ${fmt}</span></div>`;
 							}).join('')}
 						`).join('')}
 						<hr>
@@ -179,6 +195,7 @@
 				function showTooltip(el) {
 					const dt = el.getAttribute('data-datetime') || '';
 					const fmt = el.getAttribute('data-format') || '';
+					const showId = el.getAttribute('data-show-id');
 					const aud = el.getAttribute('data-auditorium') || '';
 					const sold = el.getAttribute('data-sold') === 'true';
 					const almost = el.getAttribute('data-almost') === 'true';
@@ -186,18 +203,26 @@
 					const attrs = el.getAttribute('data-attrs') || '';
 					const prices = el.getAttribute('data-prices') || '';
 
-					tooltip.innerHTML = `
-						<div><b>${new Date(dt).toLocaleString()}</b></div>
+					let html = `<div><b>${new Date(dt).toLocaleString()}</b></div>
 						<div style="margin-top:6px"><b>Format:</b> ${fmt}</div>
 						${aud? `<div><b>Auditorium:</b> ${aud}</div>`: ''}
 						${prices? `<div><b>Prices:</b> ${prices}</div>`: ''}
 						${attrs? `<div><b>Attributes:</b> ${attrs}</div>`: ''}
 						${sold? `<div style="color:#faa"><b>Sold out</b></div>`: (almost? `<div style="color:#ffb"><b>Almost sold out</b></div>`: '')}
-						${cancelled? `<div style="color:#888"><b>Cancelled</b></div>`: ''}
-					`;
+						${cancelled? `<div style="color:#888"><b>Cancelled</b></div>`: ''}`;
 
+					if(showId && !sold && !cancelled) {
+						fetch(`https://walzr.com/empty-screenings/fragments/seatmap/${showId}`)
+							.then(r=>r.text())
+							.then(seatmapHtml => {
+								tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${seatmapHtml}</div>`;
+							})
+							.catch(e=>console.log('Seatmap fetch failed'));
+					}
+
+					tooltip.innerHTML = html;
 					const r = el.getBoundingClientRect();
-					tooltip.style.left = Math.min(window.innerWidth - 220, Math.max(8, r.left)) + 'px';
+					tooltip.style.left = Math.min(window.innerWidth - 420, Math.max(8, r.left)) + 'px';
 					tooltip.style.top = (window.scrollY + r.bottom + 8) + 'px';
 					tooltip.style.display = 'block';
 				}
