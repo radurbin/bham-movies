@@ -164,6 +164,8 @@ class Movie:
     #
     showtimes: List[Showtime] = field(default_factory=list)
 
+    on_watchlist: bool = False
+
     #
     # Utility methods
     #

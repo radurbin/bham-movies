@@ -202,6 +202,55 @@ class MoviePipeline:
 
     # ---------------------------------------------------------
 
+    def fetch_watchlist(self):
+        """Fetch full watchlist from Letterboxd with pagination."""
+        import os
+        
+        print()
+        print("=" * 60)
+        print("Fetching Letterboxd watchlist")
+        print("=" * 60)
+        
+        username = os.getenv("LETTERBOXD_USERNAME")
+        if not username:
+            print("LETTERBOXD_USERNAME not set, skipping watchlist")
+            return set()
+        
+        watchlist = []
+        page = 1
+        
+        try:
+            from bs4 import BeautifulSoup
+            
+            while True:
+                url = f"https://letterboxd.com/{username}/watchlist/page/{page}/"
+                headers = {"User-Agent": "Mozilla/5.0"}
+                response = requests.get(url, headers=headers, timeout=30)
+                response.raise_for_status()
+                
+                soup = BeautifulSoup(response.content, 'html.parser')
+                films = soup.find_all('div', class_='film-poster')
+                
+                if not films:
+                    break
+                
+                for film in films:
+                    img = film.find('img')
+                    if img and img.get('alt'):
+                        watchlist.append(img['alt'].lower())
+                
+                print(f"Page {page}: {len(films)} movies (total: {len(watchlist)})")
+                page += 1
+            
+            print(f"Found {len(watchlist)} total movies in watchlist")
+            return set(watchlist)
+        
+        except Exception as ex:
+            print(f"Failed to fetch watchlist: {ex}")
+            return set()
+
+    # ---------------------------------------------------------
+
     @staticmethod
     def slugify(title: str):
 
@@ -547,19 +596,19 @@ class MoviePipeline:
 
         print(f"Removed {removed} stale poster(s).")
 
+    def mark_watchlist_movies(self, watchlist: set):
+        """Mark movies that are in the watchlist."""
+        for movie in self.movies:
+            movie.on_watchlist = movie.title.lower() in watchlist
 
     def build(self):
-
         self.fetch_movies()
-
+        watchlist = self.fetch_watchlist()
         self.enrich_movies()
-
+        self.mark_watchlist_movies(watchlist)
         self.download_posters()
-
         self.sort_movies()
-
         self.validate()
-
         self.write_json()
 
 # ============================================================
