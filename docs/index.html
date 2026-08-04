@@ -26,11 +26,13 @@
 			.seat--empty{background:#444}
 			.seat--available{background:#0f9}
 			.seat--booked{background:#f90}
-			.seat-row{display:flex;gap:2px;margin:2px 0;align-items:center}
 			.row-label{font-size:11px;width:15px;text-align:center}
 			.seat-line{display:flex;gap:2px}
-			.screen,.front-label{text-align:center;font-size:10px;margin:4px 0;color:#bbb}
-			.seat-legend{font-size:10px;margin-top:8px;padding:4px;text-align:center;color:#bbb}
+			.screen{text-align:center;font-size:10px;margin:4px 0;color:#bbb}
+			.front-label{text-align:left;font-size:10px;margin:4px 0;color:#bbb}
+			.seat-legend{font-size:10px;margin-top:8px;padding:4px;text-align:left;color:#bbb}
+			.seat-rows{display:flex;flex-direction:column}
+			.seat-row{display:flex;gap:2px;margin:2px 0;align-items:center;justify-content:flex-start}
 		</style>
 	</head>
 	<body>
@@ -57,6 +59,23 @@
 				// hide modal and remove any tooltips
 				MODAL.style.display = 'none';
 				document.querySelectorAll('.show-tooltip').forEach(el => el.remove());
+			}
+
+			const seatmapCache = {};
+
+			function getCachedSeatmap(showId, callback) {
+				const cached = seatmapCache[showId];
+				if(cached && Date.now() - cached.time < 300000) { // 5 minutes
+					callback(cached.html);
+					return;
+				}
+				fetch(`https://walzr.com/empty-screenings/fragments/seatmap/${showId}`)
+					.then(r=>r.text())
+					.then(seatmapHtml => {
+						seatmapCache[showId] = { html: seatmapHtml, time: Date.now() };
+						callback(seatmapHtml);
+					})
+					.catch(e=>console.log('Seatmap fetch failed'));
 			}
 
 			async function load() {
@@ -215,19 +234,16 @@
 					tooltip.style.display = 'block';
 
 					if(showId && !sold && !cancelled) {
-						fetch(`https://walzr.com/empty-screenings/fragments/seatmap/${showId}`)
-							.then(r=>r.text())
-							.then(seatmapHtml => {
-								const parser = new DOMParser();
-								const doc = parser.parseFromString(seatmapHtml, 'text/html');
-								doc.querySelector('.detail-close')?.remove();
-								doc.querySelector('.seat-caption')?.remove();
-								doc.querySelector('.screen')?.remove();
-								const cleaned = doc.querySelector('.seatmap').outerHTML;
-								tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${cleaned}</div>`;
-								positionTooltip(el);
-							})
-							.catch(e=>console.log('Seatmap fetch failed'));
+						getCachedSeatmap(showId, (seatmapHtml) => {
+							const parser = new DOMParser();
+							const doc = parser.parseFromString(seatmapHtml, 'text/html');
+							doc.querySelector('.detail-close')?.remove();
+							doc.querySelector('.seat-caption')?.remove();
+							doc.querySelector('.screen')?.remove();
+							const cleaned = doc.querySelector('.seatmap').outerHTML;
+							tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${cleaned}</div>`;
+							positionTooltip(el);
+						});
 					} else {
 						positionTooltip(el);
 					}
