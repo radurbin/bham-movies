@@ -233,18 +233,24 @@
 					tooltip.innerHTML = html;
 					tooltip.style.display = 'block';
 
-					if(showId && !sold && !cancelled && !el.dataset.seatmapFetched) {
-						el.dataset.seatmapFetched = 'true';
-						getCachedSeatmap(showId, (seatmapHtml) => {
-							const parser = new DOMParser();
-							const doc = parser.parseFromString(seatmapHtml, 'text/html');
-							doc.querySelector('.detail-close')?.remove();
-							doc.querySelector('.seat-caption')?.remove();
-							doc.querySelector('.screen')?.remove();
-							const cleaned = doc.querySelector('.seatmap').outerHTML;
-							tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${cleaned}</div>`;
+					if(showId && !sold && !cancelled) {
+						if(!el.dataset.seatmapFetched) {
+							el.dataset.seatmapFetched = 'true';
+							getCachedSeatmap(showId, (seatmapHtml) => {
+								const parser = new DOMParser();
+								const doc = parser.parseFromString(seatmapHtml, 'text/html');
+								doc.querySelector('.detail-close')?.remove();
+								doc.querySelector('.seat-caption')?.remove();
+								doc.querySelector('.screen')?.remove();
+								const cleaned = doc.querySelector('.seatmap').outerHTML;
+								el.dataset.seatmapHtml = cleaned;
+								tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${cleaned}</div>`;
+								positionTooltip(el);
+							});
+						} else {
+							tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${el.dataset.seatmapHtml}</div>`;
 							positionTooltip(el);
-						});
+						}
 					} else {
 						positionTooltip(el);
 					}
@@ -267,14 +273,7 @@
 				}
 
 				document.querySelectorAll('.show-badge').forEach(b => {
-					b.addEventListener('mouseenter', () => {
-						if(!b.dataset.seatmapLoaded) {
-							b.dataset.seatmapLoaded = 'true';
-							showTooltip(b);
-						} else {
-							showTooltip(b);
-						}
-					});
+					b.addEventListener('mouseenter', () => showTooltip(b));
 					b.addEventListener('mouseleave', hideTooltip);
 					b.addEventListener('click', (ev) => { ev.stopPropagation(); showTooltip(b); });
 				});
