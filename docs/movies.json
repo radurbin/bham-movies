@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-08-04T21:41:25.074714",
-    "movie_count": 84,
-    "showtime_count": 2541,
+    "generated_at": "2026-08-04T23:04:41.274307",
+    "movie_count": 87,
+    "showtime_count": 2603,
     "theaters": {
       "AMC Patton Creek 15": 1059,
       "AMC Summit 16": 944,
-      "AMC Vestavia Hills 10": 529,
-      "Sidewalk Film Center Cinema": 9
+      "AMC Vestavia Hills 10": 558,
+      "Sidewalk Film Center Cinema": 42
     }
   },
   "movies": [
@@ -1117,6 +1117,66 @@
               "tax": 1.43
             }
           ]
+        }
+      ]
+    },
+    {
+      "sort_index": "bad movie night",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Bad Movie Night",
+      "release_year": 2018,
+      "runtime": null,
+      "rating": null,
+      "genres": [
+        "Comedy"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWE1NWUyZWUtODliYi00YzdhLWJlNzMtZWQxYTlkZTI0OGIzXkEyXkFqcGdeQXVyMjM3OTcyNjM@._V1_SX300.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [
+        "N/A"
+      ],
+      "writers": [
+        "David Greyson"
+      ],
+      "actors": [
+        "Alec Brown",
+        "Kyle Brown",
+        "David Greyson"
+      ],
+      "imdb_id": "tt8923566",
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": "N/A",
+      "language": "English",
+      "country": "USA",
+      "box_office": null,
+      "website": null,
+      "movie_url": null,
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-12T20:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=126653&d=2026-08-12",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         }
       ]
     },
@@ -2515,6 +2575,254 @@
               "tax": 1.43
             }
           ]
+        }
+      ]
+    },
+    {
+      "sort_index": "catvideofest 2026",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "CatVideoFest 2026",
+      "release_year": 2026,
+      "runtime": "PT01H10M",
+      "rating": null,
+      "genres": [
+        "Family"
+      ],
+      "poster": "posters/catvideofest-2026-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Oscilloscope Laboratories presents a compilation of the latest and best cat videos culled from countless hours of unique submissions and sourced animations, music videos, and classic internet powerhouses.",
+      "directors": [
+        "Will Braden"
+      ],
+      "writers": [
+        "N/A"
+      ],
+      "actors": [
+        "A Bunch of Cats"
+      ],
+      "imdb_id": "tt39676060",
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": "N/A",
+      "language": "English",
+      "country": "United States",
+      "box_office": "N/A",
+      "website": null,
+      "movie_url": null,
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-07T14:15",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-07",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-07T16:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-07",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-07T17:45",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-07",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T10:30",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T12:15",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T16:30",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T18:15",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-09T10:30",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-09",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-09T12:15",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-09",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-09T16:15",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-09",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-12T16:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=330092&d=2026-08-12",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         }
       ]
     },
@@ -5885,6 +6193,238 @@
               "tax": 1.3
             }
           ]
+        }
+      ]
+    },
+    {
+      "sort_index": "gail daughtry and the celebrity sex pass",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Gail Daughtry and the Celebrity Sex Pass",
+      "release_year": 2026,
+      "runtime": "PT01H34M",
+      "rating": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "poster": "posters/gail-daughtry-and-the-celebrity-sex-pass-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "When her fiancé uses their \"celebrity pass\" agreement, Midwest bride Gail Daughtry travels to Hollywood seeking revenge by pursuing her own celebrity encounter.",
+      "directors": [
+        "David Wain"
+      ],
+      "writers": [
+        "Ken Marino",
+        "David Wain"
+      ],
+      "actors": [
+        "Zoey Deutch",
+        "Jon Hamm",
+        "Kerri Kenney"
+      ],
+      "imdb_id": "tt36834010",
+      "imdb_rating": "6.4",
+      "imdb_votes": "448",
+      "rotten_tomatoes": null,
+      "metacritic": "68/100",
+      "awards": "N/A",
+      "language": "English",
+      "country": "United States",
+      "box_office": "N/A",
+      "website": null,
+      "movie_url": null,
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-07T19:30",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=327504&d=2026-08-07",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-07T21:45",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=327504&d=2026-08-07",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T14:15",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=327504&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T20:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=327504&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T22:15",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=327504&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-09T14:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=327504&d=2026-08-09",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-09T18:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=327504&d=2026-08-09",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-09T20:15",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=327504&d=2026-08-09",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-12T14:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=327504&d=2026-08-12",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-12T17:45",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=327504&d=2026-08-12",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         }
       ]
     },
@@ -18847,6 +19387,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856681,
+          "datetime": "2026-08-06T09:05:00",
+          "datetime_utc": "2026-08-06T14:05:00Z",
+          "auditorium": 2,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856681",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830750,
@@ -18922,6 +19503,47 @@
               "type": "SENIOR",
               "price": 17.29,
               "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856691,
+          "datetime": "2026-08-06T11:20:00",
+          "datetime_utc": "2026-08-06T16:20:00Z",
+          "auditorium": 6,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856691",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
             }
           ]
         },
@@ -22632,6 +23254,48 @@
               "type": "SENIOR",
               "price": 11.82,
               "tax": 1.03
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856700,
+          "datetime": "2026-08-06T10:15:00",
+          "datetime_utc": "2026-08-06T15:15:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856700",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
             }
           ]
         },
@@ -37467,7 +38131,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-04/summit/all/145557471",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -37912,7 +38576,7 @@
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-04/summit/all/145557303",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -38035,7 +38699,7 @@
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-04/summit/all/144262482",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -42220,6 +42884,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856685,
+          "datetime": "2026-08-06T09:30:00",
+          "datetime_utc": "2026-08-06T14:30:00Z",
+          "auditorium": 3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856685",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.01,
+              "tax": 1.82
+            },
+            {
+              "type": "CHILD",
+              "price": 17.37,
+              "tax": 1.58
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.69,
+              "tax": 1.7
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830635,
@@ -42300,6 +43006,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856704,
+          "datetime": "2026-08-06T10:00:00",
+          "datetime_utc": "2026-08-06T15:00:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856704",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830694,
@@ -42374,6 +43121,47 @@
               "type": "SENIOR",
               "price": 11.82,
               "tax": 1.03
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856690,
+          "datetime": "2026-08-06T10:45:00",
+          "datetime_utc": "2026-08-06T15:45:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856690",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
             }
           ]
         },
@@ -42699,6 +43487,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856708,
+          "datetime": "2026-08-06T12:00:00",
+          "datetime_utc": "2026-08-06T17:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856708",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830818,
@@ -42862,6 +43691,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856684,
+          "datetime": "2026-08-06T13:00:00",
+          "datetime_utc": "2026-08-06T18:00:00Z",
+          "auditorium": 3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856684",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.01,
+              "tax": 1.82
+            },
+            {
+              "type": "CHILD",
+              "price": 17.37,
+              "tax": 1.58
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.69,
+              "tax": 1.7
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145561530,
@@ -42896,6 +43767,47 @@
               "type": "SENIOR",
               "price": 11.82,
               "tax": 1.03
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856703,
+          "datetime": "2026-08-06T13:30:00",
+          "datetime_utc": "2026-08-06T18:30:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856703",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
             }
           ]
         },
@@ -43339,6 +44251,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856707,
+          "datetime": "2026-08-06T15:30:00",
+          "datetime_utc": "2026-08-06T20:30:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856707",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830817,
@@ -43438,6 +44391,48 @@
             "Audio Description",
             "Dine-In Delivery to Seat",
             "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 23.64,
+              "tax": 2.15
+            },
+            {
+              "type": "CHILD",
+              "price": 20.34,
+              "tax": 1.85
+            },
+            {
+              "type": "SENIOR",
+              "price": 21.99,
+              "tax": 2.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856683,
+          "datetime": "2026-08-06T16:30:00",
+          "datetime_utc": "2026-08-06T21:30:00Z",
+          "auditorium": 3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856683",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
             "Reserved Seating"
           ],
           "ticket_prices": [
@@ -43576,6 +44571,47 @@
               "type": "SENIOR",
               "price": 20.25,
               "tax": 1.76
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856702,
+          "datetime": "2026-08-06T17:00:00",
+          "datetime_utc": "2026-08-06T22:00:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856702",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
             }
           ]
         },
@@ -43900,6 +44936,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856705,
+          "datetime": "2026-08-06T19:00:00",
+          "datetime_utc": "2026-08-07T00:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856705",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830816,
@@ -43999,6 +45076,48 @@
             "Audio Description",
             "Dine-In Delivery to Seat",
             "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 23.64,
+              "tax": 2.15
+            },
+            {
+              "type": "CHILD",
+              "price": 20.34,
+              "tax": 1.85
+            },
+            {
+              "type": "SENIOR",
+              "price": 21.99,
+              "tax": 2.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856682,
+          "datetime": "2026-08-06T20:00:00",
+          "datetime_utc": "2026-08-07T01:00:00Z",
+          "auditorium": 3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856682",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
             "Reserved Seating"
           ],
           "ticket_prices": [
@@ -44137,6 +45256,47 @@
               "type": "SENIOR",
               "price": 20.25,
               "tax": 1.76
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856701,
+          "datetime": "2026-08-06T20:30:00",
+          "datetime_utc": "2026-08-07T01:30:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856701",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
             }
           ]
         },
@@ -44497,6 +45657,47 @@
               "type": "SENIOR",
               "price": 21.44,
               "tax": 1.95
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856706,
+          "datetime": "2026-08-06T22:30:00",
+          "datetime_utc": "2026-08-07T03:30:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856706",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
             }
           ]
         },
@@ -86878,6 +88079,90 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856686,
+          "datetime": "2026-08-06T10:20:00",
+          "datetime_utc": "2026-08-06T15:20:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856686",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856693,
+          "datetime": "2026-08-06T11:15:00",
+          "datetime_utc": "2026-08-06T16:15:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856693",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830875,
@@ -87059,6 +88344,90 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856689,
+          "datetime": "2026-08-06T14:20:00",
+          "datetime_utc": "2026-08-06T19:20:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856689",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856692,
+          "datetime": "2026-08-06T15:15:00",
+          "datetime_utc": "2026-08-06T20:15:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856692",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830636,
@@ -87199,6 +88568,90 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856687,
+          "datetime": "2026-08-06T18:15:00",
+          "datetime_utc": "2026-08-06T23:15:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856687",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856694,
+          "datetime": "2026-08-06T19:10:00",
+          "datetime_utc": "2026-08-07T00:10:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856694",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830719,
@@ -87320,6 +88773,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856698,
+          "datetime": "2026-08-06T21:30:00",
+          "datetime_utc": "2026-08-07T02:30:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856698",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830848,
@@ -87356,6 +88851,48 @@
               "type": "SENIOR",
               "price": 15.94,
               "tax": 1.45
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856688,
+          "datetime": "2026-08-06T22:10:00",
+          "datetime_utc": "2026-08-07T03:10:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856688",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
             }
           ]
         },
@@ -87684,6 +89221,25 @@
           ]
         },
         {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-07T14:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-07",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
@@ -87927,6 +89483,25 @@
               "tax": 1.28
             }
           ]
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-07T17:30",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-07",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         },
         {
           "source": "AMC",
@@ -88212,6 +89787,25 @@
               "tax": 1.28
             }
           ]
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-07T21:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-07",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         },
         {
           "source": "AMC",
@@ -88584,6 +90178,25 @@
           ]
         },
         {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T11:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
@@ -88783,6 +90396,25 @@
               "tax": 1.16
             }
           ]
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T14:30",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         },
         {
           "source": "AMC",
@@ -88987,6 +90619,25 @@
               "tax": 1.5
             }
           ]
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T18:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         },
         {
           "source": "AMC",
@@ -89272,6 +90923,25 @@
               "tax": 1.5
             }
           ]
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-08T21:30",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-08",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         },
         {
           "source": "AMC",
@@ -89602,6 +91272,25 @@
           ]
         },
         {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-09T10:45",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-09",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
@@ -89801,6 +91490,25 @@
               "tax": 1.16
             }
           ]
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-09T14:15",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-09",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         },
         {
           "source": "AMC",
@@ -92453,6 +94161,25 @@
           ]
         },
         {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-12T14:15",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-12",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
@@ -92656,6 +94383,25 @@
               "tax": 1.28
             }
           ]
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center Cinema",
+          "showtime_id": 0,
+          "datetime": "2026-08-12T18:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "http://www.fandango.com/tms.asp?t=AAYQJ&m=286384&d=2026-08-12",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         },
         {
           "source": "AMC",
@@ -100775,6 +102521,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856709,
+          "datetime": "2026-08-06T09:10:00",
+          "datetime_utc": "2026-08-06T14:10:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856709",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145561441,
@@ -100892,6 +102680,48 @@
               "type": "SENIOR",
               "price": 11.82,
               "tax": 1.03
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856697,
+          "datetime": "2026-08-06T13:15:00",
+          "datetime_utc": "2026-08-06T18:15:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856697",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.51,
+              "tax": 1.32
+            },
+            {
+              "type": "CHILD",
+              "price": 11.87,
+              "tax": 1.08
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.19,
+              "tax": 1.2
             }
           ]
         },
@@ -101019,6 +102849,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856696,
+          "datetime": "2026-08-06T16:00:00",
+          "datetime_utc": "2026-08-06T21:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856696",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830722,
@@ -101100,6 +102972,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856699,
+          "datetime": "2026-08-06T18:45:00",
+          "datetime_utc": "2026-08-06T23:45:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856699",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145830785,
@@ -101176,6 +103090,48 @@
               "type": "SENIOR",
               "price": 14.77,
               "tax": 1.28
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 145856695,
+          "datetime": "2026-08-06T23:00:00",
+          "datetime_utc": "2026-08-07T04:00:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-06/vestaviahills/all/145856695",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.14,
+              "tax": 1.65
+            },
+            {
+              "type": "CHILD",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.49,
+              "tax": 1.5
             }
           ]
         },
