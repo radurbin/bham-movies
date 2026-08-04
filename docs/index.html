@@ -33,9 +33,6 @@
 			.seat-legend{font-size:10px;margin-top:8px;padding:4px;text-align:left;color:#bbb}
 			.seat-rows{display:flex;flex-direction:column}
 			.seat-row{display:flex;gap:2px;margin:2px 0;align-items:center;justify-content:flex-start}
-			div.on-watchlist h1{color:#0f9}
-			div.on-watchlist{border-left:4px solid #0f9;padding-left:14px}
-			.poster.on-watchlist{border:2px solid #0f9}
 		</style>
 	</head>
 	<body>
@@ -159,15 +156,14 @@
 								const hasPoster = movie.poster && movie.poster !== 'None' && movie.poster !== 'null';
 
 								let el;
-								const watchlistClass = movie.on_watchlist ? ' on-watchlist' : '';
 								if (hasPoster) {
 									el = document.createElement('img');
-									el.className = `poster${watchlistClass}`;
+									el.className = 'poster';
 									el.src = movie.poster;
 									el.alt = movie.title;
 									el.onerror = () => {
 										const f = document.createElement('div');
-										f.className = `poster poster-fallback${watchlistClass}`;
+										f.className = 'poster poster-fallback';
 										f.textContent = movie.title;
 										f.title = movie.title;
 										f.onclick = () => openMovie(movie, shows);
@@ -175,7 +171,7 @@
 									};
 								} else {
 									el = document.createElement('div');
-									el.className = `poster poster-fallback${watchlistClass}`;
+									el.className = 'poster poster-fallback';
 									el.textContent = movie.title;
 									el.title = movie.title;
 								}
@@ -189,7 +185,6 @@
 					}
 				}
 			}
-
 			function openMovie(movie, shows) {
 				// Group shows by theater
 				const groups = {};
@@ -201,11 +196,9 @@
 
 				const posterHtml = movie.poster ? `<img style="width:220px;border-radius:6px" src="${movie.poster}" alt="${movie.title}">` : `<div class='poster poster-fallback' style='width:220px;height:330px'>${movie.title}</div>`;
 
-				const watchlistClass = movie.on_watchlist ? ' on-watchlist' : '';
-
 				CONTENT.innerHTML = `
 					<div>${posterHtml}</div>
-					<div${watchlistClass}>
+					<div>
 						<button onclick="closeModal()" style="float:right">✕</button>
 						<h1>${movie.title}</h1>
 						<div>

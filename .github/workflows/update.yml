@@ -39,7 +39,6 @@ jobs:
           AMC_API_KEY: ${{ secrets.AMC_API_KEY }}
           OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
           TMS_API_KEY: ${{ secrets.TMS_API_KEY }}
-          LETTERBOXD_USERNAME: ${{ secrets.LETTERBOXD_USERNAME }}
         run: |
           python fetch_movies.py
 
