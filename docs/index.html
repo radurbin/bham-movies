@@ -35,6 +35,7 @@
 			.seat-row{display:flex;gap:2px;margin:2px 0;align-items:center;justify-content:flex-start}
 			div.on-watchlist h1{color:#0f9}
 			div.on-watchlist{border-left:4px solid #0f9;padding-left:14px}
+			.poster.on-watchlist{border:2px solid #0f9}
 		</style>
 	</head>
 	<body>
@@ -158,14 +159,15 @@
 								const hasPoster = movie.poster && movie.poster !== 'None' && movie.poster !== 'null';
 
 								let el;
+								const watchlistClass = movie.on_watchlist ? ' on-watchlist' : '';
 								if (hasPoster) {
 									el = document.createElement('img');
-									el.className = 'poster';
+									el.className = `poster${watchlistClass}`;
 									el.src = movie.poster;
 									el.alt = movie.title;
 									el.onerror = () => {
 										const f = document.createElement('div');
-										f.className = 'poster poster-fallback';
+										f.className = `poster poster-fallback${watchlistClass}`;
 										f.textContent = movie.title;
 										f.title = movie.title;
 										f.onclick = () => openMovie(movie, shows);
@@ -173,7 +175,7 @@
 									};
 								} else {
 									el = document.createElement('div');
-									el.className = 'poster poster-fallback';
+									el.className = `poster poster-fallback${watchlistClass}`;
 									el.textContent = movie.title;
 									el.title = movie.title;
 								}
