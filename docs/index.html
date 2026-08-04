@@ -69,7 +69,7 @@
 					callback(cached.html);
 					return;
 				}
-				const proxyUrl = `https://api.allorigins.win/raw?url=https://walzr.com/empty-screenings/fragments/seatmap/${showId}`;
+				const proxyUrl = `https://patient-haze-05d5.rileydurbin.workers.dev/${showId}`;
 				fetch(proxyUrl)
 					.then(r=>r.text())
 					.then(seatmapHtml => {
