@@ -65,11 +65,12 @@
 
 			function getCachedSeatmap(showId, callback) {
 				const cached = seatmapCache[showId];
-				if(cached && Date.now() - cached.time < 300000) { // 5 minutes
+				if(cached && Date.now() - cached.time < 300000) {
 					callback(cached.html);
 					return;
 				}
-				fetch(`https://walzr.com/empty-screenings/fragments/seatmap/${showId}`)
+				const proxyUrl = `https://cors-anywhere.herokuapp.com/https://walzr.com/empty-screenings/fragments/seatmap/${showId}`;
+				fetch(proxyUrl)
 					.then(r=>r.text())
 					.then(seatmapHtml => {
 						seatmapCache[showId] = { html: seatmapHtml, time: Date.now() };
