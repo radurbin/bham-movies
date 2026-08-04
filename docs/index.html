@@ -115,52 +115,77 @@
 				GRID.innerHTML = '';
 
 				const sortedDates = Object.keys(days).sort();
+				if(sortedDates.length === 0) return;
 
-				for (const d of sortedDates) {
-					const cell = document.createElement('div');
-					cell.className = 'day';
-					const dateObj = new Date(d + 'T12:00:00');
-					cell.innerHTML = `<div class="date">${dateObj.toDateString()}</div><div class="posters"></div>`;
-					const posters = cell.querySelector('.posters');
+				const firstDate = new Date(sortedDates[0] + 'T12:00:00');
+				const lastDate = new Date(sortedDates[sortedDates.length - 1] + 'T12:00:00');
 
-				const sortedEntries = Object.values(days[d]).sort((a, b) => b.shows.length - a.shows.length);
+				// Find the most recent Friday on or before the first date
+				const dayOfWeek = firstDate.getDay();
+				const daysUntilFriday = (dayOfWeek === 5) ? 0 : (dayOfWeek > 5) ? dayOfWeek - 5 : dayOfWeek + 2;
+				const startDate = new Date(firstDate);
+				startDate.setDate(startDate.getDate() - daysUntilFriday);
 
-				for (const entry of sortedEntries) {
-						const movie = entry.movie;
-						const shows = entry.shows;
+				// Generate all dates from start Friday to end date
+				const allDates = [];
+				let current = new Date(startDate);
+				while(current <= lastDate) {
+					const dateStr = current.toISOString().slice(0, 10);
+					allDates.push(dateStr);
+					current.setDate(current.getDate() + 1);
+				}
 
-						const hasPoster = movie.poster && movie.poster !== 'None' && movie.poster !== 'null';
+				// Render in rows of 7
+				for(let i = 0; i < allDates.length; i += 7) {
+					const week = allDates.slice(i, i + 7);
+					
+					for(const d of week) {
+						const cell = document.createElement('div');
+						cell.className = 'day';
+						const dateObj = new Date(d + 'T12:00:00');
+						cell.innerHTML = `<div class="date">${dateObj.toDateString()}</div><div class="posters"></div>`;
+						const posters = cell.querySelector('.posters');
 
-						let el;
-						if (hasPoster) {
-							el = document.createElement('img');
-							el.className = 'poster';
-							el.src = movie.poster; // posters are relative to this index.html
-							el.alt = movie.title;
-							el.onerror = () => {
-								const f = document.createElement('div');
-								f.className = 'poster poster-fallback';
-								f.textContent = movie.title;
-								f.title = movie.title;
-								f.onclick = () => openMovie(movie, shows);
-								el.replaceWith(f);
-							};
-						} else {
-							el = document.createElement('div');
-							el.className = 'poster poster-fallback';
-							el.textContent = movie.title;
-							el.title = movie.title;
+						if(days[d]) {
+							const sortedEntries = Object.values(days[d]).sort((a, b) => b.shows.length - a.shows.length);
+
+							for (const entry of sortedEntries) {
+								const movie = entry.movie;
+								const shows = entry.shows;
+
+								const hasPoster = movie.poster && movie.poster !== 'None' && movie.poster !== 'null';
+
+								let el;
+								if (hasPoster) {
+									el = document.createElement('img');
+									el.className = 'poster';
+									el.src = movie.poster;
+									el.alt = movie.title;
+									el.onerror = () => {
+										const f = document.createElement('div');
+										f.className = 'poster poster-fallback';
+										f.textContent = movie.title;
+										f.title = movie.title;
+										f.onclick = () => openMovie(movie, shows);
+										el.replaceWith(f);
+									};
+								} else {
+									el = document.createElement('div');
+									el.className = 'poster poster-fallback';
+									el.textContent = movie.title;
+									el.title = movie.title;
+								}
+
+								el.onclick = () => openMovie(movie, shows);
+								posters.appendChild(el);
+							}
 						}
 
-						el.onclick = () => openMovie(movie, shows);
-
-						posters.appendChild(el);
+						GRID.appendChild(cell);
 					}
-
-					GRID.appendChild(cell);
 				}
 			}
-
+			
 			function openMovie(movie, shows) {
 				// Group shows by theater
 				const groups = {};
