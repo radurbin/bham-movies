@@ -69,7 +69,7 @@
 					callback(cached.html);
 					return;
 				}
-				const proxyUrl = `https://cors-anywhere.herokuapp.com/https://walzr.com/empty-screenings/fragments/seatmap/${showId}`;
+				const proxyUrl = `https://api.allorigins.win/raw?url=https://walzr.com/empty-screenings/fragments/seatmap/${showId}`;
 				fetch(proxyUrl)
 					.then(r=>r.text())
 					.then(seatmapHtml => {
