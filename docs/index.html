@@ -211,22 +211,40 @@
 						${sold? `<div style="color:#faa"><b>Sold out</b></div>`: (almost? `<div style="color:#ffb"><b>Almost sold out</b></div>`: '')}
 						${cancelled? `<div style="color:#888"><b>Cancelled</b></div>`: ''}`;
 
+					tooltip.innerHTML = html;
+					tooltip.style.display = 'block';
+
 					if(showId && !sold && !cancelled) {
 						fetch(`https://walzr.com/empty-screenings/fragments/seatmap/${showId}`)
 							.then(r=>r.text())
 							.then(seatmapHtml => {
-								tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${seatmapHtml}</div>`;
+								const parser = new DOMParser();
+								const doc = parser.parseFromString(seatmapHtml, 'text/html');
+								doc.querySelector('.detail-close')?.remove();
+								doc.querySelector('.seat-caption')?.remove();
+								doc.querySelector('.screen')?.remove();
+								const cleaned = doc.querySelector('.seatmap').outerHTML;
+								tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${cleaned}</div>`;
+								positionTooltip(el);
 							})
 							.catch(e=>console.log('Seatmap fetch failed'));
+					} else {
+						positionTooltip(el);
 					}
-
-					tooltip.innerHTML = html;
-					const r = el.getBoundingClientRect();
-					tooltip.style.left = Math.min(window.innerWidth - 420, Math.max(8, r.left)) + 'px';
-					tooltip.style.top = (window.scrollY + r.bottom + 8) + 'px';
-					tooltip.style.display = 'block';
 				}
 
+				function positionTooltip(el) {
+					const r = el.getBoundingClientRect();
+					const tooltipHeight = tooltip.offsetHeight;
+					let top = window.scrollY + r.bottom + 8;
+					
+					if(top + tooltipHeight > window.innerHeight + window.scrollY) {
+						top = window.scrollY + r.top - tooltipHeight - 8;
+					}
+					
+					tooltip.style.left = Math.min(window.innerWidth - 420, Math.max(8, r.left)) + 'px';
+					tooltip.style.top = top + 'px';
+				}
 				function hideTooltip() {
 					tooltip.style.display = 'none';
 				}
