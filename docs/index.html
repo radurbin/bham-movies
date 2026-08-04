@@ -114,33 +114,17 @@
 				GRID.innerHTML = '';
 
 				const sortedDates = Object.keys(days).sort();
-				const dayLabels = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
-				for (let i = 0; i < sortedDates.length; i++) {
-					if(i % 7 === 0) {
-						const row = document.createElement('div');
-						row.style.display = 'contents';
-						GRID.appendChild(row);
-					}
-
-					const d = sortedDates[i];
-					const dateObj = new Date(d + 'T12:00:00');
-					const dayOfWeek = dateObj.getDay();
-					const offset = (dayOfWeek - 5 + 7) % 7; // Friday = 0
-					
-					for(let j = 0; j < offset; j++) {
-						const spacer = document.createElement('div');
-						GRID.appendChild(spacer);
-					}
-
+				for (const d of sortedDates) {
 					const cell = document.createElement('div');
 					cell.className = 'day';
+					const dateObj = new Date(d + 'T12:00:00');
 					cell.innerHTML = `<div class="date">${dateObj.toDateString()}</div><div class="posters"></div>`;
 					const posters = cell.querySelector('.posters');
 
-					const sortedEntries = Object.values(days[d]).sort((a, b) => b.shows.length - a.shows.length);
+				const sortedEntries = Object.values(days[d]).sort((a, b) => b.shows.length - a.shows.length);
 
-					for (const entry of sortedEntries) {
+				for (const entry of sortedEntries) {
 						const movie = entry.movie;
 						const shows = entry.shows;
 
