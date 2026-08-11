@@ -41,8 +41,8 @@
 	<body>
 		<header>
 			<span id="status" style="margin-left:12px"></span>
-			<div id="filters"></div>
 		</header>
+		<div id="filters"></div>
 
 		<main>
 			<div id="grid"></div>
@@ -117,6 +117,14 @@
 				document.querySelectorAll('.show-badge').forEach(badge => {
 					const fmt = badge.getAttribute('data-format') || 'Standard';
 					badge.style.display = activeFilters.has(fmt) ? 'none' : 'inline-block';
+				});
+				
+				// Hide movie theaters/groups if all their showtimes are filtered
+				document.querySelectorAll('h3').forEach(theater => {
+					const badges = theater.nextElementSibling?.querySelectorAll('.show-badge') || [];
+					const hasVisible = Array.from(badges).some(b => b.style.display !== 'none');
+					theater.style.display = hasVisible ? 'block' : 'none';
+					if(theater.nextElementSibling) theater.nextElementSibling.style.display = hasVisible ? 'block' : 'none';
 				});
 			}
 
