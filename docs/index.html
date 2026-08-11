@@ -33,11 +33,15 @@
 			.seat-legend{font-size:10px;margin-top:8px;padding:4px;text-align:left;color:#bbb}
 			.seat-rows{display:flex;flex-direction:column}
 			.seat-row{display:flex;gap:2px;margin:2px 0;align-items:center;justify-content:flex-start}
+			#filters{padding:12px;background:#181818;display:flex;gap:8px;flex-wrap:wrap}
+			.filter-btn{padding:6px 12px;border:1px solid #444;background:#2a2a2a;color:#eee;border-radius:6px;cursor:pointer}
+			.filter-btn.active{background:#2a6bf6;border-color:#2a6bf6}
 		</style>
 	</head>
 	<body>
 		<header>
 			<span id="status" style="margin-left:12px"></span>
+			<div id="filters"></div>
 		</header>
 
 		<main>
@@ -79,6 +83,43 @@
 					.catch(e=>console.log('Seatmap fetch failed'));
 			}
 
+			const activeFilters = new Set();
+
+			function buildFilters(movies) {
+				const formatsSet = new Set();
+				for (const movie of movies) {
+					for (const show of movie.showtimes || []) {
+						if (show.premium_format) formatsSet.add(show.premium_format);
+					}
+				}
+				
+				const filtersDiv = document.getElementById('filters');
+				filtersDiv.innerHTML = '';
+				
+				['Standard', ...Array.from(formatsSet).sort()].forEach(format => {
+					const btn = document.createElement('button');
+					btn.className = 'filter-btn active';
+					btn.textContent = format;
+					btn.onclick = () => {
+						btn.classList.toggle('active');
+						if(btn.classList.contains('active')) {
+							activeFilters.delete(format);
+						} else {
+							activeFilters.add(format);
+						}
+						filterShows();
+					};
+					filtersDiv.appendChild(btn);
+				});
+			}
+
+			function filterShows() {
+				document.querySelectorAll('.show-badge').forEach(badge => {
+					const fmt = badge.getAttribute('data-format') || 'Standard';
+					badge.style.display = activeFilters.has(fmt) ? 'none' : 'inline-block';
+				});
+			}
+
 			async function load() {
 				STATUS.textContent = 'Loading...';
 
@@ -103,6 +144,7 @@
 					}
 
 					render(days);
+					buildFilters(movies);
 					STATUS.textContent = `${data.metadata?.showtime_count || 0} showtimes, ${data.metadata?.movie_count || movies.length} movies`;
 
 				} catch (err) {
