@@ -115,22 +115,20 @@
 				document.querySelectorAll('.filter-btn.active').forEach(btn => {
 					activeFormats.add(btn.dataset.format);
 				});
-				
-				// For each movie poster in grid, check if it has any showtime matching active filters
-				document.querySelectorAll('.posters').forEach(posterDiv => {
-					const movieEls = posterDiv.querySelectorAll('[data-movie-title]');
-					movieEls.forEach(el => {
-						const title = el.dataset.movieTitle;
-						const movie = allMovies.find(m => m.title === title);
-						
-						if(movie) {
-							const hasMatchingShow = movie.showtimes.some(show => {
-								const fmt = show.premium_format || 'Standard';
-								return activeFormats.has(fmt);
-							});
-							el.style.display = hasMatchingShow ? 'block' : 'none';
-						}
-					});
+
+				document.querySelectorAll('[data-movie-title]').forEach(el => {
+					const title = el.dataset.movieTitle;
+					const date = el.dataset.movieDate;
+					const movie = allMovies.find(m => m.title === title);
+
+					if(movie) {
+						const hasMatchingShow = movie.showtimes.some(show => {
+							const showDate = (show.datetime || '').slice(0, 10);
+							const fmt = show.premium_format || 'Standard';
+							return showDate === date && activeFormats.has(fmt);
+						});
+						el.style.display = hasMatchingShow ? 'block' : 'none';
+					}
 				});
 			}
 
@@ -234,6 +232,7 @@
 
 								el.onclick = () => openMovie(movie, shows);
 								el.dataset.movieTitle = movie.title;
+								el.dataset.movieDate = d; // Add this line
 								posters.appendChild(el);
 							}
 						}
