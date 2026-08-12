@@ -42,6 +42,8 @@ from fetchers.sidewalk import SidewalkFetcher
 
 from models import Movie
 
+from zoneinfo import ZoneInfo
+
 
 POSTERS_DIR = DOCS_DIR / "posters"
 
@@ -547,6 +549,150 @@ class MoviePipeline:
 
         print(f"Removed {removed} stale poster(s).")
 
+    def build_changelog_entry(self):
+        """
+        Compare the previous movies.json against the new data and
+        build a summary of added/removed movies and showtimes.
+        """
+
+        old_movies = {}
+
+        if MOVIES_JSON.exists():
+            try:
+                with open(MOVIES_JSON, "r", encoding="utf-8") as f:
+                    old_payload = json.load(f)
+                for m in old_payload.get("movies", []):
+                    key = f"{m.get('title')}::{m.get('release_year')}"
+                    old_movies[key] = m
+            except Exception as ex:
+                print("Failed to read previous movies.json:", ex)
+
+        new_movies = {}
+        for movie in self.movies:
+            key = f"{movie.title}::{movie.release_year}"
+            new_movies[key] = movie.to_dict()
+
+        old_keys = set(old_movies.keys())
+        new_keys = set(new_movies.keys())
+
+        added_movies = sorted(new_keys - old_keys)
+        removed_movies = sorted(old_keys - new_keys)
+
+        def showtime_set(movie_dict):
+            s = set()
+            for st in movie_dict.get("showtimes", []):
+                s.add((
+                    st.get("theater"),
+                    st.get("datetime"),
+                    st.get("premium_format"),
+                ))
+            return s
+
+        showtime_changes = []
+
+        for key in old_keys & new_keys:
+            old_st = showtime_set(old_movies[key])
+            new_st = showtime_set(new_movies[key])
+
+            added = new_st - old_st
+            removed = old_st - new_st
+
+            if added or removed:
+                title = new_movies[key].get("title")
+                showtime_changes.append({
+                    "title": title,
+                    "added": [
+                        {"theater": t, "datetime": d, "format": f}
+                        for (t, d, f) in sorted(added, key=lambda x: (x[1] or ""))
+                    ],
+                    "removed": [
+                        {"theater": t, "datetime": d, "format": f}
+                        for (t, d, f) in sorted(removed, key=lambda x: (x[1] or ""))
+                    ],
+                })
+
+        entry = {
+            "date": datetime.now(ZoneInfo("America/Chicago")).strftime("%Y-%m-%d %I:%M %p %Z"),
+            "movies_added": [new_movies[k]["title"] for k in added_movies],
+            "movies_removed": [old_movies[k]["title"] for k in removed_movies],
+            "showtime_changes": showtime_changes,
+        }
+
+        return entry
+
+    # ---------------------------------------------------------
+
+    def write_changelog(self, entry: dict):
+        """
+        Append the changelog entry to a running JSON log and a
+        human-readable markdown log.
+        """
+
+        print()
+        print("=" * 60)
+        print("Writing changelog")
+        print("=" * 60)
+
+        changelog_json_path = DOCS_DIR / "changelog.json"
+        changelog_md_path = DOCS_DIR / "CHANGELOG.md"
+
+        # --- JSON log (structured, easy to consume from the frontend) ---
+        history = []
+        if changelog_json_path.exists():
+            try:
+                with open(changelog_json_path, "r", encoding="utf-8") as f:
+                    history = json.load(f)
+            except Exception:
+                history = []
+
+        history.append(entry)
+
+        # Keep the last 90 days of entries to prevent unbounded growth
+        history = history[-90:]
+
+        with open(changelog_json_path, "w", encoding="utf-8") as f:
+            json.dump(history, f, indent=2, ensure_ascii=False)
+
+        # --- Markdown log (human readable) ---
+        lines = [f"## {entry['date']}", ""]
+
+        if entry["movies_added"]:
+            lines.append("**Movies added:**")
+            for title in entry["movies_added"]:
+                lines.append(f"- {title}")
+            lines.append("")
+
+        if entry["movies_removed"]:
+            lines.append("**Movies removed:**")
+            for title in entry["movies_removed"]:
+                lines.append(f"- {title}")
+            lines.append("")
+
+        if entry["showtime_changes"]:
+            lines.append("**Showtime changes:**")
+            for change in entry["showtime_changes"]:
+                lines.append(f"- {change['title']}")
+                for st in change["added"]:
+                    lines.append(f"  - + {st['theater']} @ {st['datetime']} ({st['format']})")
+                for st in change["removed"]:
+                    lines.append(f"  - − {st['theater']} @ {st['datetime']} ({st['format']})")
+            lines.append("")
+
+        if not (entry["movies_added"] or entry["movies_removed"] or entry["showtime_changes"]):
+            lines.append("No changes.")
+            lines.append("")
+
+        new_section = "\n".join(lines) + "\n"
+
+        existing_md = ""
+        if changelog_md_path.exists():
+            existing_md = changelog_md_path.read_text(encoding="utf-8")
+
+        with open(changelog_md_path, "w", encoding="utf-8") as f:
+            f.write(new_section + existing_md)
+
+        print(f"Wrote {changelog_json_path}")
+        print(f"Wrote {changelog_md_path}")
 
     def build(self):
 
@@ -560,7 +706,11 @@ class MoviePipeline:
 
         self.validate()
 
+        changelog_entry = self.build_changelog_entry()
+
         self.write_json()
+
+        self.write_changelog(changelog_entry)
 
 # ============================================================
 # Main
