@@ -112,23 +112,12 @@
 
 			function applyFilters() {
 				const activeFormats = new Set();
-				document.querySelectorAll('.filter-btn.active').forEach(btn => {
-					activeFormats.add(btn.dataset.format);
-				});
+				document.querySelectorAll('.filter-btn.active').forEach(btn => activeFormats.add(btn.dataset.format));
 
-				document.querySelectorAll('[data-movie-title]').forEach(el => {
-					const title = el.dataset.movieTitle;
-					const date = el.dataset.movieDate;
-					const movie = allMovies.find(m => m.title === title);
-
-					if(movie) {
-						const hasMatchingShow = movie.showtimes.some(show => {
-							const showDate = (show.datetime || '').slice(0, 10);
-							const fmt = show.premium_format || 'Standard';
-							return showDate === date && activeFormats.has(fmt);
-						});
-						el.style.display = hasMatchingShow ? 'block' : 'none';
-					}
+				document.querySelectorAll('[data-formats]').forEach(el => {
+					const formats = JSON.parse(el.dataset.formats);
+					const hasMatch = formats.some(f => activeFormats.has(f));
+					el.style.display = hasMatch ? 'block' : 'none';
 				});
 			}
 
@@ -231,8 +220,7 @@
 								}
 
 								el.onclick = () => openMovie(movie, shows);
-								el.dataset.movieTitle = movie.title;
-								el.dataset.movieDate = d; // Add this line
+								el.dataset.formats = JSON.stringify(shows.map(s => s.premium_format || 'Standard'));
 								posters.appendChild(el);
 							}
 						}
