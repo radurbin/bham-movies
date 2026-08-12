@@ -58,6 +58,7 @@
 			const GRID = document.getElementById('grid');
 			const MODAL = document.getElementById('modal');
 			const CONTENT = document.getElementById('content');
+			let allMovies = [];
 
 			function closeModal() {
 				// hide modal and remove any tooltips
@@ -89,42 +90,47 @@
 				const formatsSet = new Set();
 				for (const movie of movies) {
 					for (const show of movie.showtimes || []) {
-						if (show.premium_format) formatsSet.add(show.premium_format);
+						formatsSet.add(show.premium_format || 'Standard');
 					}
 				}
 				
 				const filtersDiv = document.getElementById('filters');
 				filtersDiv.innerHTML = '';
 				
-				['Standard', ...Array.from(formatsSet).sort()].forEach(format => {
+				Array.from(formatsSet).sort().forEach(format => {
 					const btn = document.createElement('button');
 					btn.className = 'filter-btn active';
 					btn.textContent = format;
+					btn.dataset.format = format;
 					btn.onclick = () => {
 						btn.classList.toggle('active');
-						if(btn.classList.contains('active')) {
-							activeFilters.delete(format);
-						} else {
-							activeFilters.add(format);
-						}
-						filterShows();
+						applyFilters();
 					};
 					filtersDiv.appendChild(btn);
 				});
 			}
 
-			function filterShows() {
-				document.querySelectorAll('.show-badge').forEach(badge => {
-					const fmt = badge.getAttribute('data-format') || 'Standard';
-					badge.style.display = activeFilters.has(fmt) ? 'none' : 'inline-block';
+			function applyFilters() {
+				const activeFormats = new Set();
+				document.querySelectorAll('.filter-btn.active').forEach(btn => {
+					activeFormats.add(btn.dataset.format);
 				});
 				
-				// Hide movie theaters/groups if all their showtimes are filtered
-				document.querySelectorAll('h3').forEach(theater => {
-					const badges = theater.nextElementSibling?.querySelectorAll('.show-badge') || [];
-					const hasVisible = Array.from(badges).some(b => b.style.display !== 'none');
-					theater.style.display = hasVisible ? 'block' : 'none';
-					if(theater.nextElementSibling) theater.nextElementSibling.style.display = hasVisible ? 'block' : 'none';
+				// For each movie poster in grid, check if it has any showtime matching active filters
+				document.querySelectorAll('.posters').forEach(posterDiv => {
+					const movieEls = posterDiv.querySelectorAll('[data-movie-title]');
+					movieEls.forEach(el => {
+						const title = el.dataset.movieTitle;
+						const movie = allMovies.find(m => m.title === title);
+						
+						if(movie) {
+							const hasMatchingShow = movie.showtimes.some(show => {
+								const fmt = show.premium_format || 'Standard';
+								return activeFormats.has(fmt);
+							});
+							el.style.display = hasMatchingShow ? 'block' : 'none';
+						}
+					});
 				});
 			}
 
@@ -135,12 +141,12 @@
 					const res = await fetch('./movies.json');
 					const data = await res.json();
 
-					const movies = data.movies || [];
+					allMovies = data.movies || []; // Change this line
 
 					// Build day -> movieKey -> { movie, shows }
 					const days = {};
 
-					for (const movie of movies) {
+					for (const movie of allMovies) {
 						for (const show of movie.showtimes || []) {
 							const date = (show.datetime || '').slice(0, 10);
 							if (!date) continue;
@@ -152,8 +158,8 @@
 					}
 
 					render(days);
-					buildFilters(movies);
-					STATUS.textContent = `${data.metadata?.showtime_count || 0} showtimes, ${data.metadata?.movie_count || movies.length} movies`;
+					buildFilters(allMovies); // Change this line
+					STATUS.textContent = `${data.metadata?.showtime_count || 0} showtimes, ${data.metadata?.movie_count || allMovies.length} movies`;
 
 				} catch (err) {
 					console.error(err);
@@ -227,6 +233,7 @@
 								}
 
 								el.onclick = () => openMovie(movie, shows);
+								el.dataset.movieTitle = movie.title;
 								posters.appendChild(el);
 							}
 						}
