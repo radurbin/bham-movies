@@ -1,3 +1,71 @@
+## 2026-08-12 05:41 PM CDT
+
+**Movies added:**
+- Angel and the Badman
+- Hot Spot
+- It Ends
+- Practical Magic 2
+
+**Showtime changes:**
+- Coyote vs. Acme
+  - + AMC Vestavia Hills 10 @ 2026-08-27T12:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-27T14:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-27T17:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-27T20:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-27T23:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-28T13:05:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-28T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-28T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-28T21:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-29T13:05:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-29T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-29T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-29T21:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-30T13:05:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-30T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-30T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-30T21:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-31T13:05:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-31T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-31T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-31T21:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-01T13:05:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-01T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-01T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-01T21:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-02T13:05:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-02T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-02T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-02T21:15:00 (Standard)
+- Runner
+  - + AMC Vestavia Hills 10 @ 2026-09-10T14:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-10T17:05:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-10T19:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-11T14:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-11T16:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-11T19:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-11T22:10:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-12T14:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-12T16:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-12T19:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-12T22:10:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-13T14:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-13T16:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-13T19:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-13T22:10:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-14T14:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-14T16:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-14T19:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-14T22:10:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-15T14:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-15T16:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-15T19:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-15T22:10:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-16T14:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-16T16:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-16T19:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-16T22:10:00 (Standard)
+
 ## 2026-08-12 05:57 AM CDT
 
 **Movies removed:**
