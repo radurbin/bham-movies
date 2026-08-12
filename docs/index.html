@@ -353,6 +353,12 @@
 					tooltip.style.display = 'none';
 				}
 
+				document.querySelectorAll('.show-badge').forEach(b => {
+					b.addEventListener('mouseenter', () => showTooltip(b));
+					b.addEventListener('mouseleave', hideTooltip);
+					b.addEventListener('click', (ev) => { ev.stopPropagation(); showTooltip(b); });
+				});
+				
 				// Hide tooltip when clicking outside
 				document.addEventListener('click', hideTooltip);
 			}
