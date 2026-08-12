@@ -198,17 +198,21 @@
 
 								const hasPoster = movie.poster && movie.poster !== 'None' && movie.poster !== 'null';
 
+								const formats = JSON.stringify(shows.map(s => s.premium_format || 'Standard'));
+
 								let el;
 								if (hasPoster) {
 									el = document.createElement('img');
 									el.className = 'poster';
 									el.src = movie.poster;
 									el.alt = movie.title;
+									el.dataset.formats = formats;
 									el.onerror = () => {
 										const f = document.createElement('div');
 										f.className = 'poster poster-fallback';
 										f.textContent = movie.title;
 										f.title = movie.title;
+										f.dataset.formats = formats;
 										f.onclick = () => openMovie(movie, shows);
 										el.replaceWith(f);
 									};
@@ -217,10 +221,10 @@
 									el.className = 'poster poster-fallback';
 									el.textContent = movie.title;
 									el.title = movie.title;
+									el.dataset.formats = formats;
 								}
 
 								el.onclick = () => openMovie(movie, shows);
-								el.dataset.formats = JSON.stringify(shows.map(s => s.premium_format || 'Standard'));
 								posters.appendChild(el);
 							}
 						}
