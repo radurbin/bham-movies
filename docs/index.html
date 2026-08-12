@@ -12,7 +12,7 @@
 			.date{font-weight:bold}
 			.posters{display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:6px;margin-top:8px;align-content:start}
 			.poster{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:4px;cursor:pointer;display:block}
-			.poster-fallback{display:flex;align-items:center;justify-content:center;text-align:center;padding:6px;background:#2a2a2a;color:#fff;font-size:10px;font-weight:bold;line-height:1.2;overflow:hidden;min-height:90px;border-radius:4px}
+			.poster-fallback{display:flex;align-items:center;justify-content:center;text-align:center;background:#2a2a2a;color:#fff;font-size:10px;font-weight:bold;line-height:1.2;overflow:hidden;min-height:90px;border-radius:4px}
 			#modal{display:none;position:fixed;inset:0;background:#000a;align-items:center;justify-content:center;z-index:10000}
 			#content{background:#222;max-width:900px;width:95%;padding:18px;border-radius:10px;display:grid;grid-template-columns:220px 1fr;gap:16px;max-height:90vh;overflow:auto}
 				.badge{display:inline-block;background:#444;padding:3px 7px;border-radius:99px;margin:2px}
@@ -358,7 +358,7 @@
 					b.addEventListener('mouseleave', hideTooltip);
 					b.addEventListener('click', (ev) => { ev.stopPropagation(); showTooltip(b); });
 				});
-				
+
 				// Hide tooltip when clicking outside
 				document.addEventListener('click', hideTooltip);
 			}
