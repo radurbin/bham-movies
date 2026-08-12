@@ -286,6 +286,14 @@
 
 				MODAL.style.display = 'flex';
 
+				// Apply current filters to modal showtimes
+				const activeFormats = new Set();
+				document.querySelectorAll('.filter-btn.active').forEach(btn => activeFormats.add(btn.dataset.format));
+				document.querySelectorAll('.show-badge').forEach(badge => {
+					const fmt = badge.getAttribute('data-format') || 'Standard';
+					badge.style.display = activeFormats.has(fmt) ? 'inline-block' : 'none';
+				});
+
 				// Attach hover / click handlers to showtime badges
 				const tooltip = document.createElement('div');
 				tooltip.className = 'show-tooltip';
@@ -352,12 +360,6 @@
 				function hideTooltip() {
 					tooltip.style.display = 'none';
 				}
-
-				document.querySelectorAll('.show-badge').forEach(b => {
-					b.addEventListener('mouseenter', () => showTooltip(b));
-					b.addEventListener('mouseleave', hideTooltip);
-					b.addEventListener('click', (ev) => { ev.stopPropagation(); showTooltip(b); });
-				});
 
 				// Hide tooltip when clicking outside
 				document.addEventListener('click', hideTooltip);
