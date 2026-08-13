@@ -1,3 +1,9 @@
+## 2026-08-13 05:43 PM CDT
+
+**Movies added:**
+- Avengers: Doomsday RealD 3D Fan Event
+- Avengers: Doomsday
+
 ## 2026-08-13 05:57 AM CDT
 
 **Movies removed:**
