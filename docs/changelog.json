@@ -3561,5 +3561,102 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-14 05:24 PM CDT",
+    "movies_added": [
+      "Adore Him: He is Here",
+      "Idiots Early Access"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Moana",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-14T19:50:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "One Night Only",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-08-14T22:50:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Super Troopers 3",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-14T14:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Toy Story 5",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-14T17:05:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The End of Oak Street",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-14T19:55:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-08-14T21:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "PAW Patrol: The Dino Movie",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-14T14:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-14T17:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-08-14T22:50:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-08-14T21:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

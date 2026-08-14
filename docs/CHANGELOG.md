@@ -1,3 +1,27 @@
+## 2026-08-14 05:24 PM CDT
+
+**Movies added:**
+- Adore Him: He is Here
+- Idiots Early Access
+
+**Showtime changes:**
+- Moana
+  - − AMC Summit 16 @ 2026-08-14T19:50:00 (Standard)
+- One Night Only
+  - − AMC Vestavia Hills 10 @ 2026-08-14T22:50:00 (Standard)
+- Super Troopers 3
+  - − AMC Summit 16 @ 2026-08-14T14:40:00 (Standard)
+- Toy Story 5
+  - − AMC Summit 16 @ 2026-08-14T17:05:00 (Standard)
+- The End of Oak Street
+  - + AMC Summit 16 @ 2026-08-14T19:55:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-14T21:00:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - + AMC Summit 16 @ 2026-08-14T14:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-14T17:10:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-14T22:50:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-08-14T21:00:00 (Standard)
+
 ## 2026-08-14 05:54 AM CDT
 
 **Movies removed:**
