@@ -1,3 +1,26 @@
+## 2026-08-15 05:22 PM CDT
+
+**Showtime changes:**
+- Toy Story 5
+  - − AMC Vestavia Hills 10 @ 2026-08-15T18:40:00 (Standard)
+- The End of Oak Street
+  - + AMC Vestavia Hills 10 @ 2026-08-15T20:25:00 (Standard)
+- The Odyssey
+  - + AMC Vestavia Hills 10 @ 2026-08-15T21:35:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-08-15T21:30:00 (Standard)
+- One Night Only
+  - − AMC Vestavia Hills 10 @ 2026-08-15T20:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-08-16T10:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-08-16T13:05:00 (Standard)
+- Super Troopers 3
+  - − AMC Vestavia Hills 10 @ 2026-08-15T12:20:00 (Standard)
+- The Rivals of Amziah King
+  - + AMC Vestavia Hills 10 @ 2026-08-15T18:30:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - + AMC Vestavia Hills 10 @ 2026-08-15T12:20:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-16T10:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-08-16T12:45:00 (Standard)
+
 ## 2026-08-15 05:17 AM CDT
 
 **Showtime changes:**
