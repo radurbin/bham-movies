@@ -1,3 +1,19 @@
+## 2026-08-16 05:22 PM CDT
+
+**Showtime changes:**
+- Elijah Peel
+  - − AMC Patton Creek 15 @ 2026-08-16T14:40:00 (Standard)
+- The Fast and the Furious 25th Anniversary
+  - − AMC Patton Creek 15 @ 2026-08-20T22:30:00 (Standard)
+- The Magic Faraway Tree
+  - + AMC Patton Creek 15 @ 2026-08-20T18:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-20T19:20:00 (Standard)
+- Tony
+  - + AMC Patton Creek 15 @ 2026-08-20T22:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-20T22:10:00 (Standard)
+- KATSEYE: WILD HEARTS
+  - + AMC Patton Creek 15 @ 2026-08-16T15:00:00 (Standard)
+
 ## 2026-08-16 05:17 AM CDT
 
 **Showtime changes:**

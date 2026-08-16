@@ -5860,5 +5860,79 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-16 05:22 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Elijah Peel",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-16T14:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Fast and the Furious 25th Anniversary",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-20T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Magic Faraway Tree",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-20T18:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-20T19:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Tony",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-20T22:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-20T22:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "KATSEYE: WILD HEARTS",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-16T15:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      }
+    ]
   }
 ]
