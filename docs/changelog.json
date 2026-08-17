@@ -7191,5 +7191,123 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-17 05:25 PM CDT",
+    "movies_added": [
+      "Crunchyroll Anime Nights Sneak Peek - September '26",
+      "Mary Oliver: Saved by the Beauty of the World"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Avengers: Doomsday",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-17T15:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-17T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-17T22:15:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-17T23:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-24T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Moana",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-17T15:55:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-17T15:55:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-17T19:25:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "One Night Only",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-17T19:40:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-17T19:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Castle in the Sky 40th Anniversary - Studio Ghibli Fest 2026",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-23T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-23T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-23T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-24T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The End of Oak Street",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-17T19:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      }
+    ]
   }
 ]

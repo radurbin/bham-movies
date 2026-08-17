@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-08-17T10:26:38.126201",
-    "movie_count": 143,
-    "showtime_count": 2535,
+    "generated_at": "2026-08-17T22:25:57.292220",
+    "movie_count": 145,
+    "showtime_count": 2542,
     "theaters": {
-      "AMC Patton Creek 15": 1013,
-      "AMC Summit 16": 830,
-      "Sidewalk Film Center + Cinema": 172,
+      "AMC Patton Creek 15": 1010,
+      "AMC Summit 16": 833,
+      "Sidewalk Film Center + Cinema": 179,
       "AMC Vestavia Hills 10": 520
     }
   },
@@ -3363,6 +3363,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146211948,
+          "datetime": "2026-12-17T15:30:00",
+          "datetime_utc": "2026-12-17T21:30:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/summit/all/146211948",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.07,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.43,
+              "tax": 1.04
+            },
+            {
+              "type": "SENIOR",
+              "price": 12.75,
+              "tax": 1.16
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145963316,
@@ -3689,6 +3730,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146211947,
+          "datetime": "2026-12-17T19:30:00",
+          "datetime_utc": "2026-12-18T01:30:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/summit/all/146211947",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.59,
+              "tax": 1.6
+            },
+            {
+              "type": "CHILD",
+              "price": 14.29,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.94,
+              "tax": 1.45
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145963317,
@@ -3896,6 +3978,48 @@
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
+          "showtime_id": 146211945,
+          "datetime": "2026-12-17T22:15:00",
+          "datetime_utc": "2026-12-18T04:15:00Z",
+          "auditorium": 7,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/summit/all/146211945",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "RealD 3D",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 23.09,
+              "tax": 2.1
+            },
+            {
+              "type": "CHILD",
+              "price": 19.79,
+              "tax": 1.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 21.44,
+              "tax": 1.95
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
           "showtime_id": 146161824,
           "datetime": "2026-12-17T22:45:00",
           "datetime_utc": "2026-12-18T04:45:00Z",
@@ -4013,6 +4137,47 @@
               "type": "SENIOR",
               "price": 21.99,
               "tax": 2.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146211946,
+          "datetime": "2026-12-17T23:15:00",
+          "datetime_utc": "2026-12-18T05:15:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/summit/all/146211946",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.59,
+              "tax": 1.6
+            },
+            {
+              "type": "CHILD",
+              "price": 14.29,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.94,
+              "tax": 1.45
             }
           ]
         },
@@ -12744,47 +12909,6 @@
               "type": "SENIOR",
               "price": 21.44,
               "tax": 1.95
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146161913,
-          "datetime": "2026-12-24T22:00:00",
-          "datetime_utc": "2026-12-25T04:00:00Z",
-          "auditorium": 12,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/summit/all/146161913",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.59,
-              "tax": 1.6
-            },
-            {
-              "type": "CHILD",
-              "price": 14.29,
-              "tax": 1.3
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.94,
-              "tax": 1.45
             }
           ]
         },
@@ -31537,136 +31661,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 143267033,
-          "datetime": "2026-08-23T16:00:00",
-          "datetime_utc": "2026-08-23T21:00:00Z",
-          "auditorium": 9,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-23/pattoncreek/all/143267033",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "English Language Dubbed with No Subtitles",
-            "Event",
-            "Excluded from A-List",
-            "No Passes",
-            "No Trailers",
-            "NoTrailers",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "CHILD",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "SENIOR",
-              "price": 16.43,
-              "tax": 1.43
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 143261965,
-          "datetime": "2026-08-23T19:00:00",
-          "datetime_utc": "2026-08-24T00:00:00Z",
-          "auditorium": 1,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-23/summit/all/143261965",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "English Language Dubbed with No Subtitles",
-            "Event",
-            "Excluded from A-List",
-            "No Passes",
-            "No Trailers",
-            "NoTrailers",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.5,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 16.5,
-              "tax": 1.5
-            },
-            {
-              "type": "SENIOR",
-              "price": 16.5,
-              "tax": 1.5
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 143267046,
-          "datetime": "2026-08-23T19:00:00",
-          "datetime_utc": "2026-08-24T00:00:00Z",
-          "auditorium": 13,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-23/pattoncreek/all/143267046",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "English Language Dubbed with No Subtitles",
-            "Event",
-            "Excluded from A-List",
-            "No Passes",
-            "No Trailers",
-            "NoTrailers",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "CHILD",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "SENIOR",
-              "price": 16.43,
-              "tax": 1.43
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 143261982,
@@ -31706,49 +31700,6 @@
               "type": "SENIOR",
               "price": 16.5,
               "tax": 1.5
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 143267034,
-          "datetime": "2026-08-24T19:00:00",
-          "datetime_utc": "2026-08-25T00:00:00Z",
-          "auditorium": 9,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-24/pattoncreek/all/143267034",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Event",
-            "Japanese Spoken with English Subtitles",
-            "Excluded from A-List",
-            "No Passes",
-            "No Trailers",
-            "NoTrailers",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "CHILD",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "SENIOR",
-              "price": 16.43,
-              "tax": 1.43
             }
           ]
         },
@@ -34330,6 +34281,81 @@
           "discount_message": null,
           "attributes": [],
           "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "crunchyroll anime nights sneak peek - september '26",
+      "source": "AMC",
+      "movie_id": 84729,
+      "title": "Crunchyroll Anime Nights Sneak Peek - September '26",
+      "release_year": null,
+      "runtime": 117,
+      "rating": null,
+      "genres": [
+        "ANIMATION"
+      ],
+      "poster": "posters/crunchyroll-anime-nights-sneak-peek-september-26.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/crunchyroll-anime-nights-sneak-peek-september-26-84729",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146195713,
+          "datetime": "2026-09-21T19:00:00",
+          "datetime_utc": "2026-09-22T00:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-21/summit/all/146195713",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Event",
+            "Japanese Spoken with English Subtitles",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
         }
       ]
     },
@@ -50062,6 +50088,172 @@
       ]
     },
     {
+      "sort_index": "mary oliver: saved by the beauty of the world",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Mary Oliver: Saved by the Beauty of the World",
+      "release_year": 2026,
+      "runtime": 91,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/mary-oliver-saved-by-the-beauty-of-the-world-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "If poetry had a pop icon, Mary Oliver would be it. Celebrated best-selling poet, Pulitzer Prize-winner, lover of dogs and long walks in the woods, openly queer but intensely private, Oliver was America’s unlikely contemporary mystic, stalking the ponds and forests of Cape Cod for nearly fifty years in order to open herself – and her readers – to the known and unknowable world. From a lonely childhood to literary fame, Oliver’s life was shaped by devotion to nature, paying attention, and the long journey toward learning to love and to be loved. Her poems inspire liberals and conservatives, atheists and believers, naturalists and urbanites, speaking directly to contemporary anxieties about attention, presence, and the human relationship with the natural world – issues that feel especially pressing in an era of climate crisis, digital distraction, and social fragmentation. \n \nFeaturing interviews with her close friends, including John Waters, never-before-seen personal photos, notebooks, and correspondence from her archive, and recitations of her work by Stephen Colbert, Lucy Dacus, Steve Buscemi, and Oprah Winfrey, Mary Oliver: Saved by the Beauty of the World considers the poet’s long lifetime of work in context, capturing the uniqueness of her world and the natural beauty that inspired her.",
+      "directors": [
+        "Sasha Waters"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": null,
+      "language": null,
+      "country": "United States of America",
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/maryoliversavedbythebeautyoftheworld/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "vudtUbODmq",
+          "datetime": "2026-09-09T14:15:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/maryoliversavedbythebeautyoftheworld/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "r681BkqG3Z",
+          "datetime": "2026-09-09T16:15:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/maryoliversavedbythebeautyoftheworld/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "xBf1WZFHtq",
+          "datetime": "2026-09-09T18:15:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/maryoliversavedbythebeautyoftheworld/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "hNcShQjbrb",
+          "datetime": "2026-09-09T20:30:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/maryoliversavedbythebeautyoftheworld/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "aTscq7g00Y",
+          "datetime": "2026-09-10T14:30:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/maryoliversavedbythebeautyoftheworld/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "umww0titg0",
+          "datetime": "2026-09-10T16:45:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/maryoliversavedbythebeautyoftheworld/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "64JXfl0tYh",
+          "datetime": "2026-09-10T21:30:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/maryoliversavedbythebeautyoftheworld/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
       "sort_index": "minions & monsters",
       "source": "AMC",
       "movie_id": 77563,
@@ -50596,37 +50788,36 @@
           "datetime": "2026-08-17T15:55:00",
           "datetime_utc": "2026-08-17T20:55:00Z",
           "auditorium": 5,
-          "premium_format": "RealD 3D",
+          "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-17/summit/all/145965295",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
+          "discount_message": "20% OFF",
           "attributes": [
             "Closed Caption",
             "Audio Description",
             "Pay with Disney Rewards Redemption Card",
-            "RealD 3D",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.57,
-              "tax": 1.78
+              "price": 14.07,
+              "tax": 1.28
             },
             {
               "type": "CHILD",
-              "price": 16.93,
-              "tax": 1.54
+              "price": 11.43,
+              "tax": 1.04
             },
             {
               "type": "SENIOR",
-              "price": 18.25,
-              "tax": 1.66
+              "price": 12.75,
+              "tax": 1.16
             }
           ]
         },
@@ -50707,47 +50898,6 @@
               "type": "SENIOR",
               "price": 14.77,
               "tax": 1.28
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 145965269,
-          "datetime": "2026-08-17T19:25:00",
-          "datetime_utc": "2026-08-18T00:25:00Z",
-          "auditorium": 4,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-17/summit/all/145965269",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.59,
-              "tax": 1.6
-            },
-            {
-              "type": "CHILD",
-              "price": 14.29,
-              "tax": 1.3
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.94,
-              "tax": 1.45
             }
           ]
         },
@@ -56157,9 +56307,9 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 145965224,
-          "datetime": "2026-08-17T19:45:00",
-          "datetime_utc": "2026-08-18T00:45:00Z",
-          "auditorium": 2,
+          "datetime": "2026-08-17T19:40:00",
+          "datetime_utc": "2026-08-18T00:40:00Z",
+          "auditorium": 4,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-17/summit/all/145965224",
           "sold_out": false,
@@ -87106,6 +87256,46 @@
           "auditorium": 12,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-17/summit/all/145252671",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146210285,
+          "datetime": "2026-08-17T19:45:00",
+          "datetime_utc": "2026-08-18T00:45:00Z",
+          "auditorium": 2,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-17/summit/all/146210285",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,

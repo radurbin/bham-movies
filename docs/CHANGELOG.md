@@ -1,3 +1,31 @@
+## 2026-08-17 05:25 PM CDT
+
+**Movies added:**
+- Crunchyroll Anime Nights Sneak Peek - September '26
+- Mary Oliver: Saved by the Beauty of the World
+
+**Showtime changes:**
+- Avengers: Doomsday
+  - + AMC Summit 16 @ 2026-12-17T15:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-17T19:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-17T22:15:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-12-17T23:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-12-24T22:00:00 (Standard)
+- Moana
+  - + AMC Summit 16 @ 2026-08-17T15:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-17T15:55:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-08-17T19:25:00 (Standard)
+- One Night Only
+  - + AMC Summit 16 @ 2026-08-17T19:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-17T19:45:00 (Standard)
+- Castle in the Sky 40th Anniversary - Studio Ghibli Fest 2026
+  - − AMC Patton Creek 15 @ 2026-08-23T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-23T19:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-24T19:00:00 (Standard)
+- The End of Oak Street
+  - + AMC Summit 16 @ 2026-08-17T19:45:00 (Standard)
+
 ## 2026-08-17 05:26 AM CDT
 
 **Movies added:**
