@@ -39,8 +39,6 @@ AMC_API_KEY = os.getenv("AMC_API_KEY")
 
 OMDB_API_KEY = os.getenv("OMDB_API_KEY")
 
-TMS_API_KEY = os.getenv("TMS_API_KEY")
-
 # ============================================================
 # API Endpoints
 # ============================================================
@@ -49,7 +47,12 @@ AMC_BASE_URL = "https://api.amctheatres.com/v2"
 
 OMDB_BASE_URL = "https://www.omdbapi.com/"
 
-TMS_BASE_URL = "http://data.tmsapi.com/v1.1"
+# Sidewalk isn't in TMS/Gracenote's theatre database (confirmed by
+# directly querying TMS and finding no Sidewalk listings at all), so
+# showtimes are scraped from Sidewalk's own public showtimes page instead.
+SIDEWALK_CINEMA_URL = "https://sidewalkfest.com/cinema/"
+SIDEWALK_MAX_PAGES = 30  # safety ceiling; the real page count usually stops well short
+SIDEWALK_PAGE_DELAY = 0.5
 
 # ============================================================
 # Request settings
@@ -86,7 +89,7 @@ AMC_THEATERS = {
 }
 
 SIDEWALK_THEATER = {
-    "name": "Sidewalk Film Center Cinema",
+    "name": "Sidewalk Film Center + Cinema",
     "city": "Birmingham",
 }
 
@@ -144,7 +147,3 @@ def get_amc_key() -> str:
 
 def get_omdb_key() -> str:
     return require_api_key("OMDB_API_KEY")
-
-
-def get_tms_key() -> str:
-    return require_api_key("TMS_API_KEY")

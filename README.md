@@ -3,7 +3,7 @@
 This folder builds a static movie showtimes site suitable for GitHub Pages.
 
 Overview
-- The Python backend fetches showtimes from the AMC API (`fetchers/amc.py`), enriches metadata using OMDb (`fetchers/omdb.py`), downloads poster images into `docs/posters/`, and writes `docs/movies.json` consumed by the frontend (`docs/index.html`).
+- The Python backend fetches showtimes from the AMC API (`fetchers/amc.py`) and by scraping Sidewalk Film Center + Cinema's public showtimes page (`fetchers/sidewalk.py`), enriches metadata using OMDb (`fetchers/omdb.py`), downloads poster images into `docs/posters/`, and writes `docs/movies.json` consumed by the frontend (`docs/index.html`).
 
 Quick local preview
 
@@ -46,7 +46,8 @@ Add the following repository secrets under Settings → Secrets & variables → 
 
 - `AMC_API_KEY` — your AMC API key (X-AMC-Vendor-Key header)
 - `OMDB_API_KEY` — your OMDb API key
- - `TMS_API_KEY` — your TMS / Gracenote API key used to fetch Sidewalk showtimes
+
+Sidewalk showtimes don't need a key — they're scraped directly from Sidewalk's own site (see "Data sources and theaters" below).
 
 CI / GitHub Actions
 
@@ -66,8 +67,15 @@ This project currently includes showtimes for four theaters:
 - AMC Summit 16 (theater id 4101)
 - AMC Patton Creek 15 (theater id 4103)
 - AMC Vestavia Hills 10 (theater id 4105)
-- Sidewalk Film Center + Cinema (integrated later as a future source / `SIDEWALK_THEATER` in `config.py`)
- - Sidewalk Film Center + Cinema (included via the TMS API and merged into `movies.json`)
+- Sidewalk Film Center + Cinema
+
+Sidewalk showtimes were originally fetched from the TMS/Gracenote API, but
+TMS stopped carrying Sidewalk in its theatre database entirely (confirmed by
+querying TMS directly and finding no Sidewalk listings for the area, despite
+Sidewalk showing current showtimes on their own site). `fetchers/sidewalk.py`
+now scrapes Sidewalk's public cinema page (`sidewalkfest.com/cinema/`)
+directly instead and merges results into `movies.json` the same way AMC's
+showtimes are.
 
 How far in the future is fetched
 

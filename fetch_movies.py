@@ -83,14 +83,14 @@ class MoviePipeline:
         # Fetch Sidewalk movies and merge them in
         print()
         print("=" * 60)
-        print("Fetching Sidewalk showtimes (TMS)")
+        print("Fetching Sidewalk showtimes (scraped)")
         print("=" * 60)
 
         sidewalk = SidewalkFetcher()
 
         sidewalk_movies = sidewalk.fetch_movies()
 
-        print(f"Fetched {len(sidewalk_movies)} movies from Sidewalk/TMS.")
+        print(f"Fetched {len(sidewalk_movies)} movies from Sidewalk.")
 
         # Merge sidewalk movies into AMC movies using a smarter
         # normalized-title matching strategy (ignores articles,
