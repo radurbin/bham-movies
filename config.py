@@ -50,26 +50,16 @@ OMDB_BASE_URL = "https://www.omdbapi.com/"
 # Sidewalk isn't in TMS/Gracenote's theatre database (confirmed by
 # directly querying TMS and finding no Sidewalk listings at all), so
 # showtimes are scraped from Sidewalk's own public showtimes page instead.
-SIDEWALK_CINEMA_URL = "https://sidewalkfest.com/cinema/"
+#
+# That page sits behind Cloudflare/a WAF that flatly 403s requests from
+# GitHub Actions' datacenter IPs, even with browser-like headers -- the
+# identical request works fine from a home IP, so this is IP-reputation
+# based, not header based. Routed through a small Cloudflare Worker
+# (cloudflare/sidewalk-proxy-worker.js) instead, which fetches Sidewalk's
+# page from Cloudflare's own edge network and mimics a real browser there.
+SIDEWALK_CINEMA_URL = "https://shiny-resonance-e149.rileydurbin.workers.dev/"
 SIDEWALK_MAX_PAGES = 30  # safety ceiling; the real page count usually stops well short
 SIDEWALK_PAGE_DELAY = 0.5
-
-# Sidewalk's site sits behind Cloudflare, which is more aggressive about
-# blocking requests from datacenter IPs (like GitHub Actions runners) than
-# from home connections. A self-identifying bot User-Agent gets a flat 403
-# from CI even though the same request works fine from a residential IP, so
-# these headers deliberately mimic a real browser instead.
-SIDEWALK_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-    ),
-    "Accept": (
-        "text/html,application/xhtml+xml,application/xml;q=0.9,"
-        "image/avif,image/webp,*/*;q=0.8"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
 
 # ============================================================
 # Request settings

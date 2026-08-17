@@ -32,7 +32,6 @@ from bs4 import BeautifulSoup
 from config import (
     REQUEST_TIMEOUT,
     SIDEWALK_CINEMA_URL,
-    SIDEWALK_HEADERS,
     SIDEWALK_MAX_PAGES,
     SIDEWALK_PAGE_DELAY,
 )
@@ -44,10 +43,8 @@ TOTAL_PAGES_RE = re.compile(r'"total_pages":(\d+)')
 
 
 class SidewalkFetcher:
-    """Scrapes Sidewalk Film Center + Cinema showtimes from their site."""
-
-    def __init__(self):
-        self.headers = SIDEWALK_HEADERS
+    """Scrapes Sidewalk Film Center + Cinema showtimes via the Cloudflare
+    Worker proxy (see config.SIDEWALK_CINEMA_URL for why)."""
 
     # --------------------------------------------------
     # HTTP helper
@@ -58,7 +55,6 @@ class SidewalkFetcher:
         response = requests.get(
             SIDEWALK_CINEMA_URL,
             params=params,
-            headers=self.headers,
             timeout=REQUEST_TIMEOUT,
         )
         response.raise_for_status()
