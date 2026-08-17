@@ -86,9 +86,15 @@ class MoviePipeline:
         print("Fetching Sidewalk showtimes (scraped)")
         print("=" * 60)
 
-        sidewalk = SidewalkFetcher()
-
-        sidewalk_movies = sidewalk.fetch_movies()
+        try:
+            sidewalk = SidewalkFetcher()
+            sidewalk_movies = sidewalk.fetch_movies()
+        except Exception as ex:
+            # Sidewalk's site (and whatever's in front of it, e.g.
+            # Cloudflare) is out of our control. Don't let it take down
+            # the whole run -- AMC's data is still worth writing.
+            print(f"Sidewalk fetch failed, continuing without it: {ex}")
+            sidewalk_movies = []
 
         print(f"Fetched {len(sidewalk_movies)} movies from Sidewalk.")
 

@@ -54,6 +54,23 @@ SIDEWALK_CINEMA_URL = "https://sidewalkfest.com/cinema/"
 SIDEWALK_MAX_PAGES = 30  # safety ceiling; the real page count usually stops well short
 SIDEWALK_PAGE_DELAY = 0.5
 
+# Sidewalk's site sits behind Cloudflare, which is more aggressive about
+# blocking requests from datacenter IPs (like GitHub Actions runners) than
+# from home connections. A self-identifying bot User-Agent gets a flat 403
+# from CI even though the same request works fine from a residential IP, so
+# these headers deliberately mimic a real browser instead.
+SIDEWALK_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
 # ============================================================
 # Request settings
 # ============================================================

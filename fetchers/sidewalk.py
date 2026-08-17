@@ -32,9 +32,9 @@ from bs4 import BeautifulSoup
 from config import (
     REQUEST_TIMEOUT,
     SIDEWALK_CINEMA_URL,
+    SIDEWALK_HEADERS,
     SIDEWALK_MAX_PAGES,
     SIDEWALK_PAGE_DELAY,
-    USER_AGENT,
 )
 
 from models import Movie, Showtime
@@ -47,7 +47,7 @@ class SidewalkFetcher:
     """Scrapes Sidewalk Film Center + Cinema showtimes from their site."""
 
     def __init__(self):
-        self.headers = {"User-Agent": USER_AGENT}
+        self.headers = SIDEWALK_HEADERS
 
     # --------------------------------------------------
     # HTTP helper
