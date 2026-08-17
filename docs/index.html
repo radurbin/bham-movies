@@ -33,7 +33,9 @@
 			.seat-legend{font-size:10px;margin-top:8px;padding:4px;text-align:left;color:#bbb}
 			.seat-rows{display:flex;flex-direction:column}
 			.seat-row{display:flex;gap:2px;margin:2px 0;align-items:center;justify-content:flex-start}
-			#filters{padding:12px;background:#181818;display:flex;gap:8px;flex-wrap:wrap}
+			#filters{padding:12px;background:#181818;display:flex;flex-direction:column;gap:8px}
+			.filter-group{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+			.filter-label{color:#888;font-size:12px;min-width:52px}
 			.filter-btn{padding:6px 12px;border:1px solid #444;background:#2a2a2a;color:#eee;border-radius:6px;cursor:pointer}
 			.filter-btn.active{background:#2a6bf6;border-color:#2a6bf6}
 		</style>
@@ -84,19 +86,26 @@
 					.catch(e=>console.log('Seatmap fetch failed'));
 			}
 
-			const activeFilters = new Set();
-
 			function buildFilters(movies) {
 				const formatsSet = new Set();
+				const theatersSet = new Set();
 				for (const movie of movies) {
 					for (const show of movie.showtimes || []) {
 						formatsSet.add(show.premium_format || 'Standard');
+						theatersSet.add(show.theater || show.theatre || 'Unknown');
 					}
 				}
 				
 				const filtersDiv = document.getElementById('filters');
 				filtersDiv.innerHTML = '';
-				
+
+				const formatGroup = document.createElement('div');
+				formatGroup.className = 'filter-group';
+				const formatLabel = document.createElement('span');
+				formatLabel.className = 'filter-label';
+				formatLabel.textContent = 'Format';
+				formatGroup.appendChild(formatLabel);
+
 				Array.from(formatsSet).sort().forEach(format => {
 					const btn = document.createElement('button');
 					btn.className = 'filter-btn active';
@@ -106,18 +115,44 @@
 						btn.classList.toggle('active');
 						applyFilters();
 					};
-					filtersDiv.appendChild(btn);
+					formatGroup.appendChild(btn);
 				});
+
+				const theaterGroup = document.createElement('div');
+				theaterGroup.className = 'filter-group';
+				const theaterLabel = document.createElement('span');
+				theaterLabel.className = 'filter-label';
+				theaterLabel.textContent = 'Theater';
+				theaterGroup.appendChild(theaterLabel);
+
+				Array.from(theatersSet).sort().forEach(theater => {
+					const btn = document.createElement('button');
+					btn.className = 'filter-btn active';
+					btn.textContent = theater;
+					btn.dataset.theater = theater;
+					btn.onclick = () => {
+						btn.classList.toggle('active');
+						applyFilters();
+					};
+					theaterGroup.appendChild(btn);
+				});
+
+				filtersDiv.appendChild(formatGroup);
+				filtersDiv.appendChild(theaterGroup);
 			}
 
 			function applyFilters() {
 				const activeFormats = new Set();
-				document.querySelectorAll('.filter-btn.active').forEach(btn => activeFormats.add(btn.dataset.format));
+				document.querySelectorAll('.filter-btn.active[data-format]').forEach(btn => activeFormats.add(btn.dataset.format));
+				const activeTheaters = new Set();
+				document.querySelectorAll('.filter-btn.active[data-theater]').forEach(btn => activeTheaters.add(btn.dataset.theater));
 
 				document.querySelectorAll('[data-formats]').forEach(el => {
 					const formats = JSON.parse(el.dataset.formats);
-					const hasMatch = formats.some(f => activeFormats.has(f));
-					el.style.display = hasMatch ? 'block' : 'none';
+					const theaters = JSON.parse(el.dataset.theaters || '[]');
+					const formatMatch = formats.some(f => activeFormats.has(f));
+					const theaterMatch = theaters.some(t => activeTheaters.has(t));
+					el.style.display = (formatMatch && theaterMatch) ? 'block' : 'none';
 				});
 			}
 
@@ -199,6 +234,7 @@
 								const hasPoster = movie.poster && movie.poster !== 'None' && movie.poster !== 'null';
 
 								const formats = JSON.stringify(shows.map(s => s.premium_format || 'Standard'));
+								const theaters = JSON.stringify(shows.map(s => s.theater || s.theatre || 'Unknown'));
 
 								let el;
 								if (hasPoster) {
@@ -207,12 +243,14 @@
 									el.src = movie.poster;
 									el.alt = movie.title;
 									el.dataset.formats = formats;
+									el.dataset.theaters = theaters;
 									el.onerror = () => {
 										const f = document.createElement('div');
 										f.className = 'poster poster-fallback';
 										f.textContent = movie.title;
 										f.title = movie.title;
 										f.dataset.formats = formats;
+										f.dataset.theaters = theaters;
 										f.onclick = () => openMovie(movie, shows);
 										el.replaceWith(f);
 									};
@@ -222,6 +260,7 @@
 									el.textContent = movie.title;
 									el.title = movie.title;
 									el.dataset.formats = formats;
+									el.dataset.theaters = theaters;
 								}
 
 								el.onclick = () => openMovie(movie, shows);
@@ -257,6 +296,7 @@
 						<p><small>${movie.plot || movie.short_description || ''}</small></p>
 						<h2>Showtimes</h2>
 						${Object.entries(groups).map(([theater, list]) => `
+							<div class="theater-group" data-theater="${theater}">
 							<h3>${theater}</h3>
 							${list.map(s => {
 								const time = new Date(s.datetime).toLocaleTimeString([], {hour:'numeric',minute:'2-digit'});
@@ -271,6 +311,7 @@
 
 								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmcTodayTomorrow ? `data-show-id="${s.showtime_id||s.id}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-prices="${prices}">${time} · ${fmt}</span></div>`;
 							}).join('')}
+							</div>
 						`).join('')}
 						<hr>
 						<p><b>Directors:</b> ${(movie.directors || []).join(', ')}<br><b>Cast:</b> ${(movie.actors || []).join(', ')}</p>
@@ -280,7 +321,12 @@
 
 				// Apply current filters to modal showtimes
 				const activeFormats = new Set();
-				document.querySelectorAll('.filter-btn.active').forEach(btn => activeFormats.add(btn.dataset.format));
+				document.querySelectorAll('.filter-btn.active[data-format]').forEach(btn => activeFormats.add(btn.dataset.format));
+				const activeTheaters = new Set();
+				document.querySelectorAll('.filter-btn.active[data-theater]').forEach(btn => activeTheaters.add(btn.dataset.theater));
+				document.querySelectorAll('.theater-group').forEach(group => {
+					group.style.display = activeTheaters.has(group.dataset.theater) ? '' : 'none';
+				});
 				document.querySelectorAll('.show-badge').forEach(badge => {
 					const fmt = badge.getAttribute('data-format') || 'Standard';
 					badge.style.display = activeFormats.has(fmt) ? 'inline-block' : 'none';
