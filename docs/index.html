@@ -38,6 +38,7 @@
 			.filter-label{color:#888;font-size:12px;min-width:52px}
 			.filter-btn{padding:6px 12px;border:1px solid #444;background:#2a2a2a;color:#eee;border-radius:6px;cursor:pointer}
 			.filter-btn.active{background:#2a6bf6;border-color:#2a6bf6}
+			.filter-select-all{border-style:dashed}
 		</style>
 	</head>
 	<body>
@@ -86,13 +87,78 @@
 					.catch(e=>console.log('Seatmap fetch failed'));
 			}
 
+			// Attributes come from AMC as noisy, sometimes-duplicated strings
+			// ("NoTrailers" vs "No Trailers", multiple recliner tiers, etc).
+			// Normalize into a small set of useful, human-friendly filter tags
+			// and drop administrative ones (discount exclusions, ID checks, etc).
+			const ATTRIBUTE_BLOCKLIST = new Set([
+				// 'Reserved Seating',
+				'Pay with Disney Rewards Redemption Card',
+				'Excluded from 50% off Discount',
+				// 'Excluded from A-List',
+				'No Passes',
+				'ID Required',
+				'Alternative Content',
+				// 'RealD 3D',
+				// '70mm',
+				// 'PRIME at AMC',
+				// 'IMAX at AMC',
+			]);
+
+			const ATTRIBUTE_ALIASES = {
+				'Closed Caption': 'Closed Captions',
+				'AMC Signature Recliners': 'Recliners',
+				'Heated AMC Signature Recliners': 'Recliners',
+				'Dine-In Delivery to Seat': 'Dine-In Delivery',
+				'AMC Artisan Films': 'Artisan Films',
+				'Event': 'Special Event',
+				'NoTrailers': 'No Trailers',
+				'Open Caption (On-screen Subtitles)': 'On-Screen Subtitles',
+				'English Language Dubbed with No Subtitles': 'Dubbed',
+				'Spanish Language Dubbed with No Subtitles': 'Dubbed',
+			};
+
+			function normalizeAttribute(raw) {
+				if (!raw || ATTRIBUTE_BLOCKLIST.has(raw)) return null;
+				if (ATTRIBUTE_ALIASES[raw]) return ATTRIBUTE_ALIASES[raw];
+				if (/spoken with no subtitles/i.test(raw)) return 'Foreign Language (No Subtitles)';
+				if (/spoken with .*subtitles/i.test(raw)) return 'Subtitled (Foreign Language)';
+				return raw;
+			}
+
+			function showAttributes(show) {
+				const set = new Set();
+				for (const raw of show.attributes || []) {
+					const norm = normalizeAttribute(raw);
+					if (norm) set.add(norm);
+				}
+				return Array.from(set);
+			}
+
+			// Adds a dashed "All" toggle to a filter group: click once to select every
+			// button in the group, click again to clear them all.
+			function addSelectAllToggle(group, selector) {
+				const allBtn = document.createElement('button');
+				allBtn.className = 'filter-btn filter-select-all';
+				allBtn.textContent = 'All';
+				allBtn.onclick = () => {
+					const btns = Array.from(group.querySelectorAll(selector));
+					const allActive = btns.every(b => b.classList.contains('active'));
+					btns.forEach(b => b.classList.toggle('active', !allActive));
+					applyFilters();
+				};
+				group.appendChild(allBtn);
+			}
+
 			function buildFilters(movies) {
 				const formatsSet = new Set();
 				const theatersSet = new Set();
+				const attrsSet = new Set();
 				for (const movie of movies) {
 					for (const show of movie.showtimes || []) {
 						formatsSet.add(show.premium_format || 'Standard');
 						theatersSet.add(show.theater || show.theatre || 'Unknown');
+						for (const a of showAttributes(show)) attrsSet.add(a);
 					}
 				}
 				
@@ -105,6 +171,7 @@
 				formatLabel.className = 'filter-label';
 				formatLabel.textContent = 'Format';
 				formatGroup.appendChild(formatLabel);
+				addSelectAllToggle(formatGroup, '[data-format]');
 
 				Array.from(formatsSet).sort().forEach(format => {
 					const btn = document.createElement('button');
@@ -124,6 +191,7 @@
 				theaterLabel.className = 'filter-label';
 				theaterLabel.textContent = 'Theater';
 				theaterGroup.appendChild(theaterLabel);
+				addSelectAllToggle(theaterGroup, '[data-theater]');
 
 				Array.from(theatersSet).sort().forEach(theater => {
 					const btn = document.createElement('button');
@@ -137,8 +205,32 @@
 					theaterGroup.appendChild(btn);
 				});
 
+				const attributeGroup = document.createElement('div');
+				attributeGroup.className = 'filter-group';
+				const attributeLabel = document.createElement('span');
+				attributeLabel.className = 'filter-label';
+				attributeLabel.textContent = 'Attributes';
+				attributeGroup.appendChild(attributeLabel);
+				addSelectAllToggle(attributeGroup, '[data-attribute]');
+
+				// Attribute buttons start inactive: with none selected, no attribute
+				// filtering is applied. Selecting one or more narrows to showtimes
+				// that have at least one of the selected attributes.
+				Array.from(attrsSet).sort().forEach(attr => {
+					const btn = document.createElement('button');
+					btn.className = 'filter-btn';
+					btn.textContent = attr;
+					btn.dataset.attribute = attr;
+					btn.onclick = () => {
+						btn.classList.toggle('active');
+						applyFilters();
+					};
+					attributeGroup.appendChild(btn);
+				});
+
 				filtersDiv.appendChild(formatGroup);
 				filtersDiv.appendChild(theaterGroup);
+				filtersDiv.appendChild(attributeGroup);
 			}
 
 			function applyFilters() {
@@ -146,13 +238,17 @@
 				document.querySelectorAll('.filter-btn.active[data-format]').forEach(btn => activeFormats.add(btn.dataset.format));
 				const activeTheaters = new Set();
 				document.querySelectorAll('.filter-btn.active[data-theater]').forEach(btn => activeTheaters.add(btn.dataset.theater));
+				const activeAttributes = new Set();
+				document.querySelectorAll('.filter-btn.active[data-attribute]').forEach(btn => activeAttributes.add(btn.dataset.attribute));
 
 				document.querySelectorAll('[data-formats]').forEach(el => {
 					const formats = JSON.parse(el.dataset.formats);
 					const theaters = JSON.parse(el.dataset.theaters || '[]');
+					const attributes = JSON.parse(el.dataset.attributes || '[]');
 					const formatMatch = formats.some(f => activeFormats.has(f));
 					const theaterMatch = theaters.some(t => activeTheaters.has(t));
-					el.style.display = (formatMatch && theaterMatch) ? 'block' : 'none';
+					const attributeMatch = activeAttributes.size === 0 || attributes.some(a => activeAttributes.has(a));
+					el.style.display = (formatMatch && theaterMatch && attributeMatch) ? 'block' : 'none';
 				});
 			}
 
@@ -235,6 +331,7 @@
 
 								const formats = JSON.stringify(shows.map(s => s.premium_format || 'Standard'));
 								const theaters = JSON.stringify(shows.map(s => s.theater || s.theatre || 'Unknown'));
+								const attributes = JSON.stringify(Array.from(new Set(shows.flatMap(s => showAttributes(s)))));
 
 								let el;
 								if (hasPoster) {
@@ -244,6 +341,7 @@
 									el.alt = movie.title;
 									el.dataset.formats = formats;
 									el.dataset.theaters = theaters;
+									el.dataset.attributes = attributes;
 									el.onerror = () => {
 										const f = document.createElement('div');
 										f.className = 'poster poster-fallback';
@@ -251,6 +349,7 @@
 										f.title = movie.title;
 										f.dataset.formats = formats;
 										f.dataset.theaters = theaters;
+										f.dataset.attributes = attributes;
 										f.onclick = () => openMovie(movie, shows);
 										el.replaceWith(f);
 									};
@@ -261,6 +360,7 @@
 									el.title = movie.title;
 									el.dataset.formats = formats;
 									el.dataset.theaters = theaters;
+									el.dataset.attributes = attributes;
 								}
 
 								el.onclick = () => openMovie(movie, shows);
@@ -308,8 +408,9 @@
 								const tomorrow = new Date(Date.now() + 86400000).toDateString();
 								const showDate = new Date(s.datetime).toDateString();
 								const isAmcTodayTomorrow = (s.theater || s.theatre || '').includes('AMC') && (showDate === today || showDate === tomorrow);
+								const normAttrs = JSON.stringify(showAttributes(s));
 
-								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmcTodayTomorrow ? `data-show-id="${s.showtime_id||s.id}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-prices="${prices}">${time} · ${fmt}</span></div>`;
+								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmcTodayTomorrow ? `data-show-id="${s.showtime_id||s.id}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-normalized-attrs='${normAttrs}' data-prices="${prices}">${time} · ${fmt}</span></div>`;
 							}).join('')}
 							</div>
 						`).join('')}
@@ -324,12 +425,16 @@
 				document.querySelectorAll('.filter-btn.active[data-format]').forEach(btn => activeFormats.add(btn.dataset.format));
 				const activeTheaters = new Set();
 				document.querySelectorAll('.filter-btn.active[data-theater]').forEach(btn => activeTheaters.add(btn.dataset.theater));
+				const activeAttributes = new Set();
+				document.querySelectorAll('.filter-btn.active[data-attribute]').forEach(btn => activeAttributes.add(btn.dataset.attribute));
 				document.querySelectorAll('.theater-group').forEach(group => {
 					group.style.display = activeTheaters.has(group.dataset.theater) ? '' : 'none';
 				});
 				document.querySelectorAll('.show-badge').forEach(badge => {
 					const fmt = badge.getAttribute('data-format') || 'Standard';
-					badge.style.display = activeFormats.has(fmt) ? 'inline-block' : 'none';
+					const badgeAttrs = JSON.parse(badge.getAttribute('data-normalized-attrs') || '[]');
+					const attributeMatch = activeAttributes.size === 0 || badgeAttrs.some(a => activeAttributes.has(a));
+					badge.style.display = (activeFormats.has(fmt) && attributeMatch) ? 'inline-block' : 'none';
 				});
 
 				// Attach hover / click handlers to showtime badges
