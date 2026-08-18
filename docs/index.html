@@ -6,7 +6,8 @@
 		<title>Movie Calendar</title>
 		<style>
 			body{margin:0;background:#111;color:#eee;font-family:Arial}
-			header{padding:12px;background:#181818;position:sticky;top:0;z-index:2}
+			header{padding:12px;background:#181818;position:sticky;top:0;z-index:2;display:flex;justify-content:space-between;align-items:center;gap:12px}
+			#lastUpdated{color:#888;font-size:12px;white-space:nowrap}
 			#grid{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;padding:10px}
 			.day{background:#1f1f1f;border-radius:8px;padding:8px;min-height:0}
 			.date{font-weight:bold}
@@ -44,6 +45,7 @@
 	<body>
 		<header>
 			<span id="status" style="margin-left:12px"></span>
+			<span id="lastUpdated"></span>
 		</header>
 		<div id="filters"></div>
 
@@ -58,10 +60,18 @@
 		<script>
 			// Frontend reads the generated movies.json and local posters in the same folder.
 			const STATUS = document.getElementById('status');
+			const LAST_UPDATED = document.getElementById('lastUpdated');
 			const GRID = document.getElementById('grid');
 			const MODAL = document.getElementById('modal');
 			const CONTENT = document.getElementById('content');
 			let allMovies = [];
+
+			function formatLastUpdated(iso) {
+				if (!iso) return '';
+				const d = new Date(iso);
+				if (isNaN(d)) return '';
+				return 'Updated ' + d.toLocaleString([], {month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit'});
+			}
 
 			function closeModal() {
 				// hide modal and remove any tooltips
@@ -278,6 +288,7 @@
 					render(days);
 					buildFilters(allMovies); // Change this line
 					STATUS.textContent = `${data.metadata?.showtime_count || 0} showtimes, ${data.metadata?.movie_count || allMovies.length} movies`;
+					LAST_UPDATED.textContent = formatLastUpdated(data.metadata?.generated_at);
 
 				} catch (err) {
 					console.error(err);

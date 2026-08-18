@@ -411,7 +411,7 @@ class MoviePipeline:
 
         return {
 
-            "generated_at": datetime.now().isoformat(),
+            "generated_at": datetime.now(ZoneInfo("America/Chicago")).isoformat(),
 
             "movie_count": len(self.movies),
 
