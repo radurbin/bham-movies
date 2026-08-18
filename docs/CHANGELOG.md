@@ -1,3 +1,15 @@
+## 2026-08-18 10:43 AM CDT
+
+**Movies added:**
+- AMC Screen Unseen: August 31
+- Buddy
+- Dune: Part Three Insider Screenings
+- Dune: Part Three
+- Irumudi
+- Khalifa
+- Oasis: Don't Look Back in Anger
+- Oasis: Don’t Look Back In Anger IMAX Early Access
+
 ## 2026-08-18 05:22 AM CDT
 
 **Movies added:**
