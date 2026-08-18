@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-08-18T13:50:58.300725-05:00",
-    "movie_count": 154,
-    "showtime_count": 3233,
+    "generated_at": "2026-08-18T17:25:01.456256-05:00",
+    "movie_count": 155,
+    "showtime_count": 3234,
     "theaters": {
       "AMC Patton Creek 15": 1281,
       "AMC Summit 16": 1039,
-      "Sidewalk Film Center + Cinema": 179,
+      "Sidewalk Film Center + Cinema": 180,
       "AMC Vestavia Hills 10": 734
     }
   },
@@ -97498,6 +97498,56 @@
       ]
     },
     {
+      "sort_index": "tape night (free!)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Tape Night (Free!)",
+      "release_year": null,
+      "runtime": 100,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/tape-night-free.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Are you eager to relive your youth by basking in the retro glow of outdated media formats? Are you curious about the video store era that you missed out on by being cursed with a late birth? Then join Jeremy Burgess of the Dust On The VCR newsletter for Tape Night, a free quarterly event where you'll get to witness an actual VHS tape projected onto the big screen in all its glory! The titles will remain a mystery until showtime, and the genres will rotate with every screening (check the graphic for hints!), but one thing's for certain: You won't find these classics in splendid low-definition anywhere else in town. *This is a free event. Reservations are strongly recommended but not required. Seating is first come, first served*",
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/tapenight/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "KeU5ifMcdM",
+          "datetime": "2026-09-10T19:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/tapenight/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
       "sort_index": "techtuesday x sidewalk - lights, camera, innovation: building alabama's creative economy",
       "source": "Sidewalk",
       "movie_id": null,
@@ -132450,7 +132500,6 @@
             "Excluded from 50% off Discount",
             "International Films",
             "Excluded from A-List",
-            "No Passes",
             "Reserved Seating",
             "Telugu Spoken with English Subtitles"
           ],
@@ -132492,7 +132541,6 @@
             "Excluded from 50% off Discount",
             "International Films",
             "Excluded from A-List",
-            "No Passes",
             "Reserved Seating",
             "Telugu Spoken with English Subtitles"
           ],
@@ -132533,7 +132581,6 @@
           "attributes": [
             "International Films",
             "Excluded from A-List",
-            "No Passes",
             "Reserved Seating",
             "Telugu Spoken with English Subtitles"
           ],
@@ -132574,7 +132621,6 @@
           "attributes": [
             "International Films",
             "Excluded from A-List",
-            "No Passes",
             "Reserved Seating",
             "Telugu Spoken with English Subtitles"
           ],
@@ -132615,7 +132661,6 @@
           "attributes": [
             "International Films",
             "Excluded from A-List",
-            "No Passes",
             "Reserved Seating",
             "Telugu Spoken with English Subtitles"
           ],
@@ -132656,7 +132701,6 @@
           "attributes": [
             "International Films",
             "Excluded from A-List",
-            "No Passes",
             "Reserved Seating",
             "Telugu Spoken with English Subtitles"
           ],

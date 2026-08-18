@@ -1,3 +1,8 @@
+## 2026-08-18 05:25 PM CDT
+
+**Movies added:**
+- Tape Night (Free!)
+
 ## 2026-08-18 01:50 PM CDT
 
 **Showtime changes:**
