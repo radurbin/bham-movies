@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-19T11:18:00.314956-05:00",
+    "generated_at": "2026-08-19T17:12:59.578442-05:00",
     "movie_count": 161,
-    "showtime_count": 3183,
+    "showtime_count": 3185,
     "theaters": {
       "AMC Patton Creek 15": 1250,
-      "AMC Summit 16": 1059,
+      "AMC Summit 16": 1061,
       "Sidewalk Film Center + Cinema": 180,
       "AMC Vestavia Hills 10": 694
     }
@@ -46568,25 +46568,6 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "eSopIqIR0u",
-          "datetime": "2026-08-19T14:15:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/ghidorahthethree-headedmonster/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
           "showtime_id": "GFByyq1f0s",
           "datetime": "2026-08-19T18:45:00",
           "datetime_utc": null,
@@ -51797,47 +51778,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146362668,
-          "datetime": "2026-08-20T22:20:00",
-          "datetime_utc": "2026-08-21T03:20:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362668",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 145368726,
@@ -51875,6 +51815,47 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146362668,
+          "datetime": "2026-08-20T22:30:00",
+          "datetime_utc": "2026-08-21T03:30:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362668",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
             }
           ]
         },
@@ -70516,6 +70497,25 @@
           "auditorium": null,
           "premium_format": "Standard",
           "purchase_url": "https://sidewalkfest.com/events/brailledit/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "9c7f74WVov",
+          "datetime": "2026-09-26T19:30:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/manhunter/",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -90173,6 +90173,46 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146371480,
+          "datetime": "2026-08-20T19:15:00",
+          "datetime_utc": "2026-08-21T00:15:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146371480",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.59,
+              "tax": 1.6
+            },
+            {
+              "type": "CHILD",
+              "price": 14.29,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.94,
+              "tax": 1.45
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 145875812,
@@ -90378,7 +90418,7 @@
           "showtime_id": 146362675,
           "datetime": "2026-08-20T21:45:00",
           "datetime_utc": "2026-08-21T02:45:00Z",
-          "auditorium": 9,
+          "auditorium": 12,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362675",
           "sold_out": false,
@@ -97321,6 +97361,47 @@
       "movie_url": "https://www.amctheatres.com/movies/teenage-sex-and-death-at-camp-miasma-82941",
       "trailer_url": null,
       "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146371479,
+          "datetime": "2026-08-20T19:10:00",
+          "datetime_utc": "2026-08-21T00:10:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146371479",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        },
         {
           "source": "AMC",
           "theater_id": 4101,
@@ -106783,9 +106864,9 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146362721,
-          "datetime": "2026-08-20T21:40:00",
-          "datetime_utc": "2026-08-21T02:40:00Z",
-          "auditorium": 12,
+          "datetime": "2026-08-20T22:20:00",
+          "datetime_utc": "2026-08-21T03:20:00Z",
+          "auditorium": 7,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362721",
           "sold_out": false,

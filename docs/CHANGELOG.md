@@ -1,3 +1,21 @@
+## 2026-08-19 05:12 PM CDT
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - + AMC Summit 16 @ 2026-08-20T19:10:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC Summit 16 @ 2026-08-20T22:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-20T22:20:00 (Standard)
+- The End of Oak Street
+  - + AMC Summit 16 @ 2026-08-20T22:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-20T21:40:00 (Standard)
+- Godzillafest 2026: Ghidorah, the Three-Headed Monster (1964)
+  - − Sidewalk Film Center + Cinema @ 2026-08-19T14:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Summit 16 @ 2026-08-20T19:15:00 (Standard)
+- One Night Only
+  - + Sidewalk Film Center + Cinema @ 2026-09-26T19:30:00 (Standard)
+
 ## 2026-08-19 11:18 AM CDT
 
 **Movies added:**

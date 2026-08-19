@@ -14024,5 +14024,90 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-19 05:12 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T19:10:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Insidious: Out of the Further",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T22:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T22:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The End of Oak Street",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T22:20:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T21:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Godzillafest 2026: Ghidorah, the Three-Headed Monster (1964)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-08-19T14:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T19:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "One Night Only",
+        "added": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-09-26T19:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      }
+    ]
   }
 ]
