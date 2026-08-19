@@ -1,3 +1,22 @@
+## 2026-08-19 11:18 AM CDT
+
+**Movies added:**
+- Amok Time + Star Trek III: The Search for Spock 60th Anniversary Event
+- Camp Duval
+- Fall 2: Deadpoint
+- NO LIMBS, NO LIMITS: The NickV Story
+- Space Seed + Star Trek II: The Wrath of Khan - Director's Cut 60th Anniversary Event
+- The Changeling + Star Trek: The Motion Picture - Director's Edition - 60th Anniversary Event
+- The City on The Edge of Forever + Star Trek IV: The Voyage Home 60th Anniversary Event
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - + AMC Summit 16 @ 2026-08-21T20:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-22T20:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Summit 16 @ 2026-08-21T20:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-22T20:45:00 (Standard)
+
 ## 2026-08-19 05:22 AM CDT
 
 **Movies removed:**
