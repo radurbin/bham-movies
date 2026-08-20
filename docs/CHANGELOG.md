@@ -1,3 +1,11 @@
+## 2026-08-20 11:20 AM CDT
+
+**Movies added:**
+- Akira
+- Hope
+- Onslaught
+- The Uprising: Early Access Live Q&A with Paul Greengrass and Andrew Garfield
+
 ## 2026-08-20 05:18 AM CDT
 
 **Movies removed:**
