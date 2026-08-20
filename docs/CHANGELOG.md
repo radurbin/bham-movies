@@ -1,3 +1,24 @@
+## 2026-08-19 11:25 PM CDT
+
+**Showtime changes:**
+- PAW Patrol: The Dino Movie
+  - + AMC Summit 16 @ 2026-08-20T18:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-20T18:00:00 (Standard)
+- The Rivals of Amziah King
+  - − Sidewalk Film Center + Cinema @ 2026-08-19T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-08-19T16:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-08-19T19:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Summit 16 @ 2026-08-20T11:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-20T14:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-20T20:45:00 (Standard)
+- Godzillafest 2026: Invasion of Astro-Monster (1965)
+  - − Sidewalk Film Center + Cinema @ 2026-08-19T16:30:00 (Standard)
+- Godzillafest 2026: Ghidorah, the Three-Headed Monster (1964)
+  - − Sidewalk Film Center + Cinema @ 2026-08-19T18:45:00 (Standard)
+- The Brink of War
+  - − AMC Summit 16 @ 2026-08-20T18:45:00 (Standard)
+
 ## 2026-08-19 05:12 PM CDT
 
 **Showtime changes:**

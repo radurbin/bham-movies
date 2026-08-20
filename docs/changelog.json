@@ -14109,5 +14109,104 @@
         "removed": []
       }
     ]
+  },
+  {
+    "date": "2026-08-19 11:25 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "PAW Patrol: The Dino Movie",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T18:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T18:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Rivals of Amziah King",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-08-19T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-08-19T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-08-19T19:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T11:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T14:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T20:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Godzillafest 2026: Invasion of Astro-Monster (1965)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-08-19T16:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Godzillafest 2026: Ghidorah, the Three-Headed Monster (1964)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-08-19T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Brink of War",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-20T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

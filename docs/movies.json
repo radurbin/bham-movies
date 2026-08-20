@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-08-19T17:12:59.578442-05:00",
+    "generated_at": "2026-08-19T23:25:22.755624-05:00",
     "movie_count": 161,
-    "showtime_count": 3185,
+    "showtime_count": 3176,
     "theaters": {
       "AMC Patton Creek 15": 1250,
-      "AMC Summit 16": 1061,
-      "Sidewalk Film Center + Cinema": 180,
+      "AMC Summit 16": 1057,
+      "Sidewalk Film Center + Cinema": 175,
       "AMC Vestavia Hills 10": 694
     }
   },
@@ -42472,7 +42472,7 @@
           "premium_format": "IMAX at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-15/pattoncreek/all/146269966",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -46568,25 +46568,6 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "GFByyq1f0s",
-          "datetime": "2026-08-19T18:45:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/ghidorahthethree-headedmonster/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
           "showtime_id": "mJWn0wS4iO",
           "datetime": "2026-08-20T14:15:00",
           "datetime_utc": null,
@@ -46839,25 +46820,6 @@
       "movie_url": "https://sidewalkfest.com/events/invasionofastro-monster/",
       "trailer_url": null,
       "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "5Z4ZuCK1Bc",
-          "datetime": "2026-08-19T16:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/invasionofastro-monster/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
         {
           "source": "Sidewalk",
           "theater_id": 0,
@@ -48247,7 +48209,7 @@
           "showtime_id": 145890074,
           "datetime": "2026-08-20T14:15:00",
           "datetime_utc": "2026-08-20T19:15:00Z",
-          "auditorium": 13,
+          "auditorium": 15,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/145890074",
           "sold_out": false,
@@ -48328,7 +48290,7 @@
           "showtime_id": 145890075,
           "datetime": "2026-08-20T16:50:00",
           "datetime_utc": "2026-08-20T21:50:00Z",
-          "auditorium": 13,
+          "auditorium": 15,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/145890075",
           "sold_out": false,
@@ -48369,10 +48331,10 @@
           "showtime_id": 145890076,
           "datetime": "2026-08-20T19:25:00",
           "datetime_utc": "2026-08-21T00:25:00Z",
-          "auditorium": 13,
+          "auditorium": 15,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/145890076",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -48450,7 +48412,7 @@
           "showtime_id": 145890077,
           "datetime": "2026-08-20T22:00:00",
           "datetime_utc": "2026-08-21T03:00:00Z",
-          "auditorium": 13,
+          "auditorium": 15,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/145890077",
           "sold_out": false,
@@ -71682,7 +71644,7 @@
           "showtime_id": 146362724,
           "datetime": "2026-08-20T11:55:00",
           "datetime_utc": "2026-08-20T16:55:00Z",
-          "auditorium": 13,
+          "auditorium": 15,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362724",
           "sold_out": false,
@@ -71998,46 +71960,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146362731,
-          "datetime": "2026-08-20T18:00:00",
-          "datetime_utc": "2026-08-20T23:00:00Z",
-          "auditorium": 15,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362731",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145126733,
@@ -72113,6 +72035,46 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146362731,
+          "datetime": "2026-08-20T18:45:00",
+          "datetime_utc": "2026-08-20T23:45:00Z",
+          "auditorium": 14,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362731",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
             }
           ]
         },
@@ -89365,46 +89327,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146362733,
-          "datetime": "2026-08-20T11:00:00",
-          "datetime_utc": "2026-08-20T16:00:00Z",
-          "auditorium": 15,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362733",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.07,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.43,
-              "tax": 1.04
-            },
-            {
-              "type": "SENIOR",
-              "price": 12.75,
-              "tax": 1.16
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146288072,
@@ -89723,46 +89645,6 @@
               "type": "SENIOR",
               "price": 11.82,
               "tax": 1.03
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146362734,
-          "datetime": "2026-08-20T14:30:00",
-          "datetime_utc": "2026-08-20T19:30:00Z",
-          "auditorium": 15,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362734",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.07,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.43,
-              "tax": 1.04
-            },
-            {
-              "type": "SENIOR",
-              "price": 12.75,
-              "tax": 1.16
             }
           ]
         },
@@ -90301,46 +90183,6 @@
           "auditorium": 11,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362691",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.59,
-              "tax": 1.6
-            },
-            {
-              "type": "CHILD",
-              "price": 14.29,
-              "tax": 1.3
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.94,
-              "tax": 1.45
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146362732,
-          "datetime": "2026-08-20T20:45:00",
-          "datetime_utc": "2026-08-21T01:45:00Z",
-          "auditorium": 15,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362732",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -99407,46 +99249,6 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146362725,
-          "datetime": "2026-08-20T18:45:00",
-          "datetime_utc": "2026-08-20T23:45:00Z",
-          "auditorium": 14,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/summit/all/146362725",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
             }
           ]
         },
@@ -121450,25 +121252,6 @@
           ]
         },
         {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "9TOIOkp3O1",
-          "datetime": "2026-08-19T14:00:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/therivalsofamziahking/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
@@ -121552,25 +121335,6 @@
           ]
         },
         {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "jTpTomUgq5",
-          "datetime": "2026-08-19T16:45:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/therivalsofamziahking/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
@@ -121651,25 +121415,6 @@
               "tax": 1.35
             }
           ]
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "Fw4KHLy4ij",
-          "datetime": "2026-08-19T19:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/therivalsofamziahking/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
         },
         {
           "source": "AMC",
