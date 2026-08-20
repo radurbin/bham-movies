@@ -1,3 +1,8 @@
+## 2026-08-20 05:15 PM CDT
+
+**Movies removed:**
+- Godzillafest 2026: Ghidorah, the Three-Headed Monster (1964)
+
 ## 2026-08-20 11:20 AM CDT
 
 **Movies added:**
