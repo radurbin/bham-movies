@@ -1,3 +1,45 @@
+## 2026-08-20 11:27 PM CDT
+
+**Movies removed:**
+- Godzillafest 2026: Invasion of Astro-Monster (1965)
+
+**Showtime changes:**
+- Minions & Monsters
+  - + AMC Summit 16 @ 2026-08-21T16:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-21T15:55:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Summit 16 @ 2026-08-21T19:10:00 (RealD 3D)
+- Hot Spot
+  - − AMC Summit 16 @ 2026-08-21T11:40:00 (Standard)
+- The Rivals of Amziah King
+  - − Sidewalk Film Center + Cinema @ 2026-08-20T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-08-20T16:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-08-20T19:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-21T15:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-21T22:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-22T22:05:00 (Standard)
+- Sidewalk Film 101: Rome, Open City (1945)
+  - − Sidewalk Film Center + Cinema @ 2026-08-20T19:00:00 (Standard)
+- Spa Weekend
+  - + AMC Summit 16 @ 2026-08-21T16:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-21T22:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-21T14:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-21T16:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-21T21:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-22T11:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-22T14:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-22T16:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-22T19:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T11:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T14:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T16:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T19:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T21:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-24T13:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-24T16:25:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-24T18:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-24T21:35:00 (Standard)
+
 ## 2026-08-20 05:15 PM CDT
 
 **Movies removed:**
