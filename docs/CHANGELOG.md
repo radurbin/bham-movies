@@ -1,3 +1,54 @@
+## 2026-08-21 05:12 PM CDT
+
+**Movies added:**
+- Batman (1989)
+- Batman: Mask of the Phantasm (2026BD)
+- SPIRITED AWAY: Live on Stage - Studio Ghibli Fest 2026
+- The Lego Batman Movie
+
+**Showtime changes:**
+- Spa Weekend
+  - + AMC Summit 16 @ 2026-08-22T11:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-22T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-22T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-22T22:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-23T11:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-23T14:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-23T15:55:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-23T19:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-23T22:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-24T13:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-24T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-24T21:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-22T21:55:00 (Standard)
+- The Rivals of Amziah King
+  - − AMC Summit 16 @ 2026-08-22T15:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T22:05:00 (Standard)
+- Minions & Monsters
+  - − AMC Summit 16 @ 2026-08-23T15:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-24T15:45:00 (Standard)
+- American Martyr: The Stanley Rother Story
+  - − AMC Patton Creek 15 @ 2026-08-25T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-27T19:00:00 (Standard)
+- House of Worship
+  - − AMC Summit 16 @ 2026-08-23T14:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-23T18:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-25T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-25T19:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-26T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-26T19:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Summit 16 @ 2026-08-22T19:10:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-08-23T19:10:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-08-24T21:40:00 (Standard)
+- Castle in the Sky 40th Anniversary - Studio Ghibli Fest 2026
+  - − AMC Summit 16 @ 2026-08-25T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-26T19:00:00 (Standard)
+- Hot Spot
+  - − AMC Summit 16 @ 2026-08-22T11:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T11:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-24T14:00:00 (Standard)
+
 ## 2026-08-21 11:18 AM CDT
 
 No changes.
