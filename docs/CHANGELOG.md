@@ -1,3 +1,13 @@
+## 2026-08-21 08:43 PM CDT
+
+**Showtime changes:**
+- The Rivals of Amziah King
+  - − Sidewalk Film Center + Cinema @ 2026-08-21T14:30:00 (Standard)
+- Godzillafest 2026: Godzilla vs. Mechagodzilla (1974)
+  - − Sidewalk Film Center + Cinema @ 2026-08-21T14:00:00 (Standard)
+- Godzillafest 2026: Terror of Mechagodzilla (1975)
+  - − Sidewalk Film Center + Cinema @ 2026-08-21T16:00:00 (Standard)
+
 ## 2026-08-21 05:12 PM CDT
 
 **Movies added:**
