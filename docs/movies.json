@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-08-22T11:10:13.181641-05:00",
+    "generated_at": "2026-08-22T17:15:06.667792-05:00",
     "movie_count": 160,
-    "showtime_count": 2837,
+    "showtime_count": 2833,
     "theaters": {
-      "AMC Patton Creek 15": 1153,
+      "AMC Patton Creek 15": 1154,
       "AMC Summit 16": 920,
-      "Sidewalk Film Center + Cinema": 161,
+      "Sidewalk Film Center + Cinema": 156,
       "AMC Vestavia Hills 10": 603
     }
   },
@@ -48534,44 +48534,6 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "WZb02HIPpx",
-          "datetime": "2026-08-22T10:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/godzillavsmechagodzilla/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "n6Jj3cvMln",
-          "datetime": "2026-08-22T14:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/godzillavsmechagodzilla/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
           "showtime_id": "85PHVkGYBc",
           "datetime": "2026-08-22T18:30:00",
           "datetime_utc": null,
@@ -48680,25 +48642,6 @@
       "movie_url": "https://sidewalkfest.com/events/terrorofmechagodzilla/",
       "trailer_url": null,
       "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "NHTFlFX0q1",
-          "datetime": "2026-08-22T12:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/terrorofmechagodzilla/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
         {
           "source": "Sidewalk",
           "theater_id": 0,
@@ -52906,7 +52849,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/145368731",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -53552,6 +53495,46 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 146395654,
+          "datetime": "2026-08-23T18:10:00",
+          "datetime_utc": "2026-08-23T23:10:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-23/pattoncreek/all/146395654",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
             }
           ]
         },
@@ -56636,7 +56619,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/summit/all/146243220",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -60069,7 +60052,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/summit/all/146243048",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -71818,7 +71801,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/summit/all/146243243",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -71897,7 +71880,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/summit/all/146243104",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -71937,7 +71920,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146288123",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -72017,7 +72000,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/summit/all/146243103",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -72337,6 +72320,47 @@
           "auditorium": 6,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-23/vestaviahills/all/146288234",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146393711,
+          "datetime": "2026-08-23T10:10:00",
+          "datetime_utc": "2026-08-23T15:10:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-23/vestaviahills/all/146393711",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -86566,7 +86590,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/summit/all/146243124",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -86606,7 +86630,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/145875799",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -86647,7 +86671,7 @@
           "premium_format": "PRIME at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146288069",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -86970,7 +86994,7 @@
           "premium_format": "PRIME at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146288068",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -100262,47 +100286,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146288271,
-          "datetime": "2026-08-23T10:00:00",
-          "datetime_utc": "2026-08-23T15:00:00Z",
-          "auditorium": 8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-23/vestaviahills/all/146288271",
-          "sold_out": true,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "CHILD",
-              "price": 10.55,
-              "tax": 0.96
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.87,
-              "tax": 1.08
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146256431,
@@ -106019,7 +106002,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/summit/all/146243172",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -106099,7 +106082,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146288124",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -111141,25 +111124,6 @@
           ]
         },
         {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "aDbPFbI5EG",
-          "datetime": "2026-08-22T10:45:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/therivalsofamziahking/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
@@ -111202,25 +111166,6 @@
           ]
         },
         {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "Pjku0JOeId",
-          "datetime": "2026-08-22T13:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/therivalsofamziahking/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
@@ -111231,7 +111176,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146288180",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -111292,7 +111237,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/summit/all/146243049",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -116796,7 +116741,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146288281",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,

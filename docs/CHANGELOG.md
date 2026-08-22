@@ -1,3 +1,21 @@
+## 2026-08-22 05:15 PM CDT
+
+**Showtime changes:**
+- Godzillafest 2026: Terror of Mechagodzilla (1975)
+  - − Sidewalk Film Center + Cinema @ 2026-08-22T12:30:00 (Standard)
+- The End of Oak Street
+  - − AMC Vestavia Hills 10 @ 2026-08-23T10:00:00 (Standard)
+- The Rivals of Amziah King
+  - − Sidewalk Film Center + Cinema @ 2026-08-22T10:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-08-22T13:30:00 (Standard)
+- Godzillafest 2026: Godzilla vs. Mechagodzilla (1974)
+  - − Sidewalk Film Center + Cinema @ 2026-08-22T10:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-08-22T14:30:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - + AMC Vestavia Hills 10 @ 2026-08-23T10:10:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC Patton Creek 15 @ 2026-08-23T18:10:00 (Standard)
+
 ## 2026-08-22 11:10 AM CDT
 
 **Showtime changes:**
