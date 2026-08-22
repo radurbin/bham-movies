@@ -1,3 +1,152 @@
+## 2026-08-21 09:57 PM CDT
+
+**Movies added:**
+- 40 Years of F**kin' Up
+- A Beautiful Mind 25th Anniversary
+- AMC Scream Unseen: August 24
+- AMC Screen Unseen: August 31
+- Adore Him: He is Here
+- Akira
+- American Martyr: The Stanley Rother Story
+- Amok Time + Star Trek III: The Search for Spock 60th Anniversary Event
+- Angel and the Badman
+- Batman (1989)
+- Batman: Mask of the Phantasm (2026BD)
+- Beyond Belief
+- Buddy
+- By Any Means
+- Camp Duval
+- Castle in the Sky 40th Anniversary - Studio Ghibli Fest 2026
+- Crunchyroll Anime Nights Sneak Peek - September '26
+- Dune: Part Three Insider Screenings
+- Fall 2: Deadpoint
+- Fallen Angels by Noël Coward
+- GHOST: 2 Big To Rig
+- Gone with the Wind (2026 Event)
+- Harry Potter And The Philosopher's Stone: 25th Anniversary 
+- Harry Potter and the Sorcerer’s Stone: 25th Anniversary
+- Heaven in Stone and Glass
+- Hope
+- Hot Spot
+- House of Worship
+- Idiots Early Access
+- It Ends
+- It's a Wonderful Life 80th Anniversary
+- Juan Gabriel: Mi Primer Bellas Artes
+- KATSEYE: WILD HEARTS
+- Khalifa
+- Linkin Park: Unshatter
+- MST3K: The RiffTrax Experiments - Sting of Death
+- Moana
+- Mutiny
+- NO LIMBS, NO LIMITS: The NickV Story
+- ONE NIGHT ONLY: Manhunter: The Final Cut (1986)
+- Oasis: Don't Look Back in Anger
+- Oasis: Don’t Look Back In Anger IMAX Early Access
+- Onslaught
+- Princess Mononoke - Studio Ghibli Fest 2026
+- Runner
+- SPIRITED AWAY: Live on Stage - Studio Ghibli Fest 2026
+- Spa Weekend
+- Space Seed + Star Trek II: The Wrath of Khan - Director's Cut 60th Anniversary Event
+- Spirited Away 25th Anniversary - Studio Ghibli Fest 2026
+- Terminator 2: Judgment Day 35th Anniversary
+- The Changeling + Star Trek: The Motion Picture - Director's Edition - 60th Anniversary Event
+- The City on The Edge of Forever + Star Trek IV: The Voyage Home 60th Anniversary Event
+- The Fast and the Furious 25th Anniversary
+- The Hunger Games (2026)
+- The Hunger Games: Catching Fire (2026)
+- The Hunger Games: Mockingjay - Part 1 (2026)
+- The Hunger Games: Mockingjay - Part 2 (2026)
+- The Hunger Games: The Ballad of Songbirds & Snakes (2026)
+- The Last Blossom
+- The Lego Batman Movie
+- The Maltese Falcon 85th Anniversary
+- The Nutty Professor: 30th Anniversary
+- The Passion of the Christ (2026 Event)
+- The Transformers: The Movie 40th Anniversary
+- The Uprising: Early Access Live Q&A with Paul Greengrass and Andrew Garfield
+- Tony
+- Vishwanath & Sons
+- Your Name. 10th Anniversary
+
+**Movies removed:**
+- 40 Years of F**kin' Up
+- A Beautiful Mind 25th Anniversary
+- AMC Scream Unseen: August 24
+- AMC Screen Unseen: August 31
+- Adore Him: He is Here
+- Akira
+- American Martyr: The Stanley Rother Story
+- Amok Time + Star Trek III: The Search for Spock 60th Anniversary Event
+- Angel and the Badman
+- Batman (1989)
+- Batman: Mask of the Phantasm (2026BD)
+- Beyond Belief
+- Buddy
+- By Any Means
+- Camp Duval
+- Castle in the Sky 40th Anniversary - Studio Ghibli Fest 2026
+- Crunchyroll Anime Nights Sneak Peek - September '26
+- Dune: Part Three Insider Screenings
+- Fall 2: Deadpoint
+- Fallen Angels by Noël Coward
+- GHOST: 2 Big To Rig
+- Gone with the Wind (2026 Event)
+- Harry Potter And The Philosopher's Stone: 25th Anniversary 
+- Harry Potter and the Sorcerer’s Stone: 25th Anniversary
+- Heaven in Stone and Glass
+- Hope
+- Hot Spot
+- House of Worship
+- Idiots Early Access
+- It Ends
+- It's a Wonderful Life 80th Anniversary
+- Juan Gabriel: Mi Primer Bellas Artes
+- KATSEYE: WILD HEARTS
+- Khalifa
+- Linkin Park: Unshatter
+- MST3K: The RiffTrax Experiments - Sting of Death
+- Moana
+- Mutiny
+- NO LIMBS, NO LIMITS: The NickV Story
+- Oasis: Don't Look Back in Anger
+- Oasis: Don’t Look Back In Anger IMAX Early Access
+- Onslaught
+- Princess Mononoke - Studio Ghibli Fest 2026
+- Runner
+- SPIRITED AWAY: Live on Stage - Studio Ghibli Fest 2026
+- Spa Weekend
+- Space Seed + Star Trek II: The Wrath of Khan - Director's Cut 60th Anniversary Event
+- Spirited Away 25th Anniversary - Studio Ghibli Fest 2026
+- Terminator 2: Judgment Day 35th Anniversary
+- The Changeling + Star Trek: The Motion Picture - Director's Edition - 60th Anniversary Event
+- The City on The Edge of Forever + Star Trek IV: The Voyage Home 60th Anniversary Event
+- The Fast and the Furious 25th Anniversary
+- The Hunger Games (2026)
+- The Hunger Games: Catching Fire (2026)
+- The Hunger Games: Mockingjay - Part 1 (2026)
+- The Hunger Games: Mockingjay - Part 2 (2026)
+- The Hunger Games: The Ballad of Songbirds & Snakes (2026)
+- The Last Blossom
+- The Lego Batman Movie
+- The Maltese Falcon 85th Anniversary
+- The Nutty Professor: 30th Anniversary
+- The Passion of the Christ (2026 Event)
+- The Transformers: The Movie 40th Anniversary
+- The Uprising: Early Access Live Q&A with Paul Greengrass and Andrew Garfield
+- Tony
+- Vishwanath & Sons
+- Your Name. 10th Anniversary
+
+**Showtime changes:**
+- One Night Only
+  - − Sidewalk Film Center + Cinema @ 2026-09-26T19:30:00 (Standard)
+- The Rivals of Amziah King
+  - − Sidewalk Film Center + Cinema @ 2026-08-21T17:30:00 (Standard)
+- Godzillafest 2026: Godzilla vs. Mechagodzilla (1974)
+  - − Sidewalk Film Center + Cinema @ 2026-08-21T18:00:00 (Standard)
+
 ## 2026-08-21 08:43 PM CDT
 
 **Showtime changes:**

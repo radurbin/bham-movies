@@ -190,6 +190,34 @@ class AMCFetcher:
 
 
 
+    def fetch_movie_details(self, movie_id: int) -> dict:
+        """
+        Fetch AMC's own catalog record for a movie.
+
+        Unlike showtime records (which carry no release date at all),
+        this endpoint returns `releaseDateUtc`. Without it, `release_year`
+        stays unset until OMDb enrichment fills it in via a title-only
+        lookup -- which is how a new release like "Mutiny" (2026) ends up
+        enriched with data for the unrelated 1952 film of the same name.
+        Passing AMC's own release year to OMDb's `y=` param fixes that
+        match at the source.
+        """
+
+        return self._get(f"/movies/{movie_id}")
+
+
+    @staticmethod
+    def _parse_release_year(release_date_utc):
+
+        if not release_date_utc:
+            return None
+
+        try:
+            return int(release_date_utc[:4])
+        except (TypeError, ValueError):
+            return None
+
+
     def _get_movie_key(self, show: dict):
         """
         Unique movie identifier.
@@ -392,6 +420,26 @@ class AMCFetcher:
                 self._convert_showtime(
                     show
                 )
+            )
+
+
+        print(
+            f"\nFetching release dates for {len(movies)} unique movies..."
+        )
+
+        for movie in movies.values():
+
+            if not movie.movie_id:
+                continue
+
+            try:
+                details = self.fetch_movie_details(movie.movie_id)
+            except Exception as ex:
+                print(f"  Failed to fetch details for {movie.title}: {ex}")
+                continue
+
+            movie.release_year = self._parse_release_year(
+                details.get("releaseDateUtc")
             )
 
 
