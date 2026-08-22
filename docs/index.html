@@ -401,6 +401,7 @@
 						<h1>${movie.title}</h1>
 						<div>
 							<span class="badge">${movie.imdb_rating || ''} IMDb</span>
+							${movie.letterboxd_rating ? `<span class="badge">${movie.letterboxd_url ? `<a href="${movie.letterboxd_url}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${movie.letterboxd_rating.toFixed(2)} ★ Letterboxd</a>` : `${movie.letterboxd_rating.toFixed(2)} ★ Letterboxd`}</span>` : ''}
 							<span class="badge">${movie.release_year || ''}</span>
 							<span class="badge">${(movie.genres || []).join(', ')}</span>
 						</div>

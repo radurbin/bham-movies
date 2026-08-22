@@ -31,6 +31,8 @@ MOVIES_JSON = DOCS_DIR / "movies.json"
 
 OMDB_CACHE = CACHE_DIR / "omdb_cache.json"
 
+LETTERBOXD_CACHE = CACHE_DIR / "letterboxd_cache.json"
+
 # ============================================================
 # API Keys
 # ============================================================
@@ -75,6 +77,8 @@ USER_AGENT = (
 SHOWTIME_PAGE_SIZE = 100
 
 OMDB_DELAY = 0.25
+
+LETTERBOXD_DELAY = 0.5
 
 # ============================================================
 # Birmingham Theaters

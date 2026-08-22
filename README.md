@@ -3,7 +3,7 @@
 This folder builds a static movie showtimes site suitable for GitHub Pages.
 
 Overview
-- The Python backend fetches showtimes from the AMC API (`fetchers/amc.py`) and by scraping Sidewalk Film Center + Cinema's public showtimes page (`fetchers/sidewalk.py`), enriches metadata using OMDb (`fetchers/omdb.py`), downloads poster images into `docs/posters/`, and writes `docs/movies.json` consumed by the frontend (`docs/index.html`).
+- The Python backend fetches showtimes from the AMC API (`fetchers/amc.py`) and by scraping Sidewalk Film Center + Cinema's public showtimes page (`fetchers/sidewalk.py`), enriches metadata using OMDb (`fetchers/omdb.py`) and Letterboxd ratings (`fetchers/letterboxd.py`), downloads poster images into `docs/posters/`, and writes `docs/movies.json` consumed by the frontend (`docs/index.html`).
 
 Quick local preview
 
@@ -84,6 +84,7 @@ How far in the future is fetched
 Poster and movie data retention
 
 - OMDb responses are cached in `cache/omdb_cache.json` by `fetchers/omdb.py` to avoid re-querying OMDb for unchanged titles.
+- Letterboxd ratings are cached in `cache/letterboxd_cache.json` by `fetchers/letterboxd.py`. Letterboxd has no public API, so each movie's page is found via its IMDb ID (`letterboxd.com/imdb/{imdb_id}/`, which redirects to the film page) and the rating is read out of that page's embedded JSON-LD. This only works for movies OMDb already resolved an `imdb_id` for; Letterboxd's own search page 403s scripted requests, so there's no title-based fallback for movies OMDb missed.
 - Posters are downloaded into `docs/posters/`. The pipeline avoids re-downloading posters that already exist (it checks file presence by filename).
 - After each run the pipeline removes stale poster files: any files in `docs/posters/` not referenced by the newly generated `movies.json` are deleted. This keeps the poster directory trimmed to only the artwork currently referenced by the frontend.
 

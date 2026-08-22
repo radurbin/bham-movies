@@ -139,6 +139,12 @@ class Movie:
 
     metacritic: Optional[str] = None
 
+    letterboxd_rating: Optional[float] = None
+
+    letterboxd_rating_count: Optional[int] = None
+
+    letterboxd_url: Optional[str] = None
+
     #
     # Extra metadata
     #
