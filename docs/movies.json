@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-08-21T22:04:33.620389-05:00",
+    "generated_at": "2026-08-21T23:20:54.371566-05:00",
     "movie_count": 160,
-    "showtime_count": 3002,
+    "showtime_count": 3001,
     "theaters": {
       "AMC Patton Creek 15": 1209,
       "AMC Summit 16": 983,
-      "Sidewalk Film Center + Cinema": 164,
+      "Sidewalk Film Center + Cinema": 163,
       "AMC Vestavia Hills 10": 646
     }
   },
@@ -48699,25 +48699,6 @@
       "movie_url": "https://sidewalkfest.com/events/terrorofmechagodzilla/",
       "trailer_url": null,
       "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "Oi6Ep7aBAL",
-          "datetime": "2026-08-21T20:00:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/terrorofmechagodzilla/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
         {
           "source": "Sidewalk",
           "theater_id": 0,

@@ -1,3 +1,9 @@
+## 2026-08-21 11:20 PM CDT
+
+**Showtime changes:**
+- Godzillafest 2026: Terror of Mechagodzilla (1975)
+  - − Sidewalk Film Center + Cinema @ 2026-08-21T20:00:00 (Standard)
+
 ## 2026-08-21 10:04 PM CDT
 
 No changes.
