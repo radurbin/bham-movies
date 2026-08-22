@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-22T09:08:34.249188-05:00",
+    "generated_at": "2026-08-22T11:10:13.181641-05:00",
     "movie_count": 160,
     "showtime_count": 2837,
     "theaters": {
@@ -52982,6 +52982,48 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146393307,
+          "datetime": "2026-08-22T21:10:00",
+          "datetime_utc": "2026-08-23T02:10:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146393307",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
           "showtime_id": 145368732,
           "datetime": "2026-08-22T21:45:00",
           "datetime_utc": "2026-08-23T02:45:00Z",
@@ -100100,47 +100142,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146288178,
-          "datetime": "2026-08-22T21:15:00",
-          "datetime_utc": "2026-08-23T02:15:00Z",
-          "auditorium": 4,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146288178",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146249421,
@@ -100222,13 +100223,54 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146288178,
+          "datetime": "2026-08-22T22:50:00",
+          "datetime_utc": "2026-08-23T03:50:00Z",
+          "auditorium": 6,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146288178",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146288271,
           "datetime": "2026-08-23T10:00:00",
           "datetime_utc": "2026-08-23T15:00:00Z",
           "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-23/vestaviahills/all/146288271",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -111364,48 +111406,6 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146288213,
-          "datetime": "2026-08-22T22:45:00",
-          "datetime_utc": "2026-08-23T03:45:00Z",
-          "auditorium": 5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146288213",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146288287,
           "datetime": "2026-08-23T10:20:00",
           "datetime_utc": "2026-08-23T15:20:00Z",
@@ -114243,9 +114243,9 @@
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146288249,
-          "datetime": "2026-08-22T22:50:00",
-          "datetime_utc": "2026-08-23T03:50:00Z",
-          "auditorium": 6,
+          "datetime": "2026-08-22T22:45:00",
+          "datetime_utc": "2026-08-23T03:45:00Z",
+          "auditorium": 5,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-22/vestaviahills/all/146288249",
           "sold_out": false,

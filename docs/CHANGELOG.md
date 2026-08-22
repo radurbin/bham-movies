@@ -1,3 +1,17 @@
+## 2026-08-22 11:10 AM CDT
+
+**Showtime changes:**
+- Tony
+  - + AMC Vestavia Hills 10 @ 2026-08-22T22:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-08-22T22:50:00 (Standard)
+- The Rivals of Amziah King
+  - − AMC Vestavia Hills 10 @ 2026-08-22T22:45:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC Vestavia Hills 10 @ 2026-08-22T21:10:00 (Standard)
+- The End of Oak Street
+  - + AMC Vestavia Hills 10 @ 2026-08-22T22:50:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-08-22T21:15:00 (Standard)
+
 ## 2026-08-22 09:08 AM CDT
 
 **Showtime changes:**
