@@ -1,3 +1,74 @@
+## 2026-08-23 05:09 PM CDT
+
+**Movies added:**
+- Idiots
+- Toxic: A Fairy Tale For Grown-ups
+
+**Movies removed:**
+- Sidewalk Film 101: Rome, Open City (1945)
+
+**Showtime changes:**
+- Moana
+  - + AMC Patton Creek 15 @ 2026-08-25T18:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-26T18:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-26T19:25:00 (Standard)
+- The Rivals of Amziah King
+  - − Sidewalk Film Center + Cinema @ 2026-08-23T10:30:00 (Standard)
+- Godzillafest 2026: Godzilla vs. Mechagodzilla (1974)
+  - − Sidewalk Film Center + Cinema @ 2026-08-23T10:45:00 (Standard)
+- The Fast and the Furious 25th Anniversary
+  - + AMC Patton Creek 15 @ 2026-08-25T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-25T21:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-25T21:20:00 (Standard)
+- Beyond Belief
+  - − AMC Patton Creek 15 @ 2026-08-27T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-28T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-28T19:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-29T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-30T13:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-30T19:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-31T14:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-31T19:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-01T13:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-01T19:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-02T14:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-02T19:30:00 (Standard)
+- Finding Emily
+  - + AMC Patton Creek 15 @ 2026-08-27T14:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-27T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-27T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-27T21:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T21:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-29T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-29T16:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-29T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-29T22:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-30T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-30T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-30T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-30T21:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-31T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-31T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-31T19:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-01T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-01T16:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-01T19:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-02T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-02T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-02T19:30:00 (Standard)
+- Irumudi
+  - + AMC Patton Creek 15 @ 2026-08-26T21:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-26T21:30:00 (Standard)
+- cocoon - One Summer of Girlhood
+  - + AMC Patton Creek 15 @ 2026-09-04T16:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-04T16:40:00 (Standard)
+- The Dog Stars
+  - + AMC Patton Creek 15 @ 2026-08-27T22:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-27T21:45:00 (Standard)
+
 ## 2026-08-23 11:11 AM CDT
 
 **Movies added:**
