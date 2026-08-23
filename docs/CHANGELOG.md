@@ -1,3 +1,32 @@
+## 2026-08-22 11:26 PM CDT
+
+**Movies added:**
+- Filmmaker Focus: 21 Grams (2003)
+- Filmmaker Focus: Amores Perros (2000)
+- Filmmaker Focus: Birdman or (The Unexpected Virtue of Ignorance) (2014)
+- Filmmaker Focus: Biutiful (2010)
+- Filmmaker Focus: The Revenant (2015)
+
+**Showtime changes:**
+- Godzillafest 2026: Terror of Mechagodzilla (1975)
+  - − Sidewalk Film Center + Cinema @ 2026-08-22T16:30:00 (Standard)
+- Six: The Musical Live!
+  - + AMC Summit 16 @ 2026-08-23T19:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T20:45:00 (Standard)
+- The Magic Faraway Tree
+  - + AMC Summit 16 @ 2026-08-23T19:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T12:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T15:30:00 (Standard)
+- The Brink of War
+  - − AMC Summit 16 @ 2026-08-23T19:05:00 (Standard)
+- Godzillafest 2026: Godzilla vs. Mechagodzilla (1974)
+  - − Sidewalk Film Center + Cinema @ 2026-08-22T18:30:00 (Standard)
+- The Rivals of Amziah King
+  - − Sidewalk Film Center + Cinema @ 2026-08-22T16:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-23T19:00:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - − AMC Summit 16 @ 2026-08-23T18:15:00 (Standard)
+
 ## 2026-08-22 05:15 PM CDT
 
 **Showtime changes:**

@@ -17754,5 +17754,117 @@
         "removed": []
       }
     ]
+  },
+  {
+    "date": "2026-08-22 11:26 PM CDT",
+    "movies_added": [
+      "Filmmaker Focus: 21 Grams (2003)",
+      "Filmmaker Focus: Amores Perros (2000)",
+      "Filmmaker Focus: Birdman or (The Unexpected Virtue of Ignorance) (2014)",
+      "Filmmaker Focus: Biutiful (2010)",
+      "Filmmaker Focus: The Revenant (2015)"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Godzillafest 2026: Terror of Mechagodzilla (1975)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-08-22T16:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Six: The Musical Live!",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-23T19:10:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-23T20:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Magic Faraway Tree",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-23T19:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-23T12:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-23T15:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Brink of War",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-23T19:05:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Godzillafest 2026: Godzilla vs. Mechagodzilla (1974)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-08-22T18:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Rivals of Amziah King",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-08-22T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-23T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "PAW Patrol: The Dino Movie",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-23T18:15:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]
