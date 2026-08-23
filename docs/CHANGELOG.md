@@ -1,3 +1,12 @@
+## 2026-08-23 11:11 AM CDT
+
+**Movies added:**
+- Colony
+- cocoon - One Summer of Girlhood
+
+**Movies removed:**
+- Animation Spotlight: Cocoon - One Summer of Girlhood
+
 ## 2026-08-23 05:12 AM CDT
 
 **Movies removed:**
