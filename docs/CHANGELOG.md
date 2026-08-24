@@ -1,3 +1,19 @@
+## 2026-08-24 11:22 AM CDT
+
+**Movies added:**
+- Cars: 20th Anniversary
+
+**Showtime changes:**
+- Terminator 2: Judgment Day 35th Anniversary
+  - − AMC Patton Creek 15 @ 2026-08-30T16:00:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-08-30T16:00:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-08-31T19:00:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-08-31T19:00:00 (RealD 3D)
+- Harry Potter And The Philosopher's Stone: 25th Anniversary 
+  - − AMC Patton Creek 15 @ 2026-09-02T18:30:00 (RealD 3D)
+- The Last Blossom
+  - − AMC Patton Creek 15 @ 2026-08-31T19:00:00 (Standard)
+
 ## 2026-08-24 05:26 AM CDT
 
 **Movies removed:**
