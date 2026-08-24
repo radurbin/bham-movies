@@ -14,6 +14,7 @@ import requests
 from config import (
     AMC_BASE_URL,
     AMC_THEATERS,
+    AUDITORIUM_SCREEN_WIDTH_FT,
     REQUEST_TIMEOUT,
     SHOWTIME_PAGE_SIZE,
     get_amc_key,
@@ -260,6 +261,13 @@ class AMCFetcher:
 
         theater = show["_theater"]
 
+        theatre_id = show.get("theatreId")
+        auditorium = show.get("auditorium")
+
+        screen_width_ft = AUDITORIUM_SCREEN_WIDTH_FT.get(
+            theatre_id, {}
+        ).get(auditorium)
+
         attributes = [
 
             item.get("name")
@@ -277,9 +285,7 @@ class AMCFetcher:
 
             source="AMC",
 
-            theater_id=show.get(
-                "theatreId"
-            ),
+            theater_id=theatre_id,
 
             theater=theater["name"],
 
@@ -295,9 +301,9 @@ class AMCFetcher:
                 "showDateTimeUtc"
             ),
 
-            auditorium=show.get(
-                "auditorium"
-            ),
+            auditorium=auditorium,
+
+            screen_width_ft=screen_width_ft,
 
             premium_format=(
                 show.get(

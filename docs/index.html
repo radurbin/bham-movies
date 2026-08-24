@@ -421,8 +421,9 @@
 								const showDate = new Date(s.datetime).toDateString();
 								const isAmcTodayTomorrow = (s.theater || s.theatre || '').includes('AMC') && (showDate === today || showDate === tomorrow);
 								const normAttrs = JSON.stringify(showAttributes(s));
+								const screenWidth = s.screen_width_ft ? ` · ~${s.screen_width_ft}' screen` : '';
 
-								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmcTodayTomorrow ? `data-show-id="${s.showtime_id||s.id}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-normalized-attrs='${normAttrs}' data-prices="${prices}">${time} · ${fmt}</span></div>`;
+								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmcTodayTomorrow ? `data-show-id="${s.showtime_id||s.id}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-normalized-attrs='${normAttrs}' data-prices="${prices}" data-screen-width="${s.screen_width_ft||''}">${time} · ${fmt}${screenWidth}</span></div>`;
 							}).join('')}
 							</div>
 						`).join('')}

@@ -34,6 +34,7 @@ from config import (
     SIDEWALK_CINEMA_URL,
     SIDEWALK_MAX_PAGES,
     SIDEWALK_PAGE_DELAY,
+    SIDEWALK_SCREEN_WIDTH_FT,
 )
 
 from models import Movie, Showtime
@@ -195,6 +196,7 @@ class SidewalkFetcher:
                     datetime=dt,
                     purchase_url=detail_url,
                     sold_out="sold" in status.lower(),
+                    screen_width_ft=SIDEWALK_SCREEN_WIDTH_FT,
                 ))
 
         return movie

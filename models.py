@@ -52,6 +52,8 @@ class Showtime:
 
     auditorium: Optional[int] = None
 
+    screen_width_ft: Optional[float] = None
+
     premium_format: str = "Standard"
 
     purchase_url: Optional[str] = None
