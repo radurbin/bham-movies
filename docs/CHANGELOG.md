@@ -1,3 +1,92 @@
+## 2026-08-24 05:46 PM CDT
+
+**Showtime changes:**
+- Spa Weekend
+  - + AMC Patton Creek 15 @ 2026-08-27T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T12:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T22:20:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Patton Creek 15 @ 2026-08-27T22:10:00 (Standard)
+- Buddy
+  - − AMC Patton Creek 15 @ 2026-08-27T18:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-29T21:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-30T13:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-30T16:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-30T18:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-30T22:00:00 (Standard)
+- Toy Story 5
+  - + AMC Patton Creek 15 @ 2026-08-27T13:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T15:40:00 (Standard)
+- The Fast and the Furious 25th Anniversary
+  - + AMC Patton Creek 15 @ 2026-08-27T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T22:15:00 (Standard)
+- Finding Emily
+  - + AMC Patton Creek 15 @ 2026-08-27T16:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-27T16:20:00 (Standard)
+- Mutiny
+  - + AMC Patton Creek 15 @ 2026-08-27T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-27T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-27T18:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-27T22:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T14:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T16:45:00 (Standard)
+- Tony
+  - + AMC Patton Creek 15 @ 2026-08-27T13:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-27T14:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-27T17:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-27T19:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-27T22:00:00 (Standard)
+- Idiots
+  - − AMC Patton Creek 15 @ 2026-08-30T19:10:00 (Standard)
+- Toxic: A Fairy Tale For Grown-ups
+  - + AMC Patton Creek 15 @ 2026-08-27T21:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T18:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T21:00:00 (Standard)
+- The Dog Stars
+  - + AMC Patton Creek 15 @ 2026-08-28T19:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T21:40:00 (Standard)
+- The Odyssey
+  - + AMC Patton Creek 15 @ 2026-08-27T15:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-08-28T14:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-08-28T18:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-08-28T22:00:00 (IMAX at AMC)
+- PAW Patrol: The Dino Movie
+  - + AMC Patton Creek 15 @ 2026-08-27T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-27T21:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T18:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T21:45:00 (Standard)
+- Alabama Spotlight: Lilly
+  - − Sidewalk Film Center + Cinema @ 2026-08-24T14:00:00 (Standard)
+- Beyond Belief
+  - + AMC Patton Creek 15 @ 2026-08-27T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-27T21:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T13:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Patton Creek 15 @ 2026-08-28T12:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T14:45:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-08-28T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T18:15:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-08-28T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T22:15:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC Patton Creek 15 @ 2026-08-28T13:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T22:20:00 (Standard)
+- The End of Oak Street
+  - + AMC Patton Creek 15 @ 2026-08-27T18:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-27T22:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T13:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-28T22:10:00 (Standard)
+- Colony
+  - + AMC Patton Creek 15 @ 2026-08-28T15:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-27T21:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-28T21:45:00 (Standard)
+
 ## 2026-08-24 05:14 PM CDT
 
 **Showtime changes:**
