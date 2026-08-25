@@ -23861,5 +23861,71 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-25 11:23 AM CDT",
+    "movies_added": [
+      "Avengers Endgame: Encore",
+      "Queen Budapest"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Hot Spot",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-25T17:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Magic Faraway Tree",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-25T17:20:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-25T19:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-25T19:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Spa Weekend",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-25T19:25:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-25T20:15:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

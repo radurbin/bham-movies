@@ -1,3 +1,21 @@
+## 2026-08-25 11:23 AM CDT
+
+**Movies added:**
+- Avengers Endgame: Encore
+- Queen Budapest
+
+**Showtime changes:**
+- Hot Spot
+  - − AMC Summit 16 @ 2026-08-25T17:20:00 (Standard)
+- The Magic Faraway Tree
+  - + AMC Summit 16 @ 2026-08-25T17:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-25T19:20:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - + AMC Summit 16 @ 2026-08-25T19:45:00 (Standard)
+- Spa Weekend
+  - + AMC Summit 16 @ 2026-08-25T19:25:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-25T20:15:00 (Standard)
+
 ## 2026-08-25 05:21 AM CDT
 
 **Movies added:**
