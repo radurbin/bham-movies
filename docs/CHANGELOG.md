@@ -1,3 +1,13 @@
+## 2026-08-26 11:41 AM CDT
+
+**Movies added:**
+- AMC Screen Unseen: September 7
+- Ghost in the Shell 30th Anniversary
+- Shaun the Sheep: The Beast of Mossy Bottom
+- The Fix
+- The Uprising
+- Tom and Jerry: The Forbidden Compass
+
 ## 2026-08-26 05:24 AM CDT
 
 **Movies removed:**
