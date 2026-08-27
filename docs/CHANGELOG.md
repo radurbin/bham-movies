@@ -1,3 +1,26 @@
+## 2026-08-26 09:21 PM CDT
+
+**Movies removed:**
+- Black Lens Spotlight: Shorts
+- Black Lens Spotlight: We Name Ourselves
+
+**Showtime changes:**
+- Primetime
+  - − AMC Patton Creek 15 @ 2026-10-02T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-02T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-03T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-03T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-04T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-04T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-05T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-05T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-06T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-06T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-07T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-07T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-08T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-08T19:00:00 (Standard)
+
 ## 2026-08-26 11:41 AM CDT
 
 **Movies added:**
