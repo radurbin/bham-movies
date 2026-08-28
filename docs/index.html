@@ -40,6 +40,8 @@
 			.filter-btn{padding:6px 12px;border:1px solid #444;background:#2a2a2a;color:#eee;border-radius:6px;cursor:pointer}
 			.filter-btn.active{background:#2a6bf6;border-color:#2a6bf6}
 			.filter-select-all{border-style:dashed}
+			.filter-slider{accent-color:#2a6bf6;width:160px;vertical-align:middle}
+			.filter-slider-value{color:#eee;font-size:12px;min-width:48px;display:inline-block}
 		</style>
 	</head>
 	<body>
@@ -164,11 +166,13 @@
 				const formatsSet = new Set();
 				const theatersSet = new Set();
 				const attrsSet = new Set();
+				const screenWidths = [];
 				for (const movie of movies) {
 					for (const show of movie.showtimes || []) {
 						formatsSet.add(show.premium_format || 'Standard');
 						theatersSet.add(show.theater || show.theatre || 'Unknown');
 						for (const a of showAttributes(show)) attrsSet.add(a);
+						if (typeof show.screen_width_ft === 'number') screenWidths.push(show.screen_width_ft);
 					}
 				}
 				
@@ -241,6 +245,50 @@
 				filtersDiv.appendChild(formatGroup);
 				filtersDiv.appendChild(theaterGroup);
 				filtersDiv.appendChild(attributeGroup);
+
+				if (screenWidths.length > 0) {
+					const minWidth = Math.floor(Math.min(...screenWidths));
+					const maxWidth = Math.ceil(Math.max(...screenWidths));
+
+					const screenGroup = document.createElement('div');
+					screenGroup.className = 'filter-group';
+					const screenLabel = document.createElement('span');
+					screenLabel.className = 'filter-label';
+					screenLabel.textContent = 'Screen';
+					screenGroup.appendChild(screenLabel);
+
+					const slider = document.createElement('input');
+					slider.type = 'range';
+					slider.className = 'filter-slider';
+					slider.id = 'screenSizeSlider';
+					slider.min = minWidth;
+					slider.max = maxWidth;
+					slider.step = 1;
+					slider.value = minWidth;
+					slider.dataset.minWidth = minWidth;
+
+					const valueLabel = document.createElement('span');
+					valueLabel.className = 'filter-slider-value';
+					valueLabel.id = 'screenSizeValue';
+					valueLabel.textContent = 'Any (est.)';
+
+					slider.oninput = () => {
+						const v = Number(slider.value);
+						valueLabel.textContent = v <= minWidth ? 'Any (est.)' : `≥ ${v}' (est.)`;
+						applyFilters();
+					};
+
+					screenGroup.appendChild(slider);
+					screenGroup.appendChild(valueLabel);
+					filtersDiv.appendChild(screenGroup);
+				}
+			}
+
+			function getMinScreenWidth() {
+				const slider = document.getElementById('screenSizeSlider');
+				if (!slider) return 0;
+				const v = Number(slider.value);
+				return v <= Number(slider.dataset.minWidth) ? 0 : v;
 			}
 
 			function applyFilters() {
@@ -250,15 +298,20 @@
 				document.querySelectorAll('.filter-btn.active[data-theater]').forEach(btn => activeTheaters.add(btn.dataset.theater));
 				const activeAttributes = new Set();
 				document.querySelectorAll('.filter-btn.active[data-attribute]').forEach(btn => activeAttributes.add(btn.dataset.attribute));
+				const minScreenWidth = getMinScreenWidth();
 
 				document.querySelectorAll('[data-formats]').forEach(el => {
 					const formats = JSON.parse(el.dataset.formats);
 					const theaters = JSON.parse(el.dataset.theaters || '[]');
 					const attributes = JSON.parse(el.dataset.attributes || '[]');
+					// Showtimes with no known screen width (null) always pass --
+					// missing data shouldn't make a movie disappear from view.
+					const screens = JSON.parse(el.dataset.screenWidths || '[]');
 					const formatMatch = formats.some(f => activeFormats.has(f));
 					const theaterMatch = theaters.some(t => activeTheaters.has(t));
 					const attributeMatch = activeAttributes.size === 0 || attributes.some(a => activeAttributes.has(a));
-					el.style.display = (formatMatch && theaterMatch && attributeMatch) ? 'block' : 'none';
+					const screenMatch = minScreenWidth === 0 || screens.some(w => w === null || w >= minScreenWidth);
+					el.style.display = (formatMatch && theaterMatch && attributeMatch && screenMatch) ? 'block' : 'none';
 				});
 			}
 
@@ -343,6 +396,7 @@
 								const formats = JSON.stringify(shows.map(s => s.premium_format || 'Standard'));
 								const theaters = JSON.stringify(shows.map(s => s.theater || s.theatre || 'Unknown'));
 								const attributes = JSON.stringify(Array.from(new Set(shows.flatMap(s => showAttributes(s)))));
+								const screenWidths = JSON.stringify(shows.map(s => typeof s.screen_width_ft === 'number' ? s.screen_width_ft : null));
 
 								let el;
 								if (hasPoster) {
@@ -353,6 +407,7 @@
 									el.dataset.formats = formats;
 									el.dataset.theaters = theaters;
 									el.dataset.attributes = attributes;
+									el.dataset.screenWidths = screenWidths;
 									el.onerror = () => {
 										const f = document.createElement('div');
 										f.className = 'poster poster-fallback';
@@ -361,6 +416,7 @@
 										f.dataset.formats = formats;
 										f.dataset.theaters = theaters;
 										f.dataset.attributes = attributes;
+										f.dataset.screenWidths = screenWidths;
 										f.onclick = () => openMovie(movie, shows);
 										el.replaceWith(f);
 									};
@@ -372,6 +428,7 @@
 									el.dataset.formats = formats;
 									el.dataset.theaters = theaters;
 									el.dataset.attributes = attributes;
+									el.dataset.screenWidths = screenWidths;
 								}
 
 								el.onclick = () => openMovie(movie, shows);
@@ -443,11 +500,15 @@
 				document.querySelectorAll('.theater-group').forEach(group => {
 					group.style.display = activeTheaters.has(group.dataset.theater) ? '' : 'none';
 				});
+				const minScreenWidth = getMinScreenWidth();
 				document.querySelectorAll('.show-badge').forEach(badge => {
 					const fmt = badge.getAttribute('data-format') || 'Standard';
 					const badgeAttrs = JSON.parse(badge.getAttribute('data-normalized-attrs') || '[]');
 					const attributeMatch = activeAttributes.size === 0 || badgeAttrs.some(a => activeAttributes.has(a));
-					badge.style.display = (activeFormats.has(fmt) && attributeMatch) ? 'inline-block' : 'none';
+					const widthAttr = badge.getAttribute('data-screen-width');
+					const width = widthAttr ? Number(widthAttr) : null;
+					const screenMatch = minScreenWidth === 0 || width === null || width >= minScreenWidth;
+					badge.style.display = (activeFormats.has(fmt) && attributeMatch && screenMatch) ? 'inline-block' : 'none';
 				});
 
 				// Attach hover / click handlers to showtime badges
