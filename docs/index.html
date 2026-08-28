@@ -83,18 +83,53 @@
 
 			const seatmapCache = {};
 
+			// Renders a seatmap JSON payload of the form:
+			// { og_title, seats: [{available, column, row, name, type, seatTier, shouldDisplay}, ...], sold_out, theatre_id, showtime_date }
+			// into the same .seatmap/.seat-row/.seat markup the CSS above already styles.
+			function renderSeatmap(data) {
+				const seats = (data && data.seats) || [];
+				if (seats.length === 0) return '';
+
+				const byRow = {};
+				for (const seat of seats) {
+					(byRow[seat.row] = byRow[seat.row] || []).push(seat);
+				}
+
+				const rowNumbers = Object.keys(byRow).map(Number).sort((a, b) => a - b);
+
+				const rowsHtml = rowNumbers.map(rowNum => {
+					const rowLabel = String.fromCharCode(64 + rowNum); // 1 -> A, 2 -> B, ...
+					const seatsHtml = byRow[rowNum]
+						.slice()
+						.sort((a, b) => a.column - b.column)
+						.map(seat => {
+							if (!seat.shouldDisplay) return `<span class="seat seat--empty"></span>`;
+							const cls = seat.available ? 'seat--available' : 'seat--booked';
+							const title = seat.type && seat.type !== 'CanReserve' ? `${seat.name} (${seat.type})` : seat.name;
+							return `<span class="seat ${cls}" title="${title}"></span>`;
+						})
+						.join('');
+					return `<div class="seat-row"><span class="row-label">${rowLabel}</span>${seatsHtml}</div>`;
+				}).join('');
+
+				return `<div class="seatmap">
+					<div class="seat-rows">${rowsHtml}</div>
+					<div class="seat-legend"><span class="seat seat--available"></span> Available &nbsp; <span class="seat seat--booked"></span> Taken</div>
+				</div>`;
+			}
+
 			function getCachedSeatmap(showId, callback) {
 				const cached = seatmapCache[showId];
 				if(cached && Date.now() - cached.time < 300000) {
-					callback(cached.html);
+					callback(cached.data);
 					return;
 				}
-				const proxyUrl = `https://patient-haze-05d5.rileydurbin.workers.dev/${showId}`;
+				const proxyUrl = `https://amc-backend-nkwj3n3oga-ue.a.run.app/seats?showtime_id=${showId}`; // PLACEHOLDER - I WILL REPLACE
 				fetch(proxyUrl)
-					.then(r=>r.text())
-					.then(seatmapHtml => {
-						seatmapCache[showId] = { html: seatmapHtml, time: Date.now() };
-						callback(seatmapHtml);
+					.then(r=>r.json())
+					.then(seatmapData => {
+						seatmapCache[showId] = { data: seatmapData, time: Date.now() };
+						callback(seatmapData);
 					})
 					.catch(e=>console.log('Seatmap fetch failed'));
 			}
@@ -473,14 +508,11 @@
 								// Encode attributes for use in data-attrs
 								const attrs = (s.attributes || []).join(', ');
 								const prices = (s.ticket_prices || []).map(p=>`${p.type}: $${p.price}`).join(', ');
-								const today = new Date().toDateString();
-								const tomorrow = new Date(Date.now() + 86400000).toDateString();
-								const showDate = new Date(s.datetime).toDateString();
-								const isAmcTodayTomorrow = (s.theater || s.theatre || '').includes('AMC') && (showDate === today || showDate === tomorrow);
+								const isAmc = (s.theater || s.theatre || '').includes('AMC');
 								const normAttrs = JSON.stringify(showAttributes(s));
 								const screenWidth = s.screen_width_ft ? ` · ~${s.screen_width_ft}' screen` : '';
 
-								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmcTodayTomorrow ? `data-show-id="${s.showtime_id||s.id}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-normalized-attrs='${normAttrs}' data-prices="${prices}" data-screen-width="${s.screen_width_ft||''}">${time} · ${fmt}${screenWidth}</span></div>`;
+								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmc ? `data-show-id="${s.showtime_id||s.id}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-normalized-attrs='${normAttrs}' data-prices="${prices}" data-screen-width="${s.screen_width_ft||''}">${time} · ${fmt}${screenWidth}</span></div>`;
 							}).join('')}
 							</div>
 						`).join('')}
@@ -542,15 +574,12 @@
 					if(showId && !sold && !cancelled) {
 						if(!el.dataset.seatmapFetched) {
 							el.dataset.seatmapFetched = 'true';
-							getCachedSeatmap(showId, (seatmapHtml) => {
-								const parser = new DOMParser();
-								const doc = parser.parseFromString(seatmapHtml, 'text/html');
-								doc.querySelector('.detail-close')?.remove();
-								doc.querySelector('.seat-caption')?.remove();
-								doc.querySelector('.screen')?.remove();
-								const cleaned = doc.querySelector('.seatmap').outerHTML;
+							getCachedSeatmap(showId, (seatmapData) => {
+								const cleaned = renderSeatmap(seatmapData);
 								el.dataset.seatmapHtml = cleaned;
-								tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${cleaned}</div>`;
+								if (cleaned) {
+									tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${cleaned}</div>`;
+								}
 								positionTooltip(el);
 							});
 						} else {
