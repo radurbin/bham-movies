@@ -1,3 +1,32 @@
+## 2026-08-27 07:32 PM CDT
+
+**Movies added:**
+- Steel Magnolias
+- The Best Little Whorehouse In Texas
+
+**Movies removed:**
+- Animation Spotlight: Bill Plympton Masterclass
+- Crime & Parody
+
+**Showtime changes:**
+- PAW Patrol: The Dino Movie
+  - + AMC Summit 16 @ 2026-08-28T12:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-28T14:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-29T11:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-08-30T11:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-28T12:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-28T14:45:00 (Standard)
+- Insidious: Out of the Further
+  - − AMC Summit 16 @ 2026-08-29T16:10:00 (Standard)
+- The Dog Stars
+  - − AMC Summit 16 @ 2026-08-29T11:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-30T11:45:00 (Standard)
+- Moana
+  - − AMC Summit 16 @ 2026-08-28T16:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-08-31T14:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-01T14:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-02T14:00:00 (Standard)
+
 ## 2026-08-27 09:50 AM CDT
 
 No changes.

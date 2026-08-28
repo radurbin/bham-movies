@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-08-27T09:50:59.733110-05:00",
+    "generated_at": "2026-08-27T19:32:31.511013-05:00",
     "movie_count": 155,
-    "showtime_count": 2922,
+    "showtime_count": 2920,
     "theaters": {
       "AMC Summit 16": 975,
       "AMC Patton Creek 15": 1210,
-      "Sidewalk Film Center + Cinema": 123,
+      "Sidewalk Film Center + Cinema": 121,
       "AMC Vestavia Hills 10": 614
     }
   },
@@ -4705,60 +4705,6 @@
       ]
     },
     {
-      "sort_index": "animation spotlight: bill plympton masterclass",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Animation Spotlight: Bill Plympton Masterclass",
-      "release_year": null,
-      "runtime": 120,
-      "rating": null,
-      "genres": [],
-      "poster": "posters/animation-spotlight-bill-plympton-masterclass.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "Join award-winning animator Bill Plympton as he discusses animation and reviews his long career. This event is a specially ticketed event and includes a Q+A, signing, and photo opportunity.",
-      "directors": [],
-      "writers": [],
-      "actors": [],
-      "imdb_id": null,
-      "imdb_rating": null,
-      "imdb_votes": null,
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": null,
-      "language": null,
-      "country": null,
-      "box_office": null,
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/billplymptonanimationmasterclass/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "6yYiei1ZYU",
-          "datetime": "2026-08-27T15:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/billplymptonanimationmasterclass/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        }
-      ]
-    },
-    {
       "sort_index": "animation spotlight: shorts",
       "source": "Sidewalk",
       "movie_id": null,
@@ -4839,7 +4785,7 @@
       "title": "Avengers Endgame: Encore",
       "release_year": 2026,
       "runtime": 185,
-      "rating": null,
+      "rating": "PG13",
       "genres": [
         "ACTION"
       ],
@@ -37604,7 +37550,7 @@
       "rotten_tomatoes": null,
       "metacritic": "57/100",
       "letterboxd_rating": 3.29,
-      "letterboxd_rating_count": 96160,
+      "letterboxd_rating_count": 96633,
       "letterboxd_url": "https://letterboxd.com/film/colony-2026/",
       "awards": "N/A",
       "language": "Korean",
@@ -41790,69 +41736,6 @@
               "tax": 1.3
             }
           ]
-        }
-      ]
-    },
-    {
-      "sort_index": "crime & parody",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Crime & Parody",
-      "release_year": 2026,
-      "runtime": 90,
-      "rating": null,
-      "genres": [
-        "Documentary"
-      ],
-      "poster": "posters/crime-parody-2026.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "When an Ohio man builds a fake Facebook profile mocking his local police department, the joke lands him in real legal trouble, escalating to the Supreme Court. To his rescue comes The Onion, a group familiar with parody, resulting in a legal brief so ridiculous that it became a legend.\n\n\nCharlie Sanders - Festival Programming Director",
-      "directors": [
-        "Will Thwaites"
-      ],
-      "writers": [
-        "Will Thwaites"
-      ],
-      "actors": [
-        "Omar Arrington-Bey",
-        "Anthony Novak"
-      ],
-      "imdb_id": "tt40030699",
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": "2 nominations total",
-      "language": "English",
-      "country": "United States",
-      "box_office": "N/A",
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/crimeparody/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "n3n3TESSqY",
-          "datetime": "2026-08-29T12:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/crimeparody/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
         }
       ]
     },
@@ -55539,48 +55422,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146547949,
-          "datetime": "2026-08-29T16:10:00",
-          "datetime_utc": "2026-08-29T21:10:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146547949",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146522605,
@@ -59361,7 +59202,7 @@
       "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
       "release_year": 2026,
       "runtime": 132,
-      "rating": null,
+      "rating": "NR",
       "genres": [
         "ROCK/POP CONCERT"
       ],
@@ -60438,13 +60279,13 @@
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
-          "showtime_id": 146548284,
+          "showtime_id": 146600685,
           "datetime": "2026-08-30T15:10:00",
           "datetime_utc": "2026-08-30T20:10:00Z",
           "auditorium": 14,
           "screen_width_ft": 17.8,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/summit/all/146548284",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/summit/all/146600685",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -60479,13 +60320,13 @@
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
-          "showtime_id": 146547923,
+          "showtime_id": 146600673,
           "datetime": "2026-08-31T12:15:00",
           "datetime_utc": "2026-08-31T17:15:00Z",
           "auditorium": 3,
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-31/summit/all/146547923",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-31/summit/all/146600673",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -60690,55 +60531,13 @@
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
-          "showtime_id": 146547955,
-          "datetime": "2026-08-28T16:05:00",
-          "datetime_utc": "2026-08-28T21:05:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-28/summit/all/146547955",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.59,
-              "tax": 1.6
-            },
-            {
-              "type": "CHILD",
-              "price": 14.29,
-              "tax": 1.3
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.94,
-              "tax": 1.45
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146548110,
+          "showtime_id": 146600676,
           "datetime": "2026-08-29T11:20:00",
           "datetime_utc": "2026-08-29T16:20:00Z",
           "auditorium": 8,
           "screen_width_ft": 28.7,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146548110",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146600676",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -60781,132 +60580,6 @@
           "screen_width_ft": 28.7,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/summit/all/146548114",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.07,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.43,
-              "tax": 1.04
-            },
-            {
-              "type": "SENIOR",
-              "price": 12.75,
-              "tax": 1.16
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146548303,
-          "datetime": "2026-08-31T14:00:00",
-          "datetime_utc": "2026-08-31T19:00:00Z",
-          "auditorium": 14,
-          "screen_width_ft": 17.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-31/summit/all/146548303",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.07,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.43,
-              "tax": 1.04
-            },
-            {
-              "type": "SENIOR",
-              "price": 12.75,
-              "tax": 1.16
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146548301,
-          "datetime": "2026-09-01T14:00:00",
-          "datetime_utc": "2026-09-01T19:00:00Z",
-          "auditorium": 14,
-          "screen_width_ft": 17.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-01/summit/all/146548301",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.07,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.43,
-              "tax": 1.04
-            },
-            {
-              "type": "SENIOR",
-              "price": 12.75,
-              "tax": 1.16
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146548304,
-          "datetime": "2026-09-02T14:00:00",
-          "datetime_utc": "2026-09-02T19:00:00Z",
-          "auditorium": 14,
-          "screen_width_ft": 17.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/summit/all/146548304",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -73204,13 +72877,13 @@
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
-          "showtime_id": 146548159,
-          "datetime": "2026-08-28T12:15:00",
-          "datetime_utc": "2026-08-28T17:15:00Z",
+          "showtime_id": 146600678,
+          "datetime": "2026-08-28T12:05:00",
+          "datetime_utc": "2026-08-28T17:05:00Z",
           "auditorium": 9,
           "screen_width_ft": 28.7,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-28/summit/all/146548159",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-28/summit/all/146600678",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -73327,13 +73000,13 @@
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
-          "showtime_id": 146548157,
-          "datetime": "2026-08-28T14:45:00",
-          "datetime_utc": "2026-08-28T19:45:00Z",
+          "showtime_id": 146600677,
+          "datetime": "2026-08-28T14:50:00",
+          "datetime_utc": "2026-08-28T19:50:00Z",
           "auditorium": 9,
           "screen_width_ft": 28.7,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-28/summit/all/146548157",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-28/summit/all/146600677",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -73704,6 +73377,47 @@
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146548264",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 12.75,
+              "tax": 1.16
+            },
+            {
+              "type": "CHILD",
+              "price": 10.11,
+              "tax": 0.92
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.43,
+              "tax": 1.04
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146600679,
+          "datetime": "2026-08-29T11:45:00",
+          "datetime_utc": "2026-08-29T16:45:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 28.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146600679",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -74237,6 +73951,47 @@
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/summit/all/146548263",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 12.75,
+              "tax": 1.16
+            },
+            {
+              "type": "CHILD",
+              "price": 10.11,
+              "tax": 0.92
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.43,
+              "tax": 1.04
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146600680,
+          "datetime": "2026-08-30T11:45:00",
+          "datetime_utc": "2026-08-30T16:45:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 28.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/summit/all/146600680",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -95728,6 +95483,121 @@
       ]
     },
     {
+      "sort_index": "steel magnolias",
+      "source": "AMC",
+      "movie_id": 84878,
+      "title": "Steel Magnolias",
+      "release_year": 2026,
+      "runtime": 120,
+      "rating": "PG",
+      "genres": [],
+      "poster": "posters/steel-magnolias-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/steel-magnolias-84878",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146600675,
+          "datetime": "2026-08-28T16:00:00",
+          "datetime_utc": "2026-08-28T21:00:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-28/summit/all/146600675",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146600683,
+          "datetime": "2026-09-01T14:00:00",
+          "datetime_utc": "2026-09-01T19:00:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-01/summit/all/146600683",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Excluded from 50% off Discount",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "student night: shark tale (2004) *captioned*",
       "source": "Sidewalk",
       "movie_id": null,
@@ -96869,6 +96739,161 @@
               "type": "SENIOR",
               "price": 19.71,
               "tax": 1.71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "the best little whorehouse in texas",
+      "source": "AMC",
+      "movie_id": 84879,
+      "title": "The Best Little Whorehouse In Texas",
+      "release_year": 2026,
+      "runtime": 114,
+      "rating": "R",
+      "genres": [],
+      "poster": "posters/the-best-little-whorehouse-in-texas-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/the-best-little-whorehouse-in-texas-84879",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146600674,
+          "datetime": "2026-08-29T16:05:00",
+          "datetime_utc": "2026-08-29T21:05:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146600674",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146600682,
+          "datetime": "2026-08-31T14:00:00",
+          "datetime_utc": "2026-08-31T19:00:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-31/summit/all/146600682",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146600684,
+          "datetime": "2026-09-02T14:00:00",
+          "datetime_utc": "2026-09-02T19:00:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/summit/all/146600684",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Excluded from 50% off Discount",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
             }
           ]
         }
@@ -98277,48 +98302,6 @@
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
-          "showtime_id": 146548134,
-          "datetime": "2026-08-29T11:45:00",
-          "datetime_utc": "2026-08-29T16:45:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 28.7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146548134",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 12.75,
-              "tax": 1.16
-            },
-            {
-              "type": "CHILD",
-              "price": 10.11,
-              "tax": 0.92
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.43,
-              "tax": 1.04
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
           "showtime_id": 145696021,
           "datetime": "2026-08-29T13:00:00",
           "datetime_utc": "2026-08-29T18:00:00Z",
@@ -98860,48 +98843,6 @@
               "type": "SENIOR",
               "price": 11.87,
               "tax": 1.08
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146548122,
-          "datetime": "2026-08-30T11:45:00",
-          "datetime_utc": "2026-08-30T16:45:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 28.7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/summit/all/146548122",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 12.75,
-              "tax": 1.16
-            },
-            {
-              "type": "CHILD",
-              "price": 10.11,
-              "tax": 0.92
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.43,
-              "tax": 1.04
             }
           ]
         },
@@ -106980,13 +106921,13 @@
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
-          "showtime_id": 146548285,
+          "showtime_id": 146600681,
           "datetime": "2026-08-30T17:30:00",
           "datetime_utc": "2026-08-30T22:30:00Z",
           "auditorium": 14,
           "screen_width_ft": 17.8,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/summit/all/146548285",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/summit/all/146600681",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,

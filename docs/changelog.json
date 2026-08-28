@@ -29616,5 +29616,108 @@
     "movies_added": [],
     "movies_removed": [],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-08-27 07:32 PM CDT",
+    "movies_added": [
+      "Steel Magnolias",
+      "The Best Little Whorehouse In Texas"
+    ],
+    "movies_removed": [
+      "Animation Spotlight: Bill Plympton Masterclass",
+      "Crime & Parody"
+    ],
+    "showtime_changes": [
+      {
+        "title": "PAW Patrol: The Dino Movie",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-28T12:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-28T14:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-29T11:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-30T11:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-28T12:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-28T14:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Insidious: Out of the Further",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-29T16:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Dog Stars",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-29T11:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-30T11:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Moana",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-28T16:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-31T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-01T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-02T14:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]
