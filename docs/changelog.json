@@ -30619,5 +30619,45 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-28 10:45 AM CDT",
+    "movies_added": [
+      "Donnie Darko 25th Anniversary"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Terminator 2: Judgment Day 35th Anniversary",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-01T16:00:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-01T19:00:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-01T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-02T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-02T19:00:00",
+            "format": "RealD 3D"
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -1,3 +1,16 @@
+## 2026-08-28 10:45 AM CDT
+
+**Movies added:**
+- Donnie Darko 25th Anniversary
+
+**Showtime changes:**
+- Terminator 2: Judgment Day 35th Anniversary
+  - − AMC Patton Creek 15 @ 2026-09-01T16:00:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-09-01T19:00:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-09-01T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-02T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-02T19:00:00 (RealD 3D)
+
 ## 2026-08-28 07:29 AM CDT
 
 **Movies added:**
