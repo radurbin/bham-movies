@@ -14,6 +14,14 @@
 			.posters{display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:6px;margin-top:8px;align-content:start}
 			.poster{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:4px;cursor:pointer;display:block}
 			.poster-fallback{display:flex;align-items:center;justify-content:center;text-align:center;background:#2a2a2a;color:#fff;font-size:10px;font-weight:bold;line-height:1.2;overflow:hidden;min-height:90px;border-radius:4px}
+			.planning-toggle{padding:6px 12px;border:1px solid #444;background:#2a2a2a;color:#eee;border-radius:6px;cursor:pointer;white-space:nowrap}
+			.planning-toggle.active{background:#2a6bf6;border-color:#2a6bf6}
+			.week-count{font-weight:normal;font-size:11px;color:#2a6bf6}
+			.week-count.full{color:#f90}
+			#grid.planning-mode .poster,#grid.planning-mode .poster-fallback{filter:grayscale(1) opacity(0.45);transition:filter .15s,box-shadow .15s}
+			#grid.planning-mode .poster.selected,#grid.planning-mode .poster-fallback.selected{filter:none;box-shadow:0 0 0 3px #2a6bf6}
+			@keyframes limitFlash{0%,100%{box-shadow:0 0 0 3px #c33}50%{box-shadow:0 0 0 3px transparent}}
+			.limit-flash{animation:limitFlash .25s ease-in-out 2}
 			#modal{display:none;position:fixed;inset:0;background:#000a;align-items:center;justify-content:center;z-index:10000}
 			#content{background:#222;max-width:900px;width:95%;padding:18px;border-radius:10px;display:grid;grid-template-columns:220px 1fr;gap:16px;max-height:90vh;overflow:auto}
 				.badge{display:inline-block;background:#444;padding:3px 7px;border-radius:99px;margin:2px}
@@ -47,7 +55,10 @@
 	<body>
 		<header>
 			<span id="status" style="margin-left:12px"></span>
-			<span id="lastUpdated"></span>
+			<div style="display:flex;gap:12px;align-items:center">
+				<button id="planningToggle" class="planning-toggle" onclick="togglePlanningMode()">A-List Plan Mode</button>
+				<span id="lastUpdated"></span>
+			</div>
 		</header>
 		<div id="filters"></div>
 
@@ -68,6 +79,10 @@
 			const CONTENT = document.getElementById('content');
 			let allMovies = [];
 
+			function movieKey(movie) {
+				return `${movie.title}::${movie.release_year || ''}::${movie.movie_id || ''}`;
+			}
+
 			function formatLastUpdated(iso) {
 				if (!iso) return '';
 				const d = new Date(iso);
@@ -79,6 +94,83 @@
 				// hide modal and remove any tooltips
 				MODAL.style.display = 'none';
 				document.querySelectorAll('.show-tooltip').forEach(el => el.remove());
+			}
+
+			// A-List planning mode: greys out every poster except the ones you've
+			// picked, so a week's plan pops visually. Up to 4 picks per week/row.
+			let planningMode = false;
+			let posterWeekMap = {};
+			let selectedPosters = loadSelections();
+
+			function loadSelections() {
+				try {
+					const raw = localStorage.getItem('alistSelections');
+					if (raw) return new Set(JSON.parse(raw));
+				} catch (e) {}
+				return new Set();
+			}
+
+			function saveSelections() {
+				try {
+					localStorage.setItem('alistSelections', JSON.stringify(Array.from(selectedPosters)));
+				} catch (e) {}
+			}
+
+			function togglePlanningMode() {
+				planningMode = !planningMode;
+				GRID.classList.toggle('planning-mode', planningMode);
+				document.getElementById('planningToggle').classList.toggle('active', planningMode);
+				updateWeekCounts();
+			}
+
+			function countSelectedInWeek(week) {
+				let n = 0;
+				selectedPosters.forEach(key => { if (posterWeekMap[key] === week) n++; });
+				return n;
+			}
+
+			function updateWeekCounts() {
+				const counts = {};
+				selectedPosters.forEach(key => {
+					const week = posterWeekMap[key];
+					if (week === undefined) return;
+					counts[week] = (counts[week] || 0) + 1;
+				});
+				document.querySelectorAll('.week-count').forEach(span => {
+					const week = Number(span.dataset.week);
+					const n = counts[week] || 0;
+					span.textContent = planningMode ? `${n}/4` : '';
+					span.classList.toggle('full', n >= 4);
+				});
+			}
+
+			function flashPosterLimit(el) {
+				el.classList.add('limit-flash');
+				setTimeout(() => el.classList.remove('limit-flash'), 500);
+			}
+
+			function togglePosterSelection(el, key, week) {
+				if (selectedPosters.has(key)) {
+					selectedPosters.delete(key);
+					el.classList.remove('selected');
+				} else {
+					if (countSelectedInWeek(week) >= 4) {
+						flashPosterLimit(el);
+						return;
+					}
+					selectedPosters.add(key);
+					el.classList.add('selected');
+				}
+				saveSelections();
+				updateWeekCounts();
+			}
+
+			function handlePosterClick(el, movie, shows, posterKey, week) {
+				if (planningMode) {
+					togglePosterSelection(el, posterKey, week);
+				} else {
+					openMovie(movie, shows);
+				}
 			}
 
 			const seatmapCache = {};
@@ -367,7 +459,7 @@
 							const date = (show.datetime || '').slice(0, 10);
 							if (!date) continue;
 							days[date] = days[date] || {};
-							const key = `${movie.title}::${movie.release_year || ''}::${movie.movie_id || ''}`;
+							const key = movieKey(movie);
 							days[date][key] = days[date][key] || { movie, shows: [] };
 							days[date][key].shows.push(show);
 						}
@@ -386,6 +478,7 @@
 
 			function render(days) {
 				GRID.innerHTML = '';
+				posterWeekMap = {};
 
 				const sortedDates = Object.keys(days).sort();
 				if(sortedDates.length === 0) return;
@@ -411,12 +504,13 @@
 				// Render in rows of 7
 				for(let i = 0; i < allDates.length; i += 7) {
 					const week = allDates.slice(i, i + 7);
+					const weekIndex = i / 7;
 					
 					for(const d of week) {
 						const cell = document.createElement('div');
 						cell.className = 'day';
 						const dateObj = new Date(d + 'T12:00:00');
-						cell.innerHTML = `<div class="date">${dateObj.toDateString()}</div><div class="posters"></div>`;
+						cell.innerHTML = `<div class="date">${dateObj.toDateString()} <span class="week-count" data-week="${weekIndex}"></span></div><div class="posters"></div>`;
 						const posters = cell.querySelector('.posters');
 
 						if(days[d]) {
@@ -432,41 +526,50 @@
 								const theaters = JSON.stringify(shows.map(s => s.theater || s.theatre || 'Unknown'));
 								const attributes = JSON.stringify(Array.from(new Set(shows.flatMap(s => showAttributes(s)))));
 								const screenWidths = JSON.stringify(shows.map(s => typeof s.screen_width_ft === 'number' ? s.screen_width_ft : null));
+								const posterKey = `${d}::${movieKey(movie)}`;
+								posterWeekMap[posterKey] = weekIndex;
+								const isSelected = selectedPosters.has(posterKey);
 
 								let el;
 								if (hasPoster) {
 									el = document.createElement('img');
-									el.className = 'poster';
+									el.className = 'poster' + (isSelected ? ' selected' : '');
 									el.src = movie.poster;
 									el.alt = movie.title;
 									el.dataset.formats = formats;
 									el.dataset.theaters = theaters;
 									el.dataset.attributes = attributes;
 									el.dataset.screenWidths = screenWidths;
+									el.dataset.posterKey = posterKey;
+									el.dataset.week = weekIndex;
 									el.onerror = () => {
 										const f = document.createElement('div');
-										f.className = 'poster poster-fallback';
+										f.className = 'poster poster-fallback' + (isSelected ? ' selected' : '');
 										f.textContent = movie.title;
 										f.title = movie.title;
 										f.dataset.formats = formats;
 										f.dataset.theaters = theaters;
 										f.dataset.attributes = attributes;
 										f.dataset.screenWidths = screenWidths;
-										f.onclick = () => openMovie(movie, shows);
+										f.dataset.posterKey = posterKey;
+										f.dataset.week = weekIndex;
+										f.onclick = () => handlePosterClick(f, movie, shows, posterKey, weekIndex);
 										el.replaceWith(f);
 									};
 								} else {
 									el = document.createElement('div');
-									el.className = 'poster poster-fallback';
+									el.className = 'poster poster-fallback' + (isSelected ? ' selected' : '');
 									el.textContent = movie.title;
 									el.title = movie.title;
 									el.dataset.formats = formats;
 									el.dataset.theaters = theaters;
 									el.dataset.attributes = attributes;
 									el.dataset.screenWidths = screenWidths;
+									el.dataset.posterKey = posterKey;
+									el.dataset.week = weekIndex;
 								}
 
-								el.onclick = () => openMovie(movie, shows);
+								el.onclick = () => handlePosterClick(el, movie, shows, posterKey, weekIndex);
 								posters.appendChild(el);
 							}
 						}
@@ -474,6 +577,9 @@
 						GRID.appendChild(cell);
 					}
 				}
+
+				GRID.classList.toggle('planning-mode', planningMode);
+				updateWeekCounts();
 			}
 			function openMovie(movie, shows) {
 				// Group shows by theater
