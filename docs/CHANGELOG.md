@@ -1,3 +1,11 @@
+## 2026-08-29 01:58 PM CDT
+
+**Showtime changes:**
+- Tony
+  - − AMC Vestavia Hills 10 @ 2026-08-29T15:35:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Vestavia Hills 10 @ 2026-08-29T15:35:00 (Standard)
+
 ## 2026-08-29 05:33 AM CDT
 
 **Showtime changes:**

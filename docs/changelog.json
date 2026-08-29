@@ -31871,5 +31871,34 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-29 01:58 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Tony",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-08-29T15:35:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Coyote vs. Acme",
+        "added": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-08-29T15:35:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      }
+    ]
   }
 ]

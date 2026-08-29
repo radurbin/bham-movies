@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-29T05:33:00.728151-05:00",
+    "generated_at": "2026-08-29T13:58:53.120223-05:00",
     "movie_count": 155,
     "showtime_count": 2628,
     "theaters": {
@@ -36839,7 +36839,7 @@
       "rotten_tomatoes": null,
       "metacritic": "57/100",
       "letterboxd_rating": 3.32,
-      "letterboxd_rating_count": 99499,
+      "letterboxd_rating_count": 100030,
       "letterboxd_url": "https://letterboxd.com/film/colony-2026/",
       "awards": "N/A",
       "language": "Korean",
@@ -37375,7 +37375,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146548282",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -37525,6 +37525,48 @@
               "type": "SENIOR",
               "price": 10.5,
               "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146616137,
+          "datetime": "2026-08-29T15:35:00",
+          "datetime_utc": "2026-08-29T20:35:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 36.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/vestaviahills/all/146616137",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
             }
           ]
         },
@@ -110442,49 +110484,6 @@
               "type": "SENIOR",
               "price": 11.43,
               "tax": 1.04
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146522618,
-          "datetime": "2026-08-29T15:35:00",
-          "datetime_utc": "2026-08-29T20:35:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 36.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/vestaviahills/all/146522618",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "CHILD",
-              "price": 10.55,
-              "tax": 0.96
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.87,
-              "tax": 1.08
             }
           ]
         },
