@@ -31900,5 +31900,73 @@
         "removed": []
       }
     ]
+  },
+  {
+    "date": "2026-08-29 06:41 PM CDT",
+    "movies_added": [],
+    "movies_removed": [
+      "Crime & Parody",
+      "Don't Come Upstairs",
+      "Heaven Above Rowen",
+      "Human Theories",
+      "Kikuyu Land"
+    ],
+    "showtime_changes": [
+      {
+        "title": "PAW Patrol: The Dino Movie",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-30T21:10:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-30T21:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Mutiny",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-29T22:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Harry Potter and the Sorcerer’s Stone: 25th Anniversary",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-30T21:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Buddy",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-08-29T22:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-08-30T21:20:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      }
+    ]
   }
 ]

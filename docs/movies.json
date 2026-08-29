@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-08-29T13:58:53.120223-05:00",
-    "movie_count": 155,
-    "showtime_count": 2628,
+    "generated_at": "2026-08-29T18:41:09.909669-05:00",
+    "movie_count": 150,
+    "showtime_count": 2623,
     "theaters": {
       "AMC Summit 16": 873,
       "AMC Patton Creek 15": 1106,
-      "Sidewalk Film Center + Cinema": 118,
+      "Sidewalk Film Center + Cinema": 113,
       "AMC Vestavia Hills 10": 531
     }
   },
@@ -30219,6 +30219,49 @@
           "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
+          "showtime_id": 146617365,
+          "datetime": "2026-08-29T22:30:00",
+          "datetime_utc": "2026-08-30T03:30:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146617365",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
           "showtime_id": 146548287,
           "datetime": "2026-08-30T12:45:00",
           "datetime_utc": "2026-08-30T17:45:00Z",
@@ -30382,6 +30425,48 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 146616947,
+          "datetime": "2026-08-30T21:20:00",
+          "datetime_utc": "2026-08-31T02:20:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/pattoncreek/all/146616947",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
             }
           ]
         },
@@ -36839,7 +36924,7 @@
       "rotten_tomatoes": null,
       "metacritic": "57/100",
       "letterboxd_rating": 3.32,
-      "letterboxd_rating_count": 100030,
+      "letterboxd_rating_count": 100668,
       "letterboxd_url": "https://letterboxd.com/film/colony-2026/",
       "awards": "N/A",
       "language": "Korean",
@@ -39876,69 +39961,6 @@
       ]
     },
     {
-      "sort_index": "crime & parody",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Crime & Parody",
-      "release_year": 2026,
-      "runtime": 90,
-      "rating": null,
-      "genres": [
-        "Documentary"
-      ],
-      "poster": "posters/crime-parody-2026.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "When an Ohio man builds a fake Facebook profile mocking his local police department, the joke lands him in real legal trouble, escalating to the Supreme Court. To his rescue comes The Onion, a group familiar with parody, resulting in a legal brief so ridiculous that it became a legend.\n\n\nCharlie Sanders - Festival Programming Director",
-      "directors": [
-        "Will Thwaites"
-      ],
-      "writers": [
-        "Will Thwaites"
-      ],
-      "actors": [
-        "Omar Arrington-Bey",
-        "Anthony Novak"
-      ],
-      "imdb_id": "tt40030699",
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": "2 nominations total",
-      "language": "English",
-      "country": "United States",
-      "box_office": "N/A",
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/crimeparody/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "n3n3TESSqY",
-          "datetime": "2026-08-29T12:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/crimeparody/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        }
-      ]
-    },
-    {
       "sort_index": "crime docs: beyond the bars",
       "source": "Sidewalk",
       "movie_id": null,
@@ -40172,68 +40194,6 @@
           "screen_width_ft": 26.25,
           "premium_format": "Standard",
           "purchase_url": "https://sidewalkfest.com/events/deadmedia/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        }
-      ]
-    },
-    {
-      "sort_index": "don't come upstairs",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Don't Come Upstairs",
-      "release_year": 2025,
-      "runtime": 85,
-      "rating": null,
-      "genres": [
-        "Documentary"
-      ],
-      "poster": "posters/dont-come-upstairs-2025.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "Mike Lobel of Degrassi: The Next Generation fame makes his directorial debut with this true crime tale about his own family. Lobel sets out to uncover the truth about his father that his parents kept hidden for 35 years. During his entire childhood, Lobel’s family had two major rules: Don’t ask what Dad does for a living and never go upstairs when he’s working.\n\n\nRebecca Baer - Screening Committee",
-      "directors": [
-        "Mike Lobel"
-      ],
-      "writers": [
-        "N/A"
-      ],
-      "actors": [
-        "N/A"
-      ],
-      "imdb_id": "tt33088363",
-      "imdb_rating": "N/A",
-      "imdb_votes": "12",
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": 2.89,
-      "letterboxd_rating_count": 970,
-      "letterboxd_url": "https://letterboxd.com/film/dont-come-upstairs/",
-      "awards": "N/A",
-      "language": "English",
-      "country": "Canada",
-      "box_office": "N/A",
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/dontcomeupstairs/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "IdUHsRA2Ct",
-          "datetime": "2026-08-29T12:00:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/dontcomeupstairs/",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -50024,45 +49984,6 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
-          "showtime_id": 146606849,
-          "datetime": "2026-08-30T21:20:00",
-          "datetime_utc": "2026-08-31T02:20:00Z",
-          "auditorium": 1,
-          "screen_width_ft": 29.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/pattoncreek/all/146606849",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Event",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
           "showtime_id": 145691177,
           "datetime": "2026-09-01T18:30:00",
           "datetime_utc": "2026-09-01T23:30:00Z",
@@ -50097,62 +50018,6 @@
               "tax": 1.14
             }
           ]
-        }
-      ]
-    },
-    {
-      "sort_index": "heaven above rowen",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Heaven Above Rowen",
-      "release_year": null,
-      "runtime": 64,
-      "rating": null,
-      "genres": [],
-      "poster": "posters/heaven-above-rowen.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "Director Alice Voena’s mumblecore feature is a luscious journey through the mind of a queer cult leader consumed by psychedelic visions of a prophesied doomsday. Told in a series of poetic monologues narrated by Rowen Amadeus Camor (Alice Voena) and a hallucinated deity named Promise (John Cameron Mitchell), Rowen searches for meaning and identity as the revelation approaches.\n\n\nAllan Monterrubio - Programming Manager",
-      "directors": [
-        "Alice Veona"
-      ],
-      "writers": [],
-      "actors": [],
-      "imdb_id": null,
-      "imdb_rating": null,
-      "imdb_votes": null,
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": null,
-      "language": null,
-      "country": "United States",
-      "box_office": null,
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/heavenaboverowen/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "2sZiUuQsGN",
-          "datetime": "2026-08-29T16:15:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/heavenaboverowen/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
         }
       ]
     },
@@ -51072,70 +50937,6 @@
               "tax": 1.14
             }
           ]
-        }
-      ]
-    },
-    {
-      "sort_index": "human theories",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Human Theories",
-      "release_year": 2026,
-      "runtime": 72,
-      "rating": null,
-      "genres": [
-        "Comedy"
-      ],
-      "poster": "posters/human-theories-2026.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "In this directorial debut from Jess Zeidman, we watch people living in New York City, walking with them through their day-to-day interactions. Human Theories immerses us in the colorful tapestry of the city while enticing us to reflect on our own relationships and explore how far-reaching our connections could be with passing strangers.\n\n\nEwa Podgorska - Screening Committee",
-      "directors": [
-        "Jess Zeidman"
-      ],
-      "writers": [
-        "Jess Zeidman"
-      ],
-      "actors": [
-        "Diego Abraham",
-        "Matthew Albani",
-        "Joanna Arnow"
-      ],
-      "imdb_id": "tt37854095",
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": "N/A",
-      "language": "English",
-      "country": "United States",
-      "box_office": "N/A",
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/humantheories/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "2eBZ4BsJay",
-          "datetime": "2026-08-29T14:15:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/humantheories/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
         }
       ]
     },
@@ -55611,69 +55412,6 @@
       ]
     },
     {
-      "sort_index": "kikuyu land",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Kikuyu Land",
-      "release_year": 2026,
-      "runtime": 95,
-      "rating": null,
-      "genres": [
-        "Documentary"
-      ],
-      "poster": "posters/kikuyu-land-2026.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "The central highlands in Kenya is one of the most verdant, fertile agricultural lands in the world. A land rights dispute attracts Kenya-based journalist Bea Wangondu to uncover the depths to which multinational corporations have exploited this veritable “Garden of Eden” and its inhabitants. The secrets she uncovers and the struggles she documents reveal the undying legacy of a wicked past.\n\n\nFred Osuna - Screening Committee",
-      "directors": [
-        "Andrew H. Brown",
-        "Bea Wangondu"
-      ],
-      "writers": [
-        "N/A"
-      ],
-      "actors": [
-        "N/A"
-      ],
-      "imdb_id": "tt38390390",
-      "imdb_rating": "8.3",
-      "imdb_votes": "14",
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": 3.56,
-      "letterboxd_rating_count": 280,
-      "letterboxd_url": "https://letterboxd.com/film/kikuyu-land/",
-      "awards": "1 nomination total",
-      "language": "English, Kikuyu, Swahili",
-      "country": "Kenya",
-      "box_office": "N/A",
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/kikuyuland/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "stHbrjY2ux",
-          "datetime": "2026-08-29T14:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/kikuyuland/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        }
-      ]
-    },
-    {
       "sort_index": "knitflix and chill: a nightmare on elm street (1984)",
       "source": "Sidewalk",
       "movie_id": null,
@@ -56417,7 +56155,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146548289",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -57418,47 +57156,6 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146547933,
-          "datetime": "2026-08-29T22:40:00",
-          "datetime_utc": "2026-08-30T03:40:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146547933",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
             }
           ]
         },
@@ -67661,7 +67358,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/vestaviahills/all/146522619",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -68476,8 +68173,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146436377,
-          "datetime": "2026-08-30T21:15:00",
-          "datetime_utc": "2026-08-31T02:15:00Z",
+          "datetime": "2026-08-30T21:10:00",
+          "datetime_utc": "2026-08-31T02:10:00Z",
           "auditorium": 4,
           "screen_width_ft": 33.3,
           "premium_format": "Standard",
@@ -83899,7 +83596,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/summit/all/146548323",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -84790,7 +84487,7 @@
           "premium_format": "PRIME at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-29/vestaviahills/all/146522576",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,

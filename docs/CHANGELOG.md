@@ -1,3 +1,24 @@
+## 2026-08-29 06:41 PM CDT
+
+**Movies removed:**
+- Crime & Parody
+- Don't Come Upstairs
+- Heaven Above Rowen
+- Human Theories
+- Kikuyu Land
+
+**Showtime changes:**
+- PAW Patrol: The Dino Movie
+  - + AMC Patton Creek 15 @ 2026-08-30T21:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-30T21:15:00 (Standard)
+- Mutiny
+  - − AMC Summit 16 @ 2026-08-29T22:40:00 (Standard)
+- Harry Potter and the Sorcerer’s Stone: 25th Anniversary
+  - − AMC Patton Creek 15 @ 2026-08-30T21:20:00 (Standard)
+- Buddy
+  - + AMC Summit 16 @ 2026-08-29T22:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-30T21:20:00 (Standard)
+
 ## 2026-08-29 01:58 PM CDT
 
 **Showtime changes:**
