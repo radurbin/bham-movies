@@ -1,3 +1,63 @@
+## 2026-08-28 07:13 PM CDT
+
+**Movies added:**
+- Southern Circuit:  When A Witness Recants FILMMAKER IN ATTENDANCE
+
+**Showtime changes:**
+- Toxic: A Fairy Tale For Grown-ups
+  - + AMC Patton Creek 15 @ 2026-08-30T19:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-28T21:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-29T21:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-30T19:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-30T21:20:00 (Standard)
+- Steel Magnolias
+  - + AMC Patton Creek 15 @ 2026-08-29T12:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-30T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-31T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-01T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-02T13:15:00 (Standard)
+- Buddy
+  - + AMC Summit 16 @ 2026-08-28T22:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-29T21:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-31T13:10:00 (Standard)
+- The End of Oak Street
+  - + AMC Patton Creek 15 @ 2026-08-29T21:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-29T21:40:00 (Standard)
+- Beyond Belief
+  - + AMC Patton Creek 15 @ 2026-09-02T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-02T13:10:00 (Standard)
+- Spa Weekend
+  - + AMC Patton Creek 15 @ 2026-09-01T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-01T16:30:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Vestavia Hills 10 @ 2026-08-28T22:30:00 (Standard)
+- Finding Emily
+  - − AMC Patton Creek 15 @ 2026-08-30T16:20:00 (Standard)
+- The Best Little Whorehouse In Texas
+  - + AMC Patton Creek 15 @ 2026-08-29T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-30T12:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-31T16:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-01T12:05:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-01T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-02T16:00:00 (Standard)
+- Mutiny
+  - − AMC Summit 16 @ 2026-08-28T22:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-29T13:00:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - − AMC Patton Creek 15 @ 2026-08-29T13:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-30T13:40:00 (Standard)
+- Harry Potter and the Sorcerer’s Stone: 25th Anniversary
+  - + AMC Patton Creek 15 @ 2026-08-28T21:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-08-30T21:20:00 (Standard)
+- The Fast and the Furious 25th Anniversary
+  - + AMC Patton Creek 15 @ 2026-09-01T16:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-01T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-08-31T16:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-01T12:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-01T13:30:00 (Standard)
+- Tony
+  - − AMC Vestavia Hills 10 @ 2026-08-28T22:35:00 (Standard)
+
 ## 2026-08-28 10:45 AM CDT
 
 **Movies added:**
