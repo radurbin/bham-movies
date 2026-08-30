@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-08-30T09:33:20.336273-05:00",
-    "movie_count": 142,
-    "showtime_count": 2456,
+    "generated_at": "2026-08-30T13:54:22.619393-05:00",
+    "movie_count": 140,
+    "showtime_count": 2454,
     "theaters": {
       "AMC Summit 16": 817,
       "AMC Patton Creek 15": 1051,
-      "Sidewalk Film Center + Cinema": 107,
+      "Sidewalk Film Center + Cinema": 105,
       "AMC Vestavia Hills 10": 481
     }
   },
@@ -29976,7 +29976,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/summit/all/146548287",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -36716,7 +36716,7 @@
       "rotten_tomatoes": null,
       "metacritic": "57/100",
       "letterboxd_rating": 3.33,
-      "letterboxd_rating_count": 102122,
+      "letterboxd_rating_count": 102455,
       "letterboxd_url": "https://letterboxd.com/film/colony-2026/",
       "awards": "N/A",
       "language": "Korean",
@@ -37167,7 +37167,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/summit/all/146548281",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -79503,63 +79503,6 @@
       ]
     },
     {
-      "sort_index": "shout spotlight: jaripeo",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "SHOUT Spotlight: Jaripeo",
-      "release_year": null,
-      "runtime": 72,
-      "rating": null,
-      "genres": [],
-      "poster": "posters/shout-spotlight-jaripeo.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "Jaripeo offers a nuanced exploration of queer identity within the deeply traditional world of hypermasculine Mexican rodeos. Set in rural Michoacán, the film captures the eclectic lives of rancheros that navigate this secret subculture which both honors and defies the rigid cowboy mythology. Lensed beautifully on Super 8, Jaripeo is the feature directorial debut of Efraín Mojica and Rebecca Zweig.\n\n\nAllan Monterrubio - Programming Manager",
-      "directors": [
-        "Efraín Mojica",
-        "Rebecca Zweig"
-      ],
-      "writers": [],
-      "actors": [],
-      "imdb_id": null,
-      "imdb_rating": null,
-      "imdb_votes": null,
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": null,
-      "language": null,
-      "country": "France,Mexico,United States",
-      "box_office": null,
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/jaripeo/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "wJhyVSTC60",
-          "datetime": "2026-08-30T10:00:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/jaripeo/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        }
-      ]
-    },
-    {
       "sort_index": "sidewalk film 101: far from heaven (2002)",
       "source": "Sidewalk",
       "movie_id": null,
@@ -93061,62 +93004,6 @@
               "tax": 1.43
             }
           ]
-        }
-      ]
-    },
-    {
-      "sort_index": "the last picture shows",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "The Last Picture Shows",
-      "release_year": null,
-      "runtime": 80,
-      "rating": null,
-      "genres": [],
-      "poster": "posters/the-last-picture-shows.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "Bittersweet love letter to small town movie theaters in the American West. Beautiful visuals and enchanting music underscore the stories of the struggles of independent cinemas. If you love going to the movies, don't miss it.\n\n\nMark Owens - Screening Committee",
-      "directors": [
-        "Rustin Thompson"
-      ],
-      "writers": [],
-      "actors": [],
-      "imdb_id": null,
-      "imdb_rating": null,
-      "imdb_votes": null,
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": null,
-      "language": null,
-      "country": null,
-      "box_office": null,
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/thelastpictureshows/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "kr9el0AdPm",
-          "datetime": "2026-08-30T10:00:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/thelastpictureshows/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
         }
       ]
     },

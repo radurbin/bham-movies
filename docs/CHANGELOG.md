@@ -1,3 +1,9 @@
+## 2026-08-30 01:54 PM CDT
+
+**Movies removed:**
+- SHOUT Spotlight: Jaripeo
+- The Last Picture Shows
+
 ## 2026-08-30 09:33 AM CDT
 
 No changes.
