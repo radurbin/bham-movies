@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-08-30T13:54:22.619393-05:00",
-    "movie_count": 140,
-    "showtime_count": 2454,
+    "generated_at": "2026-08-30T19:00:46.801838-05:00",
+    "movie_count": 136,
+    "showtime_count": 2452,
     "theaters": {
       "AMC Summit 16": 817,
-      "AMC Patton Creek 15": 1051,
-      "Sidewalk Film Center + Cinema": 105,
-      "AMC Vestavia Hills 10": 481
+      "AMC Patton Creek 15": 1053,
+      "AMC Vestavia Hills 10": 481,
+      "Sidewalk Film Center + Cinema": 101
     }
   },
   "movies": [
@@ -226,69 +226,6 @@
               "tax": 1.43
             }
           ]
-        }
-      ]
-    },
-    {
-      "sort_index": "admission possible",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Admission Possible",
-      "release_year": 2026,
-      "runtime": 95,
-      "rating": null,
-      "genres": [
-        "Documentary"
-      ],
-      "poster": "posters/admission-possible-2026.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "Tender, urgent, and hopeful, Admission Possible follows seven New York City high school seniors applying to college as first generation students. Guided by their determined and caring college admissions counselor, they grapple with the complex cultural, social, and political factors influencing higher education today. Debates over testing, legacies, and family loyalty muddy the waters of their decisions.\n\n\nMelissa Scott - Screening Committee",
-      "directors": [
-        "Matthew Syrett",
-        "Bowie Alexander"
-      ],
-      "writers": [
-        "Matthew Syrett"
-      ],
-      "actors": [
-        "N/A"
-      ],
-      "imdb_id": "tt42047902",
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": "1 win & 1 nomination total",
-      "language": "English",
-      "country": "United States",
-      "box_office": "N/A",
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/admissionpossible/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "eQumR2hEVt",
-          "datetime": "2026-08-30T14:45:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/admissionpossible/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
         }
       ]
     },
@@ -36448,7 +36385,7 @@
           "showtime_id": 146397739,
           "datetime": "2026-09-07T17:30:00",
           "datetime_utc": "2026-09-07T22:30:00Z",
-          "auditorium": 13,
+          "auditorium": 1,
           "screen_width_ft": 29.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/pattoncreek/all/146397739",
@@ -36488,7 +36425,7 @@
           "showtime_id": 146397738,
           "datetime": "2026-09-07T20:00:00",
           "datetime_utc": "2026-09-08T01:00:00Z",
-          "auditorium": 13,
+          "auditorium": 1,
           "screen_width_ft": 29.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/pattoncreek/all/146397738",
@@ -36716,7 +36653,7 @@
       "rotten_tomatoes": null,
       "metacritic": "57/100",
       "letterboxd_rating": 3.33,
-      "letterboxd_rating_count": 102455,
+      "letterboxd_rating_count": 103175,
       "letterboxd_url": "https://letterboxd.com/film/colony-2026/",
       "awards": "N/A",
       "language": "Korean",
@@ -39045,6 +38982,86 @@
               "tax": 1.3
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 146618949,
+          "datetime": "2026-09-03T13:40:00",
+          "datetime_utc": "2026-09-03T18:40:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/pattoncreek/all/146618949",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 146618948,
+          "datetime": "2026-09-03T16:20:00",
+          "datetime_utc": "2026-09-03T21:20:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/pattoncreek/all/146618948",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
         }
       ]
     },
@@ -39124,62 +39141,6 @@
               "tax": 1.3
             }
           ]
-        }
-      ]
-    },
-    {
-      "sort_index": "darkroom presents: the birds tell me all there is to know",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "DarkRoom Presents: The Birds Tell Me All There Is To Know",
-      "release_year": null,
-      "runtime": 123,
-      "rating": null,
-      "genres": [],
-      "poster": "posters/darkroom-presents-the-birds-tell-me-all-there-is-to-know.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "An older man with dementia befriends a grieving young woman as their lives intersect in unexpected ways. While both are overwhelmed with relationships past and present, their lives in upstate New York reflect each others’ struggles with loss, ennui, and acceptance. Through the hypnotic visual texture found in Video8 footage and starring members of his own family, this ambient meditation on life and its universal anxieties sees director Aidan Cronin arriving at his debut feature with an original filmmaking language all his own.\n\n\nBrian Ratigan - Features Programmer",
-      "directors": [
-        "Aidan Cronin"
-      ],
-      "writers": [],
-      "actors": [],
-      "imdb_id": null,
-      "imdb_rating": null,
-      "imdb_votes": null,
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": null,
-      "language": null,
-      "country": "United States",
-      "box_office": null,
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/darkroompresentsthebirdstellmeallthereistoknow/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "2BMn97free",
-          "datetime": "2026-08-30T12:00:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/darkroompresentsthebirdstellmeallthereistoknow/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
         }
       ]
     },
@@ -77896,62 +77857,6 @@
       ]
     },
     {
-      "sort_index": "selma: songs of the crossing",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "SELMA: Songs of the Crossing",
-      "release_year": null,
-      "runtime": 71,
-      "rating": null,
-      "genres": [],
-      "poster": "posters/selma-songs-of-the-crossing.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "A lost New York artist visits Selma, Alabama searching for himself and inspiration.  He explains his experiences, explorations, and the history to his son while he visits the town for the Jubilee highlighting the contrasts of the city’s past and history to current daily life.\n\n\nLee Woehle - Screening Committee",
-      "directors": [
-        "Jean-Jacques Cunnac"
-      ],
-      "writers": [],
-      "actors": [],
-      "imdb_id": null,
-      "imdb_rating": null,
-      "imdb_votes": null,
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": null,
-      "language": null,
-      "country": "France",
-      "box_office": null,
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/selmasongsofthecrossing/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "2tfff5GmcF",
-          "datetime": "2026-08-30T12:15:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/selmasongsofthecrossing/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        }
-      ]
-    },
-    {
       "sort_index": "shaun the sheep: the beast of mossy bottom",
       "source": "AMC",
       "movie_id": 82986,
@@ -80644,7 +80549,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/vestaviahills/all/146522601",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -82792,7 +82697,7 @@
           "datetime_utc": "2026-09-03T21:10:00Z",
           "auditorium": 8,
           "screen_width_ft": 61.3,
-          "premium_format": "Standard",
+          "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/pattoncreek/all/146445542",
           "sold_out": false,
           "almost_sold_out": false,
@@ -82803,23 +82708,24 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "RealD 3D",
             "Reserved Seating"
           ],
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
+              "price": 21.89,
+              "tax": 1.9
             },
             {
               "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
+              "price": 18.6,
+              "tax": 1.61
             },
             {
               "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
+              "price": 20.25,
+              "tax": 1.76
             }
           ]
         },
@@ -105298,68 +105204,6 @@
           "screen_width_ft": 26.25,
           "premium_format": "Standard",
           "purchase_url": "https://sidewalkfest.com/events/whenwewerelive/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        }
-      ]
-    },
-    {
-      "sort_index": "wood street",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Wood Street",
-      "release_year": 2026,
-      "runtime": 105,
-      "rating": null,
-      "genres": [
-        "Documentary"
-      ],
-      "poster": "posters/wood-street-2026.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "Award-winning director Caron Creighton gives an inspiring look into Oakland, California’s largest unhoused encampment. The film follows John and LaMonté, two of the encampment’s residents, as they work to organize their neighbors against the state and local governments’ efforts to displace their community.\n\nJoseph Margolies - Screening Committee",
-      "directors": [
-        "Caron Creighton"
-      ],
-      "writers": [
-        "N/A"
-      ],
-      "actors": [
-        "N/A"
-      ],
-      "imdb_id": "tt38755755",
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": "N/A",
-      "language": "English",
-      "country": "United States",
-      "box_office": "N/A",
-      "website": null,
-      "movie_url": "https://sidewalkfest.com/events/woodstreet/",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "JaI6IelsX5",
-          "datetime": "2026-08-30T14:15:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/woodstreet/",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,

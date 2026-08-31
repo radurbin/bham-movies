@@ -1,3 +1,19 @@
+## 2026-08-30 07:00 PM CDT
+
+**Movies removed:**
+- Admission Possible
+- DarkRoom Presents: The Birds Tell Me All There Is To Know
+- SELMA: Songs of the Crossing
+- Wood Street
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - + AMC Patton Creek 15 @ 2026-09-03T16:10:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-09-03T16:10:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Patton Creek 15 @ 2026-09-03T13:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-03T16:20:00 (Standard)
+
 ## 2026-08-30 01:54 PM CDT
 
 **Movies removed:**

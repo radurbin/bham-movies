@@ -33016,5 +33016,50 @@
       "The Last Picture Shows"
     ],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-08-30 07:00 PM CDT",
+    "movies_added": [],
+    "movies_removed": [
+      "Admission Possible",
+      "DarkRoom Presents: The Birds Tell Me All There Is To Know",
+      "SELMA: Songs of the Crossing",
+      "Wood Street"
+    ],
+    "showtime_changes": [
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-03T16:10:00",
+            "format": "RealD 3D"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-03T16:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Coyote vs. Acme",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-03T13:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-03T16:20:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      }
+    ]
   }
 ]
