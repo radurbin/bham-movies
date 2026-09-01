@@ -1,3 +1,9 @@
+## 2026-09-01 09:22 AM CDT
+
+**Movies added:**
+- Resident Evil
+- You Had to Be There
+
 ## 2026-09-01 03:58 AM CDT
 
 **Movies removed:**
