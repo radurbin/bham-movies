@@ -1,3 +1,43 @@
+## 2026-09-01 06:38 PM CDT
+
+**Showtime changes:**
+- Insidious: Out of the Further
+  - + AMC Vestavia Hills 10 @ 2026-09-03T14:35:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T17:20:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T22:45:00 (Standard)
+- The Dog Stars
+  - + AMC Vestavia Hills 10 @ 2026-09-03T13:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T16:40:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T19:35:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T22:25:00 (Standard)
+- The End of Oak Street
+  - + AMC Vestavia Hills 10 @ 2026-09-03T12:40:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T15:55:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Vestavia Hills 10 @ 2026-09-03T13:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T16:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T19:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T22:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Vestavia Hills 10 @ 2026-09-03T12:40:00 (Standard)
+- The Odyssey
+  - + AMC Vestavia Hills 10 @ 2026-09-03T12:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T15:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T21:00:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - + AMC Vestavia Hills 10 @ 2026-09-03T13:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T15:55:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T18:20:00 (Standard)
+- Cars: 20th Anniversary
+  - + AMC Vestavia Hills 10 @ 2026-09-03T14:10:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T17:05:00 (Standard)
+- Mutiny
+  - + AMC Vestavia Hills 10 @ 2026-09-03T22:35:00 (Standard)
+- The Rivals of Amziah King
+  - + AMC Vestavia Hills 10 @ 2026-09-03T19:05:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-03T22:20:00 (Standard)
+
 ## 2026-09-01 01:56 PM CDT
 
 **Movies added:**
