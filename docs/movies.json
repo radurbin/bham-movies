@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-09-02T03:12:18.335634-05:00",
-    "movie_count": 132,
-    "showtime_count": 3026,
+    "generated_at": "2026-09-02T08:56:24.601926-05:00",
+    "movie_count": 133,
+    "showtime_count": 3034,
     "theaters": {
-      "AMC Summit 16": 1027,
+      "AMC Summit 16": 1035,
       "AMC Patton Creek 15": 1156,
       "AMC Vestavia Hills 10": 681,
       "Sidewalk Film Center + Cinema": 162
@@ -40161,7 +40161,7 @@
       "rotten_tomatoes": null,
       "metacritic": "57/100",
       "letterboxd_rating": 3.35,
-      "letterboxd_rating_count": 107466,
+      "letterboxd_rating_count": 107670,
       "letterboxd_url": "https://letterboxd.com/film/colony-2026/",
       "awards": "N/A",
       "language": "Korean",
@@ -53989,6 +53989,408 @@
               "type": "SENIOR",
               "price": 16.43,
               "tax": 1.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "guillermo del toro's pan's labyrinth 20th anniversary",
+      "source": "AMC",
+      "movie_id": 83493,
+      "title": "Guillermo del Toro's Pan's Labyrinth 20th Anniversary",
+      "release_year": 2026,
+      "runtime": 118,
+      "rating": "R",
+      "genres": [
+        "FANTASY"
+      ],
+      "poster": "posters/guillermo-del-toros-pans-labyrinth-20th-anniversary-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/guillermo-del-toro-s-pan-s-labyrinth-20th-anniversary-83493",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146779815,
+          "datetime": "2026-10-08T17:00:00",
+          "datetime_utc": "2026-10-08T22:00:00Z",
+          "auditorium": 6,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-08/summit/all/146779815",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.5,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146779853,
+          "datetime": "2026-10-08T20:00:00",
+          "datetime_utc": "2026-10-09T01:00:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 28.7,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-08/summit/all/146779853",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "RealD 3D",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.8,
+              "tax": 1.8
+            },
+            {
+              "type": "CHILD",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.5,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146779797,
+          "datetime": "2026-10-09T19:15:00",
+          "datetime_utc": "2026-10-10T00:15:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-09/summit/all/146779797",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.5,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146779798,
+          "datetime": "2026-10-10T19:15:00",
+          "datetime_utc": "2026-10-11T00:15:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-10/summit/all/146779798",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "RealD 3D",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.8,
+              "tax": 1.8
+            },
+            {
+              "type": "CHILD",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.5,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146779799,
+          "datetime": "2026-10-11T19:15:00",
+          "datetime_utc": "2026-10-12T00:15:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-11/summit/all/146779799",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.5,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146779800,
+          "datetime": "2026-10-12T19:15:00",
+          "datetime_utc": "2026-10-13T00:15:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-12/summit/all/146779800",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "RealD 3D",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.8,
+              "tax": 1.8
+            },
+            {
+              "type": "CHILD",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.5,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146779801,
+          "datetime": "2026-10-13T19:15:00",
+          "datetime_utc": "2026-10-14T00:15:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-13/summit/all/146779801",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Excluded from 50% off Discount",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.5,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146779796,
+          "datetime": "2026-10-14T19:15:00",
+          "datetime_utc": "2026-10-15T00:15:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-14/summit/all/146779796",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Excluded from 50% off Discount",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "RealD 3D",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.8,
+              "tax": 1.8
+            },
+            {
+              "type": "CHILD",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.5,
+              "tax": 1.5
             }
           ]
         }
@@ -120377,8 +120779,8 @@
       "imdb_votes": "21",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.5,
-      "letterboxd_rating_count": 1382,
+      "letterboxd_rating": 3.49,
+      "letterboxd_rating_count": 1384,
       "letterboxd_url": "https://letterboxd.com/film/the-sun-never-sets-2026/",
       "awards": "N/A",
       "language": "English",

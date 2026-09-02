@@ -1,3 +1,8 @@
+## 2026-09-02 08:56 AM CDT
+
+**Movies added:**
+- Guillermo del Toro's Pan's Labyrinth 20th Anniversary
+
 ## 2026-09-02 03:12 AM CDT
 
 **Movies added:**
