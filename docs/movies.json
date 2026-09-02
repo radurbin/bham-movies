@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-09-02T14:02:16.194044-05:00",
+    "generated_at": "2026-09-02T18:40:24.902236-05:00",
     "movie_count": 134,
-    "showtime_count": 3090,
+    "showtime_count": 3117,
     "theaters": {
       "AMC Summit 16": 1035,
       "AMC Patton Creek 15": 1212,
-      "AMC Vestavia Hills 10": 681,
+      "AMC Vestavia Hills 10": 708,
       "Sidewalk Film Center + Cinema": 162
     }
   },
@@ -4519,6 +4519,50 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811643,
+          "datetime": "2026-09-24T14:00:00",
+          "datetime_utc": "2026-09-24T19:00:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 36.5,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/vestaviahills/all/146811643",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "CHILD",
+              "price": 16.05,
+              "tax": 1.46
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.37,
+              "tax": 1.58
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779999,
@@ -4557,6 +4601,49 @@
               "type": "SENIOR",
               "price": 19.79,
               "tax": 1.8
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811644,
+          "datetime": "2026-09-24T18:15:00",
+          "datetime_utc": "2026-09-24T23:15:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 36.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/vestaviahills/all/146811644",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
             }
           ]
         },
@@ -4604,6 +4691,93 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811657,
+          "datetime": "2026-09-24T21:15:00",
+          "datetime_utc": "2026-09-25T02:15:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 31.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/vestaviahills/all/146811657",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811641,
+          "datetime": "2026-09-25T12:00:00",
+          "datetime_utc": "2026-09-25T17:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 41.3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/vestaviahills/all/146811641",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "CHILD",
+              "price": 16.05,
+              "tax": 1.46
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.37,
+              "tax": 1.58
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779994,
@@ -4642,6 +4816,49 @@
               "type": "SENIOR",
               "price": 16.93,
               "tax": 1.54
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811651,
+          "datetime": "2026-09-25T15:45:00",
+          "datetime_utc": "2026-09-25T20:45:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/vestaviahills/all/146811651",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
             }
           ]
         },
@@ -4732,6 +4949,93 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811645,
+          "datetime": "2026-09-25T18:30:00",
+          "datetime_utc": "2026-09-25T23:30:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 36.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/vestaviahills/all/146811645",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811658,
+          "datetime": "2026-09-25T21:15:00",
+          "datetime_utc": "2026-09-26T02:15:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 31.7,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/vestaviahills/all/146811658",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.99,
+              "tax": 2.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.34,
+              "tax": 1.85
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779950,
@@ -4817,6 +5121,50 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811642,
+          "datetime": "2026-09-26T12:00:00",
+          "datetime_utc": "2026-09-26T17:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 41.3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/vestaviahills/all/146811642",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "CHILD",
+              "price": 16.05,
+              "tax": 1.46
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.37,
+              "tax": 1.58
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779995,
@@ -4854,6 +5202,49 @@
               "type": "SENIOR",
               "price": 11.43,
               "tax": 1.04
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811655,
+          "datetime": "2026-09-26T15:45:00",
+          "datetime_utc": "2026-09-26T20:45:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/vestaviahills/all/146811655",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
             }
           ]
         },
@@ -4901,6 +5292,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811649,
+          "datetime": "2026-09-26T18:30:00",
+          "datetime_utc": "2026-09-26T23:30:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 36.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/vestaviahills/all/146811649",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779997,
@@ -4939,6 +5373,50 @@
               "type": "SENIOR",
               "price": 19.79,
               "tax": 1.8
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811662,
+          "datetime": "2026-09-26T21:15:00",
+          "datetime_utc": "2026-09-27T02:15:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 31.7,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/vestaviahills/all/146811662",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.99,
+              "tax": 2.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.34,
+              "tax": 1.85
             }
           ]
         },
@@ -5029,6 +5507,50 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811639,
+          "datetime": "2026-09-27T12:00:00",
+          "datetime_utc": "2026-09-27T17:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 41.3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/vestaviahills/all/146811639",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "CHILD",
+              "price": 16.05,
+              "tax": 1.46
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.37,
+              "tax": 1.58
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779989,
@@ -5071,6 +5593,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811656,
+          "datetime": "2026-09-27T15:45:00",
+          "datetime_utc": "2026-09-27T20:45:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/vestaviahills/all/146811656",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146465935,
@@ -5108,6 +5673,49 @@
               "type": "SENIOR",
               "price": 18.6,
               "tax": 1.61
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811650,
+          "datetime": "2026-09-27T18:30:00",
+          "datetime_utc": "2026-09-27T23:30:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 36.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/vestaviahills/all/146811650",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
             }
           ]
         },
@@ -5156,6 +5764,50 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811663,
+          "datetime": "2026-09-27T21:15:00",
+          "datetime_utc": "2026-09-28T02:15:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 31.7,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/vestaviahills/all/146811663",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.99,
+              "tax": 2.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.34,
+              "tax": 1.85
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779949,
@@ -5193,6 +5845,50 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811640,
+          "datetime": "2026-09-28T12:00:00",
+          "datetime_utc": "2026-09-28T17:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 41.3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-28/vestaviahills/all/146811640",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "CHILD",
+              "price": 16.05,
+              "tax": 1.46
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.37,
+              "tax": 1.58
             }
           ]
         },
@@ -5236,6 +5932,49 @@
               "type": "SENIOR",
               "price": 16.93,
               "tax": 1.54
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811652,
+          "datetime": "2026-09-28T15:45:00",
+          "datetime_utc": "2026-09-28T20:45:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-28/vestaviahills/all/146811652",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
             }
           ]
         },
@@ -5326,6 +6065,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811647,
+          "datetime": "2026-09-28T18:30:00",
+          "datetime_utc": "2026-09-28T23:30:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 36.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-28/vestaviahills/all/146811647",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779947,
@@ -5363,6 +6145,94 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811660,
+          "datetime": "2026-09-28T21:15:00",
+          "datetime_utc": "2026-09-29T02:15:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 31.7,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-28/vestaviahills/all/146811660",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.99,
+              "tax": 2.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.34,
+              "tax": 1.85
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811637,
+          "datetime": "2026-09-29T12:00:00",
+          "datetime_utc": "2026-09-29T17:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 41.3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-29/vestaviahills/all/146811637",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "CHILD",
+              "price": 16.05,
+              "tax": 1.46
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.37,
+              "tax": 1.58
             }
           ]
         },
@@ -5406,6 +6276,49 @@
               "type": "SENIOR",
               "price": 16.93,
               "tax": 1.54
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811653,
+          "datetime": "2026-09-29T15:45:00",
+          "datetime_utc": "2026-09-29T20:45:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-29/vestaviahills/all/146811653",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
             }
           ]
         },
@@ -5496,6 +6409,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811648,
+          "datetime": "2026-09-29T18:30:00",
+          "datetime_utc": "2026-09-29T23:30:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 36.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-29/vestaviahills/all/146811648",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779948,
@@ -5533,6 +6489,94 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811661,
+          "datetime": "2026-09-29T21:15:00",
+          "datetime_utc": "2026-09-30T02:15:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 31.7,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-29/vestaviahills/all/146811661",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.99,
+              "tax": 2.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.34,
+              "tax": 1.85
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811638,
+          "datetime": "2026-09-30T12:00:00",
+          "datetime_utc": "2026-09-30T17:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 41.3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/vestaviahills/all/146811638",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "CHILD",
+              "price": 16.05,
+              "tax": 1.46
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.37,
+              "tax": 1.58
             }
           ]
         },
@@ -5581,6 +6625,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811654,
+          "datetime": "2026-09-30T15:45:00",
+          "datetime_utc": "2026-09-30T20:45:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/vestaviahills/all/146811654",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779988,
@@ -5624,6 +6711,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811646,
+          "datetime": "2026-09-30T18:30:00",
+          "datetime_utc": "2026-09-30T23:30:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 36.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/vestaviahills/all/146811646",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779855,
@@ -5661,6 +6791,50 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 146811659,
+          "datetime": "2026-09-30T21:15:00",
+          "datetime_utc": "2026-10-01T02:15:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 31.7,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/vestaviahills/all/146811659",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.99,
+              "tax": 2.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.69,
+              "tax": 1.7
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.34,
+              "tax": 1.85
             }
           ]
         },
@@ -33312,48 +34486,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146657945,
-          "datetime": "2026-09-09T14:20:00",
-          "datetime_utc": "2026-09-09T19:20:00Z",
-          "auditorium": 1,
-          "screen_width_ft": 29.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/pattoncreek/all/146657945",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 11.82,
-              "tax": 1.03
-            },
-            {
-              "type": "CHILD",
-              "price": 9.19,
-              "tax": 0.8
-            },
-            {
-              "type": "SENIOR",
-              "price": 10.5,
-              "tax": 0.91
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779921,
@@ -33392,48 +34524,6 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146657944,
-          "datetime": "2026-09-09T17:15:00",
-          "datetime_utc": "2026-09-09T22:15:00Z",
-          "auditorium": 1,
-          "screen_width_ft": 29.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/pattoncreek/all/146657944",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
             }
           ]
         },
@@ -40121,7 +41211,7 @@
       "rotten_tomatoes": null,
       "metacritic": "57/100",
       "letterboxd_rating": 3.35,
-      "letterboxd_rating_count": 107967,
+      "letterboxd_rating_count": 108330,
       "letterboxd_url": "https://letterboxd.com/film/colony-2026/",
       "awards": "N/A",
       "language": "Korean",
@@ -58886,6 +59976,86 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 146814839,
+          "datetime": "2026-09-09T12:30:00",
+          "datetime_utc": "2026-09-09T17:30:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/pattoncreek/all/146814839",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 146814837,
+          "datetime": "2026-09-09T16:00:00",
+          "datetime_utc": "2026-09-09T21:00:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/pattoncreek/all/146814837",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146780068,
@@ -59011,8 +60181,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146806661,
-          "datetime": "2026-09-10T13:05:00",
-          "datetime_utc": "2026-09-10T18:05:00Z",
+          "datetime": "2026-09-10T13:00:00",
+          "datetime_utc": "2026-09-10T18:00:00Z",
           "auditorium": 5,
           "screen_width_ft": 38.5,
           "premium_format": "Standard",
@@ -59050,19 +60220,19 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806660,
-          "datetime": "2026-09-10T15:30:00",
-          "datetime_utc": "2026-09-10T20:30:00Z",
-          "auditorium": 2,
-          "screen_width_ft": 35.0,
+          "showtime_id": 146814838,
+          "datetime": "2026-09-10T16:10:00",
+          "datetime_utc": "2026-09-10T21:10:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-10/pattoncreek/all/146806660",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-10/pattoncreek/all/146814838",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
+          "discount_matinee": false,
+          "discount_message": null,
           "attributes": [
             "AMC Artisan Films",
             "Korean Spoken with English Subtitles",
@@ -59071,18 +60241,18 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 11.82,
-              "tax": 1.03
+              "price": 14.77,
+              "tax": 1.28
             },
             {
               "type": "CHILD",
-              "price": 9.19,
-              "tax": 0.8
+              "price": 11.49,
+              "tax": 1.0
             },
             {
               "type": "SENIOR",
-              "price": 10.5,
-              "tax": 0.91
+              "price": 13.13,
+              "tax": 1.14
             }
           ]
         },
@@ -122717,8 +123887,8 @@
       "imdb_votes": "21",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.49,
-      "letterboxd_rating_count": 1391,
+      "letterboxd_rating": 3.5,
+      "letterboxd_rating_count": 1395,
       "letterboxd_url": "https://letterboxd.com/film/the-sun-never-sets-2026/",
       "awards": "N/A",
       "language": "English",

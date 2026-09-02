@@ -1,3 +1,45 @@
+## 2026-09-02 06:40 PM CDT
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - + AMC Vestavia Hills 10 @ 2026-09-24T14:00:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-24T18:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-24T21:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-25T12:00:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-25T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-25T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-25T21:15:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-26T12:00:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-26T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-26T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-26T21:15:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-27T12:00:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-27T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-27T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-27T21:15:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-28T12:00:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-28T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-28T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-28T21:15:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-29T12:00:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-29T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-29T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-29T21:15:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-30T12:00:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-09-30T15:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-30T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-30T21:15:00 (RealD 3D)
+- Hope
+  - + AMC Patton Creek 15 @ 2026-09-09T12:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-09T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-10T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-10T16:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-10T13:05:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-10T15:30:00 (Standard)
+- Buddy
+  - − AMC Patton Creek 15 @ 2026-09-09T14:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T17:15:00 (Standard)
+
 ## 2026-09-02 02:02 PM CDT
 
 **Movies added:**
