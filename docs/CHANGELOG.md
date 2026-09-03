@@ -1,3 +1,27 @@
+## 2026-09-03 06:37 PM CDT
+
+**Showtime changes:**
+- The Odyssey
+  - + AMC Patton Creek 15 @ 2026-09-11T15:15:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-09-12T15:15:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-09-13T15:15:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-09-14T15:15:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-09-15T15:15:00 (IMAX at AMC)
+- Oasis: Don't Look Back in Anger
+  - − AMC Patton Creek 15 @ 2026-09-11T13:00:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-11T16:10:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-12T13:00:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-12T16:10:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-13T13:00:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-13T16:10:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-14T13:00:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-14T16:10:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-15T13:00:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-15T16:10:00 (IMAX at AMC)
+- Buddy
+  - + AMC Patton Creek 15 @ 2026-09-07T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-07T19:20:00 (Standard)
+
 ## 2026-09-03 01:57 PM CDT
 
 No changes.
