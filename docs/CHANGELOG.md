@@ -1,3 +1,26 @@
+## 2026-09-04 06:30 PM CDT
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - − AMC Patton Creek 15 @ 2026-09-04T16:05:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC Vestavia Hills 10 @ 2026-10-01T12:00:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-10-01T18:30:00 (Standard)
+- The Sun Never Sets
+  - − AMC Patton Creek 15 @ 2026-09-04T21:45:00 (Standard)
+- Coyote vs. Acme
+  - − AMC Patton Creek 15 @ 2026-09-04T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-05T13:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-05T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-05T19:00:00 (Standard)
+- The End of Oak Street
+  - − AMC Vestavia Hills 10 @ 2026-09-04T22:00:00 (Standard)
+- Buddy
+  - + AMC Vestavia Hills 10 @ 2026-09-04T22:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-05T21:50:00 (Standard)
+- Insidious: Out of the Further
+  - − AMC Patton Creek 15 @ 2026-09-04T22:15:00 (Standard)
+
 ## 2026-09-04 01:39 PM CDT
 
 **Movies added:**
