@@ -1,3 +1,31 @@
+## 2026-09-04 01:39 PM CDT
+
+**Movies added:**
+- Daniel and the Fiery Furnace
+- Verity Early Access
+- Verity
+
+**Showtime changes:**
+- The End of Oak Street
+  - + AMC Summit 16 @ 2026-09-09T18:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T19:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T21:50:00 (Standard)
+- Hope
+  - + AMC Summit 16 @ 2026-09-09T21:25:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-10T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-10T15:35:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-10T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-10T21:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-11T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-12T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-13T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-14T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-15T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-16T19:15:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC Summit 16 @ 2026-09-09T16:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T16:20:00 (Standard)
+
 ## 2026-09-04 08:51 AM CDT
 
 No changes.
