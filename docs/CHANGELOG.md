@@ -1,3 +1,20 @@
+## 2026-09-05 06:26 PM CDT
+
+**Showtime changes:**
+- Buddy
+  - − AMC Patton Creek 15 @ 2026-09-06T21:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-07T21:50:00 (Standard)
+- Practical Magic 2
+  - + AMC Vestavia Hills 10 @ 2026-09-11T13:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-11T14:00:00 (Standard)
+- Coyote vs. Acme
+  - − AMC Patton Creek 15 @ 2026-09-06T13:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-06T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-06T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-07T13:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-07T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-07T19:00:00 (Standard)
+
 ## 2026-09-05 12:46 PM CDT
 
 **Showtime changes:**
