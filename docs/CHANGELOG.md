@@ -1,3 +1,17 @@
+## 2026-09-05 12:46 PM CDT
+
+**Showtime changes:**
+- Hope
+  - + AMC Summit 16 @ 2026-09-11T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-11T15:35:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-11T21:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-12T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-12T15:35:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-12T21:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-13T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-13T15:35:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-13T21:45:00 (Standard)
+
 ## 2026-09-05 08:05 AM CDT
 
 No changes.
