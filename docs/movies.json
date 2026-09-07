@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-07T10:22:15.981338-05:00",
+    "generated_at": "2026-09-07T14:28:22.423125-05:00",
     "movie_count": 115,
     "showtime_count": 2497,
     "theaters": {
@@ -36032,8 +36032,8 @@
           "showtime_id": 146779862,
           "datetime": "2026-09-09T20:45:00",
           "datetime_utc": "2026-09-10T01:45:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/summit/all/146779862",
           "sold_out": false,
@@ -50073,8 +50073,8 @@
           "showtime_id": 146780068,
           "datetime": "2026-09-09T16:05:00",
           "datetime_utc": "2026-09-09T21:05:00Z",
-          "auditorium": 14,
-          "screen_width_ft": 17.8,
+          "auditorium": 7,
+          "screen_width_ft": 28.7,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/summit/all/146780068",
           "sold_out": false,
@@ -50154,8 +50154,8 @@
           "showtime_id": 146362728,
           "datetime": "2026-09-09T19:45:00",
           "datetime_utc": "2026-09-10T00:45:00Z",
-          "auditorium": 14,
-          "screen_width_ft": 17.8,
+          "auditorium": 7,
+          "screen_width_ft": 28.7,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/summit/all/146362728",
           "sold_out": false,
@@ -61342,8 +61342,8 @@
           "showtime_id": 146779860,
           "datetime": "2026-09-09T15:30:00",
           "datetime_utc": "2026-09-09T20:30:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/summit/all/146779860",
           "sold_out": false,
@@ -61465,8 +61465,8 @@
           "showtime_id": 146779859,
           "datetime": "2026-09-09T18:00:00",
           "datetime_utc": "2026-09-09T23:00:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/summit/all/146779859",
           "sold_out": false,
@@ -84018,38 +84018,37 @@
           "showtime_id": 146779861,
           "datetime": "2026-09-09T12:00:00",
           "datetime_utc": "2026-09-09T17:00:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
-          "premium_format": "RealD 3D",
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
+          "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/summit/all/146779861",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
+          "discount_message": "20% OFF",
           "attributes": [
             "Closed Caption",
             "Audio Description",
-            "RealD 3D",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.57,
-              "tax": 1.78
+              "price": 14.07,
+              "tax": 1.28
             },
             {
               "type": "CHILD",
-              "price": 16.93,
-              "tax": 1.54
+              "price": 11.43,
+              "tax": 1.04
             },
             {
               "type": "SENIOR",
-              "price": 18.25,
-              "tax": 1.66
+              "price": 12.75,
+              "tax": 1.16
             }
           ]
         },
@@ -94127,7 +94126,7 @@
       "rotten_tomatoes": "79%",
       "metacritic": null,
       "letterboxd_rating": 3.42,
-      "letterboxd_rating_count": 2629,
+      "letterboxd_rating_count": 2662,
       "letterboxd_url": "https://letterboxd.com/film/the-sun-never-sets-2026/",
       "awards": "N/A",
       "language": "English",
@@ -94346,8 +94345,8 @@
           "showtime_id": 146780069,
           "datetime": "2026-09-09T13:20:00",
           "datetime_utc": "2026-09-09T18:20:00Z",
-          "auditorium": 14,
-          "screen_width_ft": 17.8,
+          "auditorium": 7,
+          "screen_width_ft": 28.7,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/summit/all/146780069",
           "sold_out": false,
@@ -99574,8 +99573,6 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
-            "Closed Caption",
-            "Audio Description",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
@@ -99653,8 +99650,6 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
-            "Closed Caption",
-            "Audio Description",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
@@ -99902,7 +99897,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/summit/all/146780129",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,

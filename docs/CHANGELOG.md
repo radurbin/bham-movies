@@ -1,3 +1,10 @@
+## 2026-09-07 02:28 PM CDT
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - + AMC Summit 16 @ 2026-09-09T12:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T12:00:00 (RealD 3D)
+
 ## 2026-09-07 10:22 AM CDT
 
 No changes.
