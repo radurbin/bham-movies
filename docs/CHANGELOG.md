@@ -1,3 +1,11 @@
+## 2026-09-08 08:57 AM CDT
+
+**Movies added:**
+- Dora and the Lost City of Gold
+- Forgotten Island
+- Instructions Not Included 
+- Stand and Deliver
+
 ## 2026-09-08 03:23 AM CDT
 
 **Movies removed:**
