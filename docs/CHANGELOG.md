@@ -1,3 +1,8 @@
+## 2026-09-08 02:04 PM CDT
+
+**Movies added:**
+- AMC Screen Unseen: September 21
+
 ## 2026-09-08 08:57 AM CDT
 
 **Movies added:**
