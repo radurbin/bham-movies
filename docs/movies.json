@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-09-09T13:55:03.915702-05:00",
-    "movie_count": 121,
-    "showtime_count": 3016,
+    "generated_at": "2026-09-09T18:37:35.472320-05:00",
+    "movie_count": 122,
+    "showtime_count": 3003,
     "theaters": {
       "AMC Summit 16": 998,
-      "AMC Patton Creek 15": 1192,
+      "AMC Patton Creek 15": 1181,
       "AMC Vestavia Hills 10": 664,
-      "Sidewalk Film Center + Cinema": 162
+      "Sidewalk Film Center + Cinema": 159,
+      "Sidewalk Film Center + Cinema - Classroom": 1
     }
   },
   "movies": [
@@ -51778,8 +51779,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 1319,
+      "letterboxd_rating": 3.79,
+      "letterboxd_rating_count": 1327,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English",
@@ -58463,46 +58464,6 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "dbAPohDaZU",
-          "datetime": "2026-09-09T14:00:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/gandahar/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "BPH4SUXDtx",
-          "datetime": "2026-09-09T16:00:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/gandahar/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
           "showtime_id": "07AqPl0LIj",
           "datetime": "2026-09-09T20:15:00",
           "datetime_utc": null,
@@ -61034,7 +60995,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.35,
-      "letterboxd_rating_count": 1430,
+      "letterboxd_rating_count": 1446,
       "letterboxd_url": "https://letterboxd.com/film/hanuman-ansh/",
       "awards": "N/A",
       "language": "Hindi",
@@ -67992,7 +67953,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": null,
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 2206,
+      "letterboxd_rating_count": 2211,
       "letterboxd_url": "https://letterboxd.com/film/if-i-go-will-they-miss-me-2026/",
       "awards": "1 win & 1 nomination total",
       "language": "English",
@@ -73937,26 +73898,6 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "vudtUbODmq",
-          "datetime": "2026-09-09T14:15:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/maryoliversavedbythebeautyoftheworld/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
           "showtime_id": "r681BkqG3Z",
           "datetime": "2026-09-09T16:15:00",
           "datetime_utc": null,
@@ -74078,7 +74019,7 @@
     {
       "sort_index": "moonlight 10th anniversary remastered",
       "source": "AMC",
-      "movie_id": 84974,
+      "movie_id": 85011,
       "title": "Moonlight 10th Anniversary Remastered",
       "release_year": 2026,
       "runtime": 129,
@@ -74114,7 +74055,7 @@
       "country": "United States",
       "box_office": "N/A",
       "website": null,
-      "movie_url": "https://www.amctheatres.com/movies/moonlight-10th-anniversary-remastered-84974",
+      "movie_url": "https://www.amctheatres.com/movies/moonlight-10th-anniversary-remastered-85011",
       "trailer_url": null,
       "showtimes": [
         {
@@ -101423,6 +101364,62 @@
       ]
     },
     {
+      "sort_index": "southern circuit: on interviewing - masterclass with dawn porter *pay what you can*",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Southern Circuit: On Interviewing - Masterclass with Dawn Porter *Pay What You Can*",
+      "release_year": null,
+      "runtime": 60,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/southern-circuit-on-interviewing-masterclass-with-dawn-porter-pay-what-you-can.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Join us before the Southern Circuit screening of When A Witness Recants to experience the art of the interview with Dawn Porter. This masterclass will explore interviewing techniques and incorporate examples from Dawn's previous films. This is a rare opportunity to learn from an accomplished director whose accolades include the Peabody Award, NAACP Image Award, Emmy Award and more.\n\nDawn Porter is an acclaimed American documentary filmmaker and founder of Trilogy Films whose work has appeared on ESPN, Netflix, HBO, PBS, Hulu, and Apple TV+. Recently awarded the National Humanities Medal by former president Joe Biden and received the IDA Career Achievement Award.\n\nThe Southern Circuit a program of South Arts and is made possible through a partnership with the National Endowment for the Arts. \n\nThis event is limited seating, reservations are first come first served.",
+      "directors": [
+        "Dawn Porter"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/southerncircuitoninterviewing/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema - Classroom",
+          "showtime_id": "2Ts1iWV3LL",
+          "datetime": "2026-09-18T17:30:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/southerncircuitoninterviewing/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
       "sort_index": "spa weekend",
       "source": "AMC",
       "movie_id": 82597,
@@ -114235,86 +114232,6 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806940,
-          "datetime": "2026-09-17T16:30:00",
-          "datetime_utc": "2026-09-17T21:30:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 47.3,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-17/pattoncreek/all/146806940",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
-            },
-            {
-              "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806941,
-          "datetime": "2026-09-17T20:30:00",
-          "datetime_utc": "2026-09-18T01:30:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 47.3,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-17/pattoncreek/all/146806941",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
-            },
-            {
-              "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
           "showtime_id": 146806942,
           "datetime": "2026-09-18T12:30:00",
           "datetime_utc": "2026-09-18T17:30:00Z",
@@ -114348,86 +114265,6 @@
               "type": "SENIOR",
               "price": 11.82,
               "tax": 1.03
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806943,
-          "datetime": "2026-09-18T16:30:00",
-          "datetime_utc": "2026-09-18T21:30:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 47.3,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-18/pattoncreek/all/146806943",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
-            },
-            {
-              "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806944,
-          "datetime": "2026-09-18T20:30:00",
-          "datetime_utc": "2026-09-19T01:30:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 47.3,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-18/pattoncreek/all/146806944",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
-            },
-            {
-              "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
             }
           ]
         },
@@ -114475,86 +114312,6 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806934,
-          "datetime": "2026-09-19T16:30:00",
-          "datetime_utc": "2026-09-19T21:30:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 47.3,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-19/pattoncreek/all/146806934",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
-            },
-            {
-              "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806935,
-          "datetime": "2026-09-19T20:30:00",
-          "datetime_utc": "2026-09-20T01:30:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 47.3,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-19/pattoncreek/all/146806935",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
-            },
-            {
-              "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
           "showtime_id": 146806936,
           "datetime": "2026-09-20T12:30:00",
           "datetime_utc": "2026-09-20T17:30:00Z",
@@ -114595,86 +114352,6 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806937,
-          "datetime": "2026-09-20T16:30:00",
-          "datetime_utc": "2026-09-20T21:30:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 47.3,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-20/pattoncreek/all/146806937",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
-            },
-            {
-              "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806938,
-          "datetime": "2026-09-20T20:30:00",
-          "datetime_utc": "2026-09-21T01:30:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 47.3,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-20/pattoncreek/all/146806938",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
-            },
-            {
-              "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
           "showtime_id": 146806927,
           "datetime": "2026-09-21T12:30:00",
           "datetime_utc": "2026-09-21T17:30:00Z",
@@ -114708,86 +114385,6 @@
               "type": "SENIOR",
               "price": 11.82,
               "tax": 1.03
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806928,
-          "datetime": "2026-09-21T16:30:00",
-          "datetime_utc": "2026-09-21T21:30:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 47.3,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-21/pattoncreek/all/146806928",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
-            },
-            {
-              "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146806929,
-          "datetime": "2026-09-21T20:30:00",
-          "datetime_utc": "2026-09-22T01:30:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 47.3,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-21/pattoncreek/all/146806929",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.41,
-              "tax": 1.42
-            },
-            {
-              "type": "CHILD",
-              "price": 13.13,
-              "tax": 1.14
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.77,
-              "tax": 1.28
             }
           ]
         },
@@ -116333,7 +115930,7 @@
       "rotten_tomatoes": "79%",
       "metacritic": null,
       "letterboxd_rating": 3.4,
-      "letterboxd_rating_count": 3307,
+      "letterboxd_rating_count": 3366,
       "letterboxd_url": "https://letterboxd.com/film/the-sun-never-sets-2026/",
       "awards": "N/A",
       "language": "English",
@@ -116548,50 +116145,6 @@
               "type": "SENIOR",
               "price": 19.8,
               "tax": 1.8
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146959753,
-          "datetime": "2026-09-17T19:40:00",
-          "datetime_utc": "2026-09-18T00:40:00Z",
-          "auditorium": 12,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-17/pattoncreek/all/146959753",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Alternative Content",
-            "Closed Caption",
-            "Excluded from A-List",
-            "No Passes",
-            "No Trailers",
-            "NoTrailers",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "CHILD",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "SENIOR",
-              "price": 16.43,
-              "tax": 1.43
             }
           ]
         },
@@ -117081,7 +116634,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.11,
-      "letterboxd_rating_count": 1084,
+      "letterboxd_rating_count": 1109,
       "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/",
       "awards": "N/A",
       "language": "English",

@@ -1,3 +1,28 @@
+## 2026-09-09 06:37 PM CDT
+
+**Movies added:**
+- Southern Circuit: On Interviewing - Masterclass with Dawn Porter *Pay What You Can*
+
+**Showtime changes:**
+- The Odyssey
+  - − AMC Patton Creek 15 @ 2026-09-17T16:30:00 (70mm)
+  - − AMC Patton Creek 15 @ 2026-09-17T20:30:00 (70mm)
+  - − AMC Patton Creek 15 @ 2026-09-18T16:30:00 (70mm)
+  - − AMC Patton Creek 15 @ 2026-09-18T20:30:00 (70mm)
+  - − AMC Patton Creek 15 @ 2026-09-19T16:30:00 (70mm)
+  - − AMC Patton Creek 15 @ 2026-09-19T20:30:00 (70mm)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:30:00 (70mm)
+  - − AMC Patton Creek 15 @ 2026-09-20T20:30:00 (70mm)
+  - − AMC Patton Creek 15 @ 2026-09-21T16:30:00 (70mm)
+  - − AMC Patton Creek 15 @ 2026-09-21T20:30:00 (70mm)
+- Gandahar (Subtitled)
+  - − Sidewalk Film Center + Cinema @ 2026-09-09T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-09T16:00:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - − AMC Patton Creek 15 @ 2026-09-17T19:40:00 (Standard)
+- Mary Oliver: Saved by the Beauty of the World
+  - − Sidewalk Film Center + Cinema @ 2026-09-09T14:15:00 (Standard)
+
 ## 2026-09-09 01:55 PM CDT
 
 No changes.
