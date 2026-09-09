@@ -1,3 +1,8 @@
+## 2026-09-09 09:00 AM CDT
+
+**Movies added:**
+- Moonlight 10th Anniversary Remastered
+
 ## 2026-09-09 03:26 AM CDT
 
 **Movies added:**
