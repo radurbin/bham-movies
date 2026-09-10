@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-08-19 11:18 AM CDT",
-    "movies_added": [
-      "Amok Time + Star Trek III: The Search for Spock 60th Anniversary Event",
-      "Camp Duval",
-      "Fall 2: Deadpoint",
-      "NO LIMBS, NO LIMITS: The NickV Story",
-      "Space Seed + Star Trek II: The Wrath of Khan - Director's Cut 60th Anniversary Event",
-      "The Changeling + Star Trek: The Motion Picture - Director's Edition - 60th Anniversary Event",
-      "The City on The Edge of Forever + Star Trek IV: The Voyage Home 60th Anniversary Event"
-    ],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "added": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-08-21T20:45:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-08-22T20:45:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      },
-      {
-        "title": "Spider-Man: Brand New Day",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-08-21T20:45:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-08-22T20:45:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-08-19 05:12 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -39767,5 +39720,145 @@
     ],
     "movies_removed": [],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-09-10 01:46 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Akira",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-12T22:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-13T22:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Heaven in Stone and Glass",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-20T16:50:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Don't Move",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-12T22:25:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-13T22:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-12T21:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-13T21:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Onslaught",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-12T19:10:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-12T19:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Hanuman Ansh",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-11T20:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-12T21:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-13T21:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-14T18:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-15T18:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-16T18:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "The Fix",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-11T21:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-14T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-15T18:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-16T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

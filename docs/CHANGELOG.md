@@ -1,3 +1,32 @@
+## 2026-09-10 01:46 PM CDT
+
+**Showtime changes:**
+- Akira
+  - − AMC Patton Creek 15 @ 2026-09-12T22:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-13T22:20:00 (Standard)
+- Heaven in Stone and Glass
+  - + AMC Summit 16 @ 2026-09-20T16:50:00 (Standard)
+- Don't Move
+  - + AMC Patton Creek 15 @ 2026-09-12T22:25:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-13T22:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-12T21:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-13T21:40:00 (Standard)
+- Onslaught
+  - + AMC Patton Creek 15 @ 2026-09-12T19:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-12T19:20:00 (Standard)
+- Hanuman Ansh
+  - + AMC Patton Creek 15 @ 2026-09-11T20:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-12T21:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-13T21:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-14T18:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-15T18:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-16T18:45:00 (Standard)
+- The Fix
+  - − AMC Patton Creek 15 @ 2026-09-11T21:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-14T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-15T18:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-16T18:45:00 (Standard)
+
 ## 2026-09-10 08:56 AM CDT
 
 **Movies added:**
