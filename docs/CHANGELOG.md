@@ -1,3 +1,183 @@
+## 2026-09-10 03:28 AM CDT
+
+**Movies removed:**
+- Bethlehem Kutumba Unit (Telugu)
+- Finding Emily
+- Mutiny
+- Oasis: Don’t Look Back In Anger IMAX Early Access
+- Spa Weekend
+- Student Night: Shark Tale (2004)
+- The Nutty Professor: 30th Anniversary
+- The Rivals of Amziah King
+- The Sun Never Sets
+- Tom and Jerry: The Forbidden Compass
+- Toy Story 5
+- cocoon - One Summer of Girlhood
+
+**Showtime changes:**
+- Akira
+  - − AMC Patton Creek 15 @ 2026-09-09T13:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T18:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T19:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T21:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Summit 16 @ 2026-09-09T12:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T12:30:00 (PRIME at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-09T12:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T15:10:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T15:45:00 (PRIME at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T18:40:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-09-09T18:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T19:00:00 (PRIME at AMC)
+  - − AMC Summit 16 @ 2026-09-09T21:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T22:15:00 (PRIME at AMC)
+- Onslaught
+  - − AMC Vestavia Hills 10 @ 2026-09-09T12:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T14:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T14:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T15:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T16:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T17:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T19:25:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T19:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T20:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T21:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T22:45:00 (Standard)
+- The Dog Stars
+  - − AMC Vestavia Hills 10 @ 2026-09-09T12:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T13:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T16:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T16:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T19:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T19:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T22:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T22:40:00 (Standard)
+- Coyote vs. Acme
+  - − AMC Patton Creek 15 @ 2026-09-09T13:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T13:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T13:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T16:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T16:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T19:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T19:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T20:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T22:30:00 (Standard)
+- The End of Oak Street
+  - − AMC Patton Creek 15 @ 2026-09-09T13:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T14:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T15:50:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T15:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T18:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T22:00:00 (Standard)
+- The Odyssey
+  - + AMC Patton Creek 15 @ 2026-09-17T16:30:00 (70mm)
+  - + AMC Patton Creek 15 @ 2026-09-17T20:30:00 (70mm)
+  - + AMC Patton Creek 15 @ 2026-09-18T16:30:00 (70mm)
+  - + AMC Patton Creek 15 @ 2026-09-18T20:30:00 (70mm)
+  - + AMC Patton Creek 15 @ 2026-09-19T16:30:00 (70mm)
+  - + AMC Patton Creek 15 @ 2026-09-19T20:30:00 (70mm)
+  - + AMC Patton Creek 15 @ 2026-09-20T16:30:00 (70mm)
+  - + AMC Patton Creek 15 @ 2026-09-20T20:30:00 (70mm)
+  - + AMC Patton Creek 15 @ 2026-09-21T16:30:00 (70mm)
+  - + AMC Patton Creek 15 @ 2026-09-21T20:30:00 (70mm)
+  - − AMC Summit 16 @ 2026-09-09T12:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T12:30:00 (70mm)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T12:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T14:45:00 (IMAX at AMC)
+  - − AMC Summit 16 @ 2026-09-09T15:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T15:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:30:00 (70mm)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T18:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T20:30:00 (70mm)
+  - − AMC Summit 16 @ 2026-09-09T21:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T21:55:00 (Standard)
+- Insidious: Out of the Further
+  - − AMC Summit 16 @ 2026-09-09T12:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T13:05:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T14:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T17:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T19:05:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T19:50:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T22:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T22:45:00 (Standard)
+- Mary Oliver: Saved by the Beauty of the World
+  - − Sidewalk Film Center + Cinema @ 2026-09-09T16:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-09T18:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-09T20:30:00 (Standard)
+- Fall 2: Deadpoint
+  - − AMC Patton Creek 15 @ 2026-09-09T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T16:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T19:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T19:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T22:00:00 (Standard)
+- Cars: 20th Anniversary
+  - − AMC Patton Creek 15 @ 2026-09-09T13:20:00 (RealD 3D)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T13:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T13:30:00 (RealD 3D)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T16:25:00 (Standard)
+- Hope
+  - − AMC Summit 16 @ 2026-09-09T12:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T12:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T16:05:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T19:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T19:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T21:10:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - + AMC Patton Creek 15 @ 2026-09-17T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-18T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-19T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-19T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-20T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-21T19:00:00 (Standard)
+- Buddy
+  - − AMC Vestavia Hills 10 @ 2026-09-09T13:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T16:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T21:50:00 (Standard)
+- Gandahar (Subtitled)
+  - − Sidewalk Film Center + Cinema @ 2026-09-09T20:15:00 (Standard)
+- MST3K: The RiffTrax Experiments - Sting of Death
+  - − AMC Summit 16 @ 2026-09-09T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T19:00:00 (Standard)
+- By Any Means
+  - − AMC Vestavia Hills 10 @ 2026-09-09T13:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T13:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T13:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T15:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T18:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T18:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T19:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T21:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T21:30:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - − AMC Summit 16 @ 2026-09-09T12:05:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T12:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T13:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T14:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T15:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-09T16:10:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T16:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-09T18:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-09T18:40:00 (Standard)
+
 ## 2026-09-09 06:37 PM CDT
 
 **Movies added:**
