@@ -1,3 +1,36 @@
+## 2026-09-10 06:30 PM CDT
+
+**Movies added:**
+- Ha-Chan, Shake Your Booty!
+
+**Showtime changes:**
+- Mary Oliver: Saved by the Beauty of the World
+  - − Sidewalk Film Center + Cinema @ 2026-09-10T14:30:00 (Standard)
+- JIMMY
+  - + AMC Summit 16 @ 2026-11-05T19:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-06T16:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-06T19:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-07T16:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-07T19:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-08T16:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-08T19:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-09T16:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-09T19:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-10T16:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-10T19:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-11T16:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-11T19:20:00 (Standard)
+- Gandahar (Subtitled)
+  - − Sidewalk Film Center + Cinema @ 2026-09-10T14:00:00 (Standard)
+- Moonlight 10th Anniversary Remastered
+  - + AMC Summit 16 @ 2026-10-01T18:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T18:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-03T18:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-04T18:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-05T18:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-06T18:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-07T18:45:00 (Standard)
+
 ## 2026-09-10 01:46 PM CDT
 
 **Showtime changes:**
