@@ -1,3 +1,9 @@
+## 2026-09-11 08:56 AM CDT
+
+**Movies added:**
+- Spanglish
+- V For Vendetta 20th Anniversary
+
 ## 2026-09-11 03:22 AM CDT
 
 **Movies removed:**
