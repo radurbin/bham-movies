@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-20 11:20 AM CDT",
-    "movies_added": [
-      "Akira",
-      "Hope",
-      "Onslaught",
-      "The Uprising: Early Access Live Q&A with Paul Greengrass and Andrew Garfield"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-20 05:15 PM CDT",
     "movies_added": [],
     "movies_removed": [
@@ -39807,5 +39796,28 @@
     ],
     "movies_removed": [],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-09-11 01:49 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "You Had to Be There",
+        "added": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-09-30T21:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-01T21:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      }
+    ]
   }
 ]

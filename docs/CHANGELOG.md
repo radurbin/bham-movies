@@ -1,3 +1,10 @@
+## 2026-09-11 01:49 PM CDT
+
+**Showtime changes:**
+- You Had to Be There
+  - + Sidewalk Film Center + Cinema @ 2026-09-30T21:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-10-01T21:00:00 (Standard)
+
 ## 2026-09-11 08:56 AM CDT
 
 **Movies added:**
