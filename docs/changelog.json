@@ -1,13 +1,5 @@
 [
   {
-    "date": "2026-08-20 05:15 PM CDT",
-    "movies_added": [],
-    "movies_removed": [
-      "Godzillafest 2026: Ghidorah, the Three-Headed Monster (1964)"
-    ],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-20 11:27 PM CDT",
     "movies_added": [],
     "movies_removed": [
@@ -39817,6 +39809,253 @@
           }
         ],
         "removed": []
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11 06:39 PM CDT",
+    "movies_added": [
+      "Knitflix and Chill: The Santa Clause (1994)",
+      "Ninja Scroll",
+      "ONE NIGHT ONLY: Portal to Hell (with Cast Q&A)",
+      "Pajama Party - The Muppet Christmas Carol (1992)",
+      "Pajama Party: How the Grinch Stole Christmas (2000)",
+      "SHOUT Movie Night Presented by BAO: The Family Stone (2005) (Free)",
+      "Southern Circuit:  Who's the We FILMMAKER IN ATTENDANCE",
+      "Southern Circuit: Built on Zydeco FILMMAKER IN ATTENDANCE",
+      "This is Buzz (with Director Q&A)",
+      "Twin Peaks: Fire Walk With Me (1991)",
+      "Twin Peaks: The Return — Parts 1-4",
+      "Twin Peaks: The Return — Parts 12-18",
+      "Twin Peaks: The Return — Parts 5-11"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Dog Stars",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T21:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-13T21:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T21:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-13T21:50:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Odyssey",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T21:25:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Filmmaker Focus: Barbarian (2022)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-09-11T14:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Insidious: Out of the Further",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-09-12T12:55:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-09-13T12:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-09-14T12:55:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-09-15T12:55:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-09-16T12:55:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Hope",
+        "added": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-09-12T12:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T21:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-09-13T11:55:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-13T21:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-09-14T12:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-09-15T12:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-09-16T12:05:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "By Any Means",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T22:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-13T22:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T21:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-13T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Haiwaan",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T21:35:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T21:25:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Coyote vs. Acme",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T19:55:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-13T21:55:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-12T20:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-13T21:35:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Samurai and the Prisoner",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-09-11T14:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Uprising",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-13T21:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-13T21:40:00",
+            "format": "Standard"
+          }
+        ]
       }
     ]
   }

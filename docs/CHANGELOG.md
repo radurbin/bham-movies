@@ -1,3 +1,64 @@
+## 2026-09-11 06:39 PM CDT
+
+**Movies added:**
+- Knitflix and Chill: The Santa Clause (1994)
+- Ninja Scroll
+- ONE NIGHT ONLY: Portal to Hell (with Cast Q&A)
+- Pajama Party - The Muppet Christmas Carol (1992)
+- Pajama Party: How the Grinch Stole Christmas (2000)
+- SHOUT Movie Night Presented by BAO: The Family Stone (2005) (Free)
+- Southern Circuit:  Who's the We FILMMAKER IN ATTENDANCE
+- Southern Circuit: Built on Zydeco FILMMAKER IN ATTENDANCE
+- This is Buzz (with Director Q&A)
+- Twin Peaks: Fire Walk With Me (1991)
+- Twin Peaks: The Return — Parts 1-4
+- Twin Peaks: The Return — Parts 12-18
+- Twin Peaks: The Return — Parts 5-11
+
+**Showtime changes:**
+- The Dog Stars
+  - + AMC Summit 16 @ 2026-09-12T21:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-13T21:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-12T21:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-13T21:50:00 (Standard)
+- The Odyssey
+  - + AMC Summit 16 @ 2026-09-12T21:25:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-12T21:45:00 (Standard)
+- Filmmaker Focus: Barbarian (2022)
+  - − Sidewalk Film Center + Cinema @ 2026-09-11T14:00:00 (Standard)
+- Insidious: Out of the Further
+  - − AMC Vestavia Hills 10 @ 2026-09-12T12:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-13T12:50:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-14T12:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-15T12:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-16T12:55:00 (Standard)
+- Hope
+  - + AMC Vestavia Hills 10 @ 2026-09-12T12:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-12T21:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-13T11:55:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-13T21:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-14T12:05:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-15T12:05:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-09-16T12:05:00 (Standard)
+- By Any Means
+  - + AMC Summit 16 @ 2026-09-12T22:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-13T22:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-12T21:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-13T21:45:00 (Standard)
+- Haiwaan
+  - + AMC Summit 16 @ 2026-09-12T21:35:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-12T21:25:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Summit 16 @ 2026-09-12T19:55:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-13T21:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-12T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-13T21:35:00 (Standard)
+- The Samurai and the Prisoner
+  - − Sidewalk Film Center + Cinema @ 2026-09-11T14:30:00 (Standard)
+- The Uprising
+  - + AMC Summit 16 @ 2026-09-13T21:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-13T21:40:00 (Standard)
+
 ## 2026-09-11 01:49 PM CDT
 
 **Showtime changes:**

@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-09-11T13:49:54.076674-05:00",
-    "movie_count": 112,
-    "showtime_count": 2801,
+    "generated_at": "2026-09-11T18:39:08.041641-05:00",
+    "movie_count": 125,
+    "showtime_count": 2821,
     "theaters": {
-      "AMC Summit 16": 931,
-      "AMC Patton Creek 15": 1136,
+      "AMC Summit 16": 933,
+      "AMC Patton Creek 15": 1138,
       "AMC Vestavia Hills 10": 586,
-      "Sidewalk Film Center + Cinema": 147,
+      "Sidewalk Film Center + Cinema": 163,
       "Sidewalk Film Center + Cinema - Classroom": 1
     }
   },
@@ -33173,47 +33173,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146968445,
-          "datetime": "2026-09-12T21:45:00",
-          "datetime_utc": "2026-09-13T02:45:00Z",
-          "auditorium": 15,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/summit/all/146968445",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146936535,
@@ -33249,6 +33208,47 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146968445,
+          "datetime": "2026-09-12T22:45:00",
+          "datetime_utc": "2026-09-13T03:45:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/summit/all/146968445",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
             }
           ]
         },
@@ -33707,47 +33707,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146968440,
-          "datetime": "2026-09-13T21:45:00",
-          "datetime_utc": "2026-09-14T02:45:00Z",
-          "auditorium": 15,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/summit/all/146968440",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146936494,
@@ -33783,6 +33742,47 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146968440,
+          "datetime": "2026-09-13T22:45:00",
+          "datetime_utc": "2026-09-14T03:45:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/summit/all/146968440",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
             }
           ]
         },
@@ -37559,8 +37559,8 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146968199,
-          "datetime": "2026-09-12T20:00:00",
-          "datetime_utc": "2026-09-13T01:00:00Z",
+          "datetime": "2026-09-12T19:55:00",
+          "datetime_utc": "2026-09-13T00:55:00Z",
           "auditorium": 2,
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
@@ -38047,47 +38047,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 146968214,
-          "datetime": "2026-09-13T21:35:00",
-          "datetime_utc": "2026-09-14T02:35:00Z",
-          "auditorium": 2,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/summit/all/146968214",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146936531,
@@ -38123,6 +38082,47 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 146968214,
+          "datetime": "2026-09-13T21:55:00",
+          "datetime_utc": "2026-09-14T02:55:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/summit/all/146968214",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
             }
           ]
         },
@@ -47820,26 +47820,6 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "aSCl7OxR9P",
-          "datetime": "2026-09-11T14:00:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/barbarian/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
           "showtime_id": "giWnWOwUrZ",
           "datetime": "2026-09-11T22:15:00",
           "datetime_utc": null,
@@ -48295,8 +48275,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 1480,
+      "letterboxd_rating": 3.79,
+      "letterboxd_rating_count": 1573,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English",
@@ -56834,7 +56814,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.72,
-      "letterboxd_rating_count": 2026,
+      "letterboxd_rating_count": 2031,
       "letterboxd_url": "https://letterboxd.com/film/ha-chan-shake-your-booty/",
       "awards": "1 win & 1 nomination total",
       "language": "Japanese, English, Spanish",
@@ -57326,9 +57306,9 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146968390,
-          "datetime": "2026-09-12T21:25:00",
-          "datetime_utc": "2026-09-13T02:25:00Z",
-          "auditorium": 11,
+          "datetime": "2026-09-12T21:35:00",
+          "datetime_utc": "2026-09-13T02:35:00Z",
+          "auditorium": 3,
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/summit/all/146968390",
@@ -57720,7 +57700,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.33,
-      "letterboxd_rating_count": 1604,
+      "letterboxd_rating_count": 1623,
       "letterboxd_url": "https://letterboxd.com/film/hanuman-ansh/",
       "awards": "N/A",
       "language": "Hindi",
@@ -62724,6 +62704,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 147006052,
+          "datetime": "2026-09-12T12:05:00",
+          "datetime_utc": "2026-09-12T17:05:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/vestaviahills/all/147006052",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Korean Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146936685,
@@ -63050,6 +63072,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147005145,
+          "datetime": "2026-09-12T21:50:00",
+          "datetime_utc": "2026-09-13T02:50:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 28.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/summit/all/147005145",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146888486,
@@ -63087,6 +63150,48 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 147006056,
+          "datetime": "2026-09-13T11:55:00",
+          "datetime_utc": "2026-09-13T16:55:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/vestaviahills/all/147006056",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Korean Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
             }
           ]
         },
@@ -63459,6 +63564,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147005146,
+          "datetime": "2026-09-13T21:50:00",
+          "datetime_utc": "2026-09-14T02:50:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 28.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/summit/all/147005146",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146888483,
@@ -63496,6 +63642,48 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 147006053,
+          "datetime": "2026-09-14T12:05:00",
+          "datetime_utc": "2026-09-14T17:05:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/vestaviahills/all/147006053",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Korean Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
             }
           ]
         },
@@ -63788,6 +63976,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 147006054,
+          "datetime": "2026-09-15T12:05:00",
+          "datetime_utc": "2026-09-15T17:05:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/vestaviahills/all/147006054",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Korean Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146936417,
@@ -64070,6 +64300,48 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 147006055,
+          "datetime": "2026-09-16T12:05:00",
+          "datetime_utc": "2026-09-16T17:05:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-16/vestaviahills/all/147006055",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Korean Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
             }
           ]
         },
@@ -64394,7 +64666,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": null,
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 2275,
+      "letterboxd_rating_count": 2284,
       "letterboxd_url": "https://letterboxd.com/film/if-i-go-will-they-miss-me-2026/",
       "awards": "1 win & 1 nomination total",
       "language": "English",
@@ -65302,49 +65574,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146888485,
-          "datetime": "2026-09-12T12:55:00",
-          "datetime_utc": "2026-09-12T17:55:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 29.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/vestaviahills/all/146888485",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "CHILD",
-              "price": 10.55,
-              "tax": 0.96
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.87,
-              "tax": 1.08
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146968265,
@@ -65848,49 +66077,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146888509,
-          "datetime": "2026-09-13T12:50:00",
-          "datetime_utc": "2026-09-13T17:50:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 43.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/vestaviahills/all/146888509",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "CHILD",
-              "price": 10.55,
-              "tax": 0.96
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.87,
-              "tax": 1.08
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146968269,
@@ -66352,49 +66538,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146888478,
-          "datetime": "2026-09-14T12:55:00",
-          "datetime_utc": "2026-09-14T17:55:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 29.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/vestaviahills/all/146888478",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "CHILD",
-              "price": 10.55,
-              "tax": 0.96
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.87,
-              "tax": 1.08
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146968247,
@@ -66815,49 +66958,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146888474,
-          "datetime": "2026-09-15T12:55:00",
-          "datetime_utc": "2026-09-15T17:55:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 29.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/vestaviahills/all/146888474",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "CHILD",
-              "price": 10.55,
-              "tax": 0.96
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.87,
-              "tax": 1.08
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146968245,
@@ -67273,49 +67373,6 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146888470,
-          "datetime": "2026-09-16T12:55:00",
-          "datetime_utc": "2026-09-16T17:55:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 29.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-16/vestaviahills/all/146888470",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "CHILD",
-              "price": 10.55,
-              "tax": 0.96
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.87,
-              "tax": 1.08
             }
           ]
         },
@@ -70405,6 +70462,62 @@
       ]
     },
     {
+      "sort_index": "knitflix and chill: the santa clause (1994)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Knitflix and Chill: The Santa Clause (1994)",
+      "release_year": 1994,
+      "runtime": 97,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/knitflix-and-chill-the-santa-clause-1994-1994.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Join us for a special screening of John Pasquin's classic. Lights will be a little brighter than usual in the theater so you can bring your knitting, crochet or any other craft project! In collaboration with Knit B'ham.\n\nFilm Synopsis: On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.",
+      "directors": [
+        "John Pasquin"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": "United States of America",
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/thesantaclause/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "njq1BJ2Ps5",
+          "datetime": "2026-12-03T19:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/thesantaclause/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
       "sort_index": "linkin park: unshatter",
       "source": "AMC",
       "movie_id": 84695,
@@ -71270,6 +71383,130 @@
               "type": "SENIOR",
               "price": 16.43,
               "tax": 1.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "ninja scroll",
+      "source": "AMC",
+      "movie_id": 83499,
+      "title": "Ninja Scroll",
+      "release_year": 2026,
+      "runtime": 94,
+      "rating": "NR",
+      "genres": [
+        "Special Event"
+      ],
+      "poster": "posters/ninja-scroll-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/ninja-scroll-83499",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147007294,
+          "datetime": "2026-10-04T16:00:00",
+          "datetime_utc": "2026-10-04T21:00:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/pattoncreek/all/147007294",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Event",
+            "International Films",
+            "Japanese Spoken with English Subtitles",
+            "Excluded from A-List",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147007295,
+          "datetime": "2026-10-07T19:00:00",
+          "datetime_utc": "2026-10-08T00:00:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-07/pattoncreek/all/147007295",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Event",
+            "International Films",
+            "Japanese Spoken with English Subtitles",
+            "Excluded from A-List",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
             }
           ]
         }
@@ -72938,6 +73175,62 @@
       ]
     },
     {
+      "sort_index": "one night only: portal to hell (with cast q&a)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "ONE NIGHT ONLY: Portal to Hell (with Cast Q&A)",
+      "release_year": 2025,
+      "runtime": 93,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/one-night-only-portal-to-hell-with-cast-qa-2025.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Dunn, a debt collector working on the fringes of legality, finds his routine disrupted when a portal to hell opens inside a neighborhood laundromat. A demon informs him that his elderly neighbor is bound for eternal punishment and offers a deal: deliver three souls in exchange for the man’s release.Reluctant at first, Dunn resists the arrangement, but events begin to draw him into the agreement. As he navigates encounters tied to the pact, the situation places him deeper within its consequences, where each step brings him closer to fulfilling the terms.\n\nJoin us for a special screening of this Sidewalk Film Festival favorite with a Q&A from star Trey Holland.",
+      "directors": [
+        "Woody Bess"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": "United States of America",
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/portaltohell26/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "FcLOxwNKm9",
+          "datetime": "2026-09-25T19:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/portaltohell26/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
       "sort_index": "onslaught",
       "source": "AMC",
       "movie_id": 84108,
@@ -73305,6 +73598,82 @@
       ]
     },
     {
+      "sort_index": "pajama party - the muppet christmas carol (1992)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Pajama Party - The Muppet Christmas Carol (1992)",
+      "release_year": 1992,
+      "runtime": 86,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/pajama-party-the-muppet-christmas-carol-1992-1992.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Join us for our family matinee series on select Saturday and Sunday mornings. Come cozy in your PJs and from 10am - 2pm enjoy light breakfast options for the whole family, plus a Bloody Mary and Mimosa bar for the grown-ups. \n\nFilm Synopsis: A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
+      "directors": [
+        "Brian Henson"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": "United States of America",
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/themuppetchristmascarol/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "rdtYkmwxQr",
+          "datetime": "2026-12-19T10:30:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/themuppetchristmascarol/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "1igew1N8Ot",
+          "datetime": "2026-12-20T10:30:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/themuppetchristmascarol/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
       "sort_index": "pajama party: chicken little (2005)",
       "source": "Sidewalk",
       "movie_id": null,
@@ -73445,6 +73814,82 @@
           "screen_width_ft": 26.25,
           "premium_format": "Standard",
           "purchase_url": "https://sidewalkfest.com/events/harrietthespy/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "pajama party: how the grinch stole christmas (2000)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Pajama Party: How the Grinch Stole Christmas (2000)",
+      "release_year": 2000,
+      "runtime": 105,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/pajama-party-how-the-grinch-stole-christmas-2000-2000.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Join us for our family matinee series on select Saturday and Sunday mornings. Come cozy in your PJs and from 10am - 2pm enjoy light breakfast options for the whole family, plus a Bloody Mary and Mimosa bar for the grown-ups. \n\nFilm Synopsis: The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart…",
+      "directors": [
+        "Ron Howard"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": "Germany,United States of America",
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/howthegrinchstolechristmas/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "ti8dPndI9j",
+          "datetime": "2026-12-05T10:30:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/howthegrinchstolechristmas/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "tPUQlef7D0",
+          "datetime": "2026-12-06T10:30:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/howthegrinchstolechristmas/",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -79098,7 +79543,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.66,
-      "letterboxd_rating_count": 1459,
+      "letterboxd_rating_count": 1479,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -79126,6 +79571,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -79167,6 +79613,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -79207,6 +79654,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -79249,6 +79697,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -79290,6 +79739,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -79330,6 +79780,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -79372,6 +79823,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -79413,6 +79865,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -79455,6 +79908,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
           ],
@@ -79494,6 +79948,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -79536,6 +79991,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -79576,6 +80032,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -79616,6 +80073,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -79658,6 +80116,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -79699,6 +80158,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -79739,6 +80199,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -79781,6 +80242,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -79822,6 +80284,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -79864,6 +80327,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -79905,6 +80369,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -79945,6 +80410,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -79986,6 +80452,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -80026,6 +80493,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -80068,6 +80536,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -80109,6 +80578,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -80149,6 +80619,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -80191,6 +80662,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -80232,6 +80704,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -80272,6 +80745,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -80314,6 +80788,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -80355,6 +80830,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -80397,6 +80873,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -80438,6 +80915,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -80478,6 +80956,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -80519,6 +80998,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -80559,6 +81039,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -80601,6 +81082,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -80642,6 +81124,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -80682,6 +81165,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -80724,6 +81208,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -80765,6 +81250,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -80805,6 +81291,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -80847,6 +81334,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -80888,6 +81376,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -80930,6 +81419,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -80971,6 +81461,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -81011,6 +81502,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -81051,6 +81543,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -81092,6 +81585,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -81134,6 +81628,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -81175,6 +81670,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -81215,6 +81711,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -81257,6 +81754,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -81298,6 +81796,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -81338,6 +81837,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -81380,6 +81880,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -81421,6 +81922,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -81463,6 +81965,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -81503,6 +82006,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -81544,6 +82048,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -81586,6 +82091,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -81627,6 +82133,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -81667,6 +82174,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -81709,6 +82217,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -81750,6 +82259,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -81790,6 +82300,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -81832,6 +82343,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -81873,6 +82385,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -81915,6 +82428,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -81955,6 +82469,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -81996,6 +82511,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -82038,6 +82554,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -82079,6 +82596,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -82119,6 +82637,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -82161,6 +82680,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -82201,6 +82721,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
           ],
@@ -82240,6 +82761,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -82282,6 +82804,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "AMC Signature Recliners",
@@ -82323,6 +82846,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -82365,6 +82889,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -82405,6 +82930,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -82447,6 +82973,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -82487,6 +83014,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -82529,6 +83057,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Reserved Seating"
@@ -82569,6 +83098,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -82611,6 +83141,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Dine-In Delivery to Seat",
@@ -95065,13 +95596,69 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "jJmO10uftw",
+          "showtime_id": "P45FcJDYKO",
           "datetime": "2026-10-29T19:00:00",
           "datetime_utc": null,
           "auditorium": null,
           "screen_width_ft": 26.25,
           "premium_format": "Standard",
           "purchase_url": "https://sidewalkfest.com/events/thebabadook/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "shout movie night presented by bao: the family stone (2005) (free)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "SHOUT Movie Night Presented by BAO: The Family Stone (2005) (Free)",
+      "release_year": 2005,
+      "runtime": 103,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/shout-movie-night-presented-by-bao-the-family-stone-2005-free-2005.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "SHOUT Movie Night is a film series presented and curated by BAO (Birmingham AIDS Outreach) in conjunction with Sidewalk Film Center + Cinema. Our goal is to offer a diverse and inclusive film series that ensures all members of our community are represented.*This is a FREE event and SEATING IS FIRST COME, FIRST SERVED. Registering is strongly recommended to help with the check in process but does NOT GUARANTEE A SEAT, and due to the popularity of this event seats can not be saved for anyone who has not arrived.*\n\nFilm Synopsis: An uptight, conservative businesswoman accompanies her boyfriend to his eccentric and outgoing family’s annual Christmas celebration and finds that she’s a fish out of water in their free-spirited way of life.",
+      "directors": [
+        "Thomas Bezucha"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": "United States of America",
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/thefamilystone/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "aUfOGQaOwZ",
+          "datetime": "2026-12-20T19:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/thefamilystone/",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -95121,7 +95708,7 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "i4q8UtI1Ec",
+          "showtime_id": "VqLfmX9WpZ",
           "datetime": "2026-09-24T19:00:00",
           "datetime_utc": null,
           "auditorium": null,
@@ -95488,6 +96075,119 @@
           "screen_width_ft": 26.25,
           "premium_format": "Standard",
           "purchase_url": "https://sidewalkfest.com/events/whenawitnessrecants/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "southern circuit:  who's the we filmmaker in attendance",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Southern Circuit:  Who's the We FILMMAKER IN ATTENDANCE",
+      "release_year": null,
+      "runtime": 98,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/southern-circuit-whos-the-we-filmmaker-in-attendance.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Who's The We? follows Doug Pagitt, a Minneapolis-based pastor and activist, as he leads a small group of riders on a 66-day bicycle journey across the entire United States, tracing the length of the U.S.-Mexico border before continuing along the Gulf coast to St. Augustine, Florida.\n\nJoin us for a Q&A with the film's directors after the screening.\n\nThe Southern Circuit a program of South Arts and is made possible through a partnership with the National Endowment for the Arts.",
+      "directors": [
+        "Clayton Brown"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": "United States of America",
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/whosthewe/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "Hc6PaHKE8b",
+          "datetime": "2026-11-13T19:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/whosthewe/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "southern circuit: built on zydeco filmmaker in attendance",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Southern Circuit: Built on Zydeco FILMMAKER IN ATTENDANCE",
+      "release_year": 2026,
+      "runtime": 51,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/southern-circuit-built-on-zydeco-filmmaker-in-attendance-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Built on Zydeco is a Louisiana music documentary exploring how Zydeco survives not only as performance, but as work, language, lineage, and cultural responsibility.\n\nJoin us for a Q&A with the film's directors after the screening.\n\nThe Southern Circuit a program of South Arts and is made possible through a partnership with the National Endowment for the Arts.",
+      "directors": [
+        "Milton Arceneaux",
+        "Dustin Cravins"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": "United States of America",
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/builtonzydeco/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "ri7leqjQY4",
+          "datetime": "2026-10-16T19:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/builtonzydeco/",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -100825,10 +101525,10 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146968347,
-          "datetime": "2026-09-12T21:50:00",
-          "datetime_utc": "2026-09-13T02:50:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "datetime": "2026-09-12T21:45:00",
+          "datetime_utc": "2026-09-13T02:45:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/summit/all/146968347",
           "sold_out": false,
@@ -100909,10 +101609,10 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146968341,
-          "datetime": "2026-09-13T21:50:00",
-          "datetime_utc": "2026-09-14T02:50:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "datetime": "2026-09-13T21:45:00",
+          "datetime_utc": "2026-09-14T02:45:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/summit/all/146968341",
           "sold_out": false,
@@ -103564,9 +104264,9 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146968254,
-          "datetime": "2026-09-12T21:45:00",
-          "datetime_utc": "2026-09-13T02:45:00Z",
-          "auditorium": 3,
+          "datetime": "2026-09-12T21:25:00",
+          "datetime_utc": "2026-09-13T02:25:00Z",
+          "auditorium": 11,
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/summit/all/146968254",
@@ -107266,26 +107966,6 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "lsriGa7BGm",
-          "datetime": "2026-09-11T14:30:00",
-          "datetime_utc": null,
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://sidewalkfest.com/events/thesamuraiandtheprisoner/",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
           "showtime_id": "8ESgSsTVUa",
           "datetime": "2026-09-11T17:30:00",
           "datetime_utc": null,
@@ -108459,7 +109139,7 @@
       "rotten_tomatoes": null,
       "metacritic": "53/100",
       "letterboxd_rating": 2.96,
-      "letterboxd_rating_count": 4068,
+      "letterboxd_rating_count": 4929,
       "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/",
       "awards": "N/A",
       "language": "English",
@@ -109825,8 +110505,8 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146362654,
-          "datetime": "2026-09-13T21:40:00",
-          "datetime_utc": "2026-09-14T02:40:00Z",
+          "datetime": "2026-09-13T21:30:00",
+          "datetime_utc": "2026-09-14T02:30:00Z",
           "auditorium": 6,
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
@@ -112537,6 +113217,378 @@
               "tax": 1.14
             }
           ]
+        }
+      ]
+    },
+    {
+      "sort_index": "this is buzz (with director q&a)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "This is Buzz (with Director Q&A)",
+      "release_year": 2026,
+      "runtime": 102,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/this-is-buzz-with-director-qa-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "This is Buzz is a documentary that explores the radical impact and lasting relevance of Buzz, an avant-garde, genreless MTV magazine series from the 1990s. Directed by Mark Pellington, the film uses archival footage and interviews to connect the analog media landscape of the early 90s to today's internet- driven information age.\n\nJoin us for a special one-night-only screening of This is Buzz and a special selection of music videos and physical props and artifacts from Buzz, with director Mark Pellington in attendance for a Q&A.",
+      "directors": [
+        "Mark Pellington"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": "United States of America",
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/thisisbuzz/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "F82kUgGPKl",
+          "datetime": "2026-10-11T19:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/thisisbuzz/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "twin peaks: fire walk with me (1991)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Twin Peaks: Fire Walk With Me (1991)",
+      "release_year": 1992,
+      "runtime": 135,
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "poster": "posters/twin-peaks-fire-walk-with-me-1991-1992.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Catch the beloved prequel film Twin Peaks: Fire Walk With Me alongside our Twin Peaks: The Return marathon. In the folksy town of Deerfield, Wash., FBI Agent Desmond (Chris Isaak) inexplicably disappears while hunting for the man who murdered a teen girl. The killer is never apprehended, and, after experiencing dark visions and supernatural encounters, Agent Dale Cooper (Kyle MacLachlan) chillingly predicts that the culprit will claim another life. Meanwhile, in the similarly cozy town of Twin Peaks, hedonistic beauty Laura Palmer (Sheryl Lee) hangs with lowlifes and seems destined for a grisly fate.",
+      "directors": [
+        "David Lynch"
+      ],
+      "writers": [
+        "David Lynch",
+        "Robert Engels",
+        "Mark Frost"
+      ],
+      "actors": [
+        "Sheryl Lee",
+        "Ray Wise",
+        "Mädchen Amick"
+      ],
+      "imdb_id": "tt0105665",
+      "imdb_rating": "7.3",
+      "imdb_votes": "115,682",
+      "rotten_tomatoes": "67%",
+      "metacritic": "45/100",
+      "letterboxd_rating": 4.35,
+      "letterboxd_rating_count": 501592,
+      "letterboxd_url": "https://letterboxd.com/film/twin-peaks-fire-walk-with-me/",
+      "awards": "4 wins & 7 nominations total",
+      "language": "English, Latin",
+      "country": "United States of America",
+      "box_office": "$4,160,851",
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/twinpeaksfirewalkwithme/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "gaUFaCMdt3",
+          "datetime": "2026-10-02T14:45:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/twinpeaksfirewalkwithme/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "ydiUKl2un2",
+          "datetime": "2026-10-02T23:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/twinpeaksfirewalkwithme/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "8A8uiQbumF",
+          "datetime": "2026-10-03T22:30:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/twinpeaksfirewalkwithme/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "nXqMVBSNRi",
+          "datetime": "2026-10-07T14:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/twinpeaksfirewalkwithme/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "oE4Ctslqai",
+          "datetime": "2026-10-08T14:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/twinpeaksfirewalkwithme/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "twin peaks: the return — parts 1-4",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Twin Peaks: The Return — Parts 1-4",
+      "release_year": null,
+      "runtime": 270,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/twin-peaks-the-return-parts-1-4.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Revisit a place both wonderful and strange with a weekend marathon of David Lynch and Mark Frost's magnum opus, Twin Peaks: The Return (2017). The town of Twin Peaks has changed in the 25 years since Agent Dale Cooper entered the Black Lodge and a doppelganger took his place. Now a new mystery draws characters old and new back into the extradimensional realms beyond Twin Peaks, a journey that may take them across the Western United States and into times and places they never imagined.\n\nEach block of Twin Peaks episodes will be presented with at least one intermission:\nFriday, Oct. 2 - Parts 1-4 with 30-minute intermission\nSaturday, Oct. 3 - Parts 5-11 with two 30-minute intermissions\nSunday, Oct. 4 - Parts 12-18 with two 30-minute intermissions\n\nTickets are $15 per block, or get a ticketing bundle for all three blocks for $40.",
+      "directors": [
+        "David Lynch"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/twinpeaksthereturnparts1-4/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "XQfjfapXUe",
+          "datetime": "2026-10-02T18:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/twinpeaksthereturnparts1-4/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "twin peaks: the return — parts 12-18",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Twin Peaks: The Return — Parts 12-18",
+      "release_year": null,
+      "runtime": 540,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/twin-peaks-the-return-parts-12-18.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Revisit a place both wonderful and strange with a weekend marathon of David Lynch and Mark Frost's magnum opus, Twin Peaks: The Return (2017). The town of Twin Peaks has changed in the 25 years since Agent Dale Cooper entered the Black Lodge and a doppelganger took his place. Now a new mystery draws characters old and new back into the extradimensional realms beyond Twin Peaks, a journey that may take them across the Western United States and into times and places they never imagined.\n\nEach block of Twin Peaks episodes will be presented with at least one intermission:\nFriday, Oct. 2 - Parts 1-4 with 30-minute intermission\nSaturday, Oct. 3 - Parts 5-11 with two 30-minute intermissions\nSunday, Oct. 4 - Parts 12-18 with two 30-minute intermissions\n\nTickets are $15 per block, or get a ticketing bundle for all three blocks for $40.",
+      "directors": [
+        "David Lynch"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/twinpeaksthereturnparts12-18/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "6yRVcwEe0b",
+          "datetime": "2026-10-04T13:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/twinpeaksthereturnparts12-18/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "twin peaks: the return — parts 5-11",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Twin Peaks: The Return — Parts 5-11",
+      "release_year": null,
+      "runtime": 540,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/twin-peaks-the-return-parts-5-11.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Revisit a place both wonderful and strange with a weekend marathon of David Lynch and Mark Frost's magnum opus, Twin Peaks: The Return (2017). The town of Twin Peaks has changed in the 25 years since Agent Dale Cooper entered the Black Lodge and a doppelganger took his place. Now a new mystery draws characters old and new back into the extradimensional realms beyond Twin Peaks, a journey that may take them across the Western United States and into times and places they never imagined.\n\nEach block of Twin Peaks episodes will be presented with at least one intermission:\nFriday, Oct. 2 - Parts 1-4 with 30-minute intermission\nSaturday, Oct. 3 - Parts 5-11 with two 30-minute intermissions\nSunday, Oct. 4 - Parts 12-18 with two 30-minute intermissions\n\nTickets are $15 per block, or get a ticketing bundle for all three blocks for $40.",
+      "directors": [
+        "David Lynch"
+      ],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://sidewalkfest.com/events/twinpeaksthereturnparts5-11/",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "OsP4EYL8Bv",
+          "datetime": "2026-10-03T13:00:00",
+          "datetime_utc": null,
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://sidewalkfest.com/events/twinpeaksthereturnparts5-11/",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         }
       ]
     },
