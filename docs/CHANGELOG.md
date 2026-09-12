@@ -1,3 +1,15 @@
+## 2026-09-12 08:13 AM CDT
+
+**Showtime changes:**
+- The Transformers: The Movie 40th Anniversary
+  - + AMC Patton Creek 15 @ 2026-09-18T17:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-18T17:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-21T17:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-22T17:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-23T17:00:00 (Standard)
+- Primetime
+  - + AMC Summit 16 @ 2026-09-24T19:30:00 (Standard)
+
 ## 2026-09-12 03:12 AM CDT
 
 **Movies removed:**
