@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-21 10:04 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-21 11:20 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -40549,5 +40543,55 @@
     "movies_added": [],
     "movies_removed": [],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-09-13 06:44 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Samurai and the Prisoner",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-09-13T10:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-09-13T13:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Filmmaker Focus: Barbarian (2022)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-09-13T10:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-09-13T15:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Filmmaker Focus: Weapons (2025)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-09-13T12:45:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

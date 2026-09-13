@@ -1,3 +1,15 @@
+## 2026-09-13 06:44 PM CDT
+
+**Showtime changes:**
+- The Samurai and the Prisoner
+  - − Sidewalk Film Center + Cinema @ 2026-09-13T10:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-13T13:00:00 (Standard)
+- Filmmaker Focus: Barbarian (2022)
+  - − Sidewalk Film Center + Cinema @ 2026-09-13T10:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-13T15:30:00 (Standard)
+- Filmmaker Focus: Weapons (2025)
+  - − Sidewalk Film Center + Cinema @ 2026-09-13T12:45:00 (Standard)
+
 ## 2026-09-13 01:24 PM CDT
 
 No changes.
