@@ -1,3 +1,24 @@
+## 2026-09-15 06:48 PM CDT
+
+**Movies added:**
+- Charlie Harper
+
+**Showtime changes:**
+- The Stunt Driver
+  - + AMC Summit 16 @ 2026-09-25T16:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-26T16:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-27T16:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-28T16:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-29T16:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-30T16:05:00 (Standard)
+- NO LIMBS, NO LIMITS: The NickV Story
+  - − AMC Patton Creek 15 @ 2026-09-25T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-27T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-28T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-29T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-30T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-01T19:30:00 (Standard)
+
 ## 2026-09-15 02:20 PM CDT
 
 **Movies added:**

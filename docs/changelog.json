@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-23 11:11 AM CDT",
-    "movies_added": [
-      "Colony",
-      "cocoon - One Summer of Girlhood"
-    ],
-    "movies_removed": [
-      "Animation Spotlight: Cocoon - One Summer of Girlhood"
-    ],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-23 05:09 PM CDT",
     "movies_added": [
       "Idiots",
@@ -44422,6 +44411,87 @@
           }
         ],
         "removed": []
+      }
+    ]
+  },
+  {
+    "date": "2026-09-15 06:48 PM CDT",
+    "movies_added": [
+      "Charlie Harper"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Stunt Driver",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-25T16:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-26T16:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-27T16:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-28T16:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-29T16:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-30T16:05:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "NO LIMBS, NO LIMITS: The NickV Story",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-25T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-27T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-28T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-29T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-30T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-01T19:30:00",
+            "format": "Standard"
+          }
+        ]
       }
     ]
   }
