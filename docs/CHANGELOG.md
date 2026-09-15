@@ -1,3 +1,10 @@
+## 2026-09-15 09:32 AM CDT
+
+**Movies added:**
+- Blumhouse Presents: Other Mommy Fan Event Screening
+- Other Mommy
+- The Stunt Driver
+
 ## 2026-09-15 04:02 AM CDT
 
 **Movies removed:**
