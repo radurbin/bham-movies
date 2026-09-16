@@ -1,3 +1,46 @@
+## 2026-09-16 06:57 PM CDT
+
+**Showtime changes:**
+- The Weight
+  - + AMC Patton Creek 15 @ 2026-09-24T16:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-24T19:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T16:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T19:00:00 (Standard)
+- The Stunt Driver
+  - + AMC Patton Creek 15 @ 2026-09-24T19:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T19:00:00 (Standard)
+- Hope
+  - + AMC Patton Creek 15 @ 2026-09-17T12:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-17T12:40:00 (Standard)
+- Heart of the Beast
+  - + AMC Patton Creek 15 @ 2026-09-25T19:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-25T19:15:00 (Standard)
+- If I Go Will They Miss Me
+  - + AMC Patton Creek 15 @ 2026-09-24T18:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T19:00:00 (Standard)
+- The Paradise (Telugu)
+  - + AMC Patton Creek 15 @ 2026-09-24T19:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-24T20:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T19:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-26T19:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-27T19:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-28T19:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-29T19:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-30T19:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Summit 16 @ 2026-09-17T12:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-17T12:20:00 (RealD 3D)
+- Shaun the Sheep: The Beast of Mossy Bottom
+  - + AMC Patton Creek 15 @ 2026-09-24T17:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T16:45:00 (Standard)
+- Charlie Harper
+  - + AMC Patton Creek 15 @ 2026-09-24T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T18:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-26T18:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-25T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-26T19:00:00 (Standard)
+
 ## 2026-09-16 02:10 PM CDT
 
 **Movies added:**

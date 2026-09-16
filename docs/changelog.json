@@ -1,62 +1,5 @@
 [
   {
-    "date": "2026-08-24 11:22 AM CDT",
-    "movies_added": [
-      "Cars: 20th Anniversary"
-    ],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Terminator 2: Judgment Day 35th Anniversary",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-08-30T16:00:00",
-            "format": "RealD 3D"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-08-30T16:00:00",
-            "format": "RealD 3D"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-08-31T19:00:00",
-            "format": "RealD 3D"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-08-31T19:00:00",
-            "format": "RealD 3D"
-          }
-        ]
-      },
-      {
-        "title": "Harry Potter And The Philosopher's Stone: 25th Anniversary ",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-02T18:30:00",
-            "format": "RealD 3D"
-          }
-        ]
-      },
-      {
-        "title": "The Last Blossom",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-08-31T19:00:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-08-24 05:14 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -44750,6 +44693,225 @@
           {
             "theater": "AMC Vestavia Hills 10",
             "datetime": "2026-09-23T16:50:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-16 06:57 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Weight",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T19:10:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T16:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Stunt Driver",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T19:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Hope",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-17T12:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-17T12:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Heart of the Beast",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-25T19:10:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-25T19:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "If I Go Will They Miss Me",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T18:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Paradise (Telugu)",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-24T20:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-25T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-26T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-27T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-28T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-29T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-30T19:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-17T12:20:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-17T12:20:00",
+            "format": "RealD 3D"
+          }
+        ]
+      },
+      {
+        "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T17:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T16:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Charlie Harper",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-25T18:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-26T18:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-24T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-25T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-26T19:00:00",
             "format": "Standard"
           }
         ]
