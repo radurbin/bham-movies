@@ -1,3 +1,17 @@
+## 2026-09-16 09:27 AM CDT
+
+**Movies added:**
+- American Psycho - Welcome to Horrorwood Series
+- BTS WORLD TOUR 'ARIRANG' IN BUENOS AIRES: LIVE VIEWING
+- BTS WORLD TOUR 'ARIRANG' IN SAO PAULO: LIVE VIEWING
+- Friday The 13th - Welcome to Horrorwood Series
+- Hostel - Welcome to Horrorwood Series
+- Pet Sematary  - Welcome to Horrorwood Series
+- The Crow - Welcome to Horrorwood Series
+- The Influencer Project
+- Wildwood
+- Yuri!!! on ICE 10th Anniversary
+
 ## 2026-09-16 03:54 AM CDT
 
 **Movies added:**
