@@ -1,3 +1,104 @@
+## 2026-09-17 09:31 AM CDT
+
+**Movies added:**
+- Rolling Loud
+
+**Movies removed:**
+- Book + Film Club November: La Belle et la Bête/Beauty and the Beast
+- Book + Film Club October: Fear, Feminism, and Rosemary’s Baby
+- Book + Film Club September: Editing Ferris
+- Brailled It (One Night Only)
+- Dead Media (With Filmmaker Q&A!)
+- Dreams in Nightmares
+- Filmmaker Focus: 21 Grams (2003)
+- Filmmaker Focus: Birdman or (The Unexpected Virtue of Ignorance) (2014)
+- Filmmaker Focus: The Revenant (2015)
+- Knitflix and Chill: A Nightmare on Elm Street (1984)
+- Knitflix and Chill: The Big Lebowski (1998)
+- Knitflix and Chill: The Santa Clause (1994)
+- ONE NIGHT ONLY: Manhunter: The Final Cut (1986)
+- ONE NIGHT ONLY: Portal to Hell (with Cast Q&A)
+- Pajama Party - The Muppet Christmas Carol (1992)
+- Pajama Party: Chicken Little (2005)
+- Pajama Party: Harriet the Spy (1996)
+- Pajama Party: How the Grinch Stole Christmas (2000)
+- Pajama Party: Jimmy Neutron: Boy Genius (2001)
+- Pajama Party: The Great Mouse Detective (1986)
+- Pajama Party: The NeverEnding Story (1984)
+- Rocky Horror Hot Dogs Present: The Rocky Horror Picture Show
+- SHOUT Movie Night Presented by BAO: Addams Family Values (1993) (FREE)
+- SHOUT Movie Night Presented by BAO: The Babadook (2014) (Free)
+- SHOUT Movie Night Presented by BAO: The Family Stone (2005) (Free)
+- SHOUT Movie Night Presented by BAO: The Wizard of Oz (1939) (Free)
+- Sidewalk Film 101: Far From Heaven (2002)
+- Sidewalk Film 101: Melancholia (2011)
+- Sidewalk Film 101: RoboCop (1987)
+- Sidewalk Film 101: Vampyr (1932)
+- Southern Circuit:  When A Witness Recants FILMMAKER IN ATTENDANCE
+- Southern Circuit:  Who's the We FILMMAKER IN ATTENDANCE
+- Southern Circuit: Built on Zydeco FILMMAKER IN ATTENDANCE
+- Southern Circuit: On Interviewing - Masterclass with Dawn Porter *Pay What You Can*
+- The Samurai and the Prisoner
+- This is Buzz (with Director Q&A)
+- Twin Peaks: Fire Walk With Me (1991)
+- Twin Peaks: The Return — Parts 1-4
+- Twin Peaks: The Return — Parts 12-18
+- Twin Peaks: The Return — Parts 5-11
+- You Had to Be There
+
+**Showtime changes:**
+- Resident Evil
+  - − Sidewalk Film Center + Cinema @ 2026-09-17T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-17T16:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-17T18:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-17T20:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-18T14:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-18T16:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-18T18:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-18T21:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-19T10:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-19T12:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-19T14:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-19T16:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-19T19:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-19T21:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-20T10:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-20T12:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-20T14:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-20T16:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-20T19:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-23T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-23T16:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-23T18:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-23T20:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-24T14:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-24T16:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-24T19:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-24T21:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-25T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-25T16:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-25T18:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-25T20:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-26T10:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-26T12:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-26T14:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-26T16:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-26T19:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-26T21:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-27T10:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-27T12:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-27T14:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-27T16:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-27T19:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-30T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-30T16:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-30T18:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-09-30T20:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-01T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-01T16:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-01T18:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-01T20:45:00 (Standard)
+
 ## 2026-09-17 03:59 AM CDT
 
 **Movies added:**
