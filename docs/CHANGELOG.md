@@ -1,3 +1,9 @@
+## 2026-09-18 08:57 AM CDT
+
+**Movies added:**
+- Rocky 50th Anniversary
+- The Nightmare Before Christmas (RE26)
+
 ## 2026-09-18 03:33 AM CDT
 
 **Movies removed:**
