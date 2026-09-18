@@ -1,3 +1,13 @@
+## 2026-09-18 06:43 PM CDT
+
+**Showtime changes:**
+- By Any Means
+  - − AMC Vestavia Hills 10 @ 2026-09-18T19:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-18T20:15:00 (Standard)
+- Resident Evil
+  - + AMC Vestavia Hills 10 @ 2026-09-18T19:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-18T20:30:00 (Standard)
+
 ## 2026-09-18 01:43 PM CDT
 
 No changes.
