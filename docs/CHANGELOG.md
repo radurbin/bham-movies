@@ -1,3 +1,16 @@
+## 2026-09-19 06:44 PM CDT
+
+**Showtime changes:**
+- Verity
+  - + AMC Patton Creek 15 @ 2026-10-05T22:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-06T22:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-07T22:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-11T21:40:00 (Standard)
+- Other Mommy
+  - + AMC Patton Creek 15 @ 2026-10-08T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-11T22:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-08T20:00:00 (Standard)
+
 ## 2026-09-19 01:16 PM CDT
 
 No changes.
