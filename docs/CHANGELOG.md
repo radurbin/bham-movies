@@ -1,3 +1,196 @@
+## 2026-09-21 04:22 AM CDT
+
+**Movies added:**
+- Street Fighter: Bonus Round Fan Event
+- Street Fighter
+
+**Movies removed:**
+- Forgotten Island - Early Access Screening
+- The Lego Batman Movie
+
+**Showtime changes:**
+- Cars: 20th Anniversary
+  - − AMC Summit 16 @ 2026-09-20T13:25:00 (Standard)
+- Ghost in the Shell 30th Anniversary
+  - − AMC Patton Creek 15 @ 2026-09-20T16:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T16:45:00 (Standard)
+- Dora and the Lost City of Gold
+  - − AMC Summit 16 @ 2026-09-20T12:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:00:00 (Standard)
+- If I Go Will They Miss Me
+  - − AMC Summit 16 @ 2026-09-20T18:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T19:10:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Vestavia Hills 10 @ 2026-09-20T12:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T12:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T13:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T15:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T19:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T19:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T21:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T21:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T22:20:00 (Standard)
+- Heaven in Stone and Glass
+  - − AMC Summit 16 @ 2026-09-20T16:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T19:00:00 (Standard)
+- The Weight
+  - − AMC Patton Creek 15 @ 2026-09-20T13:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T16:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T19:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T22:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T22:55:00 (Standard)
+- Resident Evil
+  - − AMC Summit 16 @ 2026-09-20T12:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T12:30:00 (PRIME at AMC)
+  - − AMC Patton Creek 15 @ 2026-09-20T13:15:00 (IMAX at AMC)
+  - − AMC Summit 16 @ 2026-09-20T13:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T14:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T14:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T15:00:00 (PRIME at AMC)
+  - − AMC Summit 16 @ 2026-09-20T15:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:00:00 (IMAX at AMC)
+  - − AMC Summit 16 @ 2026-09-20T16:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T16:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T17:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T17:30:00 (PRIME at AMC)
+  - − AMC Summit 16 @ 2026-09-20T17:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T18:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T18:45:00 (IMAX at AMC)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T20:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T20:00:00 (PRIME at AMC)
+  - − AMC Summit 16 @ 2026-09-20T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T21:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T21:30:00 (IMAX at AMC)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T21:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T21:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T22:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T22:30:00 (PRIME at AMC)
+  - − AMC Summit 16 @ 2026-09-20T22:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T22:40:00 (Standard)
+- Hanuman Ansh
+  - − AMC Patton Creek 15 @ 2026-09-20T21:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T22:15:00 (Standard)
+- Shaun the Sheep: The Beast of Mossy Bottom
+  - − AMC Summit 16 @ 2026-09-20T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T13:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:10:00 (Standard)
+- Insidious: Out of the Further
+  - − AMC Vestavia Hills 10 @ 2026-09-20T12:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T14:35:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T19:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T20:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T21:55:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T22:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T23:00:00 (Standard)
+- Coyote vs. Acme
+  - − AMC Vestavia Hills 10 @ 2026-09-20T12:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T13:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T13:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T14:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T17:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T17:40:00 (Standard)
+- The Fix
+  - − AMC Patton Creek 15 @ 2026-09-20T15:40:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - − AMC Summit 16 @ 2026-09-20T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T19:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T19:00:00 (Standard)
+- Tiny Fugitives
+  - − AMC Summit 16 @ 2026-09-20T21:20:00 (Standard)
+- Buddy
+  - − AMC Summit 16 @ 2026-09-20T15:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T17:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T19:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T19:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T20:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T22:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T23:00:00 (Standard)
+- The Passion of the Christ (2026 Event)
+  - − AMC Patton Creek 15 @ 2026-09-20T13:45:00 (Standard)
+- Runner
+  - − AMC Vestavia Hills 10 @ 2026-09-20T12:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T18:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T19:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T19:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T21:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T22:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T22:25:00 (Standard)
+- The Uprising
+  - − AMC Summit 16 @ 2026-09-20T12:35:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T13:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T13:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T15:35:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T18:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T18:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T21:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T22:10:00 (Standard)
+- By Any Means
+  - − AMC Summit 16 @ 2026-09-20T13:10:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T19:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T20:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T22:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T23:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T23:00:00 (Standard)
+- Practical Magic 2
+  - − AMC Patton Creek 15 @ 2026-09-20T12:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T13:05:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T13:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T16:10:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T16:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T19:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T19:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T19:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T21:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T22:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T22:40:00 (Standard)
+- Hope
+  - − AMC Summit 16 @ 2026-09-20T13:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T15:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T18:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T21:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T22:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T22:00:00 (Standard)
+- Daniel and the Fiery Furnace
+  - − AMC Vestavia Hills 10 @ 2026-09-20T12:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T13:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T13:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T17:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T18:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T19:05:00 (Standard)
+- The Musical
+  - − AMC Patton Creek 15 @ 2026-09-20T14:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T18:40:00 (Standard)
+- Oasis: Don't Look Back in Anger
+  - − AMC Patton Creek 15 @ 2026-09-20T13:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T16:30:00 (Standard)
+- The Odyssey
+  - − AMC Vestavia Hills 10 @ 2026-09-20T12:05:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T12:30:00 (70MM at AMC)
+  - − AMC Summit 16 @ 2026-09-20T12:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T15:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T16:30:00 (70MM at AMC)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T18:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T18:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-20T20:30:00 (70MM at AMC)
+  - − AMC Vestavia Hills 10 @ 2026-09-20T21:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-20T21:10:00 (Standard)
+
 ## 2026-09-20 06:40 PM CDT
 
 No changes.
