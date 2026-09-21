@@ -1,3 +1,9 @@
+## 2026-09-21 11:04 AM CDT
+
+**Movies added:**
+- Back to the Future Day 2026
+- The Social Reckoning
+
 ## 2026-09-21 04:22 AM CDT
 
 **Movies added:**
