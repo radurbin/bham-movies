@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-22T03:52:19.667018-05:00",
-    "movie_count": 87,
-    "showtime_count": 2489,
+    "generated_at": "2026-09-22T09:15:11.804776-05:00",
+    "movie_count": 89,
+    "showtime_count": 2493,
     "theaters": {
       "AMC Summit 16": 796,
-      "AMC Patton Creek 15": 1219,
+      "AMC Patton Creek 15": 1223,
       "AMC Vestavia Hills 10": 474
     }
   },
@@ -32990,7 +32990,7 @@
       "rotten_tomatoes": "57%",
       "metacritic": "58/100",
       "letterboxd_rating": 3.38,
-      "letterboxd_rating_count": 261,
+      "letterboxd_rating_count": 266,
       "letterboxd_url": "https://letterboxd.com/film/charlie-harper/",
       "awards": "N/A",
       "language": "English",
@@ -41032,7 +41032,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.8,
-      "letterboxd_rating_count": 13070,
+      "letterboxd_rating_count": 13243,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English",
@@ -49668,7 +49668,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.75,
-      "letterboxd_rating_count": 2489,
+      "letterboxd_rating_count": 2490,
       "letterboxd_url": "https://letterboxd.com/film/ha-chan-shake-your-booty/",
       "awards": "1 win & 1 nomination total",
       "language": "Japanese, English, Spanish",
@@ -50032,7 +50032,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.19,
-      "letterboxd_rating_count": 2977,
+      "letterboxd_rating_count": 2996,
       "letterboxd_url": "https://letterboxd.com/film/hanuman-ansh/",
       "awards": "N/A",
       "language": "Hindi",
@@ -55437,7 +55437,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": null,
       "letterboxd_rating": 3.93,
-      "letterboxd_rating_count": 5860,
+      "letterboxd_rating_count": 5897,
       "letterboxd_url": "https://letterboxd.com/film/if-i-go-will-they-miss-me-2026/",
       "awards": "1 win & 1 nomination total",
       "language": "English",
@@ -64130,6 +64130,124 @@
       ]
     },
     {
+      "sort_index": "ozzy & black sabbath: back to the beginning",
+      "source": "AMC",
+      "movie_id": 84724,
+      "title": "Ozzy & Black Sabbath: Back To The Beginning",
+      "release_year": 2026,
+      "runtime": 147,
+      "rating": null,
+      "genres": [
+        "ROCK/POP CONCERT"
+      ],
+      "poster": "posters/ozzy-black-sabbath-back-to-the-beginning-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/ozzy-black-sabbath-back-to-the-beginning-84724",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147225248,
+          "datetime": "2026-10-28T18:30:00",
+          "datetime_utc": "2026-10-28T23:30:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-28/pattoncreek/all/147225248",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Event",
+            "Excluded from A-List",
+            "No Passes",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "CHILD",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.43,
+              "tax": 1.43
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147225249,
+          "datetime": "2026-10-29T18:30:00",
+          "datetime_utc": "2026-10-29T23:30:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-29/pattoncreek/all/147225249",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Event",
+            "Excluded from A-List",
+            "No Passes",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "CHILD",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.43,
+              "tax": 1.43
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "pet sematary  - welcome to horrorwood series",
       "source": "AMC",
       "movie_id": 84830,
@@ -66395,7 +66513,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.8,
-      "letterboxd_rating_count": 3161,
+      "letterboxd_rating_count": 3234,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -70801,6 +70919,129 @@
       ]
     },
     {
+      "sort_index": "rammstein - live in mexico city",
+      "source": "AMC",
+      "movie_id": 84726,
+      "title": "Rammstein - Live in Mexico City",
+      "release_year": 2026,
+      "runtime": 110,
+      "rating": null,
+      "genres": [
+        "ROCK/POP CONCERT"
+      ],
+      "poster": "posters/rammstein-live-in-mexico-city-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/rammstein-live-in-mexico-city-84726",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147223417,
+          "datetime": "2026-11-04T18:00:00",
+          "datetime_utc": "2026-11-05T00:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-04/pattoncreek/all/147223417",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Excluded from 50% off Discount",
+            "German Spoken with No Subtitles",
+            "Excluded from A-List",
+            "No Passes",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "CHILD",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.43,
+              "tax": 1.43
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147223418,
+          "datetime": "2026-11-07T14:00:00",
+          "datetime_utc": "2026-11-07T20:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-07/pattoncreek/all/147223418",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "German Spoken with No Subtitles",
+            "Excluded from A-List",
+            "No Passes",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "CHILD",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.43,
+              "tax": 1.43
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "resident evil",
       "source": "AMC",
       "movie_id": 79697,
@@ -70833,7 +71074,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 560069,
+      "letterboxd_rating_count": 569943,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -74807,7 +75048,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.69,
-      "letterboxd_rating_count": 881,
+      "letterboxd_rating_count": 883,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -77293,7 +77534,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.56,
-      "letterboxd_rating_count": 6811,
+      "letterboxd_rating_count": 6883,
       "letterboxd_url": "https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy-bottom/",
       "awards": "N/A",
       "language": "English",
@@ -88459,7 +88700,7 @@
       "rotten_tomatoes": "63%",
       "metacritic": null,
       "letterboxd_rating": 3.53,
-      "letterboxd_rating_count": 4241,
+      "letterboxd_rating_count": 4255,
       "letterboxd_url": "https://letterboxd.com/film/the-musical-2026/",
       "awards": "N/A",
       "language": "English",
@@ -91004,7 +91245,7 @@
       "movie_id": 83709,
       "title": "The Paradise (Telugu)",
       "release_year": 2026,
-      "runtime": 176,
+      "runtime": 180,
       "rating": "NR",
       "genres": [
         "ACTION"
@@ -97796,7 +98037,7 @@
       "rotten_tomatoes": null,
       "metacritic": "53/100",
       "letterboxd_rating": 2.83,
-      "letterboxd_rating_count": 27843,
+      "letterboxd_rating_count": 27912,
       "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/",
       "awards": "N/A",
       "language": "English",
@@ -98689,7 +98930,7 @@
       "rotten_tomatoes": null,
       "metacritic": "94/100",
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 4429,
+      "letterboxd_rating_count": 4431,
       "letterboxd_url": "https://letterboxd.com/film/earth-wind-fire-to-be-celestial-vs-thats/",
       "awards": "N/A",
       "language": "English",
@@ -99270,7 +99511,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.27,
-      "letterboxd_rating_count": 765,
+      "letterboxd_rating_count": 767,
       "letterboxd_url": "https://letterboxd.com/film/tiny-fugitives/",
       "awards": "N/A",
       "language": "English",
@@ -106181,7 +106422,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.83,
-      "letterboxd_rating_count": 1479,
+      "letterboxd_rating_count": 1485,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",

@@ -1,3 +1,9 @@
+## 2026-09-22 09:15 AM CDT
+
+**Movies added:**
+- Ozzy & Black Sabbath: Back To The Beginning
+- Rammstein - Live in Mexico City
+
 ## 2026-09-22 03:52 AM CDT
 
 **Movies removed:**

@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-08-29 01:58 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Tony",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Vestavia Hills 10",
-            "datetime": "2026-08-29T15:35:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Coyote vs. Acme",
-        "added": [
-          {
-            "theater": "AMC Vestavia Hills 10",
-            "datetime": "2026-08-29T15:35:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      }
-    ]
-  },
-  {
     "date": "2026-08-29 06:41 PM CDT",
     "movies_added": [],
     "movies_removed": [
@@ -41844,5 +41815,14 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-22 09:15 AM CDT",
+    "movies_added": [
+      "Ozzy & Black Sabbath: Back To The Beginning",
+      "Rammstein - Live in Mexico City"
+    ],
+    "movies_removed": [],
+    "showtime_changes": []
   }
 ]
