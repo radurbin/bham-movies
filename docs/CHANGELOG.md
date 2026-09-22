@@ -1,3 +1,107 @@
+## 2026-09-21 07:21 PM CDT
+
+**Movies added:**
+- Hellbilly Hollow
+- The Vvaan: Force of the Forrest
+- Your Mother Your Mother Your Mother
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - + AMC Patton Creek 15 @ 2026-09-24T15:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-24T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-24T20:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-24T21:00:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-09-25T12:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-09-25T14:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T18:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T19:50:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-09-25T21:00:00 (Standard)
+- Practical Magic 2
+  - + AMC Patton Creek 15 @ 2026-09-24T18:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-24T21:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T18:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T21:40:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC Patton Creek 15 @ 2026-09-24T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T21:50:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - + AMC Patton Creek 15 @ 2026-09-24T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T12:00:00 (Standard)
+- Heart of the Beast
+  - + AMC Patton Creek 15 @ 2026-09-25T21:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-25T21:45:00 (Standard)
+- Primetime
+  - + AMC Patton Creek 15 @ 2026-09-24T21:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T21:45:00 (Standard)
+- Buddy
+  - + AMC Patton Creek 15 @ 2026-09-24T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-24T22:00:00 (Standard)
+- Forgotten Island
+  - + AMC Patton Creek 15 @ 2026-09-24T14:00:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-09-24T16:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-24T21:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T12:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T14:00:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-09-25T21:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T14:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T17:00:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-09-25T14:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-25T21:30:00 (RealD 3D)
+- Oasis: Don't Look Back in Anger
+  - + AMC Patton Creek 15 @ 2026-09-24T13:00:00 (Standard)
+- Ninja Scroll
+  - + AMC Patton Creek 15 @ 2026-10-05T19:00:00 (Standard)
+- Charlie Harper
+  - + AMC Patton Creek 15 @ 2026-09-25T15:45:00 (Standard)
+- Runner
+  - + AMC Patton Creek 15 @ 2026-09-24T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-24T16:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T13:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T16:20:00 (Standard)
+- Resident Evil
+  - + AMC Patton Creek 15 @ 2026-09-24T17:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-24T22:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T22:00:00 (Standard)
+- Daniel and the Fiery Furnace
+  - + AMC Patton Creek 15 @ 2026-09-24T13:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-24T15:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T12:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T14:45:00 (Standard)
+- The Odyssey
+  - + AMC Patton Creek 15 @ 2026-09-25T12:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T18:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T21:15:00 (Standard)
+- Hope
+  - + AMC Patton Creek 15 @ 2026-09-24T12:40:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Patton Creek 15 @ 2026-09-24T21:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T13:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T17:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T19:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T21:30:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Patton Creek 15 @ 2026-09-24T14:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T12:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T15:40:00 (Standard)
+- The Weight
+  - − AMC Patton Creek 15 @ 2026-09-24T16:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T19:10:00 (Standard)
+- Shaun the Sheep: The Beast of Mossy Bottom
+  - + AMC Patton Creek 15 @ 2026-09-25T13:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T14:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T17:00:00 (Standard)
+- The Stunt Driver
+  - + AMC Patton Creek 15 @ 2026-09-24T19:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-09-25T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-24T19:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-25T16:40:00 (Standard)
+
 ## 2026-09-21 11:04 AM CDT
 
 **Movies added:**

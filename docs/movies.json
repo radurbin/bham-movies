@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-21T11:04:22.089257-05:00",
-    "movie_count": 86,
-    "showtime_count": 2416,
+    "generated_at": "2026-09-21T19:21:03.240134-05:00",
+    "movie_count": 89,
+    "showtime_count": 2490,
     "theaters": {
       "AMC Summit 16": 859,
-      "AMC Patton Creek 15": 1045,
+      "AMC Patton Creek 15": 1119,
       "AMC Vestavia Hills 10": 512
     }
   },
@@ -2492,6 +2492,47 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260669,
+          "datetime": "2026-09-24T15:00:00",
+          "datetime_utc": "2026-09-24T20:00:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260669",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
           "showtime_id": 147224923,
           "datetime": "2026-09-24T17:00:00",
           "datetime_utc": "2026-09-24T22:00:00Z",
@@ -2618,6 +2659,88 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260731,
+          "datetime": "2026-09-24T19:00:00",
+          "datetime_utc": "2026-09-25T00:00:00Z",
+          "auditorium": 12,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260731",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260707,
+          "datetime": "2026-09-24T20:00:00",
+          "datetime_utc": "2026-09-25T01:00:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 61.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260707",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779952,
@@ -2655,6 +2778,48 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260666,
+          "datetime": "2026-09-24T21:00:00",
+          "datetime_utc": "2026-09-25T02:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260666",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.25,
+              "tax": 1.76
+            },
+            {
+              "type": "CHILD",
+              "price": 16.96,
+              "tax": 1.47
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.6,
+              "tax": 1.61
             }
           ]
         },
@@ -2703,6 +2868,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260767,
+          "datetime": "2026-09-25T12:00:00",
+          "datetime_utc": "2026-09-25T17:00:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260767",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "IMAX at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.29,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 14.66,
+              "tax": 1.27
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.98,
+              "tax": 1.39
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146811641,
@@ -2742,6 +2949,47 @@
               "type": "SENIOR",
               "price": 17.37,
               "tax": 1.58
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260704,
+          "datetime": "2026-09-25T14:15:00",
+          "datetime_utc": "2026-09-25T19:15:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 61.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260704",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
             }
           ]
         },
@@ -2918,6 +3166,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260705,
+          "datetime": "2026-09-25T18:30:00",
+          "datetime_utc": "2026-09-25T23:30:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 61.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260705",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146811645,
@@ -2956,6 +3245,89 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260687,
+          "datetime": "2026-09-25T19:50:00",
+          "datetime_utc": "2026-09-26T00:50:00Z",
+          "auditorium": 6,
+          "screen_width_ft": 47.3,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260687",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.25,
+              "tax": 1.76
+            },
+            {
+              "type": "CHILD",
+              "price": 16.96,
+              "tax": 1.47
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.6,
+              "tax": 1.61
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260760,
+          "datetime": "2026-09-25T21:00:00",
+          "datetime_utc": "2026-09-26T02:00:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 59.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260760",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
             }
           ]
         },
@@ -31260,6 +31632,90 @@
               "tax": 1.35
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260721,
+          "datetime": "2026-09-24T13:30:00",
+          "datetime_utc": "2026-09-24T18:30:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260721",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260670,
+          "datetime": "2026-09-24T22:00:00",
+          "datetime_utc": "2026-09-25T03:00:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260670",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
         }
       ]
     },
@@ -32286,7 +32742,7 @@
       "rotten_tomatoes": "57%",
       "metacritic": "58/100",
       "letterboxd_rating": 3.38,
-      "letterboxd_rating_count": 258,
+      "letterboxd_rating_count": 261,
       "letterboxd_url": "https://letterboxd.com/film/charlie-harper/",
       "awards": "N/A",
       "language": "English",
@@ -32417,6 +32873,47 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260733,
+          "datetime": "2026-09-25T15:45:00",
+          "datetime_utc": "2026-09-25T20:45:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260733",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
             }
           ]
         },
@@ -33655,6 +34152,126 @@
               "tax": 1.35
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260762,
+          "datetime": "2026-09-24T14:00:00",
+          "datetime_utc": "2026-09-24T19:00:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 59.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260762",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260758,
+          "datetime": "2026-09-25T12:00:00",
+          "datetime_utc": "2026-09-25T17:00:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 59.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260758",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260672,
+          "datetime": "2026-09-25T15:40:00",
+          "datetime_utc": "2026-09-25T20:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260672",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
         }
       ]
     },
@@ -34488,6 +35105,162 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260710,
+          "datetime": "2026-09-24T13:45:00",
+          "datetime_utc": "2026-09-24T18:45:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260710",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260664,
+          "datetime": "2026-09-24T15:45:00",
+          "datetime_utc": "2026-09-24T20:45:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260664",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260671,
+          "datetime": "2026-09-25T12:40:00",
+          "datetime_utc": "2026-09-25T17:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260671",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260757,
+          "datetime": "2026-09-25T14:45:00",
+          "datetime_utc": "2026-09-25T19:45:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 59.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260757",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
             }
           ]
         }
@@ -39867,7 +40640,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.8,
-      "letterboxd_rating_count": 12392,
+      "letterboxd_rating_count": 12653,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English",
@@ -39886,34 +40659,35 @@
           "datetime_utc": "2026-09-24T19:00:00Z",
           "auditorium": 8,
           "screen_width_ft": 61.3,
-          "premium_format": "Standard",
+          "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/146810630",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
-          "discount_message": "20% OFF",
+          "discount_message": "UP TO 15% OFF",
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "RealD 3D",
             "Reserved Seating"
           ],
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 11.82,
-              "tax": 1.03
+              "price": 17.29,
+              "tax": 1.5
             },
             {
               "type": "CHILD",
-              "price": 9.19,
-              "tax": 0.8
+              "price": 14.66,
+              "tax": 1.27
             },
             {
               "type": "SENIOR",
-              "price": 10.5,
-              "tax": 0.91
+              "price": 15.98,
+              "tax": 1.39
             }
           ]
         },
@@ -40046,6 +40820,46 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 146810631,
+          "datetime": "2026-09-24T16:30:00",
+          "datetime_utc": "2026-09-24T21:30:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/146810631",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779794,
@@ -40082,47 +40896,6 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146810631,
-          "datetime": "2026-09-24T17:00:00",
-          "datetime_utc": "2026-09-24T22:00:00Z",
-          "auditorium": 8,
-          "screen_width_ft": 61.3,
-          "premium_format": "RealD 3D",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/146810631",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "RealD 3D",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.25,
-              "tax": 1.76
-            },
-            {
-              "type": "CHILD",
-              "price": 16.96,
-              "tax": 1.47
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.6,
-              "tax": 1.61
             }
           ]
         },
@@ -40293,6 +41066,46 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260711,
+          "datetime": "2026-09-24T21:15:00",
+          "datetime_utc": "2026-09-25T02:15:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260711",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146842027,
@@ -40336,13 +41149,53 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260718,
+          "datetime": "2026-09-25T12:30:00",
+          "datetime_utc": "2026-09-25T17:30:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260718",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 146779849,
           "datetime": "2026-09-25T12:45:00",
           "datetime_utc": "2026-09-25T17:45:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/summit/all/146779849",
           "sold_out": false,
@@ -40424,36 +41277,37 @@
           "showtime_id": 146810632,
           "datetime": "2026-09-25T14:00:00",
           "datetime_utc": "2026-09-25T19:00:00Z",
-          "auditorium": 8,
-          "screen_width_ft": 61.3,
-          "premium_format": "Standard",
+          "auditorium": 6,
+          "screen_width_ft": 47.3,
+          "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/146810632",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
-          "discount_message": "20% OFF",
+          "discount_message": "UP TO 15% OFF",
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "RealD 3D",
             "Reserved Seating"
           ],
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 11.82,
-              "tax": 1.03
+              "price": 17.29,
+              "tax": 1.5
             },
             {
               "type": "CHILD",
-              "price": 9.19,
-              "tax": 0.8
+              "price": 14.66,
+              "tax": 1.27
             },
             {
               "type": "SENIOR",
-              "price": 10.5,
-              "tax": 0.91
+              "price": 15.98,
+              "tax": 1.39
             }
           ]
         },
@@ -40464,8 +41318,8 @@
           "showtime_id": 146779850,
           "datetime": "2026-09-25T15:30:00",
           "datetime_utc": "2026-09-25T20:30:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/summit/all/146779850",
           "sold_out": false,
@@ -40548,8 +41402,8 @@
           "showtime_id": 146810627,
           "datetime": "2026-09-25T17:00:00",
           "datetime_utc": "2026-09-25T22:00:00Z",
-          "auditorium": 8,
-          "screen_width_ft": 61.3,
+          "auditorium": 6,
+          "screen_width_ft": 47.3,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/146810627",
           "sold_out": false,
@@ -40587,8 +41441,8 @@
           "showtime_id": 146779847,
           "datetime": "2026-09-25T18:15:00",
           "datetime_utc": "2026-09-25T23:15:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/summit/all/146779847",
           "sold_out": false,
@@ -40671,8 +41525,8 @@
           "showtime_id": 146810676,
           "datetime": "2026-09-25T19:30:00",
           "datetime_utc": "2026-09-26T00:30:00Z",
-          "auditorium": 14,
-          "screen_width_ft": 59.5,
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/146810676",
           "sold_out": false,
@@ -40711,8 +41565,8 @@
           "showtime_id": 146779848,
           "datetime": "2026-09-25T21:00:00",
           "datetime_utc": "2026-09-26T02:00:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/summit/all/146779848",
           "sold_out": false,
@@ -40752,9 +41606,9 @@
           "showtime_id": 146810585,
           "datetime": "2026-09-25T21:30:00",
           "datetime_utc": "2026-09-26T02:30:00Z",
-          "auditorium": 2,
+          "auditorium": 3,
           "screen_width_ft": 35.0,
-          "premium_format": "RealD 3D",
+          "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/146810585",
           "sold_out": false,
           "almost_sold_out": false,
@@ -40765,24 +41619,23 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
-            "RealD 3D",
             "Reserved Seating"
           ],
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 20.25,
-              "tax": 1.76
+              "price": 14.77,
+              "tax": 1.28
             },
             {
               "type": "CHILD",
-              "price": 16.96,
-              "tax": 1.47
+              "price": 11.49,
+              "tax": 1.0
             },
             {
               "type": "SENIOR",
-              "price": 18.6,
-              "tax": 1.61
+              "price": 13.13,
+              "tax": 1.14
             }
           ]
         },
@@ -40836,8 +41689,8 @@
           "showtime_id": 146779842,
           "datetime": "2026-09-26T12:45:00",
           "datetime_utc": "2026-09-26T17:45:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/summit/all/146779842",
           "sold_out": false,
@@ -40962,8 +41815,8 @@
           "showtime_id": 146779841,
           "datetime": "2026-09-26T15:30:00",
           "datetime_utc": "2026-09-26T20:30:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/summit/all/146779841",
           "sold_out": false,
@@ -41085,8 +41938,8 @@
           "showtime_id": 146779851,
           "datetime": "2026-09-26T18:15:00",
           "datetime_utc": "2026-09-26T23:15:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/summit/all/146779851",
           "sold_out": false,
@@ -41209,8 +42062,8 @@
           "showtime_id": 146779852,
           "datetime": "2026-09-26T21:00:00",
           "datetime_utc": "2026-09-27T02:00:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/summit/all/146779852",
           "sold_out": false,
@@ -41333,8 +42186,8 @@
           "showtime_id": 146779846,
           "datetime": "2026-09-27T12:45:00",
           "datetime_utc": "2026-09-27T17:45:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/summit/all/146779846",
           "sold_out": false,
@@ -41458,8 +42311,8 @@
           "showtime_id": 146779845,
           "datetime": "2026-09-27T15:30:00",
           "datetime_utc": "2026-09-27T20:30:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/summit/all/146779845",
           "sold_out": false,
@@ -41582,8 +42435,8 @@
           "showtime_id": 146779843,
           "datetime": "2026-09-27T18:15:00",
           "datetime_utc": "2026-09-27T23:15:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/summit/all/146779843",
           "sold_out": false,
@@ -41706,8 +42559,8 @@
           "showtime_id": 146779844,
           "datetime": "2026-09-27T21:00:00",
           "datetime_utc": "2026-09-28T02:00:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 5,
+          "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/summit/all/146779844",
           "sold_out": false,
@@ -48503,7 +49356,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.75,
-      "letterboxd_rating_count": 2466,
+      "letterboxd_rating_count": 2474,
       "letterboxd_url": "https://letterboxd.com/film/ha-chan-shake-your-booty/",
       "awards": "1 win & 1 nomination total",
       "language": "Japanese, English, Spanish",
@@ -48867,7 +49720,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.19,
-      "letterboxd_rating_count": 2930,
+      "letterboxd_rating_count": 2958,
       "letterboxd_url": "https://letterboxd.com/film/hanuman-ansh/",
       "awards": "N/A",
       "language": "Hindi",
@@ -49136,7 +49989,7 @@
       "poster": "posters/heart-of-the-beast-2026.jpg",
       "backdrop": null,
       "short_description": null,
-      "plot": "A former Army Special Forces soldier and his retired combat dog attempt to return to civilization after suffering a catastrophic accident deep in the Alaskan wilderness.",
+      "plot": "After a harrowing plane crash, a Special Forces officer and his combat dog find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
       "directors": [
         "David Ayer"
       ],
@@ -49149,8 +50002,8 @@
         "Anna Lambe"
       ],
       "imdb_id": "tt7526136",
-      "imdb_rating": "N/A",
-      "imdb_votes": "N/A",
+      "imdb_rating": "7.5",
+      "imdb_votes": "542",
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": null,
@@ -49987,8 +50840,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146550961,
-          "datetime": "2026-09-25T21:45:00",
-          "datetime_utc": "2026-09-26T02:45:00Z",
+          "datetime": "2026-09-25T21:00:00",
+          "datetime_utc": "2026-09-26T02:00:00Z",
           "auditorium": 12,
           "screen_width_ft": 35.0,
           "premium_format": "Standard",
@@ -53038,6 +53891,126 @@
       ]
     },
     {
+      "sort_index": "hellbilly hollow",
+      "source": "AMC",
+      "movie_id": 84911,
+      "title": "Hellbilly Hollow",
+      "release_year": 2026,
+      "runtime": 84,
+      "rating": "NR",
+      "genres": [
+        "HORROR"
+      ],
+      "poster": "posters/hellbilly-hollow-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "A group of paranormal YouTubers venture into the Alabama backwoods to film a haunted attraction on Halloween Eve. What begins as staged entertainment becomes a deadly nightmare.",
+      "directors": [
+        "Kevin Wayne"
+      ],
+      "writers": [
+        "Bernadette Chapman"
+      ],
+      "actors": [
+        "Hallie Shepherd",
+        "Sandra Ellis Lafferty",
+        "Danny Vinson"
+      ],
+      "imdb_id": "tt9381994",
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": "N/A",
+      "language": "English",
+      "country": "United States",
+      "box_office": "N/A",
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/hellbilly-hollow-84911",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260717,
+          "datetime": "2026-09-25T15:30:00",
+          "datetime_utc": "2026-09-25T20:30:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260717",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260655,
+          "datetime": "2026-09-25T19:00:00",
+          "datetime_utc": "2026-09-26T00:00:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260655",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "hope",
       "source": "AMC",
       "movie_id": 84082,
@@ -53735,6 +54708,46 @@
               "tax": 1.3
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260735,
+          "datetime": "2026-09-24T12:40:00",
+          "datetime_utc": "2026-09-24T17:40:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260735",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
         }
       ]
     },
@@ -53970,7 +54983,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": null,
       "letterboxd_rating": 3.93,
-      "letterboxd_rating_count": 5181,
+      "letterboxd_rating_count": 5443,
       "letterboxd_url": "https://letterboxd.com/film/if-i-go-will-they-miss-me-2026/",
       "awards": "1 win & 1 nomination total",
       "language": "English",
@@ -55264,6 +56277,88 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260676,
+          "datetime": "2026-09-24T13:30:00",
+          "datetime_utc": "2026-09-24T18:30:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260676",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260719,
+          "datetime": "2026-09-25T21:50:00",
+          "datetime_utc": "2026-09-26T02:50:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260719",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
             }
           ]
         }
@@ -58514,6 +59609,51 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
+          "showtime_id": 147256349,
+          "datetime": "2026-10-05T19:00:00",
+          "datetime_utc": "2026-10-06T00:00:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-05/pattoncreek/all/147256349",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "English Language Dubbed with No Subtitles",
+            "Event",
+            "International Films",
+            "Japanese Spoken with English Subtitles",
+            "Excluded from A-List",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
           "showtime_id": 147007295,
           "datetime": "2026-10-07T19:00:00",
           "datetime_utc": "2026-10-08T00:00:00Z",
@@ -58911,6 +60051,46 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260701,
+          "datetime": "2026-09-24T13:00:00",
+          "datetime_utc": "2026-09-24T18:00:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 61.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260701",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
             }
           ]
         }
@@ -64589,6 +65769,246 @@
               "tax": 1.14
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260722,
+          "datetime": "2026-09-24T18:40:00",
+          "datetime_utc": "2026-09-24T23:40:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260722",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260723,
+          "datetime": "2026-09-24T21:45:00",
+          "datetime_utc": "2026-09-25T02:45:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260723",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260658,
+          "datetime": "2026-09-25T13:10:00",
+          "datetime_utc": "2026-09-25T18:10:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260658",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260709,
+          "datetime": "2026-09-25T16:10:00",
+          "datetime_utc": "2026-09-25T21:10:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260709",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260673,
+          "datetime": "2026-09-25T18:30:00",
+          "datetime_utc": "2026-09-25T23:30:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260673",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260674,
+          "datetime": "2026-09-25T21:40:00",
+          "datetime_utc": "2026-09-26T02:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260674",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
         }
       ]
     },
@@ -64623,8 +66043,8 @@
       "imdb_votes": "120",
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
-      "letterboxd_rating": 3.75,
-      "letterboxd_rating_count": 2209,
+      "letterboxd_rating": 3.74,
+      "letterboxd_rating_count": 2234,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -64975,8 +66395,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 147226303,
-          "datetime": "2026-09-24T21:45:00",
-          "datetime_utc": "2026-09-25T02:45:00Z",
+          "datetime": "2026-09-24T21:50:00",
+          "datetime_utc": "2026-09-25T02:50:00Z",
           "auditorium": 7,
           "screen_width_ft": 61.3,
           "premium_format": "Standard",
@@ -69061,8 +70481,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.83,
-      "letterboxd_rating_count": 495542,
+      "letterboxd_rating": 3.82,
+      "letterboxd_rating_count": 532457,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -71721,6 +73141,47 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260706,
+          "datetime": "2026-09-24T17:30:00",
+          "datetime_utc": "2026-09-24T22:30:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 61.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260706",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
           "showtime_id": 146550765,
           "datetime": "2026-09-24T18:45:00",
           "datetime_utc": "2026-09-24T23:45:00Z",
@@ -71929,6 +73390,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260761,
+          "datetime": "2026-09-24T22:00:00",
+          "datetime_utc": "2026-09-25T03:00:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 59.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260761",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146572745,
@@ -71967,6 +73469,88 @@
               "type": "SENIOR",
               "price": 16.49,
               "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260668,
+          "datetime": "2026-09-25T13:30:00",
+          "datetime_utc": "2026-09-25T18:30:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260668",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "CHILD",
+              "price": 10.5,
+              "tax": 0.91
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.82,
+              "tax": 1.03
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260667,
+          "datetime": "2026-09-25T16:10:00",
+          "datetime_utc": "2026-09-25T21:10:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260667",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
             }
           ]
         },
@@ -72135,6 +73719,47 @@
               "type": "SENIOR",
               "price": 20.25,
               "tax": 1.76
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260680,
+          "datetime": "2026-09-25T22:00:00",
+          "datetime_utc": "2026-09-26T03:00:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 38.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260680",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
             }
           ]
         },
@@ -72886,7 +74511,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.69,
-      "letterboxd_rating_count": 872,
+      "letterboxd_rating_count": 873,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -75305,6 +76930,166 @@
               "tax": 1.3
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260665,
+          "datetime": "2026-09-24T13:10:00",
+          "datetime_utc": "2026-09-24T18:10:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260665",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260763,
+          "datetime": "2026-09-24T16:40:00",
+          "datetime_utc": "2026-09-24T21:40:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 59.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260763",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260724,
+          "datetime": "2026-09-25T13:20:00",
+          "datetime_utc": "2026-09-25T18:20:00Z",
+          "auditorium": 11,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260724",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260656,
+          "datetime": "2026-09-25T16:20:00",
+          "datetime_utc": "2026-09-25T21:20:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260656",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
         }
       ]
     },
@@ -75342,7 +77127,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.56,
-      "letterboxd_rating_count": 6025,
+      "letterboxd_rating_count": 6520,
       "letterboxd_url": "https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy-bottom/",
       "awards": "N/A",
       "language": "English",
@@ -75719,13 +77504,13 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
-          "showtime_id": 146267453,
-          "datetime": "2026-09-24T14:30:00",
-          "datetime_utc": "2026-09-24T19:30:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 35.0,
+          "showtime_id": 147260708,
+          "datetime": "2026-09-25T13:40:00",
+          "datetime_utc": "2026-09-25T18:40:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/146267453",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260708",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -75752,46 +77537,6 @@
               "type": "SENIOR",
               "price": 10.5,
               "tax": 0.91
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146267454,
-          "datetime": "2026-09-24T17:00:00",
-          "datetime_utc": "2026-09-24T22:00:00Z",
-          "auditorium": 14,
-          "screen_width_ft": 59.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/146267454",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
             }
           ]
         }
@@ -77999,6 +79744,206 @@
           "screen_width_ft": 35.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147226306",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260737,
+          "datetime": "2026-09-24T21:30:00",
+          "datetime_utc": "2026-09-25T02:30:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260737",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260730,
+          "datetime": "2026-09-25T13:50:00",
+          "datetime_utc": "2026-09-25T18:50:00Z",
+          "auditorium": 12,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260730",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "CHILD",
+              "price": 10.5,
+              "tax": 0.91
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.82,
+              "tax": 1.03
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260729,
+          "datetime": "2026-09-25T17:20:00",
+          "datetime_utc": "2026-09-25T22:20:00Z",
+          "auditorium": 12,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260729",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260725,
+          "datetime": "2026-09-25T19:10:00",
+          "datetime_utc": "2026-09-26T00:10:00Z",
+          "auditorium": 11,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260725",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260657,
+          "datetime": "2026-09-25T21:30:00",
+          "datetime_utc": "2026-09-26T02:30:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260657",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -86121,7 +88066,7 @@
       "rotten_tomatoes": "63%",
       "metacritic": null,
       "letterboxd_rating": 3.51,
-      "letterboxd_rating_count": 3823,
+      "letterboxd_rating_count": 3987,
       "letterboxd_url": "https://letterboxd.com/film/the-musical-2026/",
       "awards": "N/A",
       "language": "English",
@@ -86973,7 +88918,7 @@
           "screen_width_ft": 47.3,
           "premium_format": "70MM at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-21/pattoncreek/all/146806927",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -88418,6 +90363,170 @@
               "tax": 1.28
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260663,
+          "datetime": "2026-09-25T12:10:00",
+          "datetime_utc": "2026-09-25T17:10:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260663",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "CHILD",
+              "price": 10.5,
+              "tax": 0.91
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.82,
+              "tax": 1.03
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260662,
+          "datetime": "2026-09-25T16:00:00",
+          "datetime_utc": "2026-09-25T21:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260662",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260720,
+          "datetime": "2026-09-25T18:00:00",
+          "datetime_utc": "2026-09-25T23:00:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260720",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260734,
+          "datetime": "2026-09-25T21:15:00",
+          "datetime_utc": "2026-09-26T02:15:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260734",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.41,
+              "tax": 1.42
+            },
+            {
+              "type": "CHILD",
+              "price": 13.13,
+              "tax": 1.14
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.77,
+              "tax": 1.28
+            }
+          ]
         }
       ]
     },
@@ -88764,8 +90873,8 @@
           "showtime_id": 147208830,
           "datetime": "2026-09-25T20:00:00",
           "datetime_utc": "2026-09-26T01:00:00Z",
-          "auditorium": 8,
-          "screen_width_ft": 61.3,
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147208830",
           "sold_out": false,
@@ -93871,46 +95980,6 @@
       "showtimes": [
         {
           "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147047955,
-          "datetime": "2026-09-24T16:00:00",
-          "datetime_utc": "2026-09-24T21:00:00Z",
-          "auditorium": 2,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147047955",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 147078786,
@@ -93996,8 +96065,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 147047932,
-          "datetime": "2026-09-24T19:40:00",
-          "datetime_utc": "2026-09-25T00:40:00Z",
+          "datetime": "2026-09-24T19:10:00",
+          "datetime_utc": "2026-09-25T00:10:00Z",
           "auditorium": 3,
           "screen_width_ft": 35.0,
           "premium_format": "Standard",
@@ -94028,6 +96097,46 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260732,
+          "datetime": "2026-09-25T13:00:00",
+          "datetime_utc": "2026-09-25T18:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260732",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
             }
           ]
         },
@@ -94069,46 +96178,6 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147047933,
-          "datetime": "2026-09-25T16:40:00",
-          "datetime_utc": "2026-09-25T21:40:00Z",
-          "auditorium": 1,
-          "screen_width_ft": 29.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147047933",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
             }
           ]
         },
@@ -95229,6 +97298,94 @@
               "tax": 1.5
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260736,
+          "datetime": "2026-09-24T19:20:00",
+          "datetime_utc": "2026-09-25T00:20:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/147260736",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Closed Caption",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "CHILD",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.43,
+              "tax": 1.43
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260703,
+          "datetime": "2026-09-25T12:00:00",
+          "datetime_utc": "2026-09-25T17:00:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 61.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260703",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Closed Caption",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "CHILD",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.43,
+              "tax": 1.43
+            }
+          ]
         }
       ]
     },
@@ -95264,7 +97421,7 @@
       "rotten_tomatoes": null,
       "metacritic": "53/100",
       "letterboxd_rating": 2.84,
-      "letterboxd_rating_count": 26985,
+      "letterboxd_rating_count": 27399,
       "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/",
       "awards": "N/A",
       "language": "English",
@@ -96301,6 +98458,82 @@
       ]
     },
     {
+      "sort_index": "the vvaan: force of the forrest",
+      "source": "AMC",
+      "movie_id": 84835,
+      "title": "The Vvaan: Force of the Forrest",
+      "release_year": 2026,
+      "runtime": 150,
+      "rating": "NR",
+      "genres": [
+        "ACTION"
+      ],
+      "poster": "posters/the-vvaan-force-of-the-forrest-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/the-vvaan-force-of-the-forrest-84835",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260759,
+          "datetime": "2026-09-25T17:30:00",
+          "datetime_utc": "2026-09-25T22:30:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 59.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/pattoncreek/all/147260759",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "the weight",
       "source": "AMC",
       "movie_id": 83100,
@@ -96332,7 +98565,7 @@
       "rotten_tomatoes": null,
       "metacritic": "94/100",
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 4390,
+      "letterboxd_rating_count": 4405,
       "letterboxd_url": "https://letterboxd.com/film/earth-wind-fire-to-be-celestial-vs-thats/",
       "awards": "N/A",
       "language": "English",
@@ -97209,88 +99442,6 @@
               "tax": 1.3
             }
           ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146810668,
-          "datetime": "2026-09-24T16:45:00",
-          "datetime_utc": "2026-09-24T21:45:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/146810668",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146810669,
-          "datetime": "2026-09-24T19:10:00",
-          "datetime_utc": "2026-09-25T00:10:00Z",
-          "auditorium": 13,
-          "screen_width_ft": 29.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/pattoncreek/all/146810669",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
-            }
-          ]
         }
       ]
     },
@@ -97327,7 +99478,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.29,
-      "letterboxd_rating_count": 634,
+      "letterboxd_rating_count": 669,
       "letterboxd_url": "https://letterboxd.com/film/tiny-fugitives/",
       "awards": "N/A",
       "language": "English",
@@ -104224,6 +106375,991 @@
           "attributes": [
             "AMC Artisan Films",
             "Closed Caption",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "your mother your mother your mother",
+      "source": "AMC",
+      "movie_id": 84071,
+      "title": "Your Mother Your Mother Your Mother",
+      "release_year": 2026,
+      "runtime": 112,
+      "rating": "R",
+      "genres": [
+        "Drama"
+      ],
+      "poster": "posters/your-mother-your-mother-your-mother-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Follows Latif, a devoutly religious hitman, who embarks on a desperate journey across Houston to protect his children after his wife dies, confronting forces closing in and beliefs threatening to unravel.",
+      "directors": [
+        "Bassam Tariq"
+      ],
+      "writers": [
+        "Bassam Tariq"
+      ],
+      "actors": [
+        "Giancarlo Esposito",
+        "Mahershala Ali",
+        "John Cho"
+      ],
+      "imdb_id": "tt35856037",
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": 3.82,
+      "letterboxd_rating_count": 1442,
+      "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
+      "awards": "N/A",
+      "language": "English",
+      "country": "United Kingdom, United States",
+      "box_office": "N/A",
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/your-mother-your-mother-your-mother-84071",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260659,
+          "datetime": "2026-10-15T17:00:00",
+          "datetime_utc": "2026-10-15T22:00:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/pattoncreek/all/147260659",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260660,
+          "datetime": "2026-10-15T20:00:00",
+          "datetime_utc": "2026-10-16T01:00:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/pattoncreek/all/147260660",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260756,
+          "datetime": "2026-10-16T13:15:00",
+          "datetime_utc": "2026-10-16T18:15:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-16/pattoncreek/all/147260756",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260750,
+          "datetime": "2026-10-16T16:10:00",
+          "datetime_utc": "2026-10-16T21:10:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-16/pattoncreek/all/147260750",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Open Caption (On-screen Subtitles)",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260751,
+          "datetime": "2026-10-16T19:00:00",
+          "datetime_utc": "2026-10-17T00:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-16/pattoncreek/all/147260751",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260752,
+          "datetime": "2026-10-16T21:50:00",
+          "datetime_utc": "2026-10-17T02:50:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-16/pattoncreek/all/147260752",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260753,
+          "datetime": "2026-10-17T13:15:00",
+          "datetime_utc": "2026-10-17T18:15:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-17/pattoncreek/all/147260753",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260754,
+          "datetime": "2026-10-17T16:10:00",
+          "datetime_utc": "2026-10-17T21:10:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-17/pattoncreek/all/147260754",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260755,
+          "datetime": "2026-10-17T19:00:00",
+          "datetime_utc": "2026-10-18T00:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-17/pattoncreek/all/147260755",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260746,
+          "datetime": "2026-10-17T21:50:00",
+          "datetime_utc": "2026-10-18T02:50:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-17/pattoncreek/all/147260746",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260747,
+          "datetime": "2026-10-18T13:15:00",
+          "datetime_utc": "2026-10-18T18:15:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-18/pattoncreek/all/147260747",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260748,
+          "datetime": "2026-10-18T16:10:00",
+          "datetime_utc": "2026-10-18T21:10:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-18/pattoncreek/all/147260748",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260715,
+          "datetime": "2026-10-18T18:45:00",
+          "datetime_utc": "2026-10-18T23:45:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-18/pattoncreek/all/147260715",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260716,
+          "datetime": "2026-10-18T21:45:00",
+          "datetime_utc": "2026-10-19T02:45:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-18/pattoncreek/all/147260716",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260749,
+          "datetime": "2026-10-19T14:00:00",
+          "datetime_utc": "2026-10-19T19:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-19/pattoncreek/all/147260749",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260740,
+          "datetime": "2026-10-19T17:00:00",
+          "datetime_utc": "2026-10-19T22:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-19/pattoncreek/all/147260740",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260741,
+          "datetime": "2026-10-19T20:00:00",
+          "datetime_utc": "2026-10-20T01:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-19/pattoncreek/all/147260741",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260742,
+          "datetime": "2026-10-20T13:50:00",
+          "datetime_utc": "2026-10-20T18:50:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-20/pattoncreek/all/147260742",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260743,
+          "datetime": "2026-10-20T16:50:00",
+          "datetime_utc": "2026-10-20T21:50:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-20/pattoncreek/all/147260743",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260744,
+          "datetime": "2026-10-20T19:45:00",
+          "datetime_utc": "2026-10-21T00:45:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-20/pattoncreek/all/147260744",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260745,
+          "datetime": "2026-10-21T14:00:00",
+          "datetime_utc": "2026-10-21T19:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-21/pattoncreek/all/147260745",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 11.82,
+              "tax": 1.03
+            },
+            {
+              "type": "CHILD",
+              "price": 9.19,
+              "tax": 0.8
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.5,
+              "tax": 0.91
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260738,
+          "datetime": "2026-10-21T17:00:00",
+          "datetime_utc": "2026-10-21T22:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-21/pattoncreek/all/147260738",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147260739,
+          "datetime": "2026-10-21T20:00:00",
+          "datetime_utc": "2026-10-22T01:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-21/pattoncreek/all/147260739",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
           ],
           "ticket_prices": [
