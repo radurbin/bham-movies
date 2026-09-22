@@ -1,3 +1,37 @@
+## 2026-09-22 06:54 PM CDT
+
+**Showtime changes:**
+- Instructions Not Included 
+  - + AMC Summit 16 @ 2026-10-09T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-10T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-11T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-12T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-13T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-14T16:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-09T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-10T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-11T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-12T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-13T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T16:00:00 (Standard)
+- Drishyam - The Conclusion
+  - + AMC Summit 16 @ 2026-10-02T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-03T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-04T18:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-05T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-06T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-07T18:40:00 (Standard)
+- Stand and Deliver
+  - + AMC Summit 16 @ 2026-10-04T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-08T16:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-04T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-08T16:00:00 (Standard)
+- The Social Reckoning
+  - + AMC Summit 16 @ 2026-10-15T19:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-15T21:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-15T18:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-15T21:40:00 (Standard)
+
 ## 2026-09-22 02:20 PM CDT
 
 **Movies added:**
