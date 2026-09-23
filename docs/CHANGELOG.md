@@ -1,3 +1,11 @@
+## 2026-09-23 02:18 PM CDT
+
+**Movies added:**
+- Rolling Loud: The Movie
+
+**Movies removed:**
+- Rolling Loud
+
 ## 2026-09-23 09:30 AM CDT
 
 **Movies added:**
