@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-08-30 01:54 PM CDT",
-    "movies_added": [],
-    "movies_removed": [
-      "SHOUT Spotlight: Jaripeo",
-      "The Last Picture Shows"
-    ],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-30 07:00 PM CDT",
     "movies_added": [],
     "movies_removed": [
@@ -44367,6 +44358,31 @@
           {
             "theater": "AMC Summit 16",
             "datetime": "2026-09-22T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-23 09:30 AM CDT",
+    "movies_added": [
+      "Beware Boiuna"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Princess Mononoke - Studio Ghibli Fest 2026",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-27T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-09-27T19:00:00",
             "format": "Standard"
           }
         ]

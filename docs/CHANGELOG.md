@@ -1,3 +1,13 @@
+## 2026-09-23 09:30 AM CDT
+
+**Movies added:**
+- Beware Boiuna
+
+**Showtime changes:**
+- Princess Mononoke - Studio Ghibli Fest 2026
+  - − AMC Patton Creek 15 @ 2026-09-27T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-27T19:00:00 (Standard)
+
 ## 2026-09-23 03:54 AM CDT
 
 **Showtime changes:**
