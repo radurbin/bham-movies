@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-23T14:18:18.557493-05:00",
+    "generated_at": "2026-09-23T19:05:54.900107-05:00",
     "movie_count": 93,
-    "showtime_count": 2967,
+    "showtime_count": 2972,
     "theaters": {
-      "AMC Summit 16": 1042,
-      "AMC Patton Creek 15": 1258,
+      "AMC Summit 16": 1048,
+      "AMC Patton Creek 15": 1257,
       "AMC Vestavia Hills 10": 667
     }
   },
@@ -2784,6 +2784,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147381062,
+          "datetime": "2026-09-24T19:10:00",
+          "datetime_utc": "2026-09-25T00:10:00Z",
+          "auditorium": 12,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/summit/all/147381062",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 147260707,
@@ -3140,9 +3182,8 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
-            "Closed Caption",
-            "Audio Description",
             "Pay with Disney Rewards Redemption Card",
+            "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
           ],
           "ticket_prices": [
@@ -3246,6 +3287,48 @@
               "type": "SENIOR",
               "price": 11.87,
               "tax": 1.08
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147381065,
+          "datetime": "2026-09-25T15:50:00",
+          "datetime_utc": "2026-09-25T20:50:00Z",
+          "auditorium": 12,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/summit/all/147381065",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 12.75,
+              "tax": 1.16
+            },
+            {
+              "type": "CHILD",
+              "price": 10.11,
+              "tax": 0.92
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.43,
+              "tax": 1.04
             }
           ]
         },
@@ -6796,9 +6879,8 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
-            "Closed Caption",
-            "Audio Description",
             "Pay with Disney Rewards Redemption Card",
+            "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
           ],
           "ticket_prices": [
@@ -34671,7 +34753,7 @@
       "rotten_tomatoes": "57%",
       "metacritic": "58/100",
       "letterboxd_rating": 3.38,
-      "letterboxd_rating_count": 277,
+      "letterboxd_rating_count": 279,
       "letterboxd_url": "https://letterboxd.com/film/charlie-harper/",
       "awards": "N/A",
       "language": "English",
@@ -52293,6 +52375,48 @@
               "tax": 1.76
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147379751,
+          "datetime": "2026-12-15T21:40:00",
+          "datetime_utc": "2026-12-16T03:40:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-15/pattoncreek/all/147379751",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Excluded from 50% off Discount",
+            "IMAX at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.89,
+              "tax": 1.9
+            },
+            {
+              "type": "CHILD",
+              "price": 18.6,
+              "tax": 1.61
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.25,
+              "tax": 1.76
+            }
+          ]
         }
       ]
     },
@@ -52448,7 +52572,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 14736,
+      "letterboxd_rating_count": 14870,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English",
@@ -61130,7 +61254,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.75,
-      "letterboxd_rating_count": 2519,
+      "letterboxd_rating_count": 2523,
       "letterboxd_url": "https://letterboxd.com/film/ha-chan-shake-your-booty/",
       "awards": "1 win & 1 nomination total",
       "language": "Japanese, English, Spanish",
@@ -61734,7 +61858,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.17,
-      "letterboxd_rating_count": 3100,
+      "letterboxd_rating_count": 3109,
       "letterboxd_url": "https://letterboxd.com/film/hanuman-ansh/",
       "awards": "N/A",
       "language": "Hindi",
@@ -61858,8 +61982,8 @@
       "imdb_votes": "542",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.14,
-      "letterboxd_rating_count": 2965,
+      "letterboxd_rating": 3.2,
+      "letterboxd_rating_count": 4474,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -65443,8 +65567,8 @@
           "showtime_id": 146550837,
           "datetime": "2026-10-01T13:45:00",
           "datetime_utc": "2026-10-01T18:45:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 38.5,
+          "auditorium": 12,
+          "screen_width_ft": 35.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-01/pattoncreek/all/146550837",
           "sold_out": false,
@@ -65525,8 +65649,8 @@
           "showtime_id": 146550835,
           "datetime": "2026-10-01T16:30:00",
           "datetime_utc": "2026-10-01T21:30:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 38.5,
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-01/pattoncreek/all/146550835",
           "sold_out": false,
@@ -65597,46 +65721,6 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 146550839,
-          "datetime": "2026-10-01T19:15:00",
-          "datetime_utc": "2026-10-02T00:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 38.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-01/pattoncreek/all/146550839",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
             }
           ]
         },
@@ -66163,6 +66247,45 @@
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/summit/all/147324802",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147381067,
+          "datetime": "2026-09-25T22:40:00",
+          "datetime_utc": "2026-09-26T03:40:00Z",
+          "auditorium": 12,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/summit/all/147381067",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -67410,7 +67533,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": null,
       "letterboxd_rating": 3.93,
-      "letterboxd_rating_count": 6932,
+      "letterboxd_rating_count": 7112,
       "letterboxd_url": "https://letterboxd.com/film/if-i-go-will-they-miss-me-2026/",
       "awards": "1 win & 1 nomination total",
       "language": "English",
@@ -80286,8 +80409,8 @@
       "imdb_votes": "120",
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
-      "letterboxd_rating": 3.79,
-      "letterboxd_rating_count": 5093,
+      "letterboxd_rating": 3.77,
+      "letterboxd_rating_count": 7093,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -80477,7 +80600,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/summit/all/146577005",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -81147,6 +81270,48 @@
           "screen_width_ft": 28.7,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/summit/all/146577007",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147381064,
+          "datetime": "2026-09-25T19:50:00",
+          "datetime_utc": "2026-09-26T00:50:00Z",
+          "auditorium": 12,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/summit/all/147381064",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -84931,7 +85096,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 670788,
+      "letterboxd_rating_count": 692026,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -91499,7 +91664,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.69,
-      "letterboxd_rating_count": 912,
+      "letterboxd_rating_count": 933,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -93900,7 +94065,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.57,
-      "letterboxd_rating_count": 8167,
+      "letterboxd_rating_count": 8420,
       "letterboxd_url": "https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy-bottom/",
       "awards": "N/A",
       "language": "English",
@@ -107109,7 +107274,7 @@
       "rotten_tomatoes": "63%",
       "metacritic": null,
       "letterboxd_rating": 3.54,
-      "letterboxd_rating_count": 4768,
+      "letterboxd_rating_count": 4850,
       "letterboxd_url": "https://letterboxd.com/film/the-musical-2026/",
       "awards": "N/A",
       "language": "English",
@@ -110638,6 +110803,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147381063,
+          "datetime": "2026-09-24T15:15:00",
+          "datetime_utc": "2026-09-24T20:15:00Z",
+          "auditorium": 12,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/summit/all/147381063",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Excluded from A-List",
+            "No Passes",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Telugu Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.7,
+              "tax": 1.7
+            },
+            {
+              "type": "CHILD",
+              "price": 15.4,
+              "tax": 1.4
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.7,
+              "tax": 1.7
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 147208829,
@@ -110732,6 +110940,49 @@
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/summit/all/147324804",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Excluded from A-List",
+            "No Passes",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Telugu Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.7,
+              "tax": 1.7
+            },
+            {
+              "type": "CHILD",
+              "price": 15.4,
+              "tax": 1.4
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.7,
+              "tax": 1.7
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147381066,
+          "datetime": "2026-09-25T12:00:00",
+          "datetime_utc": "2026-09-25T17:00:00Z",
+          "auditorium": 12,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/summit/all/147381066",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -116038,7 +116289,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.43,
-      "letterboxd_rating_count": 417,
+      "letterboxd_rating_count": 421,
       "letterboxd_url": "https://letterboxd.com/film/the-stunt-driver/",
       "awards": "N/A",
       "language": "English",
@@ -116586,46 +116837,6 @@
           "screen_width_ft": 35.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/pattoncreek/all/147285331",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147048056,
-          "datetime": "2026-10-01T16:30:00",
-          "datetime_utc": "2026-10-01T21:30:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 29.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-01/pattoncreek/all/147048056",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -117768,7 +117979,7 @@
       "rotten_tomatoes": null,
       "metacritic": "53/100",
       "letterboxd_rating": 2.82,
-      "letterboxd_rating_count": 29334,
+      "letterboxd_rating_count": 29576,
       "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/",
       "awards": "N/A",
       "language": "English",
@@ -118990,7 +119201,7 @@
       "rotten_tomatoes": null,
       "metacritic": "94/100",
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 4441,
+      "letterboxd_rating_count": 4443,
       "letterboxd_url": "https://letterboxd.com/film/earth-wind-fire-to-be-celestial-vs-thats/",
       "awards": "N/A",
       "language": "English",
@@ -119616,8 +119827,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.25,
-      "letterboxd_rating_count": 937,
+      "letterboxd_rating": 3.24,
+      "letterboxd_rating_count": 958,
       "letterboxd_url": "https://letterboxd.com/film/tiny-fugitives/",
       "awards": "N/A",
       "language": "English",
@@ -126487,8 +126698,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 1580,
+      "letterboxd_rating": 3.85,
+      "letterboxd_rating_count": 1587,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",

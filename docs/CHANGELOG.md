@@ -1,3 +1,23 @@
+## 2026-09-23 07:05 PM CDT
+
+**Showtime changes:**
+- The Paradise (Telugu)
+  - + AMC Summit 16 @ 2026-09-24T15:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-25T12:00:00 (Standard)
+- Dune: Part Three Insider Screenings
+  - + AMC Patton Creek 15 @ 2026-12-15T21:40:00 (IMAX at AMC)
+- Hellbilly Hollow
+  - + AMC Summit 16 @ 2026-09-25T22:40:00 (Standard)
+- The Stunt Driver
+  - − AMC Patton Creek 15 @ 2026-10-01T16:30:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC Summit 16 @ 2026-09-24T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-25T15:50:00 (Standard)
+- Primetime
+  - + AMC Summit 16 @ 2026-09-25T19:50:00 (Standard)
+- Heart of the Beast
+  - − AMC Patton Creek 15 @ 2026-10-01T19:15:00 (Standard)
+
 ## 2026-09-23 02:18 PM CDT
 
 **Movies added:**
