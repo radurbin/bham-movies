@@ -1,3 +1,21 @@
+## 2026-09-25 02:39 PM CDT
+
+**Movies added:**
+- 9 to 5
+
+**Showtime changes:**
+- Buddy
+  - − AMC Summit 16 @ 2026-09-25T23:00:00 (Standard)
+- Hellbilly Hollow
+  - − AMC Summit 16 @ 2026-09-25T22:40:00 (Standard)
+- Primetime
+  - + AMC Summit 16 @ 2026-09-25T22:40:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC Summit 16 @ 2026-09-25T22:00:00 (Standard)
+- Ha-Chan, Shake Your Booty!
+  - + AMC Summit 16 @ 2026-09-25T23:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-25T22:10:00 (Standard)
+
 ## 2026-09-25 09:50 AM CDT
 
 **Movies added:**
