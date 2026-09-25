@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-25T04:10:32.587070-05:00",
-    "movie_count": 80,
-    "showtime_count": 2688,
+    "generated_at": "2026-09-25T09:50:14.760979-05:00",
+    "movie_count": 82,
+    "showtime_count": 2691,
     "theaters": {
-      "AMC Summit 16": 948,
-      "AMC Patton Creek 15": 1152,
+      "AMC Summit 16": 950,
+      "AMC Patton Creek 15": 1153,
       "AMC Vestavia Hills 10": 588
     }
   },
@@ -2834,7 +2834,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/vestaviahills/all/146811645",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -33309,7 +33309,7 @@
       "rotten_tomatoes": "57%",
       "metacritic": "58/100",
       "letterboxd_rating": 3.4,
-      "letterboxd_rating_count": 525,
+      "letterboxd_rating_count": 541,
       "letterboxd_url": "https://letterboxd.com/film/charlie-harper/",
       "awards": "N/A",
       "language": "English",
@@ -44349,6 +44349,129 @@
       ]
     },
     {
+      "sort_index": "doctor who: the satan pit",
+      "source": "AMC",
+      "movie_id": 85218,
+      "title": "Doctor Who: The Satan Pit",
+      "release_year": 2026,
+      "runtime": 115,
+      "rating": null,
+      "genres": [],
+      "poster": null,
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/doctor-who-the-satan-pit-85218",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147389561,
+          "datetime": "2026-11-23T19:00:00",
+          "datetime_utc": "2026-11-24T01:00:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 28.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-23/summit/all/147389561",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Event",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 16.5,
+              "tax": 1.5
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.5,
+              "tax": 1.5
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147389639,
+          "datetime": "2026-11-23T19:00:00",
+          "datetime_utc": "2026-11-24T01:00:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 59.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-23/pattoncreek/all/147389639",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Event",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "CHILD",
+              "price": 16.43,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.43,
+              "tax": 1.43
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "donnie darko 25th anniversary",
       "source": "AMC",
       "movie_id": 84684,
@@ -49917,7 +50040,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.85,
-      "letterboxd_rating_count": 19487,
+      "letterboxd_rating_count": 20227,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English",
@@ -57937,7 +58060,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.76,
-      "letterboxd_rating_count": 2846,
+      "letterboxd_rating_count": 2863,
       "letterboxd_url": "https://letterboxd.com/film/ha-chan-shake-your-booty/",
       "awards": "1 win & 1 nomination total",
       "language": "Japanese, English, Spanish",
@@ -58461,7 +58584,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.24,
-      "letterboxd_rating_count": 17517,
+      "letterboxd_rating_count": 18634,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -74155,7 +74278,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 54209,
+      "letterboxd_rating_count": 57911,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -78379,7 +78502,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.8,
-      "letterboxd_rating_count": 771934,
+      "letterboxd_rating_count": 779733,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -83255,7 +83378,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.69,
-      "letterboxd_rating_count": 953,
+      "letterboxd_rating_count": 958,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -85083,7 +85206,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.57,
-      "letterboxd_rating_count": 9367,
+      "letterboxd_rating_count": 9446,
       "letterboxd_url": "https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy-bottom/",
       "awards": "N/A",
       "language": "English",
@@ -104872,7 +104995,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.42,
-      "letterboxd_rating_count": 580,
+      "letterboxd_rating_count": 584,
       "letterboxd_url": "https://letterboxd.com/film/the-stunt-driver/",
       "awards": "N/A",
       "language": "English",
@@ -106254,7 +106377,7 @@
       "rotten_tomatoes": null,
       "metacritic": "53/100",
       "letterboxd_rating": 2.82,
-      "letterboxd_rating_count": 30651,
+      "letterboxd_rating_count": 30693,
       "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/",
       "awards": "N/A",
       "language": "English",
@@ -107189,7 +107312,7 @@
       "rotten_tomatoes": null,
       "metacritic": "94/100",
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 4455,
+      "letterboxd_rating_count": 4456,
       "letterboxd_url": "https://letterboxd.com/film/earth-wind-fire-to-be-celestial-vs-thats/",
       "awards": "N/A",
       "language": "English",
@@ -107661,6 +107784,82 @@
               "type": "SENIOR",
               "price": 16.5,
               "tax": 1.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "vampire carnival",
+      "source": "AMC",
+      "movie_id": 85163,
+      "title": "Vampire Carnival",
+      "release_year": 2026,
+      "runtime": 0,
+      "rating": "R",
+      "genres": [
+        "HORROR"
+      ],
+      "poster": null,
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/vampire-carnival-85163",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147390915,
+          "datetime": "2026-10-07T20:00:00",
+          "datetime_utc": "2026-10-08T01:00:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-07/summit/all/147390915",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Excluded from 50% off Discount",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
             }
           ]
         }
@@ -114314,7 +114513,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 2375,
+      "letterboxd_rating_count": 2399,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",

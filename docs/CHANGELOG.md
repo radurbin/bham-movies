@@ -1,3 +1,9 @@
+## 2026-09-25 09:50 AM CDT
+
+**Movies added:**
+- Doctor Who: The Satan Pit
+- Vampire Carnival
+
 ## 2026-09-25 04:10 AM CDT
 
 **Movies removed:**
