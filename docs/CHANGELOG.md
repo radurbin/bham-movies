@@ -1,3 +1,11 @@
+## 2026-09-26 01:47 PM CDT
+
+**Showtime changes:**
+- Runner
+  - + AMC Patton Creek 15 @ 2026-09-27T16:20:00 (Standard)
+- The Stunt Driver
+  - + AMC Patton Creek 15 @ 2026-09-30T13:00:00 (Standard)
+
 ## 2026-09-26 08:57 AM CDT
 
 No changes.
