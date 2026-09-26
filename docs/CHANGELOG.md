@@ -1,3 +1,25 @@
+## 2026-09-26 06:59 PM CDT
+
+**Movies added:**
+- California Schemin'
+
+**Showtime changes:**
+- Buddy
+  - − AMC Summit 16 @ 2026-09-27T11:05:00 (Standard)
+- Heart of the Beast
+  - + AMC Summit 16 @ 2026-09-27T12:45:00 (Standard)
+- Forgotten Island
+  - + AMC Summit 16 @ 2026-09-27T11:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-27T12:45:00 (RealD 3D)
+- Primetime
+  - + AMC Summit 16 @ 2026-09-27T18:50:00 (Standard)
+- Resident Evil
+  - + AMC Summit 16 @ 2026-09-27T11:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-27T11:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-27T19:00:00 (Standard)
+- The Stunt Driver
+  - + AMC Patton Creek 15 @ 2026-09-27T19:00:00 (Standard)
+
 ## 2026-09-26 01:47 PM CDT
 
 **Showtime changes:**
