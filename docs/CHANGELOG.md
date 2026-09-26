@@ -1,3 +1,17 @@
+## 2026-09-25 07:14 PM CDT
+
+**Showtime changes:**
+- Resident Evil
+  - − AMC Vestavia Hills 10 @ 2026-09-25T22:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-25T23:00:00 (Standard)
+- Daniel and the Fiery Furnace
+  - − AMC Summit 16 @ 2026-09-25T19:20:00 (Standard)
+- Primetime
+  - + AMC Vestavia Hills 10 @ 2026-09-25T22:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-25T22:55:00 (Standard)
+- Heart of the Beast
+  - + AMC Summit 16 @ 2026-09-25T19:20:00 (Standard)
+
 ## 2026-09-25 02:39 PM CDT
 
 **Movies added:**
