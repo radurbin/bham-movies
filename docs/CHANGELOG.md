@@ -1,3 +1,11 @@
+## 2026-09-27 02:23 PM CDT
+
+**Showtime changes:**
+- Heart of the Beast
+  - + AMC Summit 16 @ 2026-09-27T18:35:00 (Standard)
+- Daniel and the Fiery Furnace
+  - − AMC Summit 16 @ 2026-09-27T18:30:00 (Standard)
+
 ## 2026-09-27 09:53 AM CDT
 
 No changes.

@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-03 01:57 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-03 06:37 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -39092,5 +39086,34 @@
     "movies_added": [],
     "movies_removed": [],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-09-27 02:23 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Heart of the Beast",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-27T18:35:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Daniel and the Fiery Furnace",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-09-27T18:30:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]
