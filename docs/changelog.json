@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-04 08:51 AM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-04 01:39 PM CDT",
     "movies_added": [
       "Daniel and the Fiery Furnace",
@@ -39188,6 +39182,27 @@
             "format": "Standard"
           }
         ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-28 04:27 PM CDT",
+    "movies_added": [
+      "Dive in Wonderland",
+      "Fresh Meat"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Verity",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-02T18:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
       }
     ]
   }

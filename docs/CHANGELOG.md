@@ -1,3 +1,13 @@
+## 2026-09-28 04:27 PM CDT
+
+**Movies added:**
+- Dive in Wonderland
+- Fresh Meat
+
+**Showtime changes:**
+- Verity
+  - + AMC Summit 16 @ 2026-10-02T18:30:00 (Standard)
+
 ## 2026-09-28 05:15 AM CDT
 
 **Showtime changes:**

@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-09-28T05:15:19.570764-05:00",
-    "movie_count": 83,
-    "showtime_count": 2237,
+    "generated_at": "2026-09-28T16:27:40.231794-05:00",
+    "movie_count": 85,
+    "showtime_count": 2241,
     "theaters": {
-      "AMC Summit 16": 774,
-      "AMC Patton Creek 15": 1010,
+      "AMC Summit 16": 777,
+      "AMC Patton Creek 15": 1011,
       "AMC Vestavia Hills 10": 453
     }
   },
@@ -5797,7 +5797,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/summit/all/146211947",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -31355,7 +31355,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "63/100",
       "letterboxd_rating": 3.44,
-      "letterboxd_rating_count": 10938,
+      "letterboxd_rating_count": 10942,
       "letterboxd_url": "https://letterboxd.com/film/california-schemin/",
       "awards": "1 win total",
       "language": "English",
@@ -31844,7 +31844,7 @@
       "rotten_tomatoes": "59%",
       "metacritic": "58/100",
       "letterboxd_rating": 3.37,
-      "letterboxd_rating_count": 1520,
+      "letterboxd_rating_count": 1623,
       "letterboxd_url": "https://letterboxd.com/film/charlie-harper/",
       "awards": "N/A",
       "language": "English",
@@ -41116,6 +41116,82 @@
       ]
     },
     {
+      "sort_index": "dive in wonderland",
+      "source": "AMC",
+      "movie_id": 85190,
+      "title": "Dive in Wonderland",
+      "release_year": 2026,
+      "runtime": 97,
+      "rating": "NR",
+      "genres": [
+        "ANIMATION"
+      ],
+      "poster": "posters/dive-in-wonderland-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/alice-in-wonderland-dive-in-wonderland-85190",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147391116,
+          "datetime": "2026-11-16T19:00:00",
+          "datetime_utc": "2026-11-17T01:00:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 28.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-16/summit/all/147391116",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Japanese Spoken with English Subtitles",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "doctor who: the satan pit",
       "source": "AMC",
       "movie_id": 85218,
@@ -46807,7 +46883,7 @@
       "rotten_tomatoes": null,
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 42359,
+      "letterboxd_rating_count": 44432,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -51510,6 +51586,123 @@
       ]
     },
     {
+      "sort_index": "fresh meat",
+      "source": "AMC",
+      "movie_id": 84709,
+      "title": "Fresh Meat",
+      "release_year": 2026,
+      "runtime": 116,
+      "rating": null,
+      "genres": [
+        "Horror"
+      ],
+      "poster": "posters/fresh-meat-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/fresh-meat-84709",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147391315,
+          "datetime": "2026-10-12T20:00:00",
+          "datetime_utc": "2026-10-13T01:00:00Z",
+          "auditorium": 12,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-12/summit/all/147391315",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147391242,
+          "datetime": "2026-10-12T20:00:00",
+          "datetime_utc": "2026-10-13T01:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-12/pattoncreek/all/147391242",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "friday the 13th - welcome to horrorwood series",
       "source": "AMC",
       "movie_id": 84828,
@@ -53171,8 +53364,8 @@
       "imdb_votes": "101",
       "rotten_tomatoes": "94%",
       "metacritic": "77/100",
-      "letterboxd_rating": 3.77,
-      "letterboxd_rating_count": 4487,
+      "letterboxd_rating": 3.78,
+      "letterboxd_rating_count": 4589,
       "letterboxd_url": "https://letterboxd.com/film/ha-chan-shake-your-booty/",
       "awards": "1 win & 1 nomination total",
       "language": "Japanese, English, Spanish",
@@ -53200,7 +53393,6 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
-            "Japanese Spoken with English Subtitles",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
@@ -53240,7 +53432,6 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
-            "Japanese Spoken with English Subtitles",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
@@ -53280,7 +53471,6 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
-            "Japanese Spoken with English Subtitles",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
@@ -53320,7 +53510,6 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
-            "Japanese Spoken with English Subtitles",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
@@ -53360,7 +53549,6 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
-            "Japanese Spoken with English Subtitles",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
@@ -53400,7 +53588,6 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
-            "Japanese Spoken with English Subtitles",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
@@ -53456,7 +53643,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.3,
-      "letterboxd_rating_count": 51579,
+      "letterboxd_rating_count": 55642,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -55659,8 +55846,8 @@
           "showtime_id": 146609709,
           "datetime": "2026-10-02T20:00:00",
           "datetime_utc": "2026-10-03T01:00:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 6,
+          "screen_width_ft": 20.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/summit/all/146609709",
           "sold_out": false,
@@ -59466,7 +59653,7 @@
       "poster": "posters/other-mommy-2026.jpg",
       "backdrop": null,
       "short_description": null,
-      "plot": "Bela, an 8-year-old girl living in a home with marital problems, confronts a sinister entity that comes out of her closet. The presence, whom she calls \"Other Mommy,\" becomes increasingly threatening to her and her family.",
+      "plot": "Bela, an 8-year-old girl living in a home with marital problems, confronts a sinister entity which comes out of her closet. The presence, whom she calls \"Other Mommy,\" becomes increasingly threatening to her and her family.",
       "directors": [
         "Rob Savage"
       ],
@@ -59475,9 +59662,9 @@
         "Josh Malerman"
       ],
       "actors": [
-        "Dichen Lachman",
         "Jessica Chastain",
-        "Sean Kaufman"
+        "Dichen Lachman",
+        "Karen Allen"
       ],
       "imdb_id": "tt36586020",
       "imdb_rating": "N/A",
@@ -59488,8 +59675,8 @@
       "letterboxd_rating_count": null,
       "letterboxd_url": null,
       "awards": "N/A",
-      "language": "N/A",
-      "country": "N/A",
+      "language": "English",
+      "country": "Ireland, United States",
       "box_office": "N/A",
       "website": null,
       "movie_url": "https://www.amctheatres.com/movies/other-mommy-80303",
@@ -65157,8 +65344,8 @@
       "imdb_votes": "120",
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
-      "letterboxd_rating": 3.75,
-      "letterboxd_rating_count": 263469,
+      "letterboxd_rating": 3.74,
+      "letterboxd_rating_count": 277093,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -67437,8 +67624,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.79,
-      "letterboxd_rating_count": 974947,
+      "letterboxd_rating": 3.78,
+      "letterboxd_rating_count": 996364,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -69640,8 +69827,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.69,
-      "letterboxd_rating_count": 1034,
+      "letterboxd_rating": 3.7,
+      "letterboxd_rating_count": 1040,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -71143,7 +71330,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.58,
-      "letterboxd_rating_count": 11302,
+      "letterboxd_rating_count": 11519,
       "letterboxd_url": "https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy-bottom/",
       "awards": "N/A",
       "language": "English",
@@ -87479,8 +87666,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.36,
-      "letterboxd_rating_count": 1163,
+      "letterboxd_rating": 3.34,
+      "letterboxd_rating_count": 1204,
       "letterboxd_url": "https://letterboxd.com/film/the-stunt-driver/",
       "awards": "N/A",
       "language": "English",
@@ -88254,7 +88441,7 @@
       "rotten_tomatoes": null,
       "metacritic": "53/100",
       "letterboxd_rating": 2.81,
-      "letterboxd_rating_count": 31648,
+      "letterboxd_rating_count": 31757,
       "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/",
       "awards": "N/A",
       "language": "English",
@@ -88700,7 +88887,7 @@
       "rotten_tomatoes": null,
       "metacritic": "94/100",
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 4487,
+      "letterboxd_rating_count": 4490,
       "letterboxd_url": "https://letterboxd.com/film/earth-wind-fire-to-be-celestial-vs-thats/",
       "awards": "N/A",
       "language": "English",
@@ -89822,6 +90009,47 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147404841,
+          "datetime": "2026-10-02T18:30:00",
+          "datetime_utc": "2026-10-02T23:30:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 28.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/summit/all/147404841",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
             }
           ]
         },
@@ -95733,7 +95961,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 4469,
+      "letterboxd_rating_count": 4636,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
