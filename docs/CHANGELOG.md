@@ -1,3 +1,10 @@
+## 2026-09-27 07:06 PM CDT
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - + AMC Patton Creek 15 @ 2026-09-27T20:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-09-27T21:10:00 (Standard)
+
 ## 2026-09-27 02:23 PM CDT
 
 **Showtime changes:**
