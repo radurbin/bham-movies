@@ -1,3 +1,143 @@
+## 2026-09-29 03:19 PM CDT
+
+**Movies added:**
+- AMC Scream Unseen: October 12
+- AMC Screen Unseen: October 12
+- Portrait of an Artist: Stephen Curry
+- Sense and Sensibility: Early Access Movie Party
+- Sense and Sensibility
+
+**Showtime changes:**
+- Stand and Deliver
+  - + AMC Summit 16 @ 2026-10-02T16:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-02T16:00:00 (Standard)
+- Verity
+  - + AMC Summit 16 @ 2026-10-01T22:35:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T11:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T15:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T21:20:00 (Standard)
+- Beware Boiuna
+  - + AMC Summit 16 @ 2026-10-01T22:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T22:05:00 (Standard)
+- The Odyssey
+  - + AMC Summit 16 @ 2026-09-30T20:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T13:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T21:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T14:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T21:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-30T19:10:00 (Standard)
+- Rolling Loud: The Movie
+  - + AMC Summit 16 @ 2026-10-02T13:25:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T22:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-01T19:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-02T19:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-04T19:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-05T19:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-06T19:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-07T19:30:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - + AMC Summit 16 @ 2026-10-01T13:45:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Summit 16 @ 2026-10-01T13:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T15:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T12:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T14:05:00 (Standard)
+- Digger
+  - + AMC Summit 16 @ 2026-10-04T13:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-04T12:50:00 (Standard)
+- Heart of the Beast
+  - + AMC Summit 16 @ 2026-09-30T22:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T14:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T17:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T18:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T22:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T13:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T14:35:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T17:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T19:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T22:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-30T22:20:00 (Standard)
+- Drishyam - The Conclusion
+  - − AMC Summit 16 @ 2026-10-05T20:15:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC Summit 16 @ 2026-10-01T14:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T16:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T22:00:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-01T14:00:00 (RealD 3D)
+- The Weight
+  - + AMC Summit 16 @ 2026-10-01T13:10:00 (Standard)
+- Buddy
+  - + AMC Summit 16 @ 2026-09-30T22:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-30T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-30T22:25:00 (Standard)
+- Forgotten Island
+  - + AMC Summit 16 @ 2026-10-02T12:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T18:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-03T12:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-03T18:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-05T13:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-05T18:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-06T13:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-06T18:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-07T13:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-07T18:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-02T12:45:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-02T18:15:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-03T12:45:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-03T18:15:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-05T13:00:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-05T18:30:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-06T13:00:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-06T18:30:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-07T13:00:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-07T18:30:00 (RealD 3D)
+- Resident Evil
+  - + AMC Summit 16 @ 2026-10-01T13:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T15:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T20:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T22:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T12:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T15:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T17:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T20:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T22:45:00 (Standard)
+- Primetime
+  - + AMC Summit 16 @ 2026-10-01T13:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T16:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T19:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T22:25:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T14:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T16:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T19:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T22:40:00 (Standard)
+- Practical Magic 2
+  - + AMC Summit 16 @ 2026-10-01T13:25:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T16:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T19:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T22:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T13:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T22:35:00 (Standard)
+- Daniel and the Fiery Furnace
+  - + AMC Summit 16 @ 2026-10-01T13:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T16:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T13:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T16:10:00 (Standard)
+- Verity Early Access
+  - + AMC Summit 16 @ 2026-09-30T19:10:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Summit 16 @ 2026-10-01T13:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T15:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-01T21:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T13:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T16:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T22:40:00 (Standard)
+- The Nightmare Before Christmas (RE26)
+  - + AMC Summit 16 @ 2026-10-02T11:50:00 (RealD 3D)
+
 ## 2026-09-29 05:12 AM CDT
 
 **Movies added:**
