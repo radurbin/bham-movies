@@ -1,3 +1,109 @@
+## 2026-09-30 03:23 PM CDT
+
+**Movies added:**
+- Whalefall
+- You Can See Everything
+
+**Showtime changes:**
+- Instructions Not Included 
+  - + AMC Summit 16 @ 2026-10-15T13:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-15T16:00:00 (Standard)
+- The Odyssey
+  - + AMC Summit 16 @ 2026-09-30T21:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-30T20:00:00 (Standard)
+- Forgotten Island: Sensory Friendly Screening
+  - + AMC Summit 16 @ 2026-10-10T12:00:00 (Standard)
+- Gone with the Wind (2026 Event)
+  - + AMC Summit 16 @ 2026-10-13T18:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-13T17:55:00 (Standard)
+- Verity Early Access
+  - + AMC Summit 16 @ 2026-09-30T19:40:00 (Standard)
+- Forgotten Island
+  - − AMC Summit 16 @ 2026-09-30T21:15:00 (Standard)
+- Verity
+  - + AMC Summit 16 @ 2026-10-02T17:30:00 (Standard)
+- Digger
+  - + AMC Summit 16 @ 2026-10-09T21:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-10T21:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-11T13:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-11T16:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-11T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-11T22:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-12T21:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-13T21:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-09T21:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-10T21:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-11T12:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-11T15:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-11T18:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-11T21:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-12T21:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-13T21:45:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - + AMC Summit 16 @ 2026-10-15T17:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-15T19:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-16T13:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-16T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-16T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-16T22:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-17T13:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-17T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-17T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-17T22:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-18T13:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-18T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-18T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-18T22:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-19T13:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-19T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-19T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-19T22:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-20T13:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-20T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-20T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-20T22:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-21T13:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-21T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-21T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-21T22:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-22T13:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-22T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-22T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-22T22:05:00 (Standard)
+- Angel and the Badman
+  - + AMC Vestavia Hills 10 @ 2026-10-08T12:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-08T14:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-08T17:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-08T20:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-08T23:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-09T17:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-09T19:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-10T17:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-10T19:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-11T17:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-11T19:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-12T17:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-12T19:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-13T17:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-13T19:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-14T17:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-14T19:45:00 (Standard)
+- Sense and Sensibility
+  - + AMC Summit 16 @ 2026-10-21T21:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-21T22:00:00 (Standard)
+- Resident Evil
+  - + AMC Summit 16 @ 2026-10-02T12:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T15:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-02T12:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-02T15:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-02T17:45:00 (Standard)
+- Hellbilly Hollow
+  - + AMC Summit 16 @ 2026-09-30T17:25:00 (Standard)
+  - + AMC Summit 16 @ 2026-09-30T22:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-09-30T17:30:00 (Standard)
+- Donnie Darko 25th Anniversary
+  - − AMC Patton Creek 15 @ 2026-10-03T19:00:00 (Standard)
+
 ## 2026-09-30 05:04 AM CDT
 
 **Showtime changes:**
