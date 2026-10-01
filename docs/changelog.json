@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-06 08:15 AM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-06 12:50 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -44037,6 +44031,35 @@
             "format": "Standard"
           }
         ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-30 11:22 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Rolling Loud: The Movie",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-06T12:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "The Influencer Project",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-03T18:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
       }
     ]
   }

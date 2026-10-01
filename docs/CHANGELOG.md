@@ -1,3 +1,11 @@
+## 2026-09-30 11:22 PM CDT
+
+**Showtime changes:**
+- Rolling Loud: The Movie
+  - + AMC Patton Creek 15 @ 2026-10-06T12:30:00 (Standard)
+- The Influencer Project
+  - + AMC Patton Creek 15 @ 2026-10-03T18:45:00 (Standard)
+
 ## 2026-09-30 07:54 PM CDT
 
 **Showtime changes:**
