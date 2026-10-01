@@ -14,6 +14,7 @@ from __future__ import annotations
 import json
 import re
 import time
+import unicodedata
 from pathlib import Path
 from typing import Optional
 
@@ -56,6 +57,17 @@ EVENT_SUFFIX_RE = re.compile(
     re.IGNORECASE,
 )
 YEAR_SUFFIX_RE = re.compile(r"\s*\(\d{4}\)\s*$")
+ANNIVERSARY_NUMBER_RE = re.compile(
+    r"\b(\d+)(?:st|nd|rd|th)\s+anniversary",
+    re.IGNORECASE,
+)
+
+# The cache is committed by the GitHub Actions workflow so each run only
+# asks OMDb about new or expired titles (the free tier allows 1,000
+# requests a day). Hits expire so ratings stay reasonably current; misses
+# expire sooner so a film OMDb adds later still gets picked up.
+CACHE_HIT_TTL = 7 * 24 * 3600
+CACHE_MISS_TTL = 2 * 24 * 3600
 
 
 def clean_title_for_lookup(title: str) -> str:
@@ -88,6 +100,8 @@ class OMDbFetcher:
         else:
 
             self.cache = {}
+
+        self.used_keys = set()
 
 
     # ---------------------------------------------------------
@@ -168,14 +182,33 @@ class OMDbFetcher:
             year,
         )
 
-        if key not in self.cache:
+        self.used_keys.add(key)
 
-            print(f"OMDb: {title}")
+        entry = self.cache.get(key)
 
-            self.cache[key] = self._lookup(
-                title,
-                year,
-            )
+        if entry is None or self._expired(entry):
+
+            print(f"OMDb: {title}" + (f" ({year})" if year else ""))
+
+            try:
+
+                data = self._lookup(
+                    title,
+                    year,
+                )
+
+            except requests.RequestException as ex:
+
+                # OMDb being down or over its daily limit shouldn't take
+                # the whole run with it. Use the expired entry if there
+                # is one, and don't cache the failure.
+                print(f"OMDb request failed for {title}: {ex}")
+
+                return entry or {"Response": "False"}
+
+            data["_fetched_at"] = time.time()
+
+            self.cache[key] = data
 
             self.save_cache()
 
@@ -187,19 +220,179 @@ class OMDbFetcher:
 
     # ---------------------------------------------------------
 
+    @staticmethod
+    def _expired(entry: dict) -> bool:
+
+        # Entries written before timestamps existed count as expired.
+        fetched_at = entry.get("_fetched_at")
+
+        if not fetched_at:
+            return True
+
+        ttl = (
+            CACHE_MISS_TTL
+            if entry.get("Response") == "False"
+            else CACHE_HIT_TTL
+        )
+
+        return time.time() - fetched_at > ttl
+
+
+    # ---------------------------------------------------------
+
+    @staticmethod
+    def _candidate_years(movie: Movie) -> list:
+        """
+        (year, trusted) pairs to try, best guess first.
+
+        For AMC movies `release_year` is the year of *this* release, so
+        a re-release carries the wrong year for OMDb. "Nth Anniversary"
+        in the title gives the original year (give or take one, since
+        anniversaries are counted loosely). The final `None` is a
+        title-only lookup for re-releases with no such hint.
+
+        A trusted year is accepted unless _same_film() contradicts it;
+        the others are guesses and need _same_film() to confirm them.
+        """
+
+        candidates = {}
+
+        match = ANNIVERSARY_NUMBER_RE.search(movie.title)
+
+        if match and movie.release_year:
+
+            original = movie.release_year - int(match.group(1))
+
+            candidates[original] = True
+            candidates[original - 1] = False
+            candidates[original + 1] = False
+
+        candidates.setdefault(movie.release_year, True)
+        candidates.setdefault(None, False)
+
+        return list(candidates.items())
+
+
+    @staticmethod
+    def _name_tokens(name: str) -> list:
+
+        ascii_name = (
+            unicodedata.normalize("NFKD", name)
+            .encode("ascii", "ignore")
+            .decode()
+        )
+
+        return re.findall(r"[a-z]+", ascii_name.lower())
+
+
+    def _same_film(self, movie: Movie, data: dict) -> Optional[bool]:
+        """
+        Does OMDb's record describe the same film as what the source
+        (AMC or Sidewalk) told us? True/False when there is something
+        to compare, None when there isn't.
+        """
+
+        compared_people = False
+
+        # Directors: surname is enough, since sources differ on middle
+        # names, initials and name order. Substring rather than equality
+        # because AMC mangles accented letters ("I?ARRITU" for Iñárritu).
+        omdb_director = data.get("Director") or ""
+
+        if movie.directors and omdb_director not in ("", "N/A"):
+
+            compared_people = True
+
+            omdb_tokens = self._name_tokens(omdb_director)
+
+            for director in movie.directors:
+
+                tokens = self._name_tokens(director)
+
+                surname = tokens[-1] if tokens else ""
+
+                if len(surname) >= 4 and any(
+                    surname in token or (len(token) >= 4 and token in surname)
+                    for token in omdb_tokens
+                ):
+                    return True
+
+        # Cast: the sources sometimes credit different directors for
+        # the same film, so a shared lead actor also counts.
+        omdb_actors = data.get("Actors") or ""
+
+        if movie.actors and omdb_actors not in ("", "N/A"):
+
+            compared_people = True
+
+            omdb_names = {
+                " ".join(self._name_tokens(name))
+                for name in omdb_actors.split(",")
+            }
+
+            for actor in movie.actors:
+
+                if " ".join(self._name_tokens(actor)) in omdb_names:
+                    return True
+
+        if compared_people:
+            return False
+
+        # No people to compare (AMC often lists none for re-releases):
+        # a near-identical running time is the remaining evidence. A
+        # different one proves nothing -- AMC's running times for
+        # upcoming films are often provisional.
+        match = re.match(r"(\d+) min", data.get("Runtime") or "")
+
+        if movie.runtime and match:
+
+            if abs(movie.runtime - int(match.group(1))) <= 3:
+                return True
+
+        return None
+
+
+    def find_match(self, movie: Movie) -> Optional[dict]:
+        """
+        Return OMDb's record for this movie, or None if nothing
+        trustworthy was found.
+        """
+
+        lookup_title = clean_title_for_lookup(movie.title)
+
+        for year, trusted_year in self._candidate_years(movie):
+
+            data = self.get(
+                lookup_title,
+                year,
+            )
+
+            if data.get("Response") == "False":
+                continue
+
+            agree = self._same_film(movie, data)
+
+            if agree is True or (agree is None and trusted_year):
+                return data
+
+            print(
+                f"OMDb: rejected '{data.get('Title')}' ({data.get('Year')}) "
+                f"for '{movie.title}'"
+            )
+
+        return None
+
+
+    # ---------------------------------------------------------
+
     def enrich_movie(
         self,
         movie: Movie,
     ):
 
-        lookup_title = clean_title_for_lookup(movie.title)
+        data = self.find_match(movie)
 
-        data = self.get(
-            lookup_title,
-            movie.release_year,
-        )
-
-        if data.get("Response") == "False":
+        if data is None:
 
             return movie
 
@@ -208,11 +401,13 @@ class OMDbFetcher:
         # Fill only missing fields.
         #
 
-        if not movie.poster:
+        poster = data.get("Poster")
 
-            poster = data.get("Poster")
+        if poster and poster != "N/A":
 
-            if poster and poster != "N/A":
+            movie.fallback_poster = poster
+
+            if not movie.poster:
 
                 movie.poster = poster
 
@@ -291,7 +486,7 @@ class OMDbFetcher:
 
                 for actor in actors.split(",")
 
-                if actor.strip()
+                if actor.strip() and actor.strip() != "N/A"
 
             ]
 
@@ -309,7 +504,7 @@ class OMDbFetcher:
 
                 for director in directors.split(",")
 
-                if director.strip()
+                if director.strip() and director.strip() != "N/A"
 
             ]
 
@@ -327,7 +522,7 @@ class OMDbFetcher:
 
                 for writer in writers.split(",")
 
-                if writer.strip()
+                if writer.strip() and writer.strip() != "N/A"
 
             ]
 
@@ -421,6 +616,14 @@ class OMDbFetcher:
             self.enrich_movie(
                 movie
             )
+
+        # Drop entries for titles that are no longer showing, so the
+        # committed cache doesn't grow forever.
+        self.cache = {
+            key: value
+            for key, value in self.cache.items()
+            if key in self.used_keys
+        }
 
         self.save_cache()
 

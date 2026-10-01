@@ -112,6 +112,11 @@ class Movie:
 
     backdrop: Optional[str] = None
 
+    # Second-choice poster (OMDb's), used when the primary one turns out
+    # to be a "poster coming soon" placeholder. Pipeline-internal: left
+    # out of movies.json.
+    fallback_poster: Optional[str] = None
+
     #
     # Descriptions
     #
@@ -183,7 +188,9 @@ class Movie:
         self.showtimes.sort(key=lambda s: s.datetime)
 
     def to_dict(self):
-        return asdict(self)
+        data = asdict(self)
+        data.pop("fallback_poster", None)
+        return data
 
 
 # --------------------------------------------------------

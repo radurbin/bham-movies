@@ -191,6 +191,23 @@ SIDEWALK_SCREEN_WIDTH_FT = 26.25
 # Poster settings
 # ============================================================
 
+# Which remote URL each file in docs/posters/ was downloaded from, so a
+# poster is re-downloaded when its source publishes new artwork. Lives
+# in docs/ because that is the only folder the workflow commits
+# wholesale; it can't live in docs/posters/ itself, where unreferenced
+# files are deleted after every run.
+POSTER_SOURCES_JSON = DOCS_DIR / "poster_sources.json"
+
+# Fingerprints of "poster coming soon" placeholder images, which are
+# treated as no poster at all (see MoviePipeline.is_placeholder_poster,
+# which is also how to compute one for a new placeholder design).
+# Real posters measured 59+ bits away from this one out of 256.
+PLACEHOLDER_POSTER_FINGERPRINTS = [
+    # Fathom Entertainment, orange border on dark grey
+    "7c3e83c3814180018001800083c083c087e387e187e180018000000080017ffe",
+]
+PLACEHOLDER_POSTER_MAX_DISTANCE = 20
+
 POSTER_PRIORITY = [
     "posterDynamic",
     "posterAlternateDynamic",

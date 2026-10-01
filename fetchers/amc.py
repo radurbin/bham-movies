@@ -202,9 +202,50 @@ class AMCFetcher:
         enriched with data for the unrelated 1952 film of the same name.
         Passing AMC's own release year to OMDb's `y=` param fixes that
         match at the source.
+
+        It also carries the director, cast and synopsis. Those are taken
+        from here rather than left to OMDb: for a re-release AMC's
+        release year is the re-release's, so OMDb can return a different
+        film entirely ("Moonlight 10th Anniversary" matched a 2026 film
+        called "The Moonlight Murders"). AMC's director is also what the
+        OMDb fetcher checks its own match against.
         """
 
         return self._get(f"/movies/{movie_id}")
+
+
+    @staticmethod
+    def _split_names(value) -> List[str]:
+
+        names = []
+
+        for name in (value or "").split(","):
+
+            name = name.strip()
+
+            if not name or name.upper().startswith("UNKNOWN"):
+                continue
+
+            # AMC enters some names in all capitals.
+            names.append(name.title() if name.isupper() else name)
+
+        return names
+
+
+    def _apply_movie_details(self, movie: Movie, details: dict):
+
+        movie.release_year = self._parse_release_year(
+            details.get("releaseDateUtc")
+        )
+
+        movie.directors = self._split_names(details.get("directors"))
+
+        movie.actors = self._split_names(details.get("starringActors"))
+
+        synopsis = (details.get("synopsis") or "").strip()
+
+        if synopsis:
+            movie.plot = synopsis
 
 
     @staticmethod
@@ -444,9 +485,7 @@ class AMCFetcher:
                 print(f"  Failed to fetch details for {movie.title}: {ex}")
                 continue
 
-            movie.release_year = self._parse_release_year(
-                details.get("releaseDateUtc")
-            )
+            self._apply_movie_details(movie, details)
 
 
         result = list(

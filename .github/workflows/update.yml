@@ -48,7 +48,9 @@ jobs:
           author_name: github-actions
           author_email: actions@github.com
           message: "chore: update generated movies.json and posters"
-          add: "docs/**"
+          # The OMDb cache is committed so each run only looks up new or
+          # expired titles (the free tier allows 1,000 requests a day).
+          add: "docs cache/omdb_cache.json"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # allow older Node runtime usage if action requires it

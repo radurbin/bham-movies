@@ -22,6 +22,7 @@ Write docs/movies.json
 from __future__ import annotations
 
 import argparse
+import io
 import json
 import re
 import shutil
@@ -30,10 +31,14 @@ from datetime import datetime
 from pathlib import Path
 
 import requests
+from PIL import Image
 
 from config import (
     DOCS_DIR,
     MOVIES_JSON,
+    PLACEHOLDER_POSTER_FINGERPRINTS,
+    PLACEHOLDER_POSTER_MAX_DISTANCE,
+    POSTER_SOURCES_JSON,
 )
 
 from fetchers.amc import AMCFetcher
@@ -315,18 +320,53 @@ class MoviePipeline:
 
     # ---------------------------------------------------------
 
+    @staticmethod
+    def is_placeholder_poster(content: bytes) -> bool:
+        """
+        True if the image is a known "poster coming soon" placeholder.
+
+        Compared by a 16x16 average-brightness fingerprint rather than
+        by exact bytes, because AMC serves the same placeholder
+        re-encoded at slightly different sizes.
+        """
+
+        try:
+            image = (
+                Image.open(io.BytesIO(content))
+                .convert("L")
+                .resize((16, 16), Image.LANCZOS)
+            )
+        except Exception:
+            return False
+
+        pixels = image.tobytes()
+        average = sum(pixels) / len(pixels)
+
+        fingerprint = sum(
+            1 << i
+            for i, pixel in enumerate(pixels)
+            if pixel > average
+        )
+
+        return any(
+            bin(fingerprint ^ int(known, 16)).count("1")
+            <= PLACEHOLDER_POSTER_MAX_DISTANCE
+            for known in PLACEHOLDER_POSTER_FINGERPRINTS
+        )
+
+    # ---------------------------------------------------------
+
     def download_poster(
         self,
         movie: Movie,
+        sources: dict,
     ):
 
         """
-        Downloads one poster.
+        Makes sure one movie's local poster file matches its current
+        remote artwork, then points movie.poster at the local file (or
+        at nothing, if there is no usable artwork).
         """
-
-        if not movie.poster:
-
-            return
 
         filename = self.poster_filename(
             movie
@@ -336,14 +376,52 @@ class MoviePipeline:
             self.poster_dir / filename
         )
 
-        try:
+        # AMC's (or Sidewalk's) own artwork first, then OMDb's.
+        candidates = [
+            url
+            for url in dict.fromkeys([movie.poster, movie.fallback_poster])
+            if url
+        ]
 
-            response = requests.get(
-                movie.poster,
-                timeout=30,
-            )
+        movie.poster = None
 
-            response.raise_for_status()
+        for url in candidates:
+
+            # Already have exactly this artwork. Comparing the source
+            # URL is what lets a later upload replace an earlier one:
+            # special events are often listed weeks ahead with
+            # placeholder art, and AMC publishes the real poster under
+            # a new URL.
+            if sources.get(filename) == url and destination.exists():
+
+                movie.poster = "posters/" + filename
+
+                return "kept"
+
+            try:
+
+                response = requests.get(
+                    url,
+                    timeout=30,
+                )
+
+                response.raise_for_status()
+
+            except Exception as ex:
+
+                print(
+                    "Poster download failed:",
+                    movie.title,
+                    ex,
+                )
+
+                continue
+
+            if self.is_placeholder_poster(response.content):
+
+                print("  placeholder artwork, skipping:", url)
+
+                continue
 
             with open(
                 destination,
@@ -354,21 +432,26 @@ class MoviePipeline:
                     response.content
                 )
 
-            #
-            # Replace remote URL with local path.
-            #
+            sources[filename] = url
 
-            movie.poster = (
-                "posters/" + filename
-            )
+            movie.poster = "posters/" + filename
 
-        except Exception as ex:
+            return "downloaded"
 
-            print(
-                "Poster download failed:",
-                movie.title,
-                ex,
-            )
+        # Nothing usable right now. Keep showing a poster we already
+        # have unless it is itself a placeholder -- a failed download
+        # shouldn't blank out good artwork.
+        if destination.exists() and not self.is_placeholder_poster(
+            destination.read_bytes()
+        ):
+
+            movie.poster = "posters/" + filename
+
+            return "kept"
+
+        sources.pop(filename, None)
+
+        return "none"
 
     # ---------------------------------------------------------
 
@@ -380,24 +463,50 @@ class MoviePipeline:
         print("Downloading Posters")
         print("=" * 60)
 
+        # filename -> the remote URL that file was downloaded from
+        sources = {}
+
+        if POSTER_SOURCES_JSON.exists():
+            try:
+                with open(POSTER_SOURCES_JSON, "r", encoding="utf-8") as f:
+                    sources = json.load(f)
+            except Exception as ex:
+                print("Failed to read poster sources:", ex)
+
         total = len(self.movies)
+
+        counts = Counter()
 
         for index, movie in enumerate(self.movies, start=1):
 
-            filename = self.poster_filename(movie)
+            result = self.download_poster(movie, sources)
 
-            destination = self.poster_dir / filename
+            counts[result] += 1
 
-            # If we've already downloaded this poster, skip re-downloading.
-            if destination.exists():
-                print(f"[{index}/{total}] {movie.title} - poster exists, skipping")
-                # Ensure movie.poster points to the local path
-                movie.poster = "posters/" + filename
-                continue
+            if result != "kept":
+                print(f"[{index}/{total}] {movie.title} - {result}")
 
-            print(f"[{index}/{total}] {movie.title}")
+        print(
+            f"Posters: {counts['downloaded']} downloaded, "
+            f"{counts['kept']} unchanged, {counts['none']} without artwork."
+        )
 
-            self.download_poster(movie)
+        # Forget files that no movie uses any more (the files themselves
+        # are removed by remove_stale_posters).
+        in_use = {
+            movie.poster.split("/", 1)[1]
+            for movie in self.movies
+            if movie.poster
+        }
+
+        sources = {
+            name: url
+            for name, url in sorted(sources.items())
+            if name in in_use
+        }
+
+        with open(POSTER_SOURCES_JSON, "w", encoding="utf-8") as f:
+            json.dump(sources, f, indent=2, ensure_ascii=False)
 
     # ---------------------------------------------------------
 
