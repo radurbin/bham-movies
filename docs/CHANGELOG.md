@@ -1,3 +1,26 @@
+## 2026-10-01 03:38 PM CDT
+
+**Movies added:**
+- Wild at Heart - Unrated
+
+**Showtime changes:**
+- Beware Boiuna
+  - + AMC Summit 16 @ 2026-10-01T22:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-01T22:30:00 (Standard)
+- Practical Magic 2
+  - − AMC Summit 16 @ 2026-10-01T19:30:00 (Standard)
+- Primetime
+  - + AMC Vestavia Hills 10 @ 2026-10-02T22:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-02T23:10:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Vestavia Hills 10 @ 2026-10-02T19:40:00 (Standard)
+- Verity
+  - + AMC Summit 16 @ 2026-10-01T19:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-02T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-02T19:45:00 (Standard)
+- Forgotten Island
+  - − AMC Vestavia Hills 10 @ 2026-10-02T18:30:00 (Standard)
+
 ## 2026-10-01 05:32 AM CDT
 
 **Showtime changes:**

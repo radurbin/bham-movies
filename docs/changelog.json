@@ -1,29 +1,5 @@
 [
   {
-    "date": "2026-09-07 02:28 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Spider-Man: Brand New Day",
-        "added": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-09-09T12:00:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-09-09T12:00:00",
-            "format": "RealD 3D"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-09-07 06:50 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -43599,6 +43575,103 @@
           {
             "theater": "Sidewalk Film Center + Cinema",
             "datetime": "2026-09-30T21:15:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-01 03:38 PM CDT",
+    "movies_added": [
+      "Wild at Heart - Unrated"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Beware Boiuna",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-01T22:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-01T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Practical Magic 2",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-01T19:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Primetime",
+        "added": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T22:40:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T23:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T19:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Verity",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-01T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T18:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T19:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Forgotten Island",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T18:30:00",
             "format": "Standard"
           }
         ]

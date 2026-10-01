@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-10-01T05:32:40.285510-05:00",
-    "movie_count": 123,
-    "showtime_count": 2870,
+    "generated_at": "2026-10-01T15:38:59.847489-05:00",
+    "movie_count": 124,
+    "showtime_count": 2874,
     "theaters": {
       "Sidewalk Film Center + Cinema": 111,
-      "AMC Summit 16": 975,
-      "AMC Patton Creek 15": 1165,
+      "AMC Summit 16": 977,
+      "AMC Patton Creek 15": 1167,
       "AMC Vestavia Hills 10": 619
     }
   },
@@ -725,7 +725,7 @@
       "rotten_tomatoes": "74%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.88,
-      "letterboxd_rating_count": 678775,
+      "letterboxd_rating_count": 678946,
       "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind/",
       "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
       "language": "English",
@@ -1440,21 +1440,6 @@
       "movie_url": "https://www.amctheatres.com/movies/amc-scream-unseen-october-12-85033",
       "trailer_url": null,
       "predictions": [
-        {
-          "tmdb_id": 1642568,
-          "title": "The Last Temptation of Becky",
-          "release_date": "2026-10-23",
-          "rating": "R",
-          "runtime": 89,
-          "genres": [
-            "Action",
-            "Horror",
-            "Thriller"
-          ],
-          "poster": "https://image.tmdb.org/t/p/w185/cgplvKzfWDrn4CoIeF1jj2lZwYB.jpg",
-          "url": "https://www.themoviedb.org/movie/1642568",
-          "score": 0.624
-        },
         {
           "tmdb_id": 1760638,
           "title": "You Can't Leave",
@@ -4271,7 +4256,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.9,
-      "letterboxd_rating_count": 723,
+      "letterboxd_rating_count": 727,
       "letterboxd_url": "https://letterboxd.com/film/april-x/",
       "awards": "1 win total",
       "language": "English",
@@ -32405,8 +32390,8 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 147495028,
-          "datetime": "2026-10-01T22:30:00",
-          "datetime_utc": "2026-10-02T03:30:00Z",
+          "datetime": "2026-10-01T22:15:00",
+          "datetime_utc": "2026-10-02T03:15:00Z",
           "auditorium": 15,
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
@@ -34389,7 +34374,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "63/100",
       "letterboxd_rating": 3.44,
-      "letterboxd_rating_count": 10973,
+      "letterboxd_rating_count": 10979,
       "letterboxd_url": "https://letterboxd.com/film/california-schemin/",
       "awards": "1 win total",
       "language": "English",
@@ -34843,7 +34828,7 @@
       "rotten_tomatoes": "59%",
       "metacritic": "58/100",
       "letterboxd_rating": 3.37,
-      "letterboxd_rating_count": 2572,
+      "letterboxd_rating_count": 2630,
       "letterboxd_url": "https://letterboxd.com/film/charlie-harper/",
       "awards": "N/A",
       "language": "English",
@@ -34930,8 +34915,8 @@
       "imdb_votes": "18,537",
       "rotten_tomatoes": "96%",
       "metacritic": "77/100",
-      "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 551784,
+      "letterboxd_rating": 3.83,
+      "letterboxd_rating_count": 554159,
       "letterboxd_url": "https://letterboxd.com/film/coyote-vs-acme/",
       "awards": "1 win total",
       "language": "English",
@@ -36272,8 +36257,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.66,
-      "letterboxd_rating_count": 8940,
+      "letterboxd_rating": 3.68,
+      "letterboxd_rating_count": 14644,
       "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
       "awards": "N/A",
       "language": "English",
@@ -45144,19 +45129,27 @@
     {
       "sort_index": "doctor who: the satan pit",
       "source": "AMC",
-      "movie_id": 85218,
+      "movie_id": 85227,
       "title": "Doctor Who: The Satan Pit",
       "release_year": 2026,
       "runtime": 115,
-      "rating": null,
-      "genres": [],
-      "poster": null,
+      "rating": "NR",
+      "genres": [
+        "SCIENCE FICTION"
+      ],
+      "poster": "posters/doctor-who-the-satan-pit-2026.jpg",
       "backdrop": null,
       "short_description": null,
-      "plot": null,
-      "directors": [],
+      "plot": "Celebrate Doctor Who Day with an exclusive big-screen event marking 20 years of the Tenth Doctor and Rose Tyler.\n\nFor the first time ever in cinemas, the acclaimed two-part adventure The Impossible Planet and The Satan Pit have been specially re-edited into a single movie-length presentation, created exclusively for theatrical audiences. Join the Doctor (David Tennant) and Rose (Billie Piper) as they travel to Sanctuary Base 6, a remote outpost perched on a planet orbiting a black hole. When an ancient force awakens beneath the surface, the crew find themselves trapped in a battle against an evil older than time itself.\n\nThis special Doctor Who Day screening also includes exclusive bonus material, featuring previously unseen content and a brand-new interview with a special guest, reflecting on the making of one of the most celebrated stories of the modern era -- from encounters with the Ood to facing the terrifying Beast, alongside behind-the-scenes memories from the set.",
+      "directors": [
+        "James Strong"
+      ],
       "writers": [],
-      "actors": [],
+      "actors": [
+        "Billie Piper",
+        "Danny Webb",
+        "David Tennant"
+      ],
       "imdb_id": null,
       "imdb_rating": null,
       "imdb_votes": null,
@@ -45170,7 +45163,7 @@
       "country": null,
       "box_office": null,
       "website": null,
-      "movie_url": "https://www.amctheatres.com/movies/doctor-who-the-satan-pit-85218",
+      "movie_url": "https://www.amctheatres.com/movies/doctor-who-the-satan-pit-85227",
       "trailer_url": null,
       "predictions": [],
       "showtimes": [
@@ -45297,7 +45290,7 @@
       "rotten_tomatoes": "88%",
       "metacritic": "88/100",
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 2546373,
+      "letterboxd_rating_count": 2547051,
       "letterboxd_url": "https://letterboxd.com/film/donnie-darko/",
       "awards": "12 wins & 17 nominations total",
       "language": "English",
@@ -51215,7 +51208,7 @@
       "rotten_tomatoes": null,
       "metacritic": "73/100",
       "letterboxd_rating": 3.92,
-      "letterboxd_rating_count": 57933,
+      "letterboxd_rating_count": 59189,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -51968,48 +51961,6 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146842055,
-          "datetime": "2026-10-02T18:30:00",
-          "datetime_utc": "2026-10-02T23:30:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 36.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/vestaviahills/all/146842055",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
             }
           ]
         },
@@ -54794,7 +54745,7 @@
       "rotten_tomatoes": null,
       "metacritic": "73/100",
       "letterboxd_rating": 3.92,
-      "letterboxd_rating_count": 57933,
+      "letterboxd_rating_count": 59189,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -55246,7 +55197,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.86,
-      "letterboxd_rating_count": 280793,
+      "letterboxd_rating_count": 280848,
       "letterboxd_url": "https://letterboxd.com/film/gone-with-the-wind/",
       "awards": "Won 8 Oscars. 26 wins & 10 nominations total",
       "language": "English",
@@ -56744,7 +56695,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.3,
-      "letterboxd_rating_count": 75501,
+      "letterboxd_rating_count": 78140,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -61205,7 +61156,7 @@
       "rotten_tomatoes": "63%",
       "metacritic": "55/100",
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 66803,
+      "letterboxd_rating_count": 66819,
       "letterboxd_url": "https://letterboxd.com/film/instructions-not-included/",
       "awards": "7 wins & 8 nominations total",
       "language": "Spanish, English, Portuguese",
@@ -61809,7 +61760,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "89/100",
       "letterboxd_rating": 4.45,
-      "letterboxd_rating_count": 794165,
+      "letterboxd_rating_count": 794290,
       "letterboxd_url": "https://letterboxd.com/film/its-a-wonderful-life/",
       "awards": "Nominated for 5 Oscars. 11 wins & 7 nominations total",
       "language": "English, French",
@@ -64478,7 +64429,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": "99/100",
       "letterboxd_rating": 4.19,
-      "letterboxd_rating_count": 1582829,
+      "letterboxd_rating_count": 1583141,
       "letterboxd_url": "https://letterboxd.com/film/moonlight-2016/",
       "awards": "Won 3 Oscars. 235 wins & 310 nominations total",
       "language": "English",
@@ -65062,7 +65013,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": null,
       "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 43915,
+      "letterboxd_rating_count": 43928,
       "letterboxd_url": "https://letterboxd.com/film/ninja-scroll/",
       "awards": "1 win total",
       "language": "Japanese",
@@ -70299,7 +70250,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.88,
-      "letterboxd_rating_count": 137813,
+      "letterboxd_rating_count": 138372,
       "letterboxd_url": "https://letterboxd.com/film/practical-magic-2/",
       "awards": "1 nomination total",
       "language": "English",
@@ -70595,47 +70546,6 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 147495029,
-          "datetime": "2026-10-01T19:30:00",
-          "datetime_utc": "2026-10-02T00:30:00Z",
-          "auditorium": 15,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-01/summit/all/147495029",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
             }
           ]
         },
@@ -73187,7 +73097,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.71,
-      "letterboxd_rating_count": 381567,
+      "letterboxd_rating_count": 389827,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -74127,8 +74037,8 @@
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 147425559,
-          "datetime": "2026-10-02T23:10:00",
-          "datetime_utc": "2026-10-03T04:10:00Z",
+          "datetime": "2026-10-02T22:40:00",
+          "datetime_utc": "2026-10-03T03:40:00Z",
           "auditorium": 5,
           "screen_width_ft": 31.7,
           "premium_format": "Standard",
@@ -77140,7 +77050,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 1100121,
+      "letterboxd_rating_count": 1113470,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -81407,7 +81317,7 @@
       "poster": "posters/rocky-50th-anniversary-2026.jpg",
       "backdrop": null,
       "short_description": null,
-      "plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+      "plot": "Struggling Philadelphia boxer Rocky Balboa has a chance to become a somebody when heavyweight champion Apollo Creed come up with the Bicentennial gimmick of fighting a sure-ringer and easily winning the bout himself. But someone forgot to tell Rocky, who trains earnestly. And in the climactic fight sequence, the \"Italian Stallion\" gets his wish: to go the distance...against all the odds!\n\nRocky 50 will also feature an exclusive look at the widely-anticipated biographical feature film, I Play Rocky, a Baha Fireside Production from Amazon MGM Studios and directed by Academy Award®- winning director Peter Farrelly (Green Book, There’s Something About Mary), alongside an introduction from the I Play Rocky cast.",
       "directors": [
         "John G. Avildsen"
       ],
@@ -81425,7 +81335,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "70/100",
       "letterboxd_rating": 4.12,
-      "letterboxd_rating_count": 1093176,
+      "letterboxd_rating_count": 1093502,
       "letterboxd_url": "https://letterboxd.com/film/rocky/",
       "awards": "Won 3 Oscars. 23 wins & 23 nominations total",
       "language": "English, Spanish, Italian",
@@ -83037,8 +82947,8 @@
       "imdb_votes": "493",
       "rotten_tomatoes": null,
       "metacritic": "55/100",
-      "letterboxd_rating": 2.88,
-      "letterboxd_rating_count": 19506,
+      "letterboxd_rating": 2.87,
+      "letterboxd_rating_count": 19897,
       "letterboxd_url": "https://letterboxd.com/film/runner-2026/",
       "awards": "N/A",
       "language": "English",
@@ -83165,7 +83075,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.92,
-      "letterboxd_rating_count": 24531,
+      "letterboxd_rating_count": 25921,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -87026,7 +86936,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.58,
-      "letterboxd_rating_count": 12472,
+      "letterboxd_rating_count": 12649,
       "letterboxd_url": "https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy-bottom/",
       "awards": "N/A",
       "language": "English",
@@ -87630,7 +87540,7 @@
       "rotten_tomatoes": "54%",
       "metacritic": "48/100",
       "letterboxd_rating": 2.92,
-      "letterboxd_rating_count": 88533,
+      "letterboxd_rating_count": 88546,
       "letterboxd_url": "https://letterboxd.com/film/spanglish/",
       "awards": "5 wins & 15 nominations total",
       "language": "English, Spanish",
@@ -87755,7 +87665,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.04,
-      "letterboxd_rating_count": 4291721,
+      "letterboxd_rating_count": 4295087,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -88333,48 +88243,6 @@
               "type": "SENIOR",
               "price": 14.77,
               "tax": 1.28
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 147425558,
-          "datetime": "2026-10-02T19:40:00",
-          "datetime_utc": "2026-10-03T00:40:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/vestaviahills/all/147425558",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
             }
           ]
         },
@@ -90491,7 +90359,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "96/100",
       "letterboxd_rating": 4.43,
-      "letterboxd_rating_count": 4036240,
+      "letterboxd_rating_count": 4037205,
       "letterboxd_url": "https://letterboxd.com/film/spirited-away/",
       "awards": "Won 1 Oscar. 58 wins & 31 nominations total",
       "language": "Japanese, English",
@@ -91075,7 +90943,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.23,
-      "letterboxd_rating_count": 4475,
+      "letterboxd_rating_count": 4476,
       "letterboxd_url": "https://letterboxd.com/film/spirited-away-live-on-stage/",
       "awards": "N/A",
       "language": "Japanese",
@@ -91304,7 +91172,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.56,
-      "letterboxd_rating_count": 33687,
+      "letterboxd_rating_count": 33694,
       "letterboxd_url": "https://letterboxd.com/film/stand-and-deliver/",
       "awards": "Nominated for 1 Oscar. 11 wins & 7 nominations total",
       "language": "English, Spanish",
@@ -98884,7 +98752,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 161354,
+      "letterboxd_rating_count": 161391,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -99792,7 +99660,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "88/100",
       "letterboxd_rating": 4.35,
-      "letterboxd_rating_count": 4482598,
+      "letterboxd_rating_count": 4485863,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "3 wins total",
       "language": "English, Greek",
@@ -105555,7 +105423,7 @@
       "rotten_tomatoes": "63%",
       "metacritic": "43/100",
       "letterboxd_rating": 3.62,
-      "letterboxd_rating_count": 63129,
+      "letterboxd_rating_count": 63174,
       "letterboxd_url": "https://letterboxd.com/film/the-transformers-the-movie/",
       "awards": "2 nominations total",
       "language": "English, Japanese",
@@ -106047,7 +105915,7 @@
       "rotten_tomatoes": "67%",
       "metacritic": "45/100",
       "letterboxd_rating": 4.35,
-      "letterboxd_rating_count": 509120,
+      "letterboxd_rating_count": 509280,
       "letterboxd_url": "https://letterboxd.com/film/twin-peaks-fire-walk-with-me/",
       "awards": "4 wins & 7 nominations total",
       "language": "English, Latin",
@@ -106365,7 +106233,7 @@
       "rotten_tomatoes": "73%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 1021653,
+      "letterboxd_rating_count": 1021899,
       "letterboxd_url": "https://letterboxd.com/film/v-for-vendetta/",
       "awards": "7 wins & 29 nominations total",
       "language": "English, French, Latin, Spanish",
@@ -106630,8 +106498,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.82,
-      "letterboxd_rating_count": 14892,
+      "letterboxd_rating": 2.8,
+      "letterboxd_rating_count": 19282,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -106928,6 +106796,47 @@
               "type": "SENIOR",
               "price": 20.34,
               "tax": 1.85
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147566551,
+          "datetime": "2026-10-01T19:30:00",
+          "datetime_utc": "2026-10-02T00:30:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-01/summit/all/147566551",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
             }
           ]
         },
@@ -107676,6 +107585,48 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 147566633,
+          "datetime": "2026-10-02T18:30:00",
+          "datetime_utc": "2026-10-02T23:30:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 36.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/vestaviahills/all/147566633",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
           "showtime_id": 147425490,
           "datetime": "2026-10-02T18:45:00",
           "datetime_utc": "2026-10-02T23:45:00Z",
@@ -107793,6 +107744,48 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 147566634,
+          "datetime": "2026-10-02T19:45:00",
+          "datetime_utc": "2026-10-03T00:45:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 31.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/vestaviahills/all/147566634",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
             }
           ]
         },
@@ -112436,8 +112429,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.82,
-      "letterboxd_rating_count": 14892,
+      "letterboxd_rating": 2.8,
+      "letterboxd_rating_count": 19282,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -116313,6 +116306,213 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "wild at heart - unrated",
+      "source": "AMC",
+      "movie_id": 85185,
+      "title": "Wild at Heart - Unrated",
+      "release_year": 2026,
+      "runtime": 128,
+      "rating": "NR",
+      "genres": [],
+      "poster": null,
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Guests under 17 must be accompanied by a guardian who is 21 or older. Please be prepared to show ID at the theatre. \nYoung lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor.",
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/wild-at-heart-unrated-85185",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147422295,
+          "datetime": "2026-11-01T16:00:00",
+          "datetime_utc": "2026-11-01T22:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-01/pattoncreek/all/147422295",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Fan Faves",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.39,
+              "tax": 0.64
+            },
+            {
+              "type": "CHILD",
+              "price": 7.39,
+              "tax": 0.64
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.39,
+              "tax": 0.64
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147520129,
+          "datetime": "2026-11-01T16:15:00",
+          "datetime_utc": "2026-11-01T22:15:00Z",
+          "auditorium": 16,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-01/summit/all/147520129",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147520130,
+          "datetime": "2026-11-03T18:30:00",
+          "datetime_utc": "2026-11-04T00:30:00Z",
+          "auditorium": 16,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-03/summit/all/147520130",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Excluded from 50% off Discount",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147422296,
+          "datetime": "2026-11-03T18:30:00",
+          "datetime_utc": "2026-11-04T00:30:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-03/pattoncreek/all/147422296",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Excluded from 50% off Discount",
+            "Fan Faves",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.39,
+              "tax": 0.64
+            },
+            {
+              "type": "CHILD",
+              "price": 7.39,
+              "tax": 0.64
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.39,
+              "tax": 0.64
             }
           ]
         }
@@ -120277,7 +120477,7 @@
       "rotten_tomatoes": "92%",
       "metacritic": null,
       "letterboxd_rating": 3.76,
-      "letterboxd_rating_count": 853,
+      "letterboxd_rating_count": 857,
       "letterboxd_url": "https://letterboxd.com/film/you-had-to-be-there-how-the-toronto-godspell/",
       "awards": "1 nomination total",
       "language": "English",
@@ -120381,7 +120581,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 5909,
+      "letterboxd_rating_count": 6010,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
@@ -122624,7 +122824,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.06,
-      "letterboxd_rating_count": 38899,
+      "letterboxd_rating_count": 38909,
       "letterboxd_url": "https://letterboxd.com/film/yuri-on-ice/",
       "awards": "12 wins & 13 nominations total",
       "language": "Japanese",
