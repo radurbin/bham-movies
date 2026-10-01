@@ -120,6 +120,38 @@ vendor; its widget API at `widget.goelevent.com` needs keys and has no
 listing endpoint), and Sidewalk's WordPress REST API (same host, so the
 same challenge).
 
+Seat maps (AMC showtimes only)
+
+Hovering an AMC showtime in the movie modal shows a live seat map. The page
+(`docs/index.html`) requests it from a second Cloudflare Worker,
+`patient-haze-05d5` (`cloudflare/seatmap-worker.js`, deployed by pasting the
+file into the dashboard editor; no bindings or triggers):
+
+`https://patient-haze-05d5.rileydurbin.workers.dev/seats?theater_id=4101&showtime_id=147495013&datetime=2026-10-01T22:30:00`
+
+The data comes from Fandango's checkout pages, not from AMC. The Worker
+finds the Fandango showtime at the same theater and start time, gets an
+anonymous checkout token, fetches the seat map, and confirms the match by
+the AMC showtime ID that Fandango embeds in its ticket codes. This is not a
+documented API and may break or be locked down without notice; when a lookup
+fails the tooltip shows "Seat map unavailable".
+
+Sources tried and ruled out (Oct 2026):
+
+- AMC's API: this vendor key has no seating endpoint. Every showtime links to
+  `/v2/seating-layouts/{theatre}/{performanceNumber}`, but it returns
+  "No matching Web application endpoint was found".
+- AMC's website and `graph.amctheatres.com`: Cloudflare blocks anything that
+  isn't a real browser, even from a home connection.
+- walzr.com (used until Aug 2026): its seat-map fragments now come back empty.
+- SeatDrop's backend (used Aug–Sep 2026): now refuses outside use and its
+  terms prohibit automated access. Do not go back to it.
+- Atom Tickets, Moviefone, IMDb: bot-challenged, and the latter two have no
+  seat maps of their own.
+
+Known gaps: after-midnight showtimes are untested, and the Worker's allowed
+browser origins are only `radurbin.github.io` and `localhost:8000`.
+
 How far in the future is fetched
 
 - The AMC fetcher (`fetchers/amc.py`) requests showtimes from AMC's `/theatres/{id}/showtimes` endpoint and paginates results. The API determines how many days ahead are returned. Practically, the generated `movies.json` contains whatever upcoming showtimes the AMC API returns at fetch time. If you need a configurable lookahead window, I can add a date-range parameter to the fetcher.

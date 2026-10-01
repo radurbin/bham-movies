@@ -31,8 +31,9 @@
 			small{color:#bbb}
 			.seatmap-hover{position:fixed;bottom:20px;right:20px;background:#222;border:1px solid #444;border-radius:10px;max-width:400px;z-index:9999;overflow:auto;max-height:80vh}
 			.seatmap-hover .seat-detail{padding:0}
-			.seat{width:12px;height:12px;border-radius:2px;display:inline-block}
+			.seat{width:var(--seat,12px);height:var(--seat,12px);border-radius:2px;display:inline-block;flex:none}
 			.seat--empty{background:#444}
+			.seat--gap{visibility:hidden}
 			.seat--available{background:#0f9}
 			.seat--booked{background:#f90}
 			.row-label{font-size:11px;width:15px;text-align:center}
@@ -175,55 +176,54 @@
 
 			const seatmapCache = {};
 
-			// Renders a seatmap JSON payload of the form:
-			// { og_title, seats: [{available, column, row, name, type, seatTier, shouldDisplay}, ...], sold_out, theatre_id, showtime_date }
-			// into the same .seatmap/.seat-row/.seat markup the CSS above already styles.
+			// Renders the seat map JSON returned by cloudflare/seatmap-worker.js:
+			// { available, total, rows: [{ label, seats: [{name, available, type} | null, ...] }, ...] }
+			// Rows arrive front (screen) first; null entries are aisles and gaps.
 			function renderSeatmap(data) {
-				const seats = (data && data.seats) || [];
-				if (seats.length === 0) return '';
+				const rows = (data && data.rows) || [];
+				if (rows.length === 0) return '';
 
-				const byRow = {};
-				for (const seat of seats) {
-					(byRow[seat.row] = byRow[seat.row] || []).push(seat);
-				}
+				// Shrink the seats for wide auditoriums so the map fits the tooltip.
+				const maxCols = Math.max(...rows.map(r => r.seats.length));
+				const seatSize = Math.max(5, Math.min(12, Math.floor(380 / maxCols) - 2));
 
-				const rowNumbers = Object.keys(byRow).map(Number).sort((a, b) => a - b);
-
-				const rowsHtml = rowNumbers.map(rowNum => {
-					const rowLabel = String.fromCharCode(64 + rowNum); // 1 -> A, 2 -> B, ...
-					const seatsHtml = byRow[rowNum]
-						.slice()
-						.sort((a, b) => a.column - b.column)
-						.map(seat => {
-							if (!seat.shouldDisplay) return `<span class="seat seat--empty"></span>`;
-							const cls = seat.available ? 'seat--available' : 'seat--booked';
-							const title = seat.type && seat.type !== 'CanReserve' ? `${seat.name} (${seat.type})` : seat.name;
-							return `<span class="seat ${cls}" title="${title}"></span>`;
-						})
-						.join('');
-					return `<div class="seat-row"><span class="row-label">${rowLabel}</span>${seatsHtml}</div>`;
+				const rowsHtml = rows.map(row => {
+					const seatsHtml = row.seats.map(seat => {
+						if (!seat) return `<span class="seat seat--gap"></span>`;
+						const cls = seat.available ? 'seat--available' : 'seat--booked';
+						const name = String(seat.name).replace(/[^\w -]/g, '');
+						const title = seat.type && seat.type !== 'standard' ? `${name} (${seat.type})` : name;
+						return `<span class="seat ${cls}" title="${title}"></span>`;
+					}).join('');
+					return `<div class="seat-row"><span class="row-label">${String(row.label).replace(/[^\w]/g, '')}</span>${seatsHtml}</div>`;
 				}).join('');
 
-				return `<div class="seatmap">
+				const counts = (typeof data.available === 'number' && typeof data.total === 'number')
+					? `<div class="front-label">${data.available} of ${data.total} seats available</div>` : '';
+
+				return `<div class="seatmap" style="--seat:${seatSize}px">
+					${counts}
+					<div class="screen">Screen</div>
 					<div class="seat-rows">${rowsHtml}</div>
 					<div class="seat-legend"><span class="seat seat--available"></span> Available &nbsp; <span class="seat seat--booked"></span> Taken</div>
 				</div>`;
 			}
 
-			function getCachedSeatmap(showId, callback) {
+			// Calls back with the seat map JSON, or null if it couldn't be loaded.
+			function getCachedSeatmap(showId, theaterId, datetime, callback) {
 				const cached = seatmapCache[showId];
 				if(cached && Date.now() - cached.time < 300000) {
 					callback(cached.data);
 					return;
 				}
-				const proxyUrl = `https://amc-backend-nkwj3n3oga-ue.a.run.app/seats?showtime_id=${showId}`; // PLACEHOLDER - I WILL REPLACE
-				fetch(proxyUrl)
-					.then(r=>r.json())
+				const seatsUrl = `https://patient-haze-05d5.rileydurbin.workers.dev/seats?theater_id=${encodeURIComponent(theaterId)}&showtime_id=${encodeURIComponent(showId)}&datetime=${encodeURIComponent(datetime)}`;
+				fetch(seatsUrl)
+					.then(r => r.ok ? r.json() : null)
 					.then(seatmapData => {
-						seatmapCache[showId] = { data: seatmapData, time: Date.now() };
+						if (seatmapData) seatmapCache[showId] = { data: seatmapData, time: Date.now() };
 						callback(seatmapData);
 					})
-					.catch(e=>console.log('Seatmap fetch failed'));
+					.catch(e => { console.log('Seatmap fetch failed'); callback(null); });
 			}
 
 			// Attributes come from AMC as noisy, sometimes-duplicated strings
@@ -618,7 +618,7 @@
 								const normAttrs = JSON.stringify(showAttributes(s));
 								const screenWidth = s.screen_width_ft ? ` · ~${s.screen_width_ft}' screen` : '';
 
-								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmc ? `data-show-id="${s.showtime_id||s.id}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-normalized-attrs='${normAttrs}' data-prices="${prices}" data-screen-width="${s.screen_width_ft||''}">${time} · ${fmt}${screenWidth}</span></div>`;
+								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmc ? `data-show-id="${s.showtime_id||s.id}" data-theater-id="${s.theater_id||''}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-normalized-attrs='${normAttrs}' data-prices="${prices}" data-screen-width="${s.screen_width_ft||''}">${time} · ${fmt}${screenWidth}</span></div>`;
 							}).join('')}
 							</div>
 						`).join('')}
@@ -680,16 +680,16 @@
 					if(showId && !sold && !cancelled) {
 						if(!el.dataset.seatmapFetched) {
 							el.dataset.seatmapFetched = 'true';
-							getCachedSeatmap(showId, (seatmapData) => {
-								const cleaned = renderSeatmap(seatmapData);
+							getCachedSeatmap(showId, el.getAttribute('data-theater-id'), dt, (seatmapData) => {
+								const cleaned = renderSeatmap(seatmapData) || '<small>Seat map unavailable</small>';
 								el.dataset.seatmapHtml = cleaned;
-								if (cleaned) {
-									tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${cleaned}</div>`;
-								}
+								// A failed lookup may work on the next hover, so don't remember it.
+								if (!seatmapData) delete el.dataset.seatmapFetched;
+								tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${cleaned}</div>`;
 								positionTooltip(el);
 							});
 						} else {
-							tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${el.dataset.seatmapHtml}</div>`;
+							tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${el.dataset.seatmapHtml || '<small>Loading seat map…</small>'}</div>`;
 							positionTooltip(el);
 						}
 					} else {
