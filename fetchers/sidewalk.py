@@ -58,8 +58,49 @@ class SidewalkFetcher:
             params=params,
             timeout=REQUEST_TIMEOUT,
         )
+        if not response.ok:
+            self._print_diagnostics(response)
         response.raise_for_status()
         return response.text
+
+    # TEMPORARY: figuring out who issues the 403 that GitHub Actions gets
+    # (Sidewalk's WAF, passed through by the Worker, vs. Cloudflare
+    # refusing the runner at the Worker's own edge). Remove once resolved.
+    @staticmethod
+    def _dump_response(label: str, response) -> None:
+        print(f"  [diag] {label}: {response.status_code} {response.reason} ({response.url})")
+        for name, value in response.headers.items():
+            print(f"  [diag]   {name}: {value}")
+        body = BeautifulSoup(response.text, "html.parser").get_text(" ", strip=True)
+        print(f"  [diag]   body ({len(response.text)} chars): {body[:1500]}")
+
+    def _print_diagnostics(self, response) -> None:
+        self._dump_response("worker", response)
+
+        try:
+            ip = requests.get("https://api.ipify.org", timeout=10).text
+            print(f"  [diag] runner public IP: {ip}")
+        except Exception as ex:
+            print(f"  [diag] runner IP lookup failed: {ex}")
+
+        # Same page without the Worker in the middle, for comparison.
+        try:
+            direct = requests.get(
+                "https://sidewalkfest.com/cinema/",
+                headers={
+                    "User-Agent": (
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/124.0.0.0 Safari/537.36"
+                    ),
+                    "Accept": "text/html,application/xhtml+xml",
+                    "Accept-Language": "en-US,en;q=0.9",
+                },
+                timeout=REQUEST_TIMEOUT,
+            )
+            self._dump_response("direct", direct)
+        except Exception as ex:
+            print(f"  [diag] direct fetch failed: {ex}")
 
     # --------------------------------------------------
     # Parsing helpers

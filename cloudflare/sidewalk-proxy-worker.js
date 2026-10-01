@@ -44,7 +44,15 @@ export default {
 
     return new Response(body, {
       status: upstream.status,
-      headers: { "Content-Type": "text/html; charset=utf-8" },
+      headers: {
+        "Content-Type": "text/html; charset=utf-8",
+        // Proves a response came from this Worker (rather than Cloudflare
+        // refusing the caller before the Worker ever ran) and shows what
+        // Sidewalk itself answered.
+        "X-Upstream-Status": String(upstream.status),
+        "X-Upstream-Cf-Ray": upstream.headers.get("cf-ray") || "",
+        "X-Upstream-Cf-Mitigated": upstream.headers.get("cf-mitigated") || "",
+      },
     });
   },
 };
