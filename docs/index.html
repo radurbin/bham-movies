@@ -58,6 +58,7 @@
 			<span id="status" style="margin-left:12px"></span>
 			<div style="display:flex;gap:12px;align-items:center">
 				<button id="planningToggle" class="planning-toggle" onclick="togglePlanningMode()">A-List Plan Mode</button>
+				<button id="syncButton" class="planning-toggle" onclick="promptSyncCode()">Sync: off</button>
 				<span id="lastUpdated"></span>
 			</div>
 		</header>
@@ -111,11 +112,120 @@
 				return new Set();
 			}
 
-			function saveSelections() {
+			function saveSelectionsLocal() {
 				try {
 					localStorage.setItem('alistSelections', JSON.stringify(Array.from(selectedPosters)));
 				} catch (e) {}
 			}
+
+			function saveSelections() {
+				saveSelectionsLocal();
+				schedulePush();
+			}
+
+			// Cross-device sync of the plan, via cloudflare/alist-sync-worker.js.
+			// Off until a sync code (the Worker's SYNC_CODE secret) has been
+			// entered on this device; localStorage remains the working copy.
+			// Last save wins: the shared plan replaces this device's on load and
+			// whenever the tab is shown again, and every pick is uploaded.
+			const SYNC_URL = 'https://alist-sync.rileydurbin.workers.dev/plan';
+			const SYNC_BUTTON = document.getElementById('syncButton');
+			let syncCode = null;
+			try { syncCode = localStorage.getItem('alistSyncCode'); } catch (e) {}
+			let pushTimer = null;
+			let lastPushAt = 0;
+
+			function setSyncStatus(text) {
+				SYNC_BUTTON.textContent = text;
+				SYNC_BUTTON.classList.toggle('active', text === 'Synced ✓');
+			}
+
+			function syncRequest(method, body) {
+				return fetch(SYNC_URL, {
+					method,
+					headers: Object.assign({ Authorization: `Bearer ${syncCode}` }, body ? { 'Content-Type': 'application/json' } : {}),
+					body: body ? JSON.stringify(body) : undefined,
+				}).then(r => {
+					if (r.status === 401) throw new Error('code');
+					if (!r.ok) throw new Error('http ' + r.status);
+					return r.json();
+				});
+			}
+
+			function handleSyncError(err) {
+				console.error('Plan sync failed', err);
+				setSyncStatus(err && err.message === 'code' ? 'Sync: wrong code' : 'Sync failed');
+			}
+
+			// Picks from more than a week ago are left out of what's uploaded,
+			// so the shared plan doesn't grow forever.
+			function currentSelections() {
+				const cutoff = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
+				return Array.from(selectedPosters).filter(key => key.slice(0, 10) >= cutoff);
+			}
+
+			function pushPlan() {
+				pushTimer = null;
+				if (!syncCode) return;
+				lastPushAt = Date.now();
+				setSyncStatus('Syncing…');
+				syncRequest('PUT', { selections: currentSelections() })
+					.then(() => setSyncStatus('Synced ✓'))
+					.catch(handleSyncError);
+			}
+
+			function schedulePush() {
+				if (!syncCode) return;
+				clearTimeout(pushTimer);
+				pushTimer = setTimeout(pushPlan, 800);
+			}
+
+			function applySelectionClasses() {
+				document.querySelectorAll('[data-poster-key]').forEach(el => {
+					el.classList.toggle('selected', selectedPosters.has(el.dataset.posterKey));
+				});
+				updateWeekCounts();
+			}
+
+			function pullPlan() {
+				// Skip while this device has changes on their way up: the store
+				// can take up to a minute to return what was just saved, and an
+				// older copy would undo the picks just made.
+				if (!syncCode || pushTimer || Date.now() - lastPushAt < 60000) return;
+				setSyncStatus('Syncing…');
+				syncRequest('GET').then(data => {
+					if (pushTimer) return;
+					if (!Array.isArray(data.selections)) {
+						// Nothing saved yet: this device's plan becomes the shared one.
+						pushPlan();
+						return;
+					}
+					selectedPosters = new Set(data.selections);
+					saveSelectionsLocal();
+					applySelectionClasses();
+					setSyncStatus('Synced ✓');
+				}).catch(handleSyncError);
+			}
+
+			function promptSyncCode() {
+				const entered = prompt('A-List sync code (leave blank to turn sync off on this device):', syncCode || '');
+				if (entered === null) return;
+				syncCode = entered.trim() || null;
+				try {
+					if (syncCode) localStorage.setItem('alistSyncCode', syncCode);
+					else localStorage.removeItem('alistSyncCode');
+				} catch (e) {}
+				if (syncCode) {
+					lastPushAt = 0;
+					pullPlan();
+				} else {
+					setSyncStatus('Sync: off');
+				}
+			}
+
+			document.addEventListener('visibilitychange', () => {
+				if (document.visibilityState === 'visible') pullPlan();
+			});
 
 			function togglePlanningMode() {
 				planningMode = !planningMode;
@@ -469,6 +579,7 @@
 					buildFilters(allMovies); // Change this line
 					STATUS.textContent = `${data.metadata?.showtime_count || 0} showtimes, ${data.metadata?.movie_count || allMovies.length} movies`;
 					LAST_UPDATED.textContent = formatLastUpdated(data.metadata?.generated_at);
+					pullPlan();
 
 				} catch (err) {
 					console.error(err);
@@ -544,7 +655,7 @@
 									el.dataset.week = weekIndex;
 									el.onerror = () => {
 										const f = document.createElement('div');
-										f.className = 'poster poster-fallback' + (isSelected ? ' selected' : '');
+										f.className = 'poster poster-fallback' + (selectedPosters.has(posterKey) ? ' selected' : '');
 										f.textContent = movie.title;
 										f.title = movie.title;
 										f.dataset.formats = formats;

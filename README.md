@@ -152,6 +152,22 @@ Sources tried and ruled out (Oct 2026):
 Known gaps: after-midnight showtimes are untested, and the Worker's allowed
 browser origins are only `radurbin.github.io` and `localhost:8000`.
 
+A-List plan sync
+
+The posters picked in A-List Plan Mode are kept in the browser's
+`localStorage` and, once a sync code has been entered on a device (the
+"Sync" button in the header), mirrored to a third Cloudflare Worker,
+`alist-sync` (`cloudflare/alist-sync-worker.js`,
+`https://alist-sync.rileydurbin.workers.dev/plan`).
+
+- Account-side setup: KV namespace bound as `ALIST_KV`, and a secret named
+  `SYNC_CODE`. The sync code is that secret; it is not stored in the repo.
+- The plan is a single KV entry. The page downloads it on load and whenever
+  the tab is shown again, and uploads after every pick. Last save wins.
+- KV can take up to a minute to show a change elsewhere, so the page skips
+  downloading for 60 seconds after its own upload.
+- Picks more than a week old are dropped from what gets uploaded.
+
 How far in the future is fetched
 
 - The AMC fetcher (`fetchers/amc.py`) requests showtimes from AMC's `/theatres/{id}/showtimes` endpoint and paginates results. The API determines how many days ahead are returned. Practically, the generated `movies.json` contains whatever upcoming showtimes the AMC API returns at fetch time. If you need a configurable lookahead window, I can add a date-range parameter to the fetcher.
