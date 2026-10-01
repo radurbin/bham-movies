@@ -53,15 +53,15 @@ OMDB_BASE_URL = "https://www.omdbapi.com/"
 # directly querying TMS and finding no Sidewalk listings at all), so
 # showtimes are scraped from Sidewalk's own public showtimes page instead.
 #
-# That page sits behind Cloudflare/a WAF that flatly 403s requests from
-# GitHub Actions' datacenter IPs, even with browser-like headers -- the
-# identical request works fine from a home IP, so this is IP-reputation
-# based, not header based. Routed through a small Cloudflare Worker
-# (cloudflare/sidewalk-proxy-worker.js) instead, which fetches Sidewalk's
-# page from Cloudflare's own edge network and mimics a real browser there.
+# That page sits behind Cloudflare, which answers GitHub Actions' runners
+# with a JavaScript challenge instead of the page -- including when the
+# runner asks a Cloudflare Worker to fetch it on its behalf. So the Worker
+# (cloudflare/sidewalk-proxy-worker.js) scrapes the pages itself on a Cron
+# Trigger and stores them; this URL only ever returns that stored copy.
 SIDEWALK_CINEMA_URL = "https://shiny-resonance-e149.rileydurbin.workers.dev/"
 SIDEWALK_MAX_PAGES = 30  # safety ceiling; the real page count usually stops well short
 SIDEWALK_PAGE_DELAY = 0.5
+SIDEWALK_STALE_HOURS = 24  # warn when the Worker's stored copy is older than this
 
 # ============================================================
 # Request settings
