@@ -39,12 +39,14 @@ from config import (
     PLACEHOLDER_POSTER_FINGERPRINTS,
     PLACEHOLDER_POSTER_MAX_DISTANCE,
     POSTER_SOURCES_JSON,
+    UNSEEN_HISTORY_JSON,
 )
 
 from fetchers.amc import AMCFetcher
 from fetchers.letterboxd import LetterboxdFetcher
 from fetchers.omdb import OMDbFetcher
 from fetchers.sidewalk import SidewalkFetcher
+from fetchers.tmdb import TMDBFetcher, is_mystery_screening
 
 from models import Movie
 
@@ -233,6 +235,72 @@ class MoviePipeline:
         print()
 
         print("Finished Letterboxd enrichment.")
+
+    # ---------------------------------------------------------
+
+    def predict_mystery_screenings(self):
+        """
+        Attach likely films to AMC's "Screen Unseen" listings and keep
+        the running record of clues vs. what each one turned out to be.
+        """
+
+        mysteries = [m for m in self.movies if is_mystery_screening(m)]
+
+        if not mysteries:
+            return
+
+        print()
+
+        print("=" * 60)
+        print("Predicting mystery screenings")
+        print("=" * 60)
+
+        tmdb = TMDBFetcher()
+
+        if not tmdb.enabled:
+            print("TMDB_API_KEY is not set, skipping.")
+            return
+
+        history = {}
+
+        if UNSEEN_HISTORY_JSON.exists():
+            try:
+                with open(UNSEEN_HISTORY_JSON, "r", encoding="utf-8") as f:
+                    history = json.load(f)
+            except Exception as ex:
+                print("Failed to read mystery screening history:", ex)
+
+        for movie in mysteries:
+
+            try:
+                movie.predictions = tmdb.predict(movie)
+            except Exception as ex:
+                # Nice to have, never worth failing the run over.
+                print(f"Prediction failed for {movie.title}: {ex}")
+                continue
+
+            print(
+                f"{movie.title} ({movie.rating}, {movie.runtime} min): "
+                + (", ".join(c["title"] for c in movie.predictions) or "no candidates")
+            )
+
+            # "revealed" is filled in by hand once the film is known;
+            # everything else is refreshed while the screening is listed.
+            entry = history.setdefault(str(movie.movie_id), {"revealed": None})
+
+            entry.update({
+                "title": movie.title,
+                "date": movie.showtimes[0].datetime[:10] if movie.showtimes else None,
+                "rating": movie.rating,
+                "listed_runtime": movie.runtime,
+                "candidates": [
+                    {"title": c["title"], "runtime": c["runtime"], "release_date": c["release_date"]}
+                    for c in movie.predictions
+                ],
+            })
+
+        with open(UNSEEN_HISTORY_JSON, "w", encoding="utf-8") as f:
+            json.dump(history, f, indent=2, ensure_ascii=False)
 
     # ---------------------------------------------------------
 
@@ -837,6 +905,8 @@ class MoviePipeline:
         self.enrich_movies()
 
         self.enrich_letterboxd()
+
+        self.predict_mystery_screenings()
 
         self.download_posters()
 

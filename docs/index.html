@@ -29,6 +29,10 @@
 				.show-badge.sold{background:#a33}
 				.show-tooltip{position:absolute;background:#222;border:1px solid #444;padding:8px;border-radius:6px;color:#ddd;z-index:11001;min-width:200px;box-shadow:0 6px 18px rgba(0,0,0,0.6)}
 			small{color:#bbb}
+			.predictions{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0}
+			.prediction{width:92px;color:inherit;text-decoration:none;font-size:12px;line-height:1.25}
+			.prediction img,.prediction .poster-fallback{width:92px;aspect-ratio:2/3;object-fit:cover;border-radius:4px;display:block;margin-bottom:4px}
+			.prediction small{display:block}
 			.seatmap-hover{position:fixed;bottom:20px;right:20px;background:#222;border:1px solid #444;border-radius:10px;max-width:400px;z-index:9999;overflow:auto;max-height:80vh}
 			.seatmap-hover .seat-detail{padding:0}
 			.seat{width:var(--seat,12px);height:var(--seat,12px);border-radius:2px;display:inline-block;flex:none}
@@ -692,6 +696,37 @@
 				GRID.classList.toggle('planning-mode', planningMode);
 				updateWeekCounts();
 			}
+			function escapeHtml(value) {
+				return String(value == null ? '' : value).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+			}
+
+			// For AMC's mystery screenings ("Screen Unseen"): the films the
+			// pipeline guessed from AMC's rating and running-time clues
+			// (movie.predictions, built by fetchers/tmdb.py).
+			function renderPredictions(movie) {
+				const list = movie.predictions || [];
+				if (list.length === 0) return '';
+
+				const items = list.map(c => {
+					const opens = c.release_date
+						? new Date(c.release_date + 'T12:00:00').toLocaleDateString([], {month: 'short', day: 'numeric'})
+						: 'date unknown';
+					const length = c.runtime ? `${Math.floor(c.runtime / 60)}h ${c.runtime % 60}m` : 'length unknown';
+					const title = escapeHtml(c.title);
+					const art = c.poster
+						? `<img src="${escapeHtml(c.poster)}" alt="" loading="lazy">`
+						: `<div class="poster-fallback">${title}</div>`;
+					return `<a class="prediction" href="${escapeHtml(c.url)}" target="_blank" rel="noopener">${art}${title}<small>${length} · opens ${opens}</small></a>`;
+				}).join('');
+
+				const clues = [movie.rating ? `rated ${escapeHtml(movie.rating)}` : '', movie.runtime ? `listed at ${movie.runtime} min` : ''].filter(Boolean).join(', ');
+
+				return `<h2>Likely candidates</h2>
+					<p><small>A guess, not a confirmation: upcoming releases that fit AMC's clues (${clues}), best fit first. Against 97 past screenings the first pick was right a little over half the time.</small></p>
+					<div class="predictions">${items}</div>
+					<p><small>This product uses the TMDB API but is not endorsed or certified by TMDB.</small></p>`;
+			}
+
 			function openMovie(movie, shows) {
 				// Group shows by theater
 				const groups = {};
@@ -715,6 +750,7 @@
 							<span class="badge">${(movie.genres || []).join(', ')}</span>
 						</div>
 						<p><small>${movie.plot || movie.short_description || ''}</small></p>
+						${renderPredictions(movie)}
 						<h2>Showtimes</h2>
 						${Object.entries(groups).map(([theater, list]) => `
 							<div class="theater-group" data-theater="${theater}">

@@ -152,6 +152,44 @@ Sources tried and ruled out (Oct 2026):
 Known gaps: after-midnight showtimes are untested, and the Worker's allowed
 browser origins are only `radurbin.github.io` and `localhost:8000`.
 
+Mystery screening predictions (AMC Screen Unseen / Scream Unseen)
+
+AMC only publishes a rating and a running time for these. `fetchers/tmdb.py`
+asks TMDB's API for US theatrical releases with the same rating opening in
+the 20 days after the screening, scores each on how well it fits, and
+attaches the best six as `predictions` on the movie; the modal shows them as
+"Likely candidates", best first. AMC's own catalog was tried first and
+rejected as the source: it doesn't list films far enough ahead.
+
+The rules come from `data/screen_unseen_history.csv`: all 97 screenings from
+Nov 2023 to Sep 2026 as recorded by the r/AMCsAList megathread (AMC's listed
+running time, the real one, and the film). What that history shows:
+
+- AMC's listed running time minus the real one ranged from -7 to +17
+  minutes; more than half fell between +2 and +6.
+- The film opened 4-13 days after the screening 90% of the time, 14-20 days
+  for most of the rest.
+- Every Scream Unseen film was tagged Horror on TMDB. So were 4 of the 79
+  Screen Unseen films, so horror is penalised there rather than excluded.
+- 94 of 97 screenings were on a Monday; 68 were rated R.
+
+`python tools/backtest_unseen.py` (needs `TMDB_API_KEY`) replays that history
+through the real scoring code. As of Oct 2026 the actual film was the first
+pick 54 times out of 97, in the top three 78 times, and on the six-film
+shortlist 87 times. That flatters the rules a little, since they were tuned
+on the same history.
+
+- Needs the `TMDB_API_KEY` secret (free key from themoviedb.org). Without it
+  the step is skipped and everything else runs normally.
+- To keep the history current, add a row to the CSV after each screening
+  (the megathread posts the listed and real running times), then re-run the
+  backtest before changing any numbers in `fetchers/tmdb.py`.
+- `docs/unseen_history.json` is written by the pipeline: one entry per
+  screening with AMC's clues and the candidates guessed at the time, plus a
+  `"revealed"` field to fill in by hand. It records how the predictions did
+  going forward, which the backtest can't.
+- TMDB's terms require the attribution line shown under the candidates.
+
 A-List plan sync
 
 The posters picked in A-List Plan Mode are kept in the browser's

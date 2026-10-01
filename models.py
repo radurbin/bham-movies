@@ -173,6 +173,12 @@ class Movie:
     trailer_url: Optional[str] = None
 
     #
+    # For AMC's mystery screenings only: likely films, best guess first
+    # (see fetchers/tmdb.py).
+    #
+    predictions: List[dict] = field(default_factory=list)
+
+    #
     # Showtime data
     #
     showtimes: List[Showtime] = field(default_factory=list)

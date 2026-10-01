@@ -47,6 +47,15 @@ AMC_BASE_URL = "https://api.amctheatres.com/v2"
 
 OMDB_BASE_URL = "https://www.omdbapi.com/"
 
+# Optional: without it the mystery-screening predictions are skipped.
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")
+
+TMDB_BASE_URL = "https://api.themoviedb.org/3"
+
+# One entry per mystery screening: AMC's clues, the films guessed from
+# them, and (filled in by hand afterwards) what it turned out to be.
+UNSEEN_HISTORY_JSON = DOCS_DIR / "unseen_history.json"
+
 # Sidewalk isn't in TMS/Gracenote's theatre database (confirmed by
 # directly querying TMS and finding no Sidewalk listings at all), so
 # showtimes are scraped from Sidewalk's own public showtimes page instead.
