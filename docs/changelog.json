@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-07 10:22 AM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-07 02:28 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -43592,5 +43586,23 @@
     "movies_added": [],
     "movies_removed": [],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-10-01 05:32 AM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "You Had to Be There",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-09-30T21:15:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]
