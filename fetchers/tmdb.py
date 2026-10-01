@@ -270,6 +270,87 @@ class TMDBFetcher:
 
         return results
 
+    def upcoming_releases(
+        self,
+        start: date,
+        end: date,
+        min_popularity: float,
+    ) -> List[dict]:
+        """
+        Wide US releases opening between the two dates, for pencilling
+        onto the calendar before any theater is selling tickets.
+
+        Wide only, and above a popularity floor: everything TMDB lists
+        as theatrical is several films a day, most of which never
+        reach these theaters.
+        """
+
+        results = []
+        page = 1
+
+        while page <= 20:
+
+            data = self._get("/discover/movie", {
+                "region": "US",
+                "with_release_type": "3",  # wide theatrical
+                "release_date.gte": start.isoformat(),
+                "release_date.lte": end.isoformat(),
+                "sort_by": "popularity.desc",
+                "page": page,
+            })
+
+            items = data.get("results", [])
+
+            for item in items:
+
+                # Sorted by popularity, so everything after this is
+                # below the floor too.
+                if (item.get("popularity") or 0) < min_popularity:
+                    break
+
+                us_release = item.get("release_date") or ""
+
+                if not start.isoformat() <= us_release <= end.isoformat():
+                    continue
+
+                details = self.movie_details(item["id"])
+
+                # A re-release of an older film.
+                first_release = details.get("release_date") or ""
+
+                if first_release and int(first_release[:4]) < start.year - 1:
+                    continue
+
+                poster_path = details.get("poster_path")
+
+                results.append({
+                    "tmdb_id": item["id"],
+                    "imdb_id": details.get("imdb_id") or None,
+                    "title": details.get("title") or item.get("title"),
+                    "release_date": us_release,
+                    "runtime": details.get("runtime") or None,
+                    "genres": [g["name"] for g in details.get("genres", [])],
+                    "plot": details.get("overview") or None,
+                    "poster": (
+                        f"https://image.tmdb.org/t/p/w342{poster_path}"
+                        if poster_path else None
+                    ),
+                    "url": f"https://www.themoviedb.org/movie/{item['id']}",
+                    "popularity": round(item.get("popularity") or 0, 1),
+                })
+
+            else:
+
+                if page < data.get("total_pages", 1):
+                    page += 1
+                    continue
+
+            break
+
+        results.sort(key=lambda r: (r["release_date"], -r["popularity"]))
+
+        return results
+
     def predict(self, movie: Movie) -> List[dict]:
         """
         Return up to MAX_CANDIDATES likely films for one mystery

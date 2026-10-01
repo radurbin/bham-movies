@@ -26,8 +26,9 @@ import io
 import json
 import re
 import shutil
+import unicodedata
 from collections import Counter
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 import requests
@@ -40,11 +41,13 @@ from config import (
     PLACEHOLDER_POSTER_MAX_DISTANCE,
     POSTER_SOURCES_JSON,
     UNSEEN_HISTORY_JSON,
+    UPCOMING_DAYS,
+    UPCOMING_MIN_POPULARITY,
 )
 
 from fetchers.amc import AMCFetcher
 from fetchers.letterboxd import LetterboxdFetcher
-from fetchers.omdb import OMDbFetcher
+from fetchers.omdb import OMDbFetcher, clean_title_for_lookup
 from fetchers.sidewalk import SidewalkFetcher
 from fetchers.tmdb import TMDBFetcher, is_mystery_screening
 
@@ -64,6 +67,8 @@ class MoviePipeline:
     def __init__(self):
 
         self.movies: list[Movie] = []
+
+        self.upcoming: list[dict] = []
 
         self.poster_dir = POSTERS_DIR
 
@@ -301,6 +306,71 @@ class MoviePipeline:
 
         with open(UNSEEN_HISTORY_JSON, "w", encoding="utf-8") as f:
             json.dump(history, f, indent=2, ensure_ascii=False)
+
+    # ---------------------------------------------------------
+
+    def fetch_upcoming(self):
+        """
+        Collect films to pencil onto the calendar on their opening
+        date: upcoming wide releases that no theater here lists yet.
+        """
+
+        self.upcoming = []
+
+        tmdb = TMDBFetcher()
+
+        if not tmdb.enabled:
+            return
+
+        print()
+
+        print("=" * 60)
+        print("Fetching upcoming releases")
+        print("=" * 60)
+
+        today = datetime.now(ZoneInfo("America/Chicago")).date()
+
+        try:
+            releases = tmdb.upcoming_releases(
+                today + timedelta(days=1),
+                today + timedelta(days=UPCOMING_DAYS),
+                UPCOMING_MIN_POPULARITY,
+            )
+        except Exception as ex:
+            # Nice to have, never worth failing the run over.
+            print(f"Upcoming releases failed: {ex}")
+            return
+
+        # Anything already listed has real showtimes on the calendar.
+        # Compare with event suffixes stripped, so "Street Fighter:
+        # Bonus Round Fan Event" counts as Street Fighter being listed.
+        # Accents folded too: AMC writes "Beware Boiuna", TMDB "Boiúna".
+        def normalize(title: str) -> str:
+            folded = (
+                unicodedata.normalize("NFKD", clean_title_for_lookup(title))
+                .encode("ascii", "ignore")
+                .decode()
+            )
+            return re.sub(r"[^a-z0-9]", "", folded.lower())
+
+        listed_titles = {normalize(m.title) for m in self.movies}
+
+        listed_imdb_ids = {m.imdb_id for m in self.movies if m.imdb_id}
+
+        for release in releases:
+
+            if release["imdb_id"] and release["imdb_id"] in listed_imdb_ids:
+                continue
+
+            if normalize(release["title"]) in listed_titles:
+                continue
+
+            self.upcoming.append(release)
+
+        print(
+            f"{len(releases)} wide releases in the next {UPCOMING_DAYS} days, "
+            f"{len(self.upcoming)} not yet listed here."
+        )
 
     # ---------------------------------------------------------
 
@@ -668,7 +738,12 @@ class MoviePipeline:
 
                 for movie in self.movies
 
-            ]
+            ],
+
+            # Not in "movies": these have no showtimes, and keeping
+            # them apart leaves the counts, filters and changelog
+            # about films that are actually playing.
+            "upcoming": self.upcoming,
 
         }
 
@@ -907,6 +982,8 @@ class MoviePipeline:
         self.enrich_letterboxd()
 
         self.predict_mystery_screenings()
+
+        self.fetch_upcoming()
 
         self.download_posters()
 

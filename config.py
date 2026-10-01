@@ -52,6 +52,14 @@ TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 
+# Films pencilled onto the calendar on their opening date before any
+# theater here sells tickets: wide US releases in the next
+# UPCOMING_DAYS days with at least this TMDB popularity. At 4 that was
+# about 60 films over three months when it was chosen (Oct 2026); 2
+# doubles it, mostly with releases that never play in Birmingham.
+UPCOMING_DAYS = 90
+UPCOMING_MIN_POPULARITY = 4
+
 # One entry per mystery screening: AMC's clues, the films guessed from
 # them, and (filled in by hand afterwards) what it turned out to be.
 UNSEEN_HISTORY_JSON = DOCS_DIR / "unseen_history.json"

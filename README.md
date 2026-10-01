@@ -190,6 +190,28 @@ on the same history.
   going forward, which the backtest can't.
 - TMDB's terms require the attribution line shown under the candidates.
 
+Pencilled-in upcoming releases
+
+Films that no theater here is selling tickets for yet are pencilled onto the
+calendar on their opening date, drawn dimmed with a dashed outline. Clicking
+one shows its opening date, synopsis and a link to TMDB. The "Upcoming"
+button in the header hides them.
+
+- Source: TMDB wide US releases (release type 3) opening in the next
+  `UPCOMING_DAYS` (90) days with popularity of at least
+  `UPCOMING_MIN_POPULARITY` (4), both in `config.py`. Unfiltered, TMDB lists
+  about 320 theatrical releases per three months; this filter leaves about
+  55, of which roughly 40 aren't already listed.
+- A film is dropped from the pencilled list as soon as AMC or Sidewalk lists
+  it, matched by IMDb ID or by title (event suffixes stripped, accents
+  folded).
+- They are written to `movies.json` under a separate `upcoming` key, not in
+  `movies`, so showtime counts, filters, plan mode and the changelog ignore
+  them.
+- Known weaknesses: films far out have low popularity and can fall under the
+  cutoff until closer to release; some regional Indian releases score above
+  it but may never play in Birmingham.
+
 A-List plan sync
 
 The posters picked in A-List Plan Mode are kept in the browser's

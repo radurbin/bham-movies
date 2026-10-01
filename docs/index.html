@@ -22,6 +22,9 @@
 			#grid.planning-mode .poster.selected,#grid.planning-mode .poster-fallback.selected{filter:none;box-shadow:0 0 0 3px #2a6bf6}
 			@keyframes limitFlash{0%,100%{box-shadow:0 0 0 3px #c33}50%{box-shadow:0 0 0 3px transparent}}
 			.limit-flash{animation:limitFlash .25s ease-in-out 2}
+			.poster.pencil{opacity:.5;outline:2px dashed #999;outline-offset:-2px}
+			.poster.pencil:hover{opacity:.9}
+			#grid.hide-upcoming .pencil{display:none}
 			#modal{display:none;position:fixed;inset:0;background:#000a;align-items:center;justify-content:center;z-index:10000}
 			#content{background:#222;max-width:900px;width:95%;padding:18px;border-radius:10px;display:grid;grid-template-columns:220px 1fr;gap:16px;max-height:90vh;overflow:auto}
 				.badge{display:inline-block;background:#444;padding:3px 7px;border-radius:99px;margin:2px}
@@ -62,6 +65,7 @@
 			<span id="status" style="margin-left:12px"></span>
 			<div style="display:flex;gap:12px;align-items:center">
 				<button id="planningToggle" class="planning-toggle" onclick="togglePlanningMode()">A-List Plan Mode</button>
+				<button id="upcomingToggle" class="planning-toggle active" onclick="toggleUpcoming()" title="Show films pencilled in on their opening date before tickets are on sale">Upcoming</button>
 				<button id="syncButton" class="planning-toggle" onclick="promptSyncCode()">Sync: off</button>
 				<span id="lastUpdated"></span>
 			</div>
@@ -84,6 +88,84 @@
 			const MODAL = document.getElementById('modal');
 			const CONTENT = document.getElementById('content');
 			let allMovies = [];
+
+			// "Pencilled in" films: upcoming wide releases no theater here
+			// lists yet (data.upcoming, from fetchers/tmdb.py), drawn dashed
+			// and dimmed on their opening date. They have no showtimes, so
+			// the filters and plan mode leave them alone.
+			let upcomingByDate = {};
+			let showUpcoming = true;
+			try { showUpcoming = localStorage.getItem('showUpcoming') !== '0'; } catch (e) {}
+
+			function applyUpcomingVisibility() {
+				GRID.classList.toggle('hide-upcoming', !showUpcoming);
+				document.getElementById('upcomingToggle').classList.toggle('active', showUpcoming);
+			}
+
+			function toggleUpcoming() {
+				showUpcoming = !showUpcoming;
+				try { localStorage.setItem('showUpcoming', showUpcoming ? '1' : '0'); } catch (e) {}
+				applyUpcomingVisibility();
+			}
+
+			function formatOpening(film) {
+				return new Date(film.release_date + 'T12:00:00').toLocaleDateString([], {weekday: 'short', month: 'short', day: 'numeric'});
+			}
+
+			function createPencil(film) {
+				const fallback = () => {
+					const f = document.createElement('div');
+					f.className = 'poster poster-fallback pencil';
+					f.textContent = film.title;
+					return f;
+				};
+				let el;
+				if (film.poster) {
+					el = document.createElement('img');
+					el.className = 'poster pencil';
+					el.src = film.poster;
+					el.alt = film.title;
+					el.loading = 'lazy';
+					el.onerror = () => {
+						const f = fallback();
+						f.title = el.title;
+						f.onclick = el.onclick;
+						el.replaceWith(f);
+					};
+				} else {
+					el = fallback();
+				}
+				el.title = `${film.title} — opens ${formatOpening(film)}, tickets not on sale yet`;
+				el.onclick = () => openUpcoming(film);
+				return el;
+			}
+
+			function openUpcoming(film) {
+				const title = escapeHtml(film.title);
+				const posterHtml = film.poster
+					? `<img style="width:220px;border-radius:6px" src="${escapeHtml(film.poster)}" alt="${title}">`
+					: `<div class='poster poster-fallback' style='width:220px;height:330px'>${title}</div>`;
+				const length = film.runtime ? `<span class="badge">${Math.floor(film.runtime / 60)}h ${film.runtime % 60}m</span>` : '';
+				const genres = (film.genres || []).length ? `<span class="badge">${escapeHtml(film.genres.join(', '))}</span>` : '';
+
+				CONTENT.innerHTML = `
+					<div>${posterHtml}</div>
+					<div>
+						<button onclick="closeModal()" style="float:right">✕</button>
+						<h1>${title}</h1>
+						<div>
+							<span class="badge">Opens ${formatOpening(film)}</span>
+							${length}
+							${genres}
+						</div>
+						<p><small>Pencilled in on its wide release date. No theater here is selling tickets yet, so the date may change and it may not play here.</small></p>
+						<p><small>${escapeHtml(film.plot || '')}</small></p>
+						<p><a href="${escapeHtml(film.url)}" target="_blank" rel="noopener" style="color:#8ab4ff">More on TMDB</a></p>
+						<p><small>This product uses the TMDB API but is not endorsed or certified by TMDB.</small></p>
+					</div>`;
+
+				MODAL.style.display = 'flex';
+			}
 
 			function movieKey(movie) {
 				return `${movie.title}::${movie.release_year || ''}::${movie.movie_id || ''}`;
@@ -579,7 +661,14 @@
 						}
 					}
 
+					upcomingByDate = {};
+					for (const film of data.upcoming || []) {
+						if (!film.release_date) continue;
+						(upcomingByDate[film.release_date] = upcomingByDate[film.release_date] || []).push(film);
+					}
+
 					render(days);
+					applyUpcomingVisibility();
 					buildFilters(allMovies); // Change this line
 					STATUS.textContent = `${data.metadata?.showtime_count || 0} showtimes, ${data.metadata?.movie_count || allMovies.length} movies`;
 					LAST_UPDATED.textContent = formatLastUpdated(data.metadata?.generated_at);
@@ -599,7 +688,9 @@
 				if(sortedDates.length === 0) return;
 
 				const firstDate = new Date(sortedDates[0] + 'T12:00:00');
-				const lastDate = new Date(sortedDates[sortedDates.length - 1] + 'T12:00:00');
+				// Pencilled-in releases can fall after the last real showtime.
+				const lastKey = Object.keys(upcomingByDate).concat(sortedDates[sortedDates.length - 1]).sort().pop();
+				const lastDate = new Date(lastKey + 'T12:00:00');
 
 				// Find the most recent Friday on or before the first date
 				const dayOfWeek = firstDate.getDay();
@@ -687,6 +778,10 @@
 								el.onclick = () => handlePosterClick(el, movie, shows, posterKey, weekIndex);
 								posters.appendChild(el);
 							}
+						}
+
+						for (const film of upcomingByDate[d] || []) {
+							posters.appendChild(createPencil(film));
 						}
 
 						GRID.appendChild(cell);
