@@ -25,6 +25,7 @@
 			.poster.pencil{opacity:.5;outline:2px dashed #999;outline-offset:-2px}
 			.poster.pencil:hover{opacity:.9}
 			#grid.hide-upcoming .pencil{display:none}
+			#grid.planning-mode .pencil.selected{opacity:1}
 			#modal{display:none;position:fixed;inset:0;background:#000a;align-items:center;justify-content:center;z-index:10000}
 			#content{background:#222;max-width:900px;width:95%;padding:18px;border-radius:10px;display:grid;grid-template-columns:220px 1fr;gap:16px;max-height:90vh;overflow:auto}
 				.badge{display:inline-block;background:#444;padding:3px 7px;border-radius:99px;margin:2px}
@@ -112,7 +113,49 @@
 				return new Date(film.release_date + 'T12:00:00').toLocaleDateString([], {weekday: 'short', month: 'short', day: 'numeric'});
 			}
 
-			function createPencil(film) {
+			// Plan-mode key for a pencilled film. It has no AMC id yet, so the
+			// key is built from the title; render() uses the same key to hand
+			// the pick over to the real listing once tickets go on sale.
+			function pencilTitleKey(title) {
+				return String(title).normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]/g, '');
+			}
+
+			function pencilKey(date, title) {
+				return `${date}::upcoming::${pencilTitleKey(title)}`;
+			}
+
+			// pencilled key -> real listing's key, for every film now on sale
+			// (filled in by render()).
+			let pencilHandover = {};
+
+			function handOverPencilledPicks() {
+				let changed = false;
+				for (const [from, to] of Object.entries(pencilHandover)) {
+					if (selectedPosters.has(from)) {
+						selectedPosters.delete(from);
+						selectedPosters.add(to);
+						changed = true;
+					}
+				}
+				return changed;
+			}
+
+			function createPencil(film, weekIndex) {
+				const posterKey = pencilKey(film.release_date, film.title);
+				posterWeekMap[posterKey] = weekIndex;
+
+				const decorate = (el) => {
+					el.classList.toggle('selected', selectedPosters.has(posterKey));
+					el.dataset.posterKey = posterKey;
+					el.dataset.week = weekIndex;
+					el.title = `${film.title} — opens ${formatOpening(film)}, tickets not on sale yet`;
+					el.onclick = () => {
+						if (planningMode) togglePosterSelection(el, posterKey, weekIndex);
+						else openUpcoming(film);
+					};
+					return el;
+				};
+
 				const fallback = () => {
 					const f = document.createElement('div');
 					f.className = 'poster poster-fallback pencil';
@@ -126,18 +169,11 @@
 					el.src = film.poster;
 					el.alt = film.title;
 					el.loading = 'lazy';
-					el.onerror = () => {
-						const f = fallback();
-						f.title = el.title;
-						f.onclick = el.onclick;
-						el.replaceWith(f);
-					};
+					el.onerror = () => el.replaceWith(decorate(fallback()));
 				} else {
 					el = fallback();
 				}
-				el.title = `${film.title} — opens ${formatOpening(film)}, tickets not on sale yet`;
-				el.onclick = () => openUpcoming(film);
-				return el;
+				return decorate(el);
 			}
 
 			function openUpcoming(film) {
@@ -287,9 +323,11 @@
 						return;
 					}
 					selectedPosters = new Set(data.selections);
+					const handedOver = handOverPencilledPicks();
 					saveSelectionsLocal();
 					applySelectionClasses();
-					setSyncStatus('Synced ✓');
+					if (handedOver) schedulePush();
+					else setSyncStatus('Synced ✓');
 				}).catch(handleSyncError);
 			}
 
@@ -683,6 +721,8 @@
 			function render(days) {
 				GRID.innerHTML = '';
 				posterWeekMap = {};
+				pencilHandover = {};
+				let migratedPicks = false;
 
 				const sortedDates = Object.keys(days).sort();
 				if(sortedDates.length === 0) return;
@@ -734,6 +774,16 @@
 								const screenWidths = JSON.stringify(shows.map(s => typeof s.screen_width_ft === 'number' ? s.screen_width_ft : null));
 								const posterKey = `${d}::${movieKey(movie)}`;
 								posterWeekMap[posterKey] = weekIndex;
+
+								// Picked while it was only pencilled in on this date:
+								// move the pick onto the real listing.
+								const pencilled = pencilKey(d, movie.title);
+								pencilHandover[pencilled] = posterKey;
+								if (selectedPosters.has(pencilled)) {
+									selectedPosters.delete(pencilled);
+									selectedPosters.add(posterKey);
+									migratedPicks = true;
+								}
 								const isSelected = selectedPosters.has(posterKey);
 
 								let el;
@@ -781,12 +831,16 @@
 						}
 
 						for (const film of upcomingByDate[d] || []) {
-							posters.appendChild(createPencil(film));
+							posters.appendChild(createPencil(film, weekIndex));
 						}
 
 						GRID.appendChild(cell);
 					}
 				}
+
+				// Local only: the shared plan is downloaded right after the first
+				// render, and pullPlan() repeats the hand-over on that copy.
+				if (migratedPicks) saveSelectionsLocal();
 
 				GRID.classList.toggle('planning-mode', planningMode);
 				updateWeekCounts();

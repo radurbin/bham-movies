@@ -208,6 +208,11 @@ button in the header hides them.
 - They are written to `movies.json` under a separate `upcoming` key, not in
   `movies`, so showtime counts, filters, plan mode and the changelog ignore
   them.
+- In A-List Plan Mode a pencilled film can be picked like any other and
+  counts toward the week's four. Its plan key is built from the opening date
+  and title (it has no AMC id yet); when a theater lists the film on that
+  date, the page moves the pick onto the real listing. A pick is not carried
+  over if the film ends up opening on a different date.
 - Known weaknesses: films far out have low popularity and can fall under the
   cutoff until closer to release; some regional Indian releases score above
   it but may never play in Birmingham.
