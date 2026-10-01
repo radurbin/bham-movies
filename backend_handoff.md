@@ -1,5 +1,7 @@
 # Movie Calendar Project - Backend Handoff
 
+> **Historical document (July 2026).** Kept for the original design intent only. Everything listed below as remaining or future work (Sidewalk, GitHub Actions, Pages deployment, OMDb) has since been built. See `README.md` for the current state.
+
 ## Goal
 
 Build a static GitHub Pages website that displays movie showtimes for Birmingham-area theaters.

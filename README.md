@@ -51,8 +51,8 @@ Sidewalk showtimes don't need a key — they're scraped directly from Sidewalk's
 
 CI / GitHub Actions
 
-- A workflow file `.github/workflows/update.yml` is included. It runs daily (and can be triggered manually) to:
-  1. Install `requests`.
+- A workflow file `.github/workflows/update.yml` is included. It runs four times a day (and can be triggered manually) to:
+  1. Install the packages in `requirements.txt`.
   2. Run `python fetch_movies.py` which regenerates `docs/movies.json` and downloads missing posters into `docs/posters/`.
   3. Commit any changed files under `docs/` back to the repo so Pages serves the newest data.
 
@@ -73,9 +73,52 @@ Sidewalk showtimes were originally fetched from the TMS/Gracenote API, but
 TMS stopped carrying Sidewalk in its theatre database entirely (confirmed by
 querying TMS directly and finding no Sidewalk listings for the area, despite
 Sidewalk showing current showtimes on their own site). `fetchers/sidewalk.py`
-now scrapes Sidewalk's public cinema page (`sidewalkfest.com/cinema/`)
-directly instead and merges results into `movies.json` the same way AMC's
+now parses Sidewalk's public cinema page (`sidewalkfest.com/cinema/`)
+instead and merges results into `movies.json` the same way AMC's
 showtimes are.
+
+How Sidewalk's pages reach the pipeline
+
+Sidewalk's site is behind Cloudflare, which answers GitHub Actions' runners
+with a JavaScript challenge ("Just a moment...", HTTP 403,
+`cf-mitigated: challenge`) instead of the page. History of what was tried:
+
+1. Direct request from the runner, with browser-like headers: challenged.
+2. A Cloudflare Worker that proxied each request live (Aug 16 – Sep 17,
+   2026): worked for a month, then was challenged too -- but only when a
+   GitHub runner was the one calling the Worker. The same Worker called
+   from a home IP (or a VPN's datacenter IP) still got the real page.
+3. Current design (since Oct 1, 2026): the Worker
+   (`cloudflare/sidewalk-proxy-worker.js`) scrapes every page itself on a
+   Cron Trigger and stores them in Workers KV. Requests to the Worker only
+   read that stored copy, so the runner never causes a request to Sidewalk.
+
+Worker setup (Cloudflare dashboard, account-side -- none of this lives in
+the repo, and the Worker code is deployed by pasting the file into the
+dashboard's editor, not by CI):
+
+- Worker: `shiny-resonance-e149` (`https://shiny-resonance-e149.rileydurbin.workers.dev/`,
+  set as `SIDEWALK_CINEMA_URL` in `config.py`)
+- KV namespace `sidewalk-cache`, bound to the Worker as `SIDEWALK_KV`
+- Cron Trigger `30 3,9,15,21 * * *` (UTC), half an hour before each
+  GitHub Actions run. If the workflow's schedule changes, change this too.
+
+Worker endpoints:
+
+- `/` and `/?_paged=N` -- the stored HTML for page N, with an
+  `X-Fetched-At` header saying when it was scraped
+- `/status` -- JSON with the stored copy's timestamp and page count, plus
+  the result of the latest scrape attempt (including the error if it failed)
+
+A failed scrape leaves the previous stored copy in place, so the site keeps
+showing the last good Sidewalk data rather than dropping the theater.
+`fetchers/sidewalk.py` prints the stored copy's age on every run and a
+`WARNING` once it is older than `SIDEWALK_STALE_HOURS` (24).
+
+Other sources looked at and ruled out: Elevent (Sidewalk's ticketing
+vendor; its widget API at `widget.goelevent.com` needs keys and has no
+listing endpoint), and Sidewalk's WordPress REST API (same host, so the
+same challenge).
 
 How far in the future is fetched
 
@@ -90,7 +133,7 @@ Poster and movie data retention
 
 Scheduling and frequency
 
-- The default workflow runs daily (see `.github/workflows/update.yml`). You can change the cron schedule in that file or trigger the workflow manually from the Actions tab.
+- The workflow runs at 04:00, 10:00, 16:00 and 22:00 UTC (see `.github/workflows/update.yml`). You can change the cron schedule in that file or trigger the workflow manually from the Actions tab (`gh workflow run update.yml`). The Cloudflare Worker's Cron Trigger is set 30 minutes ahead of these times, so keep the two in step.
 
 Security and secrets
 
@@ -99,6 +142,7 @@ Security and secrets
 Troubleshooting
 
 - If Actions fails due to missing keys, confirm `AMC_API_KEY` and `OMDB_API_KEY` are set in the repository secrets.
+- If Sidewalk disappears from the site or its showtimes look stale: a Sidewalk failure does not fail the workflow (the run continues with AMC only), so check the run log for the `Fetching Sidewalk showtimes` section, then open the Worker's `/status` URL. `"ok": false` with `cf-mitigated challenge` in the error means Sidewalk has started challenging the Worker's scheduled scrape as well; the fallback that was planned but never needed is running the Sidewalk scrape from a home machine and committing its output for the workflow to merge.
 - If posters are failing to download due to remote URL changes, inspect the `docs/movies.json` poster URLs and check network access.
 
 Next improvements (suggested)
