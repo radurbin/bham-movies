@@ -7,8 +7,8 @@ Letterboxd has no public API. Instead this looks up each movie's
 Letterboxd page via its IMDb ID -- `letterboxd.com/imdb/{imdb_id}/`
 redirects straight to the matching film page -- and pulls the average
 rating out of the page's embedded JSON-LD (`schema.org` AggregateRating).
-Results are cached on disk the same way `fetchers/omdb.py` caches OMDb
-responses, so repeat runs only look up movies that are new.
+Every run looks every movie up afresh, so a rating is never more than
+one run old. Nothing is cached on disk.
 
 Movies without an `imdb_id` (OMDb couldn't find a match) are skipped.
 Letterboxd's own search page sits behind bot protection that 403s
@@ -21,12 +21,10 @@ from __future__ import annotations
 import json
 import re
 import time
-from pathlib import Path
 
 import requests
 
 from config import (
-    LETTERBOXD_CACHE,
     LETTERBOXD_DELAY,
     REQUEST_TIMEOUT,
     USER_AGENT,
@@ -45,34 +43,11 @@ class LetterboxdFetcher:
 
     def __init__(self):
 
-        self.cache_path = Path(LETTERBOXD_CACHE)
-
-        self.cache_path.parent.mkdir(
-            parents=True,
-            exist_ok=True,
-        )
-
-        if self.cache_path.exists():
-
-            with open(self.cache_path, "r") as f:
-                self.cache = json.load(f)
-
-        else:
-
-            self.cache = {}
-
-
-    # ---------------------------------------------------------
-
-    def save_cache(self):
-
-        with open(self.cache_path, "w") as f:
-
-            json.dump(
-                self.cache,
-                f,
-                indent=2,
-            )
+        # Per-run only (so two listings of the same film share one
+        # request). Deliberately not saved to disk: ratings for new
+        # releases move quickly, and a cache file committed to the repo
+        # once froze eight films' ratings for six weeks.
+        self.cache = {}
 
 
     # ---------------------------------------------------------
@@ -134,9 +109,16 @@ class LetterboxdFetcher:
 
             print(f"Letterboxd: {imdb_id}")
 
-            self.cache[imdb_id] = self._lookup(imdb_id)
+            try:
 
-            self.save_cache()
+                self.cache[imdb_id] = self._lookup(imdb_id)
+
+            except requests.RequestException as ex:
+
+                # One film's page failing shouldn't stop the run.
+                print(f"Letterboxd request failed for {imdb_id}: {ex}")
+
+                self.cache[imdb_id] = {}
 
             time.sleep(LETTERBOXD_DELAY)
 
@@ -171,7 +153,5 @@ class LetterboxdFetcher:
         for movie in movies:
 
             self.enrich_movie(movie)
-
-        self.save_cache()
 
         return movies

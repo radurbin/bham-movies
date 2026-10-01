@@ -64,8 +64,10 @@ ANNIVERSARY_NUMBER_RE = re.compile(
 
 # The cache is committed by the GitHub Actions workflow so each run only
 # asks OMDb about new or expired titles (the free tier allows 1,000
-# requests a day). Hits expire so ratings stay reasonably current; misses
-# expire sooner so a film OMDb adds later still gets picked up.
+# requests a day). Hits expire so ratings stay current -- daily for
+# recent films, whose IMDb rating is still moving, weekly for older ones.
+# Misses expire so a film OMDb adds later still gets picked up.
+CACHE_RECENT_HIT_TTL = 24 * 3600
 CACHE_HIT_TTL = 7 * 24 * 3600
 CACHE_MISS_TTL = 2 * 24 * 3600
 
@@ -229,11 +231,22 @@ class OMDbFetcher:
         if not fetched_at:
             return True
 
-        ttl = (
-            CACHE_MISS_TTL
-            if entry.get("Response") == "False"
-            else CACHE_HIT_TTL
-        )
+        if entry.get("Response") == "False":
+
+            ttl = CACHE_MISS_TTL
+
+        else:
+
+            # "Recent" = released this year or last (OMDb's Year can be
+            # a range like "2011–2016"; the first four digits are enough).
+            try:
+                year = int(str(entry.get("Year", ""))[:4])
+            except ValueError:
+                year = 0
+
+            recent = year >= time.gmtime().tm_year - 1
+
+            ttl = CACHE_RECENT_HIT_TTL if recent else CACHE_HIT_TTL
 
         return time.time() - fetched_at > ttl
 

@@ -31,8 +31,6 @@ MOVIES_JSON = DOCS_DIR / "movies.json"
 
 OMDB_CACHE = CACHE_DIR / "omdb_cache.json"
 
-LETTERBOXD_CACHE = CACHE_DIR / "letterboxd_cache.json"
-
 # ============================================================
 # API Keys
 # ============================================================
