@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-08 08:57 AM CDT",
-    "movies_added": [
-      "Dora and the Lost City of Gold",
-      "Forgotten Island",
-      "Instructions Not Included ",
-      "Stand and Deliver"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-08 02:04 PM CDT",
     "movies_added": [
       "AMC Screen Unseen: September 21"
@@ -43507,6 +43496,190 @@
             "format": "Standard"
           }
         ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-02 03:14 PM CDT",
+    "movies_added": [
+      "Flywheel: Ignition of the Soul"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Adore Him: He is Here",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-05T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Heart of the Beast",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T19:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T19:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Ninja Scroll",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-05T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Verity",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-02T17:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T21:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T12:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Forgotten Island",
+        "added": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T22:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T11:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T21:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T12:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Primetime",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T18:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-05T19:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-05T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-02T16:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Stand and Deliver",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T18:50:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T11:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Practical Magic 2",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-05T18:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Resident Evil",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-05T18:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
       }
     ]
   }

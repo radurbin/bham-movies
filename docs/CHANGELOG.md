@@ -1,3 +1,42 @@
+## 2026-10-02 03:14 PM CDT
+
+**Movies added:**
+- Flywheel: Ignition of the Soul
+
+**Showtime changes:**
+- Adore Him: He is Here
+  - − AMC Summit 16 @ 2026-10-04T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-04T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-05T19:00:00 (Standard)
+- Heart of the Beast
+  - + AMC Patton Creek 15 @ 2026-10-04T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-04T19:10:00 (Standard)
+- Ninja Scroll
+  - − AMC Patton Creek 15 @ 2026-10-05T19:00:00 (Standard)
+- Verity
+  - + AMC Summit 16 @ 2026-10-02T17:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-02T21:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-04T12:45:00 (Standard)
+- Forgotten Island
+  - + AMC Vestavia Hills 10 @ 2026-10-02T22:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-04T11:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-02T21:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-04T12:45:00 (Standard)
+- Primetime
+  - + AMC Patton Creek 15 @ 2026-10-04T18:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-05T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-05T18:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Summit 16 @ 2026-10-02T16:40:00 (Standard)
+- Stand and Deliver
+  - + AMC Summit 16 @ 2026-10-04T18:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-04T11:45:00 (Standard)
+- Practical Magic 2
+  - + AMC Patton Creek 15 @ 2026-10-05T18:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-02T22:15:00 (Standard)
+- Resident Evil
+  - + AMC Patton Creek 15 @ 2026-10-05T18:45:00 (Standard)
+
 ## 2026-10-02 05:07 AM CDT
 
 **Movies removed:**
