@@ -2573,5 +2573,47 @@
     "Response": "False",
     "Error": "Movie not found!",
     "_fetched_at": 1790887096.9447386
+  },
+  "the scout (2026)": {
+    "Response": "False",
+    "Error": "Movie not found!",
+    "_fetched_at": 1790903404.0881112
+  },
+  "the scout": {
+    "Title": "The Scout",
+    "Year": "1994",
+    "Rated": "PG-13",
+    "Released": "30 Sep 1994",
+    "Runtime": "101 min",
+    "Genre": "Comedy, Drama, Sport",
+    "Director": "Michael Ritchie",
+    "Writer": "Roger Angell, Andrew Bergman, Albert Brooks",
+    "Actors": "Albert Brooks, Brendan Fraser, Dianne Wiest",
+    "Plot": "The story of a baseball scout who discovers a talented but troubled baseball player.",
+    "Language": "English",
+    "Country": "United States, Mexico",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzFhZWE5NjgtNDNkNy00MGVhLWI2NjQtZThjZTk4ODg0Y2JiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "33%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.4",
+    "imdbVotes": "7,046",
+    "imdbID": "tt0111094",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$2,694,234",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "_fetched_at": 1790903404.4433784
   }
 }

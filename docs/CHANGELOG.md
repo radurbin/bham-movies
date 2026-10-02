@@ -1,3 +1,8 @@
+## 2026-10-01 08:10 PM CDT
+
+**Movies added:**
+- The Scout
+
 ## 2026-10-01 03:38 PM CDT
 
 **Movies added:**
