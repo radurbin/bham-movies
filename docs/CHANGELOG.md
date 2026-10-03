@@ -1,3 +1,18 @@
+## 2026-10-03 01:53 PM CDT
+
+**Movies added:**
+- Wicker
+
+**Showtime changes:**
+- Verity
+  - + AMC Summit 16 @ 2026-10-03T16:00:00 (Standard)
+- The Odyssey
+  - − AMC Summit 16 @ 2026-10-03T21:45:00 (Standard)
+- Drishyam - The Conclusion
+  - + AMC Summit 16 @ 2026-10-03T21:45:00 (Standard)
+- Coyote vs. Acme
+  - − AMC Summit 16 @ 2026-10-03T16:00:00 (Standard)
+
 ## 2026-10-03 09:29 AM CDT
 
 **Showtime changes:**

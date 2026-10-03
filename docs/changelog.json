@@ -1,13 +1,5 @@
 [
   {
-    "date": "2026-09-09 09:00 AM CDT",
-    "movies_added": [
-      "Moonlight 10th Anniversary Remastered"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-09 01:55 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -39824,6 +39816,59 @@
           {
             "theater": "Sidewalk Film Center + Cinema",
             "datetime": "2026-10-02T23:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-03 01:53 PM CDT",
+    "movies_added": [
+      "Wicker"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Verity",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-03T16:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "The Odyssey",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-03T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Drishyam - The Conclusion",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-03T21:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Coyote vs. Acme",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-03T16:00:00",
             "format": "Standard"
           }
         ]
