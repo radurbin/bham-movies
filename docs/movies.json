@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-02T15:14:28.967949-05:00",
+    "generated_at": "2026-10-02T19:48:42.751595-05:00",
     "movie_count": 118,
     "showtime_count": 2757,
     "theaters": {
@@ -725,7 +725,7 @@
       "rotten_tomatoes": "74%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.88,
-      "letterboxd_rating_count": 679231,
+      "letterboxd_rating_count": 679347,
       "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind/",
       "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
       "language": "English",
@@ -4123,7 +4123,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.87,
-      "letterboxd_rating_count": 801,
+      "letterboxd_rating_count": 843,
       "letterboxd_url": "https://letterboxd.com/film/april-x/",
       "awards": "1 win total",
       "language": "English",
@@ -4597,49 +4597,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 147425612,
-          "datetime": "2026-10-02T19:00:00",
-          "datetime_utc": "2026-10-03T00:00:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 29.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/vestaviahills/all/147425612",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Pay with Disney Rewards Redemption Card",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 147494981,
@@ -4930,49 +4887,6 @@
               "type": "SENIOR",
               "price": 10.5,
               "tax": 0.91
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 147425606,
-          "datetime": "2026-10-03T15:00:00",
-          "datetime_utc": "2026-10-03T20:00:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 29.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/vestaviahills/all/147425606",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Pay with Disney Rewards Redemption Card",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "CHILD",
-              "price": 10.55,
-              "tax": 0.96
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.87,
-              "tax": 1.08
             }
           ]
         },
@@ -33779,7 +33693,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "63/100",
       "letterboxd_rating": 3.44,
-      "letterboxd_rating_count": 11004,
+      "letterboxd_rating_count": 11010,
       "letterboxd_url": "https://letterboxd.com/film/california-schemin/",
       "awards": "1 win total",
       "language": "English",
@@ -34193,7 +34107,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.83,
-      "letterboxd_rating_count": 559687,
+      "letterboxd_rating_count": 561177,
       "letterboxd_url": "https://letterboxd.com/film/coyote-vs-acme/",
       "awards": "1 win total",
       "language": "English",
@@ -35211,8 +35125,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.72,
-      "letterboxd_rating_count": 55937,
+      "letterboxd_rating": 3.73,
+      "letterboxd_rating_count": 69553,
       "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
       "awards": "N/A",
       "language": "English",
@@ -43652,7 +43566,7 @@
       "rotten_tomatoes": "88%",
       "metacritic": "88/100",
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 2549121,
+      "letterboxd_rating_count": 2550173,
       "letterboxd_url": "https://letterboxd.com/film/donnie-darko/",
       "awards": "12 wins & 17 nominations total",
       "language": "English",
@@ -43926,8 +43840,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.53,
-      "letterboxd_rating_count": 1173,
+      "letterboxd_rating": 3.48,
+      "letterboxd_rating_count": 1432,
       "letterboxd_url": "https://letterboxd.com/film/drishyam-the-conclusion/",
       "awards": "N/A",
       "language": "Hindi",
@@ -50095,7 +50009,7 @@
       "rotten_tomatoes": null,
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 62799,
+      "letterboxd_rating_count": 63511,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -53175,7 +53089,7 @@
       "rotten_tomatoes": null,
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 62799,
+      "letterboxd_rating_count": 63511,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -53627,7 +53541,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.86,
-      "letterboxd_rating_count": 280948,
+      "letterboxd_rating_count": 280975,
       "letterboxd_url": "https://letterboxd.com/film/gone-with-the-wind/",
       "awards": "Won 8 Oscars. 26 wins & 10 nominations total",
       "language": "English",
@@ -55125,7 +55039,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.3,
-      "letterboxd_rating_count": 83722,
+      "letterboxd_rating_count": 85412,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -59134,7 +59048,7 @@
       "rotten_tomatoes": "63%",
       "metacritic": "55/100",
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 66853,
+      "letterboxd_rating_count": 66864,
       "letterboxd_url": "https://letterboxd.com/film/instructions-not-included/",
       "awards": "7 wins & 8 nominations total",
       "language": "Spanish, English, Portuguese",
@@ -59738,7 +59652,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "89/100",
       "letterboxd_rating": 4.45,
-      "letterboxd_rating_count": 794535,
+      "letterboxd_rating_count": 794591,
       "letterboxd_url": "https://letterboxd.com/film/its-a-wonderful-life/",
       "awards": "Nominated for 5 Oscars. 11 wins & 7 nominations total",
       "language": "English, French",
@@ -62350,7 +62264,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": "99/100",
       "letterboxd_rating": 4.19,
-      "letterboxd_rating_count": 1584228,
+      "letterboxd_rating_count": 1584590,
       "letterboxd_url": "https://letterboxd.com/film/moonlight-2016/",
       "awards": "Won 3 Oscars. 235 wins & 310 nominations total",
       "language": "English",
@@ -62857,7 +62771,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": null,
       "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 43957,
+      "letterboxd_rating_count": 43963,
       "letterboxd_url": "https://letterboxd.com/film/ninja-scroll/",
       "awards": "1 win total",
       "language": "Japanese",
@@ -62972,7 +62886,7 @@
       "poster": "posters/other-mommy-2026.jpg",
       "backdrop": null,
       "short_description": null,
-      "plot": "AMC has been advised that this film contains sequences with flashing lights that may affect photosensitive viewers.\n\nCan I go inside your heart? \n\nFrom James Wan, one of the most influential architects of modern horror and the visionary behind M3GAN, Saw, Insidious and The Conjuring franchises--comes a terrifying, supernatural trip into the darkening world of a young girl as her family, and their home, are haunted by a sinister entity that is determined to take up residence inside her. But first, it needs to persuade her to let it in ... Academy Award? winner Jessica Chastain (It Chapter Two, The Eyes of Tammy Faye), Jay Duplass (Transparent, Industry), Arabella Olivia Clark (Springsteen: Deliver Me From Nowhere, The Hand that Rocks the Cradle) and Dichen Lachman (Severance) star in this chilling tale of terror, from Rob Savage, the bold genre director of the acclaimed films Host and The Boogeyman. From Atomic Monster and Blumhouse, the film is from a screenplay by WGA award winner Nathan Elston, writer for the Emmy-winning sensation Succession, based on the New York Times bestselling novel Incidents Around the House by Josh Malerman (Bird Box). The film is produced by James Wan and is executive produced by Michael Clear, Judson Scott, Macdara Kelleher, Rob Savage, Josh Malerman and Ryan Lewis. Alayna Glasthal is the executive overseeing the film for Atomic Monster.\n\nFrom James Wan, one of the most influential architects of modern horror and the visionary behind M3GAN, Saw, Insidious and The Conjuring franchises--comes a terrifying, supernatural trip into the darkening world of a young girl as her family, and their home, are haunted by a sinister entity that is determined to take up residence inside her. But first, it needs to persuade her to let it in ... Academy Award? winner Jessica Chastain (It Chapter Two, The Eyes of Tammy Faye), Jay Duplass (Transparent, Industry), Arabella Olivia Clark (Springsteen: Deliver Me From Nowhere, The Hand that Rocks the Cradle) and Dichen Lachman (Severance) star in this chilling tale of terror, from Rob Savage, the bold genre director of the acclaimed films Host and The Boogeyman. From Atomic Monster and Blumhouse, the film is from a screenplay by WGA award winner Nathan Elston, writer for the Emmy-winning sensation Succession, based on the New York Times bestselling novel Incidents Around the House by Josh Malerman (Bird Box). The film is produced by James Wan and is executive produced by Michael Clear, Judson Scott, Macdara Kelleher, Rob Savage, Josh Malerman and Ryan Lewis. Alayna Glasthal is the executive overseeing the film for Atomic Monster.",
+      "plot": "AMC has been advised that this film contains sequences with flashing lights that may affect photosensitive viewers.\n\nCan I go inside your heart? \n\nFrom James Wan, one of the most influential architects of modern horror and the visionary behind M3GAN, Saw, Insidious and The Conjuring franchises--comes a terrifying, supernatural trip into the darkening world of a young girl as her family, and their home, are haunted by a sinister entity that is determined to take up residence inside her. But first, it needs to persuade her to let it in ... Academy Award winner Jessica Chastain (It Chapter Two, The Eyes of Tammy Faye), Jay Duplass (Transparent, Industry), Arabella Olivia Clark (Springsteen: Deliver Me From Nowhere, The Hand that Rocks the Cradle) and Dichen Lachman (Severance) star in this chilling tale of terror, from Rob Savage, the bold genre director of the acclaimed films Host and The Boogeyman. From Atomic Monster and Blumhouse, the film is from a screenplay by WGA award winner Nathan Elston, writer for the Emmy-winning sensation Succession, based on the New York Times bestselling novel Incidents Around the House by Josh Malerman (Bird Box). The film is produced by James Wan and is executive produced by Michael Clear, Judson Scott, Macdara Kelleher, Rob Savage, Josh Malerman and Ryan Lewis. Alayna Glasthal is the executive overseeing the film for Atomic Monster.",
       "directors": [
         "Rob Savage"
       ],
@@ -68048,8 +67962,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.88,
-      "letterboxd_rating_count": 139688,
+      "letterboxd_rating": 2.87,
+      "letterboxd_rating_count": 140050,
       "letterboxd_url": "https://letterboxd.com/film/practical-magic-2/",
       "awards": "1 nomination total",
       "language": "English",
@@ -68345,47 +68259,6 @@
               "type": "SENIOR",
               "price": 14.84,
               "tax": 1.35
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 147494973,
-          "datetime": "2026-10-02T22:35:00",
-          "datetime_utc": "2026-10-03T03:35:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/summit/all/147494973",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.94,
-              "tax": 1.45
-            },
-            {
-              "type": "CHILD",
-              "price": 12.64,
-              "tax": 1.15
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.29,
-              "tax": 1.3
             }
           ]
         },
@@ -70522,8 +70395,8 @@
       "imdb_votes": "120",
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
-      "letterboxd_rating": 3.71,
-      "letterboxd_rating_count": 414128,
+      "letterboxd_rating": 3.7,
+      "letterboxd_rating_count": 420310,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -71545,8 +71418,8 @@
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 147425555,
-          "datetime": "2026-10-03T23:10:00",
-          "datetime_utc": "2026-10-04T04:10:00Z",
+          "datetime": "2026-10-03T22:40:00",
+          "datetime_utc": "2026-10-04T03:40:00Z",
           "auditorium": 5,
           "screen_width_ft": 31.7,
           "premium_format": "Standard",
@@ -74054,7 +73927,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.77,
-      "letterboxd_rating_count": 1144812,
+      "letterboxd_rating_count": 1154492,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -77793,7 +77666,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "70/100",
       "letterboxd_rating": 4.12,
-      "letterboxd_rating_count": 1094178,
+      "letterboxd_rating_count": 1094406,
       "letterboxd_url": "https://letterboxd.com/film/rocky/",
       "awards": "Won 3 Oscars. 23 wins & 23 nominations total",
       "language": "English, Spanish, Italian",
@@ -79287,7 +79160,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.92,
-      "letterboxd_rating_count": 28297,
+      "letterboxd_rating_count": 29260,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -83665,7 +83538,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.04,
-      "letterboxd_rating_count": 4302244,
+      "letterboxd_rating_count": 4304153,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -84242,48 +84115,6 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 147425554,
-          "datetime": "2026-10-03T19:40:00",
-          "datetime_utc": "2026-10-04T00:40:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/vestaviahills/all/147425554",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
             }
           ]
         },
@@ -85992,7 +85823,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "96/100",
       "letterboxd_rating": 4.43,
-      "letterboxd_rating_count": 4039250,
+      "letterboxd_rating_count": 4039821,
       "letterboxd_url": "https://letterboxd.com/film/spirited-away/",
       "awards": "Won 1 Oscar. 58 wins & 31 nominations total",
       "language": "Japanese, English",
@@ -86576,7 +86407,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.23,
-      "letterboxd_rating_count": 4599,
+      "letterboxd_rating_count": 4607,
       "letterboxd_url": "https://letterboxd.com/film/spirited-away-live-on-stage/",
       "awards": "N/A",
       "language": "Japanese",
@@ -86714,7 +86545,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.56,
-      "letterboxd_rating_count": 33708,
+      "letterboxd_rating_count": 33723,
       "letterboxd_url": "https://letterboxd.com/film/stand-and-deliver/",
       "awards": "Nominated for 1 Oscar. 11 wins & 7 nominations total",
       "language": "English, Spanish",
@@ -93243,8 +93074,8 @@
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 147425610,
-          "datetime": "2026-10-02T23:15:00",
-          "datetime_utc": "2026-10-03T04:15:00Z",
+          "datetime": "2026-10-02T22:05:00",
+          "datetime_utc": "2026-10-03T03:05:00Z",
           "auditorium": 7,
           "screen_width_ft": 29.0,
           "premium_format": "Standard",
@@ -94171,7 +94002,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 161480,
+      "letterboxd_rating_count": 161505,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -95079,7 +94910,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "88/100",
       "letterboxd_rating": 4.35,
-      "letterboxd_rating_count": 4492777,
+      "letterboxd_rating_count": 4494618,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "3 wins total",
       "language": "English, Greek",
@@ -101197,7 +101028,7 @@
       "rotten_tomatoes": "67%",
       "metacritic": "45/100",
       "letterboxd_rating": 4.35,
-      "letterboxd_rating_count": 509600,
+      "letterboxd_rating_count": 509711,
       "letterboxd_url": "https://letterboxd.com/film/twin-peaks-fire-walk-with-me/",
       "awards": "4 wins & 7 nominations total",
       "language": "English, Latin",
@@ -101515,7 +101346,7 @@
       "rotten_tomatoes": "73%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 1022404,
+      "letterboxd_rating_count": 1022559,
       "letterboxd_url": "https://letterboxd.com/film/v-for-vendetta/",
       "awards": "7 wins & 29 nominations total",
       "language": "English, French, Latin, Spanish",
@@ -101780,8 +101611,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.77,
-      "letterboxd_rating_count": 39672,
+      "letterboxd_rating": 2.76,
+      "letterboxd_rating_count": 47899,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -102338,7 +102169,7 @@
           "premium_format": "PRIME at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/vestaviahills/all/147425490",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -102366,6 +102197,48 @@
               "type": "SENIOR",
               "price": 20.34,
               "tax": 1.85
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 147571801,
+          "datetime": "2026-10-02T19:10:00",
+          "datetime_utc": "2026-10-03T00:10:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/vestaviahills/all/147571801",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
             }
           ]
         },
@@ -102743,6 +102616,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 147573084,
+          "datetime": "2026-10-02T22:35:00",
+          "datetime_utc": "2026-10-03T03:35:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/summit/all/147573084",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.94,
+              "tax": 1.45
+            },
+            {
+              "type": "CHILD",
+              "price": 12.64,
+              "tax": 1.15
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.29,
+              "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 146747939,
@@ -102959,6 +102873,48 @@
           "screen_width_ft": 43.5,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/vestaviahills/all/146747961",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "CHILD",
+              "price": 10.55,
+              "tax": 0.96
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.87,
+              "tax": 1.08
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 147573376,
+          "datetime": "2026-10-03T15:00:00",
+          "datetime_utc": "2026-10-03T20:00:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 29.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/vestaviahills/all/147573376",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -103275,6 +103231,48 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 147573375,
+          "datetime": "2026-10-03T19:45:00",
+          "datetime_utc": "2026-10-04T00:45:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 31.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/vestaviahills/all/147573375",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.49,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 13.19,
+              "tax": 1.2
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.84,
+              "tax": 1.35
             }
           ]
         },
@@ -107215,8 +107213,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.77,
-      "letterboxd_rating_count": 39672,
+      "letterboxd_rating": 2.76,
+      "letterboxd_rating_count": 47899,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -115259,7 +115257,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 6585,
+      "letterboxd_rating_count": 6729,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
@@ -117502,7 +117500,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.06,
-      "letterboxd_rating_count": 38936,
+      "letterboxd_rating_count": 38943,
       "letterboxd_url": "https://letterboxd.com/film/yuri-on-ice/",
       "awards": "12 wins & 13 nominations total",
       "language": "Japanese",
@@ -117922,7 +117920,8 @@
       "runtime": null,
       "genres": [
         "Drama",
-        "Fantasy"
+        "Fantasy",
+        "Comedy"
       ],
       "plot": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
       "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",

@@ -1,3 +1,25 @@
+## 2026-10-02 07:48 PM CDT
+
+**Showtime changes:**
+- Verity
+  - + AMC Vestavia Hills 10 @ 2026-10-02T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-02T22:35:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-03T15:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-03T19:45:00 (Standard)
+- Practical Magic 2
+  - − AMC Summit 16 @ 2026-10-02T22:35:00 (Standard)
+- Primetime
+  - + AMC Vestavia Hills 10 @ 2026-10-03T22:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-03T23:10:00 (Standard)
+- The Influencer Project
+  - + AMC Vestavia Hills 10 @ 2026-10-02T22:05:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-02T23:15:00 (Standard)
+- Avengers Endgame: Encore
+  - − AMC Vestavia Hills 10 @ 2026-10-02T19:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-03T15:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Vestavia Hills 10 @ 2026-10-03T19:40:00 (Standard)
+
 ## 2026-10-02 03:14 PM CDT
 
 **Movies added:**

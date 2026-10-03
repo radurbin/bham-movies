@@ -1,13 +1,5 @@
 [
   {
-    "date": "2026-09-08 02:04 PM CDT",
-    "movies_added": [
-      "AMC Screen Unseen: September 21"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-08 06:44 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -43680,6 +43672,111 @@
           }
         ],
         "removed": []
+      }
+    ]
+  },
+  {
+    "date": "2026-10-02 07:48 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Verity",
+        "added": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T19:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-02T22:35:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-03T15:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-03T19:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Practical Magic 2",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-02T22:35:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Primetime",
+        "added": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-03T22:40:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-03T23:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Influencer Project",
+        "added": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T22:05:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T23:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Avengers Endgame: Encore",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-02T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-03T15:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-03T19:40:00",
+            "format": "Standard"
+          }
+        ]
       }
     ]
   }
