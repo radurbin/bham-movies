@@ -1,3 +1,12 @@
+## 2026-10-03 09:29 AM CDT
+
+**Showtime changes:**
+- Digger
+  - − Sidewalk Film Center + Cinema @ 2026-10-02T19:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-02T22:15:00 (Standard)
+- Twin Peaks: Fire Walk With Me (1991)
+  - − Sidewalk Film Center + Cinema @ 2026-10-02T23:00:00 (Standard)
+
 ## 2026-10-03 04:30 AM CDT
 
 **Movies removed:**
