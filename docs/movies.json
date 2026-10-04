@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-10-04T05:17:08.306449-05:00",
+    "generated_at": "2026-10-04T13:53:09.982773-05:00",
     "movie_count": 115,
-    "showtime_count": 2439,
+    "showtime_count": 2433,
     "theaters": {
       "Sidewalk Film Center + Cinema": 103,
       "AMC Summit 16": 826,
       "AMC Patton Creek 15": 1013,
-      "AMC Vestavia Hills 10": 497
+      "AMC Vestavia Hills 10": 491
     }
   },
   "movies": [
@@ -725,7 +725,7 @@
       "rotten_tomatoes": "74%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.88,
-      "letterboxd_rating_count": 679919,
+      "letterboxd_rating_count": 680089,
       "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind/",
       "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
       "language": "English",
@@ -4125,7 +4125,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.72,
-      "letterboxd_rating_count": 1054,
+      "letterboxd_rating_count": 1070,
       "letterboxd_url": "https://letterboxd.com/film/april-x/",
       "awards": "1 win total",
       "language": "English",
@@ -32357,7 +32357,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "63/100",
       "letterboxd_rating": 3.44,
-      "letterboxd_rating_count": 11019,
+      "letterboxd_rating_count": 11024,
       "letterboxd_url": "https://letterboxd.com/film/california-schemin/",
       "awards": "1 win total",
       "language": "English",
@@ -32689,7 +32689,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.83,
-      "letterboxd_rating_count": 571535,
+      "letterboxd_rating_count": 574106,
       "letterboxd_url": "https://letterboxd.com/film/coyote-vs-acme/",
       "awards": "1 win total",
       "language": "English",
@@ -32712,7 +32712,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/summit/all/147512405",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -33383,8 +33383,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.79,
-      "letterboxd_rating_count": 140413,
+      "letterboxd_rating": 3.8,
+      "letterboxd_rating_count": 154954,
       "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
       "awards": "N/A",
       "language": "English",
@@ -33468,7 +33468,7 @@
           "screen_width_ft": 41.3,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/147205524",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -33753,49 +33753,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 147205523,
-          "datetime": "2026-10-04T16:00:00",
-          "datetime_utc": "2026-10-04T21:00:00Z",
-          "auditorium": 2,
-          "screen_width_ft": 41.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/147205523",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 147048123,
@@ -33941,49 +33898,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 147205521,
-          "datetime": "2026-10-04T19:15:00",
-          "datetime_utc": "2026-10-05T00:15:00Z",
-          "auditorium": 2,
-          "screen_width_ft": 41.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/147205521",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 147048124,
@@ -34104,49 +34018,6 @@
               "type": "SENIOR",
               "price": 18.6,
               "tax": 1.61
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 147205522,
-          "datetime": "2026-10-04T22:30:00",
-          "datetime_utc": "2026-10-05T03:30:00Z",
-          "auditorium": 2,
-          "screen_width_ft": 41.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/147205522",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
             }
           ]
         },
@@ -40296,7 +40167,7 @@
       "rotten_tomatoes": "88%",
       "metacritic": "88/100",
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 2556936,
+      "letterboxd_rating_count": 2558096,
       "letterboxd_url": "https://letterboxd.com/film/donnie-darko/",
       "awards": "12 wins & 17 nominations total",
       "language": "English",
@@ -46360,7 +46231,7 @@
       "rotten_tomatoes": null,
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 71290,
+      "letterboxd_rating_count": 72807,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -46423,7 +46294,7 @@
           "screen_width_ft": 36.5,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/146842043",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -46537,48 +46408,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146842042,
-          "datetime": "2026-10-04T15:45:00",
-          "datetime_utc": "2026-10-04T20:45:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 36.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/146842042",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "CHILD",
-              "price": 10.55,
-              "tax": 0.96
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.87,
-              "tax": 1.08
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146810576,
@@ -46660,48 +46489,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146842040,
-          "datetime": "2026-10-04T18:30:00",
-          "datetime_utc": "2026-10-04T23:30:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 36.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/146842040",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 146810662,
@@ -46737,48 +46524,6 @@
               "type": "SENIOR",
               "price": 13.13,
               "tax": 1.14
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 146842041,
-          "datetime": "2026-10-04T21:15:00",
-          "datetime_utc": "2026-10-05T02:15:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 36.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/146842041",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.49,
-              "tax": 1.5
-            },
-            {
-              "type": "CHILD",
-              "price": 13.19,
-              "tax": 1.2
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.84,
-              "tax": 1.35
             }
           ]
         },
@@ -48497,7 +48242,7 @@
       "rotten_tomatoes": null,
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 71290,
+      "letterboxd_rating_count": 72807,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -48949,7 +48694,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.86,
-      "letterboxd_rating_count": 281194,
+      "letterboxd_rating_count": 281258,
       "letterboxd_url": "https://letterboxd.com/film/gone-with-the-wind/",
       "awards": "Won 8 Oscars. 26 wins & 10 nominations total",
       "language": "English",
@@ -50447,7 +50192,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.3,
-      "letterboxd_rating_count": 95703,
+      "letterboxd_rating_count": 98575,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -50469,7 +50214,7 @@
           "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/147425601",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -53223,7 +52968,7 @@
       "rotten_tomatoes": "63%",
       "metacritic": "55/100",
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 66943,
+      "letterboxd_rating_count": 66956,
       "letterboxd_url": "https://letterboxd.com/film/instructions-not-included/",
       "awards": "7 wins & 8 nominations total",
       "language": "Spanish, English, Portuguese",
@@ -53827,7 +53572,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "89/100",
       "letterboxd_rating": 4.45,
-      "letterboxd_rating_count": 794989,
+      "letterboxd_rating_count": 795104,
       "letterboxd_url": "https://letterboxd.com/film/its-a-wonderful-life/",
       "awards": "Nominated for 5 Oscars. 11 wins & 7 nominations total",
       "language": "English, French",
@@ -56354,7 +56099,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": "99/100",
       "letterboxd_rating": 4.19,
-      "letterboxd_rating_count": 1587366,
+      "letterboxd_rating_count": 1587760,
       "letterboxd_url": "https://letterboxd.com/film/moonlight-2016/",
       "awards": "Won 3 Oscars. 235 wins & 310 nominations total",
       "language": "English",
@@ -56707,7 +56452,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": null,
       "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 44008,
+      "letterboxd_rating_count": 44024,
       "letterboxd_url": "https://letterboxd.com/film/ninja-scroll/",
       "awards": "1 win total",
       "language": "Japanese",
@@ -61879,7 +61624,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.87,
-      "letterboxd_rating_count": 142265,
+      "letterboxd_rating_count": 142805,
       "letterboxd_url": "https://letterboxd.com/film/practical-magic-2/",
       "awards": "1 nomination total",
       "language": "English",
@@ -61901,7 +61646,7 @@
           "screen_width_ft": 31.7,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/147425629",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -61944,7 +61689,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/summit/all/147512235",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -63612,7 +63357,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.69,
-      "letterboxd_rating_count": 470287,
+      "letterboxd_rating_count": 477259,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -66094,7 +65839,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.77,
-      "letterboxd_rating_count": 1214371,
+      "letterboxd_rating_count": 1227711,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -66158,7 +65903,7 @@
           "screen_width_ft": 43.5,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/147425655",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -68615,7 +68360,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "70/100",
       "letterboxd_rating": 4.12,
-      "letterboxd_rating_count": 1095601,
+      "letterboxd_rating_count": 1095976,
       "letterboxd_url": "https://letterboxd.com/film/rocky/",
       "awards": "Won 3 Oscars. 23 wins & 23 nominations total",
       "language": "English, Spanish, Italian",
@@ -69792,8 +69537,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.94,
-      "letterboxd_rating_count": 32822,
+      "letterboxd_rating": 3.95,
+      "letterboxd_rating_count": 34532,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -74171,7 +73916,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.04,
-      "letterboxd_rating_count": 4315885,
+      "letterboxd_rating_count": 4319545,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -75806,7 +75551,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "96/100",
       "letterboxd_rating": 4.43,
-      "letterboxd_rating_count": 4042995,
+      "letterboxd_rating_count": 4044084,
       "letterboxd_url": "https://letterboxd.com/film/spirited-away/",
       "awards": "Won 1 Oscar. 58 wins & 31 nominations total",
       "language": "Japanese, English",
@@ -76528,7 +76273,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.56,
-      "letterboxd_rating_count": 33804,
+      "letterboxd_rating_count": 33808,
       "letterboxd_url": "https://letterboxd.com/film/stand-and-deliver/",
       "awards": "Nominated for 1 Oscar. 11 wins & 7 nominations total",
       "language": "English, Spanish",
@@ -82737,7 +82482,7 @@
       "title": "The Influencer Project",
       "release_year": 2026,
       "runtime": 95,
-      "rating": "NR",
+      "rating": "R",
       "genres": [
         "HORROR"
       ],
@@ -83380,7 +83125,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 161727,
+      "letterboxd_rating_count": 161780,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -84032,7 +83777,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "88/100",
       "letterboxd_rating": 4.35,
-      "letterboxd_rating_count": 4505419,
+      "letterboxd_rating_count": 4508851,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "3 wins total",
       "language": "English, Greek",
@@ -89818,7 +89563,7 @@
       "rotten_tomatoes": "67%",
       "metacritic": "45/100",
       "letterboxd_rating": 4.35,
-      "letterboxd_rating_count": 510321,
+      "letterboxd_rating_count": 510487,
       "letterboxd_url": "https://letterboxd.com/film/twin-peaks-fire-walk-with-me/",
       "awards": "4 wins & 7 nominations total",
       "language": "English, Latin",
@@ -89962,7 +89707,7 @@
       "rotten_tomatoes": "73%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 1023449,
+      "letterboxd_rating_count": 1023713,
       "letterboxd_url": "https://letterboxd.com/film/v-for-vendetta/",
       "awards": "7 wins & 29 nominations total",
       "language": "English, French, Latin, Spanish",
@@ -90227,8 +89972,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.71,
-      "letterboxd_rating_count": 98538,
+      "letterboxd_rating": 2.72,
+      "letterboxd_rating_count": 107747,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -90250,7 +89995,7 @@
           "screen_width_ft": 43.5,
           "premium_format": "PRIME at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/147425499",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -90416,7 +90161,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/vestaviahills/all/146747965",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -90458,7 +90203,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/summit/all/147512307",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -90499,7 +90244,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/summit/all/146779903",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -93927,8 +93672,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.71,
-      "letterboxd_rating_count": 98538,
+      "letterboxd_rating": 2.72,
+      "letterboxd_rating_count": 107747,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -97843,7 +97588,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 2241,
+      "letterboxd_rating_count": 2247,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "N/A",
       "language": "English",
@@ -102312,7 +102057,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.99,
-      "letterboxd_rating_count": 8155,
+      "letterboxd_rating_count": 8310,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
@@ -104555,7 +104300,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.06,
-      "letterboxd_rating_count": 38982,
+      "letterboxd_rating_count": 38996,
       "letterboxd_url": "https://letterboxd.com/film/yuri-on-ice/",
       "awards": "12 wins & 13 nominations total",
       "language": "Japanese",
@@ -104642,20 +104387,19 @@
       "popularity": 8.6
     },
     {
-      "tmdb_id": 1496785,
-      "imdb_id": "tt30768979",
-      "title": "Aadarsha Kutumbam",
+      "tmdb_id": 1476746,
+      "imdb_id": "tt33214716",
+      "title": "The Florist",
       "release_date": "2026-10-09",
-      "runtime": 150,
+      "runtime": 97,
       "genres": [
-        "Family",
         "Action",
-        "Comedy"
+        "Thriller"
       ],
-      "plot": "A seemingly flawless family at House No. 47 unravels after an incident reveals hidden tensions.",
-      "poster": "https://image.tmdb.org/t/p/w342/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg",
-      "url": "https://www.themoviedb.org/movie/1496785",
-      "popularity": 4.8
+      "plot": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.",
+      "poster": "https://image.tmdb.org/t/p/w342/w2bdIz33mMXq382aIL6VLGaGEnp.jpg",
+      "url": "https://www.themoviedb.org/movie/1476746",
+      "popularity": 4.5
     },
     {
       "tmdb_id": 1234139,
@@ -104668,7 +104412,7 @@
         "Comedy"
       ],
       "plot": "Following the events of \"Jailer\",  former ruthless police officer Muthuvel Pandian must come face-to-face with the consequences of his actions against the antique mafia.",
-      "poster": "https://image.tmdb.org/t/p/w342/1XV6xdaaBdgVTcJfdla4yQrSlXq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9tTHcPNt6OgkTVzGu4gwVQDFRWr.jpg",
       "url": "https://www.themoviedb.org/movie/1234139",
       "popularity": 7.7
     },
@@ -104686,6 +104430,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
       "url": "https://www.themoviedb.org/movie/1376400",
       "popularity": 6.4
+    },
+    {
+      "tmdb_id": 1654581,
+      "imdb_id": "tt40855841",
+      "title": "Nayyi Navelli",
+      "release_date": "2026-10-16",
+      "runtime": null,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Drama"
+      ],
+      "plot": "A new bride's arrival turns a turbulent household in Meerut into a picture of domestic harmony, until her brother-in-law grows convinced that his seemingly perfect sister-in-law is secretly a witch.",
+      "poster": "https://image.tmdb.org/t/p/w342/aZEKuzGt7ObqoKjTM4kcMd0klYy.jpg",
+      "url": "https://www.themoviedb.org/movie/1654581",
+      "popularity": 4.6
     },
     {
       "tmdb_id": 1400940,
@@ -105045,6 +104806,38 @@
       "poster": "https://image.tmdb.org/t/p/w342/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
       "url": "https://www.themoviedb.org/movie/1078446",
       "popularity": 5.5
+    },
+    {
+      "tmdb_id": 1129104,
+      "imdb_id": "tt11662534",
+      "title": "Flavia",
+      "release_date": "2026-12-04",
+      "runtime": 92,
+      "genres": [
+        "Family",
+        "Adventure",
+        "Mystery",
+        "Comedy"
+      ],
+      "plot": "The adventures of 11-year-old Flavia de Luce, who is both an amateur detective and a master poisoner. When she discovers a dead body in her family’s decaying British manor house and her father is accused of the murder, Flavia launches her own investigation to uncover family secrets and bring the true murderer to justice.",
+      "poster": "https://image.tmdb.org/t/p/w342/xwm7TGTmQcM2PkVvMxTjpYYk600.jpg",
+      "url": "https://www.themoviedb.org/movie/1129104",
+      "popularity": 4.8
+    },
+    {
+      "tmdb_id": 1452168,
+      "imdb_id": "tt36415529",
+      "title": "Behemoth!",
+      "release_date": "2026-12-04",
+      "runtime": 127,
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "plot": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+      "poster": "https://image.tmdb.org/t/p/w342/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+      "url": "https://www.themoviedb.org/movie/1452168",
+      "popularity": 4.5
     },
     {
       "tmdb_id": 1176962,

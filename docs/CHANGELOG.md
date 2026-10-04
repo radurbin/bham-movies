@@ -1,3 +1,15 @@
+## 2026-10-04 01:53 PM CDT
+
+**Showtime changes:**
+- Forgotten Island
+  - − AMC Vestavia Hills 10 @ 2026-10-04T15:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-04T18:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-04T21:15:00 (Standard)
+- Digger
+  - − AMC Vestavia Hills 10 @ 2026-10-04T16:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-04T19:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-04T22:30:00 (Standard)
+
 ## 2026-10-04 05:17 AM CDT
 
 **Movies removed:**
