@@ -1,3 +1,21 @@
+## 2026-10-03 07:12 PM CDT
+
+**Showtime changes:**
+- Practical Magic 2
+  - + AMC Patton Creek 15 @ 2026-10-05T18:35:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-05T18:30:00 (Standard)
+- Forgotten Island
+  - + AMC Patton Creek 15 @ 2026-10-05T21:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-05T21:35:00 (Standard)
+- Pajama Party: Jimmy Neutron: Boy Genius (2001)
+  - − Sidewalk Film Center + Cinema @ 2026-10-03T10:30:00 (Standard)
+- Digger
+  - − Sidewalk Film Center + Cinema @ 2026-10-03T10:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-03T12:45:00 (Standard)
+- Resident Evil
+  - + AMC Patton Creek 15 @ 2026-10-05T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-05T16:20:00 (Standard)
+
 ## 2026-10-03 01:53 PM CDT
 
 **Movies added:**
