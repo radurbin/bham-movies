@@ -1,145 +1,5 @@
 [
   {
-    "date": "2026-09-10 01:46 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Akira",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-12T22:30:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-13T22:20:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Heaven in Stone and Glass",
-        "added": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-09-20T16:50:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      },
-      {
-        "title": "Don't Move",
-        "added": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-12T22:25:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-13T22:15:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-12T21:40:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-13T21:40:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Onslaught",
-        "added": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-12T19:10:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-12T19:20:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Hanuman Ansh",
-        "added": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-11T20:45:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-12T21:30:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-13T21:30:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-14T18:45:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-15T18:45:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-16T18:45:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      },
-      {
-        "title": "The Fix",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-11T21:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-14T19:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-15T18:45:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-09-16T18:45:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-09-10 06:30 PM CDT",
     "movies_added": [
       "Ha-Chan, Shake Your Booty!"
@@ -40001,6 +39861,912 @@
           }
         ],
         "removed": []
+      }
+    ]
+  },
+  {
+    "date": "2026-10-05 05:57 AM CDT",
+    "movies_added": [],
+    "movies_removed": [
+      "Donnie Darko 25th Anniversary",
+      "Twin Peaks: The Return — Parts 12-18"
+    ],
+    "showtime_changes": [
+      {
+        "title": "Avengers Endgame: Encore",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T12:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T12:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T13:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T15:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T18:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T19:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T21:00:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T21:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T21:30:00",
+            "format": "RealD 3D"
+          }
+        ]
+      },
+      {
+        "title": "The Odyssey",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T14:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T15:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T21:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Adore Him: He is Here",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T16:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Forgotten Island",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T11:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T13:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T13:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T15:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T17:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T18:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T19:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T21:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T22:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-05T13:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-05T15:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-05T18:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-05T21:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Practical Magic 2",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T12:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T12:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T13:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T15:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T15:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T15:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T18:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T22:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Resident Evil",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T12:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T12:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T13:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T14:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T14:35:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T14:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T16:25:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T17:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T17:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T18:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T20:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T20:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T21:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T22:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T22:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Rolling Loud: The Movie",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T13:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T22:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T22:35:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Nightmare Before Christmas (RE26)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T11:50:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T16:45:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T16:50:00",
+            "format": "RealD 3D"
+          }
+        ]
+      },
+      {
+        "title": "Digger",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-04T12:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T12:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T12:45:00",
+            "format": "IMAX at AMC"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T13:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T14:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T15:30:00",
+            "format": "PRIME at AMC"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-04T15:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T15:55:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T16:00:00",
+            "format": "IMAX at AMC"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T17:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-04T18:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T19:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T19:10:00",
+            "format": "IMAX at AMC"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T20:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T22:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T22:20:00",
+            "format": "IMAX at AMC"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-05T12:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-05T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-05T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-05T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Influencer Project",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T21:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T22:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T23:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Beware Boiuna",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T19:25:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T21:25:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T22:25:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Moonlight 10th Anniversary Remastered",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T18:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Coyote vs. Acme",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T12:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Heart of the Beast",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T12:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T13:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T13:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T14:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T14:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T17:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T17:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T18:55:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T20:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T21:35:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T21:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T23:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Daniel and the Fiery Furnace",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T13:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T16:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Drishyam - The Conclusion",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T18:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T21:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Ninja Scroll",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T16:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T12:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T13:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T16:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T16:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T19:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T21:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T22:25:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Primetime",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T13:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T14:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T16:25:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T17:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T18:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T19:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T20:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T22:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T22:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T23:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Stand and Deliver",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T18:50:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Verity",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T12:30:00",
+            "format": "PRIME at AMC"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T12:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T13:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T13:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T15:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T16:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T16:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T17:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T18:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T18:45:00",
+            "format": "PRIME at AMC"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T20:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T21:45:00",
+            "format": "PRIME at AMC"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-04T22:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-04T22:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-10-04T23:00:00",
+            "format": "Standard"
+          }
+        ]
       }
     ]
   }
