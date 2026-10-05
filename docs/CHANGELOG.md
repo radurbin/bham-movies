@@ -1,3 +1,14 @@
+## 2026-10-04 07:18 PM CDT
+
+**Movies removed:**
+- Pajama Party: Jimmy Neutron: Boy Genius (2001)
+
+**Showtime changes:**
+- Digger
+  - − Sidewalk Film Center + Cinema @ 2026-10-04T10:00:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC Patton Creek 15 @ 2026-10-08T12:30:00 (Standard)
+
 ## 2026-10-04 01:53 PM CDT
 
 **Showtime changes:**

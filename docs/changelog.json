@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-09-10 08:56 AM CDT",
-    "movies_added": [
-      "Drummer Boy",
-      "JIMMY"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-10 01:46 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -39979,6 +39970,37 @@
             "format": "Standard"
           }
         ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-04 07:18 PM CDT",
+    "movies_added": [],
+    "movies_removed": [
+      "Pajama Party: Jimmy Neutron: Boy Genius (2001)"
+    ],
+    "showtime_changes": [
+      {
+        "title": "Digger",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-04T10:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Avengers Endgame: Encore",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-08T12:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
       }
     ]
   }
