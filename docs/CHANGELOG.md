@@ -1,3 +1,80 @@
+## 2026-10-05 05:14 PM CDT
+
+**Movies added:**
+- Fjord
+- The History of Concrete
+
+**Movies removed:**
+- SPIRITED AWAY: Live on Stage - Studio Ghibli Fest 2026
+
+**Showtime changes:**
+- California Schemin'
+  - + AMC Patton Creek 15 @ 2026-10-23T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-24T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-25T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-26T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-27T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-28T16:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-23T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-24T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-25T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-26T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-27T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-28T16:15:00 (Standard)
+- JIMMY
+  - + AMC Patton Creek 15 @ 2026-11-06T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-06T19:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-07T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-07T19:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-08T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-08T19:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-09T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-09T19:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-10T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-10T19:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-11T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-11T19:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-12T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-12T19:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-06T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-06T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-08T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-08T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-09T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-09T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-10T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-10T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-11T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-11T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-12T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-12T19:15:00 (Standard)
+- Digger
+  - + AMC Vestavia Hills 10 @ 2026-10-05T15:30:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-06T15:30:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-07T15:30:00 (PRIME at AMC)
+  - − Sidewalk Film Center + Cinema @ 2026-10-09T16:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-10T12:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-10T18:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-11T16:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-14T19:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-15T17:00:00 (Standard)
+- Adore Him: He is Here
+  - − AMC Patton Creek 15 @ 2026-10-06T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-07T19:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-07T19:00:00 (Standard)
+- Verity
+  - + AMC Vestavia Hills 10 @ 2026-10-05T12:30:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-05T18:45:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-05T21:45:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-06T12:30:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-06T18:45:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-06T21:45:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-07T12:30:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-07T18:45:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-07T21:45:00 (PRIME at AMC)
+
 ## 2026-10-05 05:57 AM CDT
 
 **Movies removed:**
