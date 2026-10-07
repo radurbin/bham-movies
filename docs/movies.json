@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-10-06T15:38:29.677369-05:00",
+    "generated_at": "2026-10-06T20:06:25.659178-05:00",
     "movie_count": 125,
-    "showtime_count": 2863,
+    "showtime_count": 2864,
     "theaters": {
       "Sidewalk Film Center + Cinema": 96,
       "AMC Summit 16": 1021,
-      "AMC Patton Creek 15": 1136,
+      "AMC Patton Creek 15": 1137,
       "AMC Vestavia Hills 10": 610
     }
   },
@@ -684,7 +684,7 @@
       "rotten_tomatoes": "74%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.88,
-      "letterboxd_rating_count": 680827,
+      "letterboxd_rating_count": 680899,
       "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind/",
       "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
       "language": "English",
@@ -2290,7 +2290,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -2366,7 +2371,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -2686,7 +2696,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -2804,7 +2819,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -3208,7 +3228,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -3244,7 +3269,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -3566,7 +3596,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -3684,7 +3719,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -3966,7 +4006,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -4002,7 +4047,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -4284,7 +4334,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -4402,7 +4457,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -4722,7 +4782,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -4854,7 +4919,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.59,
-      "letterboxd_rating_count": 1322,
+      "letterboxd_rating_count": 1409,
       "letterboxd_url": "https://letterboxd.com/film/april-x/",
       "awards": "1 win total",
       "language": "English",
@@ -6100,7 +6165,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6136,7 +6207,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6213,7 +6290,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6292,7 +6375,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6412,7 +6501,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6489,7 +6584,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6525,7 +6626,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6604,7 +6711,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6681,7 +6794,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6758,7 +6877,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6794,7 +6919,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6914,7 +7045,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -6991,7 +7128,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -7070,7 +7213,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -7149,7 +7298,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -7185,7 +7340,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -7305,7 +7466,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -7341,7 +7508,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -7377,7 +7550,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -33135,7 +33314,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "63/100",
       "letterboxd_rating": 3.44,
-      "letterboxd_rating_count": 11039,
+      "letterboxd_rating_count": 11042,
       "letterboxd_url": "https://letterboxd.com/film/california-schemin/",
       "awards": "1 win total",
       "language": "English",
@@ -33467,7 +33646,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.83,
-      "letterboxd_rating_count": 585305,
+      "letterboxd_rating_count": 586245,
       "letterboxd_url": "https://letterboxd.com/film/coyote-vs-acme/",
       "awards": "1 win total",
       "language": "English",
@@ -33659,7 +33838,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -35060,7 +35244,11 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -35096,7 +35284,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -35132,7 +35324,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -35168,7 +35364,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -35204,7 +35404,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -35240,7 +35444,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -35276,7 +35484,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -35329,7 +35541,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 232402,
+      "letterboxd_rating_count": 242310,
       "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
       "awards": "N/A",
       "language": "English",
@@ -40052,7 +40264,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -40214,7 +40432,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -40585,7 +40809,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -41093,18 +41323,18 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
+              "price": 16.43,
+              "tax": 1.43
             },
             {
               "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
+              "price": 16.43,
+              "tax": 1.43
             },
             {
               "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
+              "price": 16.43,
+              "tax": 1.43
             }
           ]
         }
@@ -41144,7 +41374,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.54,
-      "letterboxd_rating_count": 6661,
+      "letterboxd_rating_count": 6721,
       "letterboxd_url": "https://letterboxd.com/film/drishyam-the-conclusion/",
       "awards": "N/A",
       "language": "Hindi",
@@ -41414,7 +41644,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -41490,7 +41725,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -41606,7 +41846,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -41682,7 +41927,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -41758,7 +42008,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -41794,7 +42049,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -41830,7 +42090,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -47084,7 +47349,7 @@
       "title": "Fjord",
       "release_year": 2026,
       "runtime": 146,
-      "rating": "NR",
+      "rating": "R",
       "genres": [
         "DRAMA"
       ],
@@ -47108,7 +47373,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "81/100",
       "letterboxd_rating": 3.8,
-      "letterboxd_rating_count": 67040,
+      "letterboxd_rating_count": 67174,
       "letterboxd_url": "https://letterboxd.com/film/fjord-2026/",
       "awards": "2 nominations total",
       "language": "English, Romanian, Norwegian",
@@ -48707,7 +48972,7 @@
       "rotten_tomatoes": null,
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 80497,
+      "letterboxd_rating_count": 81260,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -49631,7 +49896,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -49707,7 +49977,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -49823,7 +50098,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -49899,7 +50179,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -49975,7 +50260,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50091,7 +50381,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50207,7 +50502,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50283,7 +50583,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50359,7 +50664,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50435,7 +50745,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50511,7 +50826,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50587,7 +50907,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50663,7 +50988,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50699,7 +51029,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50735,7 +51070,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50771,7 +51111,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50847,7 +51192,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -50923,7 +51273,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -51060,7 +51415,7 @@
       "rotten_tomatoes": null,
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 80497,
+      "letterboxd_rating_count": 81260,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -51955,7 +52310,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 963,
+      "letterboxd_rating_count": 968,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -55024,6 +55379,48 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
+          "showtime_id": 147711349,
+          "datetime": "2026-11-03T15:45:00",
+          "datetime_utc": "2026-11-03T21:45:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-03/pattoncreek/all/147711349",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Excluded from 50% off Discount",
+            "IMAX at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.29,
+              "tax": 1.5
+            },
+            {
+              "type": "CHILD",
+              "price": 14.66,
+              "tax": 1.27
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.98,
+              "tax": 1.39
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
           "showtime_id": 147389922,
           "datetime": "2026-11-03T19:00:00",
           "datetime_utc": "2026-11-04T01:00:00Z",
@@ -55140,7 +55537,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 963,
+      "letterboxd_rating_count": 968,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -55226,7 +55623,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.86,
-      "letterboxd_rating_count": 281476,
+      "letterboxd_rating_count": 281510,
       "letterboxd_url": "https://letterboxd.com/film/gone-with-the-wind/",
       "awards": "Won 8 Oscars. 26 wins & 10 nominations total",
       "language": "English",
@@ -56265,7 +56662,7 @@
           "datetime_utc": "2026-10-10T03:05:00Z",
           "auditorium": 4,
           "screen_width_ft": 20.0,
-          "premium_format": "Standard",
+          "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-09/summit/all/147696140",
           "sold_out": false,
           "almost_sold_out": false,
@@ -56273,7 +56670,17 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Alternative Content",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "RealD 3D",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -56444,7 +56851,16 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Alternative Content",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -56606,7 +57022,7 @@
           "datetime_utc": "2026-10-12T03:30:00Z",
           "auditorium": 4,
           "screen_width_ft": 20.0,
-          "premium_format": "Standard",
+          "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-11/summit/all/147696130",
           "sold_out": false,
           "almost_sold_out": false,
@@ -56614,7 +57030,17 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Alternative Content",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "RealD 3D",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -56741,7 +57167,16 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Alternative Content",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -56860,7 +57295,7 @@
           "datetime_utc": "2026-10-14T02:45:00Z",
           "auditorium": 5,
           "screen_width_ft": 20.0,
-          "premium_format": "Standard",
+          "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-13/summit/all/147696212",
           "sold_out": false,
           "almost_sold_out": false,
@@ -56868,7 +57303,18 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Alternative Content",
+            "Excluded from 50% off Discount",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "RealD 3D",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -57042,7 +57488,17 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Alternative Content",
+            "Excluded from 50% off Discount",
+            "Excluded from A-List",
+            "No Passes",
+            "No Trailers",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Spanish Spoken with English Subtitles"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -57093,7 +57549,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.12,
-      "letterboxd_rating_count": 3777,
+      "letterboxd_rating_count": 3780,
       "letterboxd_url": "https://letterboxd.com/film/hanuman-ansh/",
       "awards": "N/A",
       "language": "Hindi",
@@ -57338,7 +57794,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.3,
-      "letterboxd_rating_count": 109809,
+      "letterboxd_rating_count": 110937,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -58434,7 +58890,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -58552,7 +59013,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -58752,7 +59218,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -58870,7 +59341,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -58906,7 +59382,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -59024,7 +59505,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -59224,7 +59710,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -59342,7 +59833,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -59420,7 +59916,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -59496,7 +59997,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -59614,7 +60120,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -59732,7 +60243,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -59850,7 +60366,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -59928,7 +60449,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60004,7 +60530,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60122,7 +60653,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60240,7 +60776,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60400,7 +60941,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60478,7 +61024,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60556,7 +61107,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60634,7 +61190,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60712,7 +61273,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60790,7 +61356,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60868,7 +61439,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -60946,7 +61522,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -61064,7 +61645,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -61182,7 +61768,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -61300,7 +61891,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -61418,7 +62014,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -61945,7 +62546,7 @@
       "rotten_tomatoes": "63%",
       "metacritic": "55/100",
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 67046,
+      "letterboxd_rating_count": 67056,
       "letterboxd_url": "https://letterboxd.com/film/instructions-not-included/",
       "awards": "7 wins & 8 nominations total",
       "language": "Spanish, English, Portuguese",
@@ -62329,7 +62930,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Excluded from 50% off Discount",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -62365,7 +62971,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Excluded from 50% off Discount",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -62539,7 +63150,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "89/100",
       "letterboxd_rating": 4.45,
-      "letterboxd_rating_count": 795661,
+      "letterboxd_rating_count": 795726,
       "letterboxd_url": "https://letterboxd.com/film/its-a-wonderful-life/",
       "awards": "Nominated for 5 Oscars. 11 wins & 7 nominations total",
       "language": "English, French",
@@ -65223,7 +65834,7 @@
       "rotten_tomatoes": "58%",
       "metacritic": "64/100",
       "letterboxd_rating": 3.73,
-      "letterboxd_rating_count": 877193,
+      "letterboxd_rating_count": 877345,
       "letterboxd_url": "https://letterboxd.com/film/marie-antoinette-2006/",
       "awards": "Won 1 Oscar. 19 wins & 24 nominations total",
       "language": "English, Latin, French",
@@ -65409,7 +66020,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": "99/100",
       "letterboxd_rating": 4.19,
-      "letterboxd_rating_count": 1590917,
+      "letterboxd_rating_count": 1591213,
       "letterboxd_url": "https://letterboxd.com/film/moonlight-2016/",
       "awards": "Won 3 Oscars. 235 wins & 310 nominations total",
       "language": "English",
@@ -65608,7 +66219,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": null,
       "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 44545,
+      "letterboxd_rating_count": 44577,
       "letterboxd_url": "https://letterboxd.com/film/ninja-scroll/",
       "awards": "1 win total",
       "language": "Japanese",
@@ -66906,7 +67517,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -67660,7 +68277,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -68417,7 +69040,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -69971,8 +70600,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
-            "Closed Caption",
-            "Audio Description",
+            "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
             "Reserved Seating",
             "Thrills & Chills"
@@ -71393,7 +72021,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.87,
-      "letterboxd_rating_count": 145447,
+      "letterboxd_rating_count": 145715,
       "letterboxd_url": "https://letterboxd.com/film/practical-magic-2/",
       "awards": "1 nomination total",
       "language": "English",
@@ -72287,7 +72915,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -72405,7 +73038,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -72483,7 +73121,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -72519,7 +73162,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -72597,7 +73245,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -72717,7 +73370,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -72795,7 +73453,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -72831,7 +73494,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -72909,7 +73577,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -72987,7 +73660,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73107,7 +73785,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73143,7 +73826,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73221,7 +73909,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73341,7 +74034,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73419,7 +74117,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73455,7 +74158,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73575,7 +74283,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73653,7 +74366,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73689,7 +74407,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73809,7 +74532,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73887,7 +74615,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -73965,7 +74698,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -74001,7 +74739,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -74121,7 +74864,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -74199,7 +74947,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -74277,7 +75030,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -74372,7 +75130,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.68,
-      "letterboxd_rating_count": 523055,
+      "letterboxd_rating_count": 527831,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -75449,7 +76207,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -75612,7 +76376,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -75689,7 +76459,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -75809,7 +76585,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -75888,7 +76670,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -76008,7 +76796,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -76128,7 +76922,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -76291,7 +77091,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -76368,7 +77174,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -76488,7 +77300,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -76608,7 +77426,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -76771,7 +77595,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -76848,7 +77678,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -76968,7 +77804,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -77088,7 +77930,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -77251,7 +78099,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -77371,7 +78225,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -77450,7 +78310,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -77529,7 +78395,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -77565,7 +78437,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -77687,7 +78565,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -77766,7 +78650,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -77845,7 +78735,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -77881,7 +78777,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -78003,7 +78905,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -78123,7 +79031,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -78243,7 +79157,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -78363,7 +79283,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -78757,7 +79683,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.76,
-      "letterboxd_rating_count": 1290747,
+      "letterboxd_rating_count": 1297073,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -79922,7 +80848,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -80042,7 +80974,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -80162,7 +81100,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -80323,7 +81267,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -80402,7 +81352,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -80522,7 +81478,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -80642,7 +81604,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -80762,7 +81730,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -80882,7 +81856,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -80961,7 +81941,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -81081,7 +82067,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -81201,7 +82193,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -81321,7 +82319,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -81400,7 +82404,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -81520,7 +82530,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -81640,7 +82656,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -81760,7 +82782,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -81880,7 +82908,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82000,7 +83034,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82122,7 +83162,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82201,7 +83247,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82280,7 +83332,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82359,7 +83417,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82481,7 +83545,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82560,7 +83630,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82639,7 +83715,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82718,7 +83800,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82840,7 +83928,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -82960,7 +84054,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -83121,7 +84221,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -83200,7 +84306,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -83337,7 +84449,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "70/100",
       "letterboxd_rating": 4.11,
-      "letterboxd_rating_count": 1097770,
+      "letterboxd_rating_count": 1097962,
       "letterboxd_url": "https://letterboxd.com/film/rocky/",
       "awards": "Won 3 Oscars. 23 wins & 23 nominations total",
       "language": "English, Spanish, Italian",
@@ -84238,7 +85350,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.88,
-      "letterboxd_rating_count": 42142,
+      "letterboxd_rating_count": 42947,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -88938,7 +90050,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.04,
-      "letterboxd_rating_count": 4343767,
+      "letterboxd_rating_count": 4348036,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -89822,7 +90934,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -89898,7 +91015,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -89934,7 +91056,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -89970,7 +91097,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90046,7 +91178,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90122,7 +91259,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90198,7 +91340,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90274,7 +91421,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90390,7 +91542,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90426,7 +91583,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90462,7 +91624,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90498,7 +91665,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90534,7 +91706,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90650,7 +91827,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -90703,7 +91885,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "96/100",
       "letterboxd_rating": 4.43,
-      "letterboxd_rating_count": 4048902,
+      "letterboxd_rating_count": 4049402,
       "letterboxd_url": "https://letterboxd.com/film/spirited-away/",
       "awards": "Won 1 Oscar. 58 wins & 31 nominations total",
       "language": "Japanese, English",
@@ -91288,7 +92470,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.56,
-      "letterboxd_rating_count": 33891,
+      "letterboxd_rating_count": 33907,
       "letterboxd_url": "https://letterboxd.com/film/stand-and-deliver/",
       "awards": "Nominated for 1 Oscar. 11 wins & 7 nominations total",
       "language": "English, Spanish",
@@ -97190,7 +98372,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97265,7 +98451,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97340,7 +98530,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97376,7 +98570,11 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97412,7 +98610,11 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97448,7 +98650,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97523,7 +98729,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97598,7 +98808,11 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97634,7 +98848,11 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97670,7 +98888,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97745,7 +98967,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97820,7 +99046,11 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97856,7 +99086,11 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97892,7 +99126,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -97967,7 +99205,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -98042,7 +99284,11 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -98078,7 +99324,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -98114,7 +99364,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -98150,7 +99404,11 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -98186,7 +99444,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -98222,7 +99484,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -98258,7 +99524,11 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -98333,7 +99603,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -98369,7 +99643,11 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -98656,7 +99934,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "81/100",
       "letterboxd_rating": 4,
-      "letterboxd_rating_count": 24958,
+      "letterboxd_rating_count": 25316,
       "letterboxd_url": "https://letterboxd.com/film/the-history-of-concrete/",
       "awards": "N/A",
       "language": "English",
@@ -98821,7 +100099,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.25,
-      "letterboxd_rating_count": 1444,
+      "letterboxd_rating_count": 1529,
       "letterboxd_url": "https://letterboxd.com/film/the-influencer-project/",
       "awards": "N/A",
       "language": "English",
@@ -99235,7 +100513,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 162008,
+      "letterboxd_rating_count": 162032,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -99885,7 +101163,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "88/100",
       "letterboxd_rating": 4.34,
-      "letterboxd_rating_count": 4523796,
+      "letterboxd_rating_count": 4525229,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "3 wins total",
       "language": "English, Greek",
@@ -100245,7 +101523,13 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -105587,7 +106871,7 @@
       "rotten_tomatoes": "67%",
       "metacritic": "45/100",
       "letterboxd_rating": 4.36,
-      "letterboxd_rating_count": 511315,
+      "letterboxd_rating_count": 511420,
       "letterboxd_url": "https://letterboxd.com/film/twin-peaks-fire-walk-with-me/",
       "awards": "4 wins & 7 nominations total",
       "language": "English, Latin",
@@ -105674,7 +106958,7 @@
       "rotten_tomatoes": "73%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 1024928,
+      "letterboxd_rating_count": 1025083,
       "letterboxd_url": "https://letterboxd.com/film/v-for-vendetta/",
       "awards": "7 wins & 29 nominations total",
       "language": "English, French, Latin, Spanish",
@@ -105940,7 +107224,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.67,
-      "letterboxd_rating_count": 156883,
+      "letterboxd_rating_count": 162483,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -106960,7 +108244,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -107861,7 +109150,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -107979,7 +109273,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -108302,7 +109601,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -108338,7 +109642,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -108374,7 +109683,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -108492,7 +109806,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -108815,7 +110134,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -108851,7 +110175,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -108969,7 +110298,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -109292,7 +110626,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -109328,7 +110667,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -109406,7 +110750,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -109649,7 +110998,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -109685,7 +111039,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -109763,7 +111122,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -110006,7 +111370,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -110042,7 +111411,12 @@
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -110160,7 +111534,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -110443,7 +111822,12 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -110620,7 +112004,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.67,
-      "letterboxd_rating_count": 156883,
+      "letterboxd_rating_count": 162483,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -110648,7 +112032,13 @@
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
-          "attributes": [],
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Sensory Friendly Film"
+          ],
           "ticket_prices": [
             {
               "type": "ADULT",
@@ -114571,7 +115961,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 2398,
+      "letterboxd_rating_count": 2405,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "N/A",
       "language": "English",
@@ -119040,7 +120430,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.99,
-      "letterboxd_rating_count": 9716,
+      "letterboxd_rating_count": 9866,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
@@ -121212,8 +122602,8 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 147555237,
-          "datetime": "2026-10-22T19:10:00",
-          "datetime_utc": "2026-10-23T00:10:00Z",
+          "datetime": "2026-10-22T19:05:00",
+          "datetime_utc": "2026-10-23T00:05:00Z",
           "auditorium": 15,
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
@@ -121254,8 +122644,8 @@
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 147555238,
-          "datetime": "2026-10-22T22:05:00",
-          "datetime_utc": "2026-10-23T03:05:00Z",
+          "datetime": "2026-10-22T21:55:00",
+          "datetime_utc": "2026-10-23T02:55:00Z",
           "auditorium": 15,
           "screen_width_ft": 20.0,
           "premium_format": "Standard",
@@ -121324,7 +122714,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.06,
-      "letterboxd_rating_count": 39045,
+      "letterboxd_rating_count": 39047,
       "letterboxd_url": "https://letterboxd.com/film/yuri-on-ice/",
       "awards": "12 wins & 13 nominations total",
       "language": "Japanese",

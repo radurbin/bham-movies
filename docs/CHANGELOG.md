@@ -1,3 +1,21 @@
+## 2026-10-06 08:06 PM CDT
+
+**Showtime changes:**
+- Godzilla Minus Zero - Godzilla Day IMAX Early Access
+  - + AMC Patton Creek 15 @ 2026-11-03T15:45:00 (IMAX at AMC)
+- Guillermo del Toro's Pan's Labyrinth 20th Anniversary
+  - + AMC Summit 16 @ 2026-10-09T22:05:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-10-11T22:30:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-10-13T21:45:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-09T22:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-11T22:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-13T21:45:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - + AMC Summit 16 @ 2026-10-22T19:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-22T21:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-22T19:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-22T22:05:00 (Standard)
+
 ## 2026-10-06 03:38 PM CDT
 
 **Movies added:**

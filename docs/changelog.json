@@ -1,28 +1,5 @@
 [
   {
-    "date": "2026-09-11 01:49 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "You Had to Be There",
-        "added": [
-          {
-            "theater": "Sidewalk Film Center + Cinema",
-            "datetime": "2026-09-30T21:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Sidewalk Film Center + Cinema",
-            "datetime": "2026-10-01T21:00:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      }
-    ]
-  },
-  {
     "date": "2026-09-11 06:39 PM CDT",
     "movies_added": [
       "Knitflix and Chill: The Santa Clause (1994)",
@@ -44676,6 +44653,88 @@
           }
         ],
         "removed": []
+      }
+    ]
+  },
+  {
+    "date": "2026-10-06 08:06 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Godzilla Minus Zero - Godzilla Day IMAX Early Access",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-03T15:45:00",
+            "format": "IMAX at AMC"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Guillermo del Toro's Pan's Labyrinth 20th Anniversary",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-09T22:05:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-11T22:30:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-13T21:45:00",
+            "format": "RealD 3D"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-09T22:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-11T22:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-13T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Your Mother Your Mother Your Mother",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-22T19:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-22T21:55:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-22T19:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-22T22:05:00",
+            "format": "Standard"
+          }
+        ]
       }
     ]
   }
