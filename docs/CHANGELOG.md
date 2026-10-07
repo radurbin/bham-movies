@@ -1,3 +1,119 @@
+## 2026-10-07 03:54 PM CDT
+
+**Movies added:**
+- Clayface
+- Hell House LLC 10th Anniversary
+- Soul Patrol
+
+**Showtime changes:**
+- Heart of the Beast
+  - + AMC Patton Creek 15 @ 2026-10-12T13:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T18:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T21:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T21:50:00 (Standard)
+- Drishyam - The Conclusion
+  - + AMC Patton Creek 15 @ 2026-10-12T22:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T18:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T22:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Patton Creek 15 @ 2026-10-12T14:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T13:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T15:30:00 (Standard)
+- Other Mommy
+  - + AMC Patton Creek 15 @ 2026-10-12T22:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T22:30:00 (Standard)
+- Verity
+  - + AMC Patton Creek 15 @ 2026-10-12T13:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T22:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T13:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T21:40:00 (Standard)
+- Hanuman Ansh
+  - + AMC Patton Creek 15 @ 2026-10-12T21:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T21:00:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC Patton Creek 15 @ 2026-10-12T16:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T14:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T19:00:00 (Standard)
+- The Influencer Project
+  - + AMC Patton Creek 15 @ 2026-10-07T19:00:00 (Standard)
+- Guillermo del Toro's Pan's Labyrinth 20th Anniversary
+  - + AMC Patton Creek 15 @ 2026-10-12T14:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T14:20:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-10-13T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-13T19:45:00 (Standard)
+- The Nightmare Before Christmas (RE26)
+  - + AMC Patton Creek 15 @ 2026-10-12T14:40:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-10-13T13:00:00 (RealD 3D)
+- Practical Magic 2
+  - − AMC Vestavia Hills 10 @ 2026-10-07T15:10:00 (Standard)
+- Primetime
+  - + AMC Patton Creek 15 @ 2026-10-12T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T16:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T21:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T13:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T16:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T19:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T22:30:00 (Standard)
+- Digger
+  - + AMC Patton Creek 15 @ 2026-10-12T14:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T17:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T20:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T14:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T17:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T20:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-07T12:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-07T16:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-07T19:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-07T22:30:00 (Standard)
+- Forgotten Island
+  - + AMC Vestavia Hills 10 @ 2026-10-07T15:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T13:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T18:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T21:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T19:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T21:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-07T13:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-07T15:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-07T18:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-07T21:15:00 (Standard)
+- The Social Reckoning
+  - + AMC Patton Creek 15 @ 2026-10-12T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T22:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T13:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T22:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-12T13:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-13T13:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-13T19:15:00 (Standard)
+- The Beast
+  - + AMC Patton Creek 15 @ 2026-10-12T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T22:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T18:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T22:10:00 (Standard)
+- Angel and the Badman
+  - + AMC Patton Creek 15 @ 2026-10-12T13:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T22:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T22:00:00 (Standard)
+- Resident Evil
+  - + AMC Patton Creek 15 @ 2026-10-12T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T19:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-12T22:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T13:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-13T22:30:00 (Standard)
+
 ## 2026-10-07 05:39 AM CDT
 
 **Movies removed:**
