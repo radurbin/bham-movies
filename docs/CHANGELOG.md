@@ -1,3 +1,24 @@
+## 2026-10-08 03:55 PM CDT
+
+**Movies added:**
+- The Only Living Pickpocket In New York
+
+**Showtime changes:**
+- Other Mommy
+  - + AMC Summit 16 @ 2026-10-08T17:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-08T19:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-08T22:10:00 (Standard)
+- The Beast
+  - − AMC Summit 16 @ 2026-10-08T17:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-08T19:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-08T22:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Summit 16 @ 2026-10-08T22:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-08T21:50:00 (Standard)
+- Digger
+  - + AMC Summit 16 @ 2026-10-08T21:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-08T22:00:00 (Standard)
+
 ## 2026-10-08 06:00 AM CDT
 
 **Movies added:**
