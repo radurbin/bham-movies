@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-13 08:58 AM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-13 01:24 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -44680,6 +44674,56 @@
             "format": "Standard"
           }
         ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08 08:32 PM CDT",
+    "movies_added": [
+      "Hershey"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Drummer Boy",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-05T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-06T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-07T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-08T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-09T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-10T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-11T16:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
       }
     ]
   }

@@ -1,3 +1,18 @@
+## 2026-10-08 08:32 PM CDT
+
+**Movies added:**
+- Hershey
+
+**Showtime changes:**
+- Drummer Boy
+  - + AMC Summit 16 @ 2026-11-05T16:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-06T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-07T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-08T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-09T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-10T16:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-11T16:15:00 (Standard)
+
 ## 2026-10-08 03:55 PM CDT
 
 **Movies added:**
