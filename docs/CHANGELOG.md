@@ -1,3 +1,47 @@
+## 2026-10-09 03:24 PM CDT
+
+**Movies added:**
+- Klara and the Sun
+- Wildwood: Sensory Friendly Screening
+
+**Showtime changes:**
+- Gone with the Wind (2026 Event)
+  - − AMC Patton Creek 15 @ 2026-10-12T18:00:00 (Standard)
+- Grandmasters
+  - − AMC Summit 16 @ 2026-10-11T18:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-11T18:00:00 (Standard)
+- Verity
+  - + AMC Summit 16 @ 2026-10-11T18:00:00 (Standard)
+- You Can See Everything
+  - + AMC Patton Creek 15 @ 2026-10-22T15:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T19:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-23T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-23T17:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-23T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-23T21:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-24T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-24T17:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-24T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-24T21:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-25T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-25T17:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-25T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-25T21:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-26T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-26T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-26T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-26T21:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-27T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-27T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-27T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-27T21:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-28T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-28T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-28T21:00:00 (Standard)
+- Angel and the Badman
+  - + AMC Summit 16 @ 2026-10-11T21:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-11T21:45:00 (Standard)
+
 ## 2026-10-09 05:59 AM CDT
 
 **Movies added:**
