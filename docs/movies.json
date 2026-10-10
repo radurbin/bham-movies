@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-09T15:24:26.202353-05:00",
+    "generated_at": "2026-10-09T20:23:23.735765-05:00",
     "movie_count": 126,
     "showtime_count": 2773,
     "theaters": {
@@ -684,7 +684,7 @@
       "rotten_tomatoes": "74%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.88,
-      "letterboxd_rating_count": 681869,
+      "letterboxd_rating_count": 681971,
       "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind/",
       "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
       "language": "English",
@@ -1644,7 +1644,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": null,
       "letterboxd_rating": 4.23,
-      "letterboxd_rating_count": 3207,
+      "letterboxd_rating_count": 3208,
       "letterboxd_url": "https://letterboxd.com/film/american-doctor/",
       "awards": "1 nomination total",
       "language": "English, Arabic, Hebrew",
@@ -31500,7 +31500,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "63/100",
       "letterboxd_rating": 3.44,
-      "letterboxd_rating_count": 11139,
+      "letterboxd_rating_count": 11158,
       "letterboxd_url": "https://letterboxd.com/film/california-schemin/",
       "awards": "1 win & 1 nomination total",
       "language": "English",
@@ -31831,7 +31831,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 3734,
+      "letterboxd_rating_count": 3791,
       "letterboxd_url": "https://letterboxd.com/film/chronovisor/",
       "awards": "N/A",
       "language": "English",
@@ -36552,7 +36552,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.76,
-      "letterboxd_rating_count": 334,
+      "letterboxd_rating_count": 341,
       "letterboxd_url": "https://letterboxd.com/film/crawlers-2026/",
       "awards": "N/A",
       "language": "English",
@@ -37999,7 +37999,7 @@
       "rotten_tomatoes": "52%",
       "metacritic": null,
       "letterboxd_rating": 3.85,
-      "letterboxd_rating_count": 326368,
+      "letterboxd_rating_count": 334293,
       "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
       "awards": "N/A",
       "language": "English",
@@ -42278,7 +42278,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": null,
       "letterboxd_rating": 3.54,
-      "letterboxd_rating_count": 8326,
+      "letterboxd_rating_count": 8403,
       "letterboxd_url": "https://letterboxd.com/film/drishyam-the-conclusion/",
       "awards": "N/A",
       "language": "Hindi",
@@ -42503,6 +42503,86 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-10/pattoncreek/all/147612761",
           "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147745972,
+          "datetime": "2026-10-11T18:15:00",
+          "datetime_utc": "2026-10-11T23:15:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-11/pattoncreek/all/147745972",
+          "sold_out": true,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147746455,
+          "datetime": "2026-10-11T18:15:00",
+          "datetime_utc": "2026-10-11T23:15:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-11/pattoncreek/all/147746455",
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -42977,6 +43057,46 @@
               "type": "SENIOR",
               "price": 14.29,
               "tax": 1.3
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147745568,
+          "datetime": "2026-11-05T16:30:00",
+          "datetime_utc": "2026-11-05T22:30:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-05/pattoncreek/all/147745568",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.77,
+              "tax": 1.28
+            },
+            {
+              "type": "CHILD",
+              "price": 11.49,
+              "tax": 1.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.13,
+              "tax": 1.14
             }
           ]
         },
@@ -48947,7 +49067,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "78/100",
       "letterboxd_rating": 3.8,
-      "letterboxd_rating_count": 69459,
+      "letterboxd_rating_count": 69817,
       "letterboxd_url": "https://letterboxd.com/film/fjord-2026/",
       "awards": "3 wins & 2 nominations total",
       "language": "English, Romanian, Norwegian, Swedish",
@@ -50546,7 +50666,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 88743,
+      "letterboxd_rating_count": 89276,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -52211,7 +52331,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 88743,
+      "letterboxd_rating_count": 89276,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -53108,7 +53228,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 1097,
+      "letterboxd_rating_count": 1105,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -56335,7 +56455,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 1097,
+      "letterboxd_rating_count": 1105,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -56421,7 +56541,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.86,
-      "letterboxd_rating_count": 281792,
+      "letterboxd_rating_count": 281830,
       "letterboxd_url": "https://letterboxd.com/film/gone-with-the-wind/",
       "awards": "Won 8 Oscars. 26 wins & 10 nominations total",
       "language": "English",
@@ -58125,7 +58245,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.13,
-      "letterboxd_rating_count": 3892,
+      "letterboxd_rating_count": 3895,
       "letterboxd_url": "https://letterboxd.com/film/hanuman-ansh/",
       "awards": "N/A",
       "language": "Hindi",
@@ -58410,7 +58530,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": null,
       "letterboxd_rating": 3.3,
-      "letterboxd_rating_count": 122375,
+      "letterboxd_rating_count": 123596,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -61408,7 +61528,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": null,
       "letterboxd_rating": 3.09,
-      "letterboxd_rating_count": 213369,
+      "letterboxd_rating_count": 213450,
       "letterboxd_url": "https://letterboxd.com/film/hell-house-llc/",
       "awards": "N/A",
       "language": "English",
@@ -62662,7 +62782,7 @@
       "rotten_tomatoes": "63%",
       "metacritic": "55/100",
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 67182,
+      "letterboxd_rating_count": 67207,
       "letterboxd_url": "https://letterboxd.com/film/instructions-not-included/",
       "awards": "8 wins & 12 nominations total",
       "language": "Spanish, English, Portuguese",
@@ -68996,7 +69116,7 @@
       "rotten_tomatoes": "58%",
       "metacritic": "64/100",
       "letterboxd_rating": 3.73,
-      "letterboxd_rating_count": 878967,
+      "letterboxd_rating_count": 879164,
       "letterboxd_url": "https://letterboxd.com/film/marie-antoinette-2006/",
       "awards": "Won 1 Oscar. 19 wins & 24 nominations total",
       "language": "English, Latin, French",
@@ -69180,7 +69300,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.5,
-      "letterboxd_rating_count": 31035,
+      "letterboxd_rating_count": 40725,
       "letterboxd_url": "https://letterboxd.com/film/other-mommy/",
       "awards": "N/A",
       "language": "English",
@@ -74388,7 +74508,7 @@
       "rotten_tomatoes": "37%",
       "metacritic": null,
       "letterboxd_rating": 2.87,
-      "letterboxd_rating_count": 148136,
+      "letterboxd_rating_count": 148334,
       "letterboxd_url": "https://letterboxd.com/film/practical-magic-2/",
       "awards": "1 nomination total",
       "language": "English",
@@ -76301,7 +76421,7 @@
       "rotten_tomatoes": "86%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.68,
-      "letterboxd_rating_count": 578417,
+      "letterboxd_rating_count": 583637,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -79626,7 +79746,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.76,
-      "letterboxd_rating_count": 1362847,
+      "letterboxd_rating_count": 1369644,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -83079,7 +83199,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "70/100",
       "letterboxd_rating": 4.12,
-      "letterboxd_rating_count": 1100350,
+      "letterboxd_rating_count": 1100633,
       "letterboxd_url": "https://letterboxd.com/film/rocky/",
       "awards": "Won 3 Oscars. 23 wins & 23 nominations total",
       "language": "English, Spanish, Italian",
@@ -83660,7 +83780,7 @@
       "rotten_tomatoes": "79%",
       "metacritic": null,
       "letterboxd_rating": 3.87,
-      "letterboxd_rating_count": 48213,
+      "letterboxd_rating_count": 48802,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -88492,7 +88612,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.03,
-      "letterboxd_rating_count": 4397408,
+      "letterboxd_rating_count": 4402576,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -89387,7 +89507,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "96/100",
       "letterboxd_rating": 4.43,
-      "letterboxd_rating_count": 4055473,
+      "letterboxd_rating_count": 4056096,
       "letterboxd_url": "https://letterboxd.com/film/spirited-away/",
       "awards": "Won 1 Oscar. 58 wins & 31 nominations total",
       "language": "Japanese, English",
@@ -95271,126 +95391,6 @@
               "tax": 1.3
             }
           ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147047991,
-          "datetime": "2026-10-29T13:00:00",
-          "datetime_utc": "2026-10-29T18:00:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-29/pattoncreek/all/147047991",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 11.82,
-              "tax": 1.03
-            },
-            {
-              "type": "CHILD",
-              "price": 9.19,
-              "tax": 0.8
-            },
-            {
-              "type": "SENIOR",
-              "price": 10.5,
-              "tax": 0.91
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147047989,
-          "datetime": "2026-10-29T16:00:00",
-          "datetime_utc": "2026-10-29T21:00:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-29/pattoncreek/all/147047989",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147047990,
-          "datetime": "2026-10-29T19:00:00",
-          "datetime_utc": "2026-10-30T00:00:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-29/pattoncreek/all/147047990",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 14.77,
-              "tax": 1.28
-            },
-            {
-              "type": "CHILD",
-              "price": 11.49,
-              "tax": 1.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.13,
-              "tax": 1.14
-            }
-          ]
         }
       ]
     },
@@ -97106,7 +97106,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": "81/100",
       "letterboxd_rating": 4,
-      "letterboxd_rating_count": 29729,
+      "letterboxd_rating_count": 30146,
       "letterboxd_url": "https://letterboxd.com/film/the-history-of-concrete/",
       "awards": "N/A",
       "language": "English",
@@ -97272,7 +97272,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 162296,
+      "letterboxd_rating_count": 162325,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -97788,7 +97788,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": null,
       "letterboxd_rating": 3.5,
-      "letterboxd_rating_count": 3875,
+      "letterboxd_rating_count": 3885,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -98464,7 +98464,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.11,
-      "letterboxd_rating_count": 19825,
+      "letterboxd_rating_count": 25634,
       "letterboxd_url": "https://letterboxd.com/film/the-social-reckoning/",
       "awards": "N/A",
       "language": "English",
@@ -103088,7 +103088,7 @@
       "rotten_tomatoes": "73%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 1026475,
+      "letterboxd_rating_count": 1026633,
       "letterboxd_url": "https://letterboxd.com/film/v-for-vendetta/",
       "awards": "7 wins & 29 nominations total",
       "language": "English, French, Latin, Spanish",
@@ -103270,7 +103270,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.66,
-      "letterboxd_rating_count": 213305,
+      "letterboxd_rating_count": 218581,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -103539,7 +103539,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-09/summit/all/146779944",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -106433,7 +106433,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.66,
-      "letterboxd_rating_count": 213305,
+      "letterboxd_rating_count": 218581,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -110390,7 +110390,7 @@
       "rotten_tomatoes": "92%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.8,
-      "letterboxd_rating_count": 2549,
+      "letterboxd_rating_count": 2590,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "1 nomination total",
       "language": "English",
@@ -112739,19 +112739,23 @@
         "Nathan Fielder"
       ],
       "writers": [],
-      "actors": [],
-      "imdb_id": null,
-      "imdb_rating": null,
-      "imdb_votes": null,
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": null,
-      "language": null,
-      "country": null,
-      "box_office": null,
+      "actors": [
+        "Billy Evans",
+        "Nathan Fielder",
+        "Elizabeth Holmes"
+      ],
+      "imdb_id": "tt45368240",
+      "imdb_rating": "7.9",
+      "imdb_votes": "165",
+      "rotten_tomatoes": "100%",
+      "metacritic": "98/100",
+      "letterboxd_rating": 4.16,
+      "letterboxd_rating_count": 852,
+      "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
+      "awards": "N/A",
+      "language": "English",
+      "country": "United States",
+      "box_office": "N/A",
       "website": null,
       "movie_url": "https://www.amctheatres.com/movies/you-can-see-everything-85142",
       "trailer_url": null,
@@ -115946,7 +115950,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.99,
-      "letterboxd_rating_count": 11865,
+      "letterboxd_rating_count": 12153,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
@@ -118230,7 +118234,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.06,
-      "letterboxd_rating_count": 39120,
+      "letterboxd_rating_count": 39125,
       "letterboxd_url": "https://letterboxd.com/film/yuri-on-ice/",
       "awards": "12 wins & 13 nominations total",
       "language": "Japanese",
@@ -118299,7 +118303,7 @@
       "plot": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
       "poster": "https://image.tmdb.org/t/p/w342/rMg3BFUKs8IaekSJgMT1IYmypk.jpg",
       "url": "https://www.themoviedb.org/movie/1389379",
-      "popularity": 7.9
+      "popularity": 9.7
     },
     {
       "tmdb_id": 1654581,
@@ -118330,7 +118334,7 @@
       "plot": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
       "poster": "https://image.tmdb.org/t/p/w342/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
       "url": "https://www.themoviedb.org/movie/1375156",
-      "popularity": 7.5
+      "popularity": 7.9
     },
     {
       "tmdb_id": 1748404,
@@ -118343,7 +118347,7 @@
         "Drama"
       ],
       "plot": "Across thirty years, several almosts, and timing that is never quite right, two people keep crossing paths – always on the verge of being together, but never quite making it.",
-      "poster": "https://image.tmdb.org/t/p/w342/8aSnu3dFDLSeQyRiY0Hrsriu9D2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/xUaIubwRhIOlJU473boAVzV4eri.jpg",
       "url": "https://www.themoviedb.org/movie/1748404",
       "popularity": 5.5
     },
@@ -118404,7 +118408,7 @@
       "plot": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
       "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
       "url": "https://www.themoviedb.org/movie/1294189",
-      "popularity": 177.8
+      "popularity": 169.3
     },
     {
       "tmdb_id": 656908,
@@ -118420,7 +118424,7 @@
       "plot": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
       "poster": "https://image.tmdb.org/t/p/w342/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
       "url": "https://www.themoviedb.org/movie/656908",
-      "popularity": 9.7
+      "popularity": 10.7
     },
     {
       "tmdb_id": 1422041,
@@ -118435,7 +118439,7 @@
       "plot": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
       "poster": "https://image.tmdb.org/t/p/w342/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
       "url": "https://www.themoviedb.org/movie/1422041",
-      "popularity": 17.7
+      "popularity": 19.5
     },
     {
       "tmdb_id": 1117898,
@@ -118453,22 +118457,7 @@
       "plot": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
       "poster": "https://image.tmdb.org/t/p/w342/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
       "url": "https://www.themoviedb.org/movie/1117898",
-      "popularity": 13.4
-    },
-    {
-      "tmdb_id": 1437696,
-      "imdb_id": "tt37304295",
-      "title": "Fatherland",
-      "release_date": "2026-11-06",
-      "runtime": 82,
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "plot": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
-      "poster": "https://image.tmdb.org/t/p/w342/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
-      "url": "https://www.themoviedb.org/movie/1437696",
-      "popularity": 10.0
+      "popularity": 13.9
     },
     {
       "tmdb_id": 891621,
@@ -118484,7 +118473,22 @@
       "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
       "poster": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
       "url": "https://www.themoviedb.org/movie/891621",
-      "popularity": 9.4
+      "popularity": 10.0
+    },
+    {
+      "tmdb_id": 1437696,
+      "imdb_id": "tt37304295",
+      "title": "Fatherland",
+      "release_date": "2026-11-06",
+      "runtime": 82,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "plot": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+      "poster": "https://image.tmdb.org/t/p/w342/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
+      "url": "https://www.themoviedb.org/movie/1437696",
+      "popularity": 9.8
     },
     {
       "tmdb_id": 1562642,
@@ -118499,7 +118503,7 @@
       "plot": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
       "poster": "https://image.tmdb.org/t/p/w342/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
       "url": "https://www.themoviedb.org/movie/1562642",
-      "popularity": 11.4
+      "popularity": 10.8
     },
     {
       "tmdb_id": 1567605,
@@ -118515,7 +118519,7 @@
       "plot": "Tale of an elderly miser who embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
       "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
       "url": "https://www.themoviedb.org/movie/1567605",
-      "popularity": 14.3
+      "popularity": 13.3
     },
     {
       "tmdb_id": 1437511,
@@ -118530,7 +118534,7 @@
       "plot": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
       "poster": "https://image.tmdb.org/t/p/w342/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
       "url": "https://www.themoviedb.org/movie/1437511",
-      "popularity": 7.7
+      "popularity": 8.0
     },
     {
       "tmdb_id": 1379486,
@@ -118561,7 +118565,7 @@
       "plot": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
       "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "url": "https://www.themoviedb.org/movie/1300968",
-      "popularity": 16.8
+      "popularity": 17.9
     },
     {
       "tmdb_id": 1286656,
@@ -118576,7 +118580,7 @@
       "plot": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
       "poster": "https://image.tmdb.org/t/p/w342/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
       "url": "https://www.themoviedb.org/movie/1286656",
-      "popularity": 6.6
+      "popularity": 6.8
     },
     {
       "tmdb_id": 1381273,
@@ -118625,7 +118629,7 @@
       "plot": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
       "poster": "https://image.tmdb.org/t/p/w342/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
       "url": "https://www.themoviedb.org/movie/1538497",
-      "popularity": 13.8
+      "popularity": 13.3
     },
     {
       "tmdb_id": 1088548,
@@ -118640,7 +118644,7 @@
       "plot": "Elsa is an advertising director whose mother dies during a long December holiday. She works non-stop and, without realizing, doesn’t give herself time to mourn her mother’s absence. After a crisis, Elsa decides to travel to the island of Lanzarote accompanied by her friend Patricia, who also needs to get away from the city. The story of these characters runs parallel to that of a screenwriter and film director, exploring how life and fiction are inseparably linked, sometimes painfully so.",
       "poster": "https://image.tmdb.org/t/p/w342/kiPGcHX0YT49nrab76G0bqw3gHW.jpg",
       "url": "https://www.themoviedb.org/movie/1088548",
-      "popularity": 7.6
+      "popularity": 7.5
     },
     {
       "tmdb_id": 1400336,
@@ -118655,7 +118659,7 @@
       "plot": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
       "poster": "https://image.tmdb.org/t/p/w342/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
       "url": "https://www.themoviedb.org/movie/1400336",
-      "popularity": 10.5
+      "popularity": 11.2
     },
     {
       "tmdb_id": 1078446,
@@ -118749,7 +118753,7 @@
       "plot": "Red faces his greatest challenge yet: surviving fatherhood… while saving the world.",
       "poster": "https://image.tmdb.org/t/p/w342/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
       "url": "https://www.themoviedb.org/movie/1300926",
-      "popularity": 7.4
+      "popularity": 8.6
     },
     {
       "tmdb_id": 1260649,
@@ -118765,7 +118769,7 @@
       "plot": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
       "poster": "https://image.tmdb.org/t/p/w342/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg",
       "url": "https://www.themoviedb.org/movie/1260649",
-      "popularity": 8.3
+      "popularity": 8.4
     },
     {
       "tmdb_id": 1372443,
@@ -118779,7 +118783,7 @@
       "plot": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
       "poster": "https://image.tmdb.org/t/p/w342/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
       "url": "https://www.themoviedb.org/movie/1372443",
-      "popularity": 6.7
+      "popularity": 7.2
     },
     {
       "tmdb_id": 1421903,

@@ -1,3 +1,15 @@
+## 2026-10-09 08:23 PM CDT
+
+**Showtime changes:**
+- Drishyam - The Conclusion
+  - + AMC Patton Creek 15 @ 2026-10-11T18:15:00 (Standard)
+- Drummer Boy
+  - + AMC Patton Creek 15 @ 2026-11-05T16:30:00 (Standard)
+- Street Fighter
+  - − AMC Patton Creek 15 @ 2026-10-29T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-29T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-29T19:00:00 (Standard)
+
 ## 2026-10-09 03:24 PM CDT
 
 **Movies added:**
