@@ -1,3 +1,27 @@
+## 2026-10-11 02:48 PM CDT
+
+**Movies added:**
+- Musk
+- The Mosquito Bowl: Fan Event Livestream Q&A with Director Peter Berg
+- The Mosquito Bowl
+- Trust Me, I'm a Doctor
+
+**Showtime changes:**
+- Street Fighter
+  - + AMC Patton Creek 15 @ 2026-10-22T13:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-22T16:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-22T19:00:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-10-22T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-22T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-22T19:00:00 (Standard)
+- Fresh Meat
+  - + AMC Summit 16 @ 2026-10-12T22:15:00 (Standard)
+- Other Mommy
+  - + AMC Patton Creek 15 @ 2026-10-15T14:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-15T14:00:00 (Standard)
+- Jailer 2
+  - − AMC Patton Creek 15 @ 2026-10-15T18:20:00 (Standard)
+
 ## 2026-10-11 05:24 AM CDT
 
 **Movies removed:**

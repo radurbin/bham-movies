@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-09-15 09:32 AM CDT",
-    "movies_added": [
-      "Blumhouse Presents: Other Mommy Fan Event Screening",
-      "Other Mommy",
-      "The Stunt Driver"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-15 02:20 PM CDT",
     "movies_added": [
       "Tiny Fugitives"
@@ -43572,6 +43562,94 @@
           {
             "theater": "AMC Summit 16",
             "datetime": "2026-10-10T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-11 02:48 PM CDT",
+    "movies_added": [
+      "Musk",
+      "The Mosquito Bowl: Fan Event Livestream Q&A with Director Peter Berg",
+      "The Mosquito Bowl",
+      "Trust Me, I'm a Doctor"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Street Fighter",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-22T13:00:00",
+            "format": "IMAX at AMC"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-22T16:00:00",
+            "format": "IMAX at AMC"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-22T19:00:00",
+            "format": "IMAX at AMC"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-22T13:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-22T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-22T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Fresh Meat",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-12T22:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Other Mommy",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-15T14:10:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-15T14:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Jailer 2",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-15T18:20:00",
             "format": "Standard"
           }
         ]
