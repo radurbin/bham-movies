@@ -1,3 +1,61 @@
+## 2026-10-10 07:35 PM CDT
+
+**Showtime changes:**
+- The History of Concrete
+  - − Sidewalk Film Center + Cinema @ 2026-10-10T13:00:00 (Standard)
+- Angel and the Badman
+  - + AMC Summit 16 @ 2026-10-12T22:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-12T21:25:00 (Standard)
+- You Can See Everything
+  - + AMC Summit 16 @ 2026-10-15T18:15:00 (Standard)
+- SEVENTEEN WORLD TOUR 'NEW_'
+  - + AMC Summit 16 @ 2026-10-26T19:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-28T17:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-31T17:30:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC Summit 16 @ 2026-10-12T13:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-12T15:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-12T21:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-12T14:00:00 (Standard)
+- Practical Magic 2
+  - + AMC Summit 16 @ 2026-10-12T19:05:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Summit 16 @ 2026-10-12T14:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-12T13:25:00 (Standard)
+- Forgotten Island
+  - + AMC Summit 16 @ 2026-10-12T14:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-13T13:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-13T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-13T18:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-14T13:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-14T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-14T18:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-12T14:30:00 (Standard)
+- ENHYPEN WORLD TOUR 'BLOOD SAGA'
+  - + AMC Summit 16 @ 2026-10-25T18:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-27T19:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-28T19:30:00 (Standard)
+- TOMORROW X TOGETHER WORLD TOUR 'ACT : TOMORROW'
+  - + AMC Summit 16 @ 2026-10-24T14:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T19:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-30T14:30:00 (Standard)
+- The Scout
+  - − Sidewalk Film Center + Cinema @ 2026-10-10T10:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-10T12:30:00 (Standard)
+- HYBE CHEERING PARTY
+  - + AMC Summit 16 @ 2026-10-24T12:30:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-10-25T12:30:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-10-26T17:30:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-10-27T17:30:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-10-29T17:30:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-10-30T12:30:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-10-31T12:30:00 (RealD 3D)
+- Other Mommy
+  - + AMC Summit 16 @ 2026-10-13T21:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-14T21:15:00 (Standard)
+- Digger
+  - − Sidewalk Film Center + Cinema @ 2026-10-10T10:00:00 (Standard)
+
 ## 2026-10-10 05:12 AM CDT
 
 **Movies removed:**
