@@ -1,3 +1,12 @@
+## 2026-10-11 07:49 PM CDT
+
+**Showtime changes:**
+- The Scout
+  - − Sidewalk Film Center + Cinema @ 2026-10-11T10:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-11T12:00:00 (Standard)
+- Digger
+  - − Sidewalk Film Center + Cinema @ 2026-10-11T10:30:00 (Standard)
+
 ## 2026-10-11 02:48 PM CDT
 
 **Movies added:**
