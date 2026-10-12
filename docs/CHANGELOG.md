@@ -1,3 +1,19 @@
+## 2026-10-12 05:39 PM CDT
+
+**Movies added:**
+- Stray Kids World Tour 'RUN IT' LIVE VIEWING
+- Wild Horse Nine: Early Access Screening
+- Wild Horse Nine
+
+**Showtime changes:**
+- Gone with the Wind (2026 Event)
+  - − AMC Patton Creek 15 @ 2026-10-13T18:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-14T18:00:00 (Standard)
+- Verity
+  - + AMC Patton Creek 15 @ 2026-10-13T18:15:00 (Standard)
+- Grandmasters
+  - − AMC Patton Creek 15 @ 2026-10-14T18:00:00 (Standard)
+
 ## 2026-10-12 06:26 AM CDT
 
 **Movies removed:**
