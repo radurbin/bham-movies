@@ -1,3 +1,135 @@
+## 2026-10-14 09:46 AM CDT
+
+**Movies added:**
+- Southern Circuit:  Who's the We (with Filmmaker Q&A)
+- Southern Circuit: Built on Zydeco (with filmmaker Q&A)
+- ZERO A.D.: The Birth of Christ
+
+**Movies removed:**
+- Daniel and the Fiery Furnace
+- Gone with the Wind (2026 Event)
+- Grandmasters
+- Southern Circuit:  Who's the We FILMMAKER IN ATTENDANCE
+- Southern Circuit: Built on Zydeco FILMMAKER IN ATTENDANCE
+
+**Showtime changes:**
+- Guillermo del Toro's Pan's Labyrinth 20th Anniversary
+  - − AMC Summit 16 @ 2026-10-14T19:15:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-14T21:45:00 (Standard)
+- Primetime
+  - − AMC Vestavia Hills 10 @ 2026-10-14T12:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T13:05:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T15:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T16:35:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T18:35:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T19:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T21:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T22:10:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T22:30:00 (Standard)
+- Practical Magic 2
+  - − AMC Vestavia Hills 10 @ 2026-10-14T12:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T13:10:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T15:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T16:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T18:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T21:50:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T22:50:00 (Standard)
+- Verity
+  - − AMC Summit 16 @ 2026-10-14T13:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T13:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T16:05:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T16:35:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T19:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T19:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T21:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T21:55:00 (Standard)
+- Angel and the Badman
+  - − AMC Summit 16 @ 2026-10-14T13:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T16:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T17:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T18:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T19:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T22:05:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Summit 16 @ 2026-10-14T22:05:00 (Standard)
+- Instructions Not Included 
+  - − AMC Summit 16 @ 2026-10-14T13:35:00 (Standard)
+- Other Mommy
+  - − AMC Vestavia Hills 10 @ 2026-10-14T13:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T14:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T15:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T16:30:00 (PRIME at AMC)
+  - − AMC Summit 16 @ 2026-10-14T16:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T18:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T19:00:00 (PRIME at AMC)
+  - − AMC Summit 16 @ 2026-10-14T19:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T20:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T21:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T21:40:00 (PRIME at AMC)
+  - − AMC Summit 16 @ 2026-10-14T22:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T23:00:00 (Standard)
+- The Social Reckoning
+  - − AMC Vestavia Hills 10 @ 2026-10-14T13:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T13:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T13:40:00 (PRIME at AMC)
+  - − AMC Summit 16 @ 2026-10-14T16:10:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T16:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T18:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T19:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T21:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T22:15:00 (Standard)
+- Heart of the Beast
+  - − AMC Vestavia Hills 10 @ 2026-10-14T12:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T14:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T15:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T17:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T19:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T19:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T22:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T22:15:00 (Standard)
+- Resident Evil
+  - − AMC Vestavia Hills 10 @ 2026-10-14T12:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T13:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T15:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T15:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T17:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T19:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T20:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T22:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T22:25:00 (Standard)
+- Forgotten Island
+  - − AMC Summit 16 @ 2026-10-14T13:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T13:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T15:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T16:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T18:30:00 (Standard)
+- Sense and Sensibility: Early Access Movie Party
+  - − AMC Vestavia Hills 10 @ 2026-10-14T19:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T19:00:00 (Standard)
+- 9 to 5
+  - − AMC Summit 16 @ 2026-10-14T13:50:00 (Standard)
+- Drishyam - The Conclusion
+  - − AMC Summit 16 @ 2026-10-14T21:45:00 (Standard)
+- Avengers Endgame: Encore
+  - − AMC Vestavia Hills 10 @ 2026-10-14T12:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T14:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T15:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T21:30:00 (Standard)
+- Digger
+  - − AMC Vestavia Hills 10 @ 2026-10-14T13:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T13:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T15:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T16:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T19:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T22:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-14T22:45:00 (Standard)
+- The Beast
+  - − AMC Summit 16 @ 2026-10-14T13:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T16:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-14T19:10:00 (Standard)
+- Verity: Sensory Friendly Screening
+  - − AMC Summit 16 @ 2026-10-14T19:00:00 (Standard)
+
 ## 2026-10-14 04:06 AM CDT
 
 **Movies removed:**
