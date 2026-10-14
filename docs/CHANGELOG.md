@@ -1,3 +1,123 @@
+## 2026-10-13 07:43 PM CDT
+
+**Movies added:**
+- NAZA
+- Southern Circuit: From Scene to Screen - Anatomy of a Documentary Workshop
+
+**Showtime changes:**
+- Street Fighter
+  - + AMC Vestavia Hills 10 @ 2026-10-19T12:40:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T15:35:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T18:30:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T21:35:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T12:40:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T15:35:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T18:30:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T21:35:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T12:40:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T15:35:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T18:30:00 (PRIME at AMC)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T21:35:00 (PRIME at AMC)
+- Klara and the Sun
+  - + AMC Patton Creek 15 @ 2026-10-22T18:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-22T19:40:00 (Standard)
+- Verity
+  - + AMC Vestavia Hills 10 @ 2026-10-19T13:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T16:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T19:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T21:55:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T13:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T16:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T19:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T21:55:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T13:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T16:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T19:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T21:55:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T13:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T16:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T19:40:00 (Standard)
+- Ken Russell's The Devils (1971): Director's Cut
+  - + Sidewalk Film Center + Cinema @ 2026-10-17T22:30:00 (Standard)
+- Other Mommy
+  - + AMC Vestavia Hills 10 @ 2026-10-19T15:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T18:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T20:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T22:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T15:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T18:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T20:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T22:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T15:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T18:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T20:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T22:25:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T14:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T16:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T20:00:00 (Standard)
+- Heart of the Beast
+  - + AMC Vestavia Hills 10 @ 2026-10-19T12:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T13:20:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T16:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T19:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T23:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T12:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T13:20:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T16:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T19:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T23:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T12:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T13:20:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T16:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T19:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T23:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T13:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T16:20:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - + AMC Patton Creek 15 @ 2026-10-22T14:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T17:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T19:15:00 (Standard)
+- Practical Magic 2
+  - + AMC Vestavia Hills 10 @ 2026-10-19T15:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T15:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T15:50:00 (Standard)
+- American Doctor
+  - + Sidewalk Film Center + Cinema @ 2026-10-18T15:15:00 (Standard)
+- The Social Reckoning
+  - + AMC Vestavia Hills 10 @ 2026-10-19T22:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T22:50:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T22:50:00 (Standard)
+- Angel and the Badman
+  - + AMC Patton Creek 15 @ 2026-10-22T13:20:00 (Standard)
+- You Can See Everything
+  - − AMC Vestavia Hills 10 @ 2026-10-19T19:00:00 (Standard)
+- Forgotten Island
+  - + AMC Patton Creek 15 @ 2026-10-22T13:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-22T16:30:00 (Standard)
+- Primetime
+  - + AMC Vestavia Hills 10 @ 2026-10-19T12:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T18:40:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T12:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T18:40:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T12:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T18:40:00 (Standard)
+- Resident Evil
+  - + AMC Vestavia Hills 10 @ 2026-10-19T12:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T14:55:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T17:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T20:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-19T22:40:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T12:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T14:55:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T17:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T20:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-20T22:40:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T12:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T14:55:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T17:25:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T20:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-10-21T22:40:00 (Standard)
+
 ## 2026-10-13 03:53 PM CDT
 
 **Movies added:**
