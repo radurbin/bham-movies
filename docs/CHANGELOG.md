@@ -1,3 +1,21 @@
+## 2026-10-14 07:11 PM CDT
+
+**Showtime changes:**
+- NAZA
+  - + Sidewalk Film Center + Cinema @ 2026-11-06T17:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-07T12:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-07T19:45:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-08T15:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-08T20:00:00 (Standard)
+- Wicker
+  - + AMC Patton Creek 15 @ 2026-10-22T18:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-23T19:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-24T19:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-25T19:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-26T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-27T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-28T19:00:00 (Standard)
+
 ## 2026-10-14 02:49 PM CDT
 
 **Movies added:**

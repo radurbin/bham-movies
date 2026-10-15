@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-09-18 08:57 AM CDT",
-    "movies_added": [
-      "Rocky 50th Anniversary",
-      "The Nightmare Before Christmas (RE26)"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-18 01:43 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -46116,6 +46107,85 @@
           {
             "theater": "AMC Vestavia Hills 10",
             "datetime": "2026-10-14T22:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14 07:11 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "NAZA",
+        "added": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-06T17:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-07T12:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-07T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-08T15:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-08T20:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Wicker",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-22T18:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-23T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-24T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-25T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-26T19:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-27T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-10-28T19:00:00",
             "format": "Standard"
           }
         ],
