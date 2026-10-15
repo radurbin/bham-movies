@@ -1,3 +1,13 @@
+## 2026-10-15 02:32 PM CDT
+
+**Showtime changes:**
+- Primetime
+  - − AMC Summit 16 @ 2026-10-15T22:10:00 (Standard)
+- Ranabaali (Telugu)
+  - + AMC Summit 16 @ 2026-10-15T19:15:00 (Standard)
+- California Schemin'
+  - − AMC Summit 16 @ 2026-10-15T19:20:00 (Standard)
+
 ## 2026-10-15 09:31 AM CDT
 
 **Movies added:**
