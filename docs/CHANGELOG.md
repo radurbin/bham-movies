@@ -1,3 +1,21 @@
+## 2026-10-15 09:31 AM CDT
+
+**Movies added:**
+- Ramayana
+
+**Showtime changes:**
+- The Scout
+  - − Sidewalk Film Center + Cinema @ 2026-10-14T20:00:00 (Standard)
+- George Michael: The Faith Tour
+  - + AMC Summit 16 @ 2026-12-11T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-12T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-13T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-14T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-15T19:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-16T19:15:00 (Standard)
+- The History of Concrete
+  - − Sidewalk Film Center + Cinema @ 2026-10-14T19:45:00 (Standard)
+
 ## 2026-10-15 03:39 AM CDT
 
 **Movies removed:**

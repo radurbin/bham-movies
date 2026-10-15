@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-09-18 06:43 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "By Any Means",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Vestavia Hills 10",
-            "datetime": "2026-09-18T19:30:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-09-18T20:15:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Resident Evil",
-        "added": [
-          {
-            "theater": "AMC Vestavia Hills 10",
-            "datetime": "2026-09-18T19:30:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-09-18T20:30:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      }
-    ]
-  },
-  {
     "date": "2026-09-19 03:21 AM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -46987,6 +46948,73 @@
           {
             "theater": "AMC Vestavia Hills 10",
             "datetime": "2026-10-14T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15 09:31 AM CDT",
+    "movies_added": [
+      "Ramayana"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Scout",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-14T20:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "George Michael: The Faith Tour",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-11T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-12T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-13T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-14T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-15T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-12-16T19:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "The History of Concrete",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-14T19:45:00",
             "format": "Standard"
           }
         ]
