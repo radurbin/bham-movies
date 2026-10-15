@@ -1,3 +1,9 @@
+## 2026-10-15 06:58 PM CDT
+
+**Showtime changes:**
+- You Can See Everything
+  - + AMC Summit 16 @ 2026-10-15T20:00:00 (Standard)
+
 ## 2026-10-15 02:32 PM CDT
 
 **Showtime changes:**
