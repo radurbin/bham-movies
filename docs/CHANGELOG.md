@@ -1,3 +1,24 @@
+## 2026-10-16 09:24 AM CDT
+
+**Movies added:**
+- The Irregular at Magic High School The Movie -Yotsuba Succession Arc-
+
+**Showtime changes:**
+- Ranabaali (Telugu)
+  - + AMC Summit 16 @ 2026-10-16T21:10:00 (Standard)
+- Angel and the Badman
+  - − AMC Summit 16 @ 2026-10-16T18:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - + AMC Summit 16 @ 2026-10-16T22:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-16T22:00:00 (Standard)
+- Verity
+  - + AMC Summit 16 @ 2026-10-16T18:15:00 (Standard)
+- Primetime
+  - − AMC Summit 16 @ 2026-10-16T22:40:00 (Standard)
+- Digger
+  - + AMC Summit 16 @ 2026-10-16T22:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-16T21:10:00 (Standard)
+
 ## 2026-10-16 03:35 AM CDT
 
 **Movies removed:**

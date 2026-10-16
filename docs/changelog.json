@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-09-19 06:44 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Verity",
-        "added": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-05T22:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-06T22:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-07T22:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-11T21:40:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      },
-      {
-        "title": "Other Mommy",
-        "added": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-08T19:20:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-11T22:30:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-08T20:00:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-09-20 03:52 AM CDT",
     "movies_added": [],
     "movies_removed": [
@@ -47253,6 +47198,93 @@
           {
             "theater": "AMC Summit 16",
             "datetime": "2026-10-15T15:40:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-16 09:24 AM CDT",
+    "movies_added": [
+      "The Irregular at Magic High School The Movie -Yotsuba Succession Arc-"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Ranabaali (Telugu)",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-16T21:10:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Angel and the Badman",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-16T18:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Your Mother Your Mother Your Mother",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-16T22:40:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-16T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Verity",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-16T18:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Primetime",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-16T22:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Digger",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-16T22:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-16T21:10:00",
             "format": "Standard"
           }
         ]
