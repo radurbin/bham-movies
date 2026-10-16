@@ -1,3 +1,8 @@
+## 2026-10-16 01:19 PM CDT
+
+**Movies added:**
+- Once Upon a Time… in Hollywood
+
 ## 2026-10-16 09:24 AM CDT
 
 **Movies added:**
