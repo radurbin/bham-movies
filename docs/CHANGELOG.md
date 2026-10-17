@@ -1,3 +1,12 @@
+## 2026-10-17 08:21 AM CDT
+
+**Showtime changes:**
+- Ken Russell's The Devils (1971): Director's Cut
+  - − Sidewalk Film Center + Cinema @ 2026-10-16T19:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-16T21:45:00 (Standard)
+- American Doctor
+  - − Sidewalk Film Center + Cinema @ 2026-10-16T21:30:00 (Standard)
+
 ## 2026-10-17 03:07 AM CDT
 
 **Movies removed:**
