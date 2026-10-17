@@ -1,3 +1,44 @@
+## 2026-10-16 07:01 PM CDT
+
+**Showtime changes:**
+- You Can See Everything
+  - + AMC Vestavia Hills 10 @ 2026-10-17T20:00:00 (Standard)
+- Resident Evil
+  - + AMC Summit 16 @ 2026-10-17T22:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-17T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-17T22:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-17T22:40:00 (Standard)
+- Sense and Sensibility
+  - + AMC Summit 16 @ 2026-10-17T19:20:00 (Standard)
+- Practical Magic 2
+  - + AMC Summit 16 @ 2026-10-17T19:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-17T19:20:00 (Standard)
+- Heart of the Beast
+  - + AMC Summit 16 @ 2026-10-17T11:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-17T13:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-17T11:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-17T13:55:00 (Standard)
+- Verity
+  - + AMC Vestavia Hills 10 @ 2026-10-16T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-17T20:00:00 (Standard)
+- Angel and the Badman
+  - − AMC Summit 16 @ 2026-10-17T11:30:00 (Standard)
+- Primetime
+  - − AMC Vestavia Hills 10 @ 2026-10-16T18:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-17T20:00:00 (Standard)
+- Other Mommy
+  - − AMC Summit 16 @ 2026-10-17T22:00:00 (Standard)
+- Musk
+  - + AMC Summit 16 @ 2026-10-17T11:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-17T16:05:00 (Standard)
+- Digger
+  - + AMC Summit 16 @ 2026-10-17T16:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-17T22:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-17T21:10:00 (Standard)
+- California Schemin'
+  - + AMC Summit 16 @ 2026-10-17T21:35:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-17T13:40:00 (Standard)
+
 ## 2026-10-16 02:07 PM CDT
 
 No changes.
