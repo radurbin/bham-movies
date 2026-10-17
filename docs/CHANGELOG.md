@@ -1,3 +1,42 @@
+## 2026-10-17 06:36 PM CDT
+
+**Showtime changes:**
+- Ken Russell's The Devils (1971): Director's Cut
+  - − Sidewalk Film Center + Cinema @ 2026-10-17T10:00:00 (Standard)
+- Angel and the Badman
+  - + AMC Summit 16 @ 2026-10-19T18:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-19T18:40:00 (Standard)
+- Jailer 2
+  - + AMC Summit 16 @ 2026-10-19T21:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-19T21:10:00 (Standard)
+- Practical Magic 2
+  - + AMC Summit 16 @ 2026-10-19T19:25:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-19T18:15:00 (Standard)
+- Trust Me, I'm a Doctor
+  - + AMC Summit 16 @ 2026-10-19T13:25:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-19T21:25:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − AMC Summit 16 @ 2026-10-17T22:05:00 (Standard)
+- You Can See Everything
+  - + AMC Summit 16 @ 2026-10-17T21:35:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-18T17:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-19T18:40:00 (Standard)
+- California Schemin'
+  - + AMC Summit 16 @ 2026-10-17T22:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-17T21:35:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-19T13:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-19T22:05:00 (Standard)
+- Primetime
+  - + AMC Summit 16 @ 2026-10-18T20:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-18T17:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-18T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-18T22:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-19T19:25:00 (Standard)
+- Pajama Party: Chicken Little (2005)
+  - − Sidewalk Film Center + Cinema @ 2026-10-17T10:30:00 (Standard)
+- American Doctor
+  - − Sidewalk Film Center + Cinema @ 2026-10-17T12:45:00 (Standard)
+
 ## 2026-10-17 01:01 PM CDT
 
 No changes.
