@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-09-22 09:15 AM CDT",
-    "movies_added": [
-      "Ozzy & Black Sabbath: Back To The Beginning",
-      "Rammstein - Live in Mexico City"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-22 02:20 PM CDT",
     "movies_added": [
       "AMC Screen Unseen: October 5",
@@ -45290,6 +45281,40 @@
           }
         ],
         "removed": []
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18 08:40 AM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Ken Russell's The Devils (1971): Director's Cut",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-17T20:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-17T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "American Doctor",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-17T22:00:00",
+            "format": "Standard"
+          }
+        ]
       }
     ]
   }
