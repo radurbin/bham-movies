@@ -1,3 +1,12 @@
+## 2026-10-18 01:21 PM CDT
+
+**Showtime changes:**
+- Street Fighter
+  - − AMC Vestavia Hills 10 @ 2026-10-18T19:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-18T22:45:00 (Standard)
+- You Can See Everything
+  - + AMC Vestavia Hills 10 @ 2026-10-18T19:45:00 (Standard)
+
 ## 2026-10-18 08:40 AM CDT
 
 **Showtime changes:**
