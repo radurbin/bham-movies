@@ -1,3 +1,53 @@
+## 2026-10-18 06:46 PM CDT
+
+**Movies removed:**
+- Pajama Party: Chicken Little (2005)
+- Sidewalk Film 101: Vampyr (1932)
+
+**Showtime changes:**
+- Street Fighter
+  - + AMC Patton Creek 15 @ 2026-10-23T13:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-23T16:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-23T19:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-23T22:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-24T13:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-24T16:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-24T19:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-24T22:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-25T13:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-25T16:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-25T19:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-25T22:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-26T16:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-26T19:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-27T13:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-27T16:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-27T19:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-28T13:00:00 (IMAX at AMC)
+  - + AMC Patton Creek 15 @ 2026-10-28T16:00:00 (IMAX at AMC)
+  - − AMC Patton Creek 15 @ 2026-10-23T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-23T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-23T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-23T22:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-24T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-24T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-24T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-24T22:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-25T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-25T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-25T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-25T22:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-26T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-26T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-27T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-27T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-27T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-28T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-28T16:00:00 (Standard)
+- Ken Russell's The Devils (1971): Director's Cut
+  - − Sidewalk Film Center + Cinema @ 2026-10-18T10:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-18T12:30:00 (Standard)
+
 ## 2026-10-18 01:21 PM CDT
 
 **Showtime changes:**
