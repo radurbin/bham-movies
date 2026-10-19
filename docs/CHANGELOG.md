@@ -1,3 +1,14 @@
+## 2026-10-19 11:42 AM CDT
+
+**Movies added:**
+- Everest: The Other Side
+- The Cat in the Hat: Sensory Friendly Screening
+- The Cat in the Hat
+
+**Showtime changes:**
+- Ken Russell's The Devils (1971): Director's Cut
+  - − Sidewalk Film Center + Cinema @ 2026-10-18T20:00:00 (Standard)
+
 ## 2026-10-19 04:23 AM CDT
 
 **Movies removed:**
