@@ -1,3 +1,9 @@
+## 2026-10-20 09:34 AM CDT
+
+**Movies added:**
+- Disney's Hexed: Sensory Friendly Screening
+- Disney's Hexed
+
 ## 2026-10-20 03:58 AM CDT
 
 **Movies added:**
