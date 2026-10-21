@@ -2117,7 +2117,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1792506797.5715067
+    "_fetched_at": 1792593869.1503906
   },
   "kwaidan (1964) 4k restoration - one night only! (1965)": {
     "Response": "False",
@@ -2200,7 +2200,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1792506798.012409
+    "_fetched_at": 1792593869.5600178
   },
   "klara and the sun (2026)": {
     "Response": "False",
@@ -2233,7 +2233,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1792506796.3196568
+    "_fetched_at": 1792593866.101048
   },
   "musk (2026)": {
     "Title": "Musk",
@@ -2360,7 +2360,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1792506796.753083
+    "_fetched_at": 1792593866.463294
   },
   "stray kids world tour 'run it' live viewing": {
     "Title": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
@@ -2388,7 +2388,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1792506797.128164
+    "_fetched_at": 1792593866.9033062
   },
   "wild horse nine (2026)": {
     "Title": "Wild Horse Nine",
@@ -2426,12 +2426,12 @@
   "wild horse nine: early access screening (2026)": {
     "Response": "False",
     "Error": "Movie not found!",
-    "_fetched_at": 1792401760.7137227
+    "_fetched_at": 1792593868.2749004
   },
   "wild horse nine: early access screening": {
     "Response": "False",
     "Error": "Movie not found!",
-    "_fetched_at": 1792401761.055806
+    "_fetched_at": 1792593868.7146683
   },
   "ranabaali (telugu (2026)": {
     "Response": "False",
@@ -2847,5 +2847,74 @@
     "Website": "N/A",
     "Response": "True",
     "_fetched_at": 1792541629.5639126
+  },
+  "the angry birds movie (2016)": {
+    "Title": "The Angry Birds Movie",
+    "Year": "2016",
+    "Rated": "PG",
+    "Released": "20 May 2016",
+    "Runtime": "97 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Clay Kaytis, Fergal Reilly",
+    "Writer": "Jon Vitti, Mikael Hed, Mikko P\u00f6ll\u00e4",
+    "Actors": "Jason Sudeikis, Josh Gad, Danny McBride",
+    "Plot": "When an island populated by happy, flightless birds is visited by mysterious green pigs, it's up to three unlikely outcasts to figure out what the pigs are up to.",
+    "Language": "English",
+    "Country": "United States, Finland, Canada",
+    "Awards": "3 wins & 8 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjU0NDA0OF5BMl5BanBnXkFtZTgwNTc0MTU3OTE@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "44%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
+      }
+    ],
+    "Metascore": "43",
+    "imdbRating": "6.3",
+    "imdbVotes": "121,382",
+    "imdbID": "tt1985949",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$107,509,366",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "_fetched_at": 1792593867.44846
+  },
+  "udta teer (2026)": {
+    "Title": "Udta Teer",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "11 Sep 2026",
+    "Runtime": "N/A",
+    "Genre": "Comedy",
+    "Director": "Aakash Kaushik",
+    "Writer": "Aakash Kaushik",
+    "Actors": "Ayushmann Khurrana, Sara Ali Khan, Salim Siddiqui",
+    "Plot": "N/A",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjE3MWQzNjEtY2RiYy00M2NkLWI3ZTYtNzhhNzY5YWYzMmViXkEyXkFqcGc@._V1_QL75_UY562_CR185,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt31806773",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "_fetched_at": 1792593867.8187606
   }
 }
