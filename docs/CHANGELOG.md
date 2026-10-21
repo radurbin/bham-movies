@@ -1,3 +1,51 @@
+## 2026-10-21 02:46 PM CDT
+
+**Showtime changes:**
+- Heart of the Beast
+  - − AMC Summit 16 @ 2026-10-22T15:50:00 (Standard)
+- California Schemin'
+  - − AMC Summit 16 @ 2026-10-22T13:30:00 (Standard)
+- Practical Magic 2
+  - − AMC Summit 16 @ 2026-10-22T15:55:00 (Standard)
+- Sense and Sensibility
+  - + AMC Summit 16 @ 2026-10-21T22:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-21T22:15:00 (Standard)
+- Wildwood
+  - + AMC Summit 16 @ 2026-10-22T15:55:00 (Standard)
+- The Angry Birds Movie: 10th Anniversary
+  - + AMC Summit 16 @ 2026-11-13T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-13T14:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-14T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-14T14:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-15T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-15T14:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-16T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-16T14:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-17T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-17T14:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-18T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-18T14:30:00 (Standard)
+- You Can See Everything
+  - + AMC Vestavia Hills 10 @ 2026-10-21T19:45:00 (Standard)
+- The Cat in the Hat
+  - + AMC Summit 16 @ 2026-11-10T21:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-11T21:15:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-12T21:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-10T21:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-11T21:20:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-12T21:20:00 (Standard)
+- Street Fighter
+  - − AMC Vestavia Hills 10 @ 2026-10-21T19:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-10-21T22:45:00 (Standard)
+- Wicker
+  - + AMC Summit 16 @ 2026-10-22T13:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-22T15:50:00 (Standard)
+- HYBE CHEERING PARTY
+  - − AMC Summit 16 @ 2026-10-25T12:30:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-10-25T12:30:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-10-26T17:30:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-10-26T17:30:00 (RealD 3D)
+
 ## 2026-10-21 09:45 AM CDT
 
 **Movies added:**
