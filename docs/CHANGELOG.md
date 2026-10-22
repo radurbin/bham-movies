@@ -1,3 +1,10 @@
+## 2026-10-22 09:45 AM CDT
+
+**Movies added:**
+- Heated Rivalry: Episode 1 & 2
+- Heated Rivalry: Episode 3 & 4
+- Heated Rivalry: Episode 5 & 6
+
 ## 2026-10-22 04:00 AM CDT
 
 **Movies added:**
