@@ -1,3 +1,36 @@
+## 2026-10-21 07:18 PM CDT
+
+**Movies added:**
+- Bernstein's Wall
+
+**Showtime changes:**
+- Wildwood
+  - + AMC Patton Creek 15 @ 2026-10-22T17:30:00 (Standard)
+- Street Fighter
+  - + AMC Patton Creek 15 @ 2026-10-22T20:35:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-22T17:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-10-22T20:30:00 (Standard)
+- Angel and the Badman
+  - − AMC Patton Creek 15 @ 2026-10-22T13:20:00 (Standard)
+- Wicker
+  - + AMC Patton Creek 15 @ 2026-10-22T13:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-25T11:25:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-26T13:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-26T13:40:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - + AMC Summit 16 @ 2026-10-26T16:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-26T14:40:00 (Standard)
+- Sense and Sensibility
+  - + AMC Summit 16 @ 2026-10-26T13:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-26T12:20:00 (Standard)
+- Fjord
+  - + Sidewalk Film Center + Cinema @ 2026-11-01T19:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-04T17:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-04T17:00:00 (Standard)
+- Clayface
+  - + AMC Summit 16 @ 2026-10-26T12:35:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-26T12:00:00 (Standard)
+
 ## 2026-10-21 02:46 PM CDT
 
 **Showtime changes:**
