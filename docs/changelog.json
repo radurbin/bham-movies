@@ -1,34 +1,5 @@
 [
   {
-    "date": "2026-09-27 02:23 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Heart of the Beast",
-        "added": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-09-27T18:35:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      },
-      {
-        "title": "Daniel and the Fiery Furnace",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-09-27T18:30:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-09-27 07:06 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -49794,6 +49765,37 @@
             "format": "Standard"
           }
         ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-23 02:37 PM CDT",
+    "movies_added": [
+      "The Last Temptation of Becky"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "A Talent for Murder",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-23T21:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Sense and Sensibility",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-23T21:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
       }
     ]
   }

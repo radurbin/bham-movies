@@ -1,3 +1,14 @@
+## 2026-10-23 02:37 PM CDT
+
+**Movies added:**
+- The Last Temptation of Becky
+
+**Showtime changes:**
+- A Talent for Murder
+  - − AMC Summit 16 @ 2026-10-23T21:00:00 (Standard)
+- Sense and Sensibility
+  - + AMC Summit 16 @ 2026-10-23T21:00:00 (Standard)
+
 ## 2026-10-23 09:31 AM CDT
 
 **Showtime changes:**

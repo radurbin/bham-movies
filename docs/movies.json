@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-10-23T09:31:47.743827-05:00",
-    "movie_count": 112,
-    "showtime_count": 3065,
+    "generated_at": "2026-10-23T14:37:31.001780-05:00",
+    "movie_count": 113,
+    "showtime_count": 3067,
     "theaters": {
       "AMC Patton Creek 15": 1104,
-      "AMC Summit 16": 1212,
+      "AMC Summit 16": 1214,
       "Sidewalk Film Center + Cinema": 159,
       "AMC Vestavia Hills 10": 589,
       "Sidewalk Film Center + Cinema - Classroom": 1
@@ -630,7 +630,7 @@
       "rotten_tomatoes": "74%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.88,
-      "letterboxd_rating_count": 687366,
+      "letterboxd_rating_count": 687483,
       "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind/",
       "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
       "language": "English",
@@ -857,7 +857,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": null,
       "letterboxd_rating": 3.24,
-      "letterboxd_rating_count": 5004,
+      "letterboxd_rating_count": 5032,
       "letterboxd_url": "https://letterboxd.com/film/a-talent-for-murder-2026/",
       "awards": "N/A",
       "language": "English",
@@ -1114,48 +1114,6 @@
               "type": "SENIOR",
               "price": 13.9,
               "tax": 1.21
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148067663,
-          "datetime": "2026-10-23T21:00:00",
-          "datetime_utc": "2026-10-24T02:00:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-23/summit/all/148067663",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.38,
-              "tax": 1.49
-            },
-            {
-              "type": "CHILD",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.73,
-              "tax": 1.34
             }
           ]
         },
@@ -5700,7 +5658,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-18/summit/all/146161820",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -31562,7 +31520,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 4827,
+      "letterboxd_rating_count": 4833,
       "letterboxd_url": "https://letterboxd.com/film/chronovisor/",
       "awards": "N/A",
       "language": "English",
@@ -31708,7 +31666,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.72,
-      "letterboxd_rating_count": 83617,
+      "letterboxd_rating_count": 96506,
       "letterboxd_url": "https://letterboxd.com/film/clayface/",
       "awards": "N/A",
       "language": "English",
@@ -63457,7 +63415,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "78/100",
       "letterboxd_rating": 3.79,
-      "letterboxd_rating_count": 86263,
+      "letterboxd_rating_count": 86473,
       "letterboxd_url": "https://letterboxd.com/film/fjord-2026/",
       "awards": "3 wins & 2 nominations total",
       "language": "English, Romanian, Norwegian, Swedish",
@@ -65574,7 +65532,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 4,
-      "letterboxd_rating_count": 1770,
+      "letterboxd_rating_count": 1776,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -69521,7 +69479,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 4,
-      "letterboxd_rating_count": 1770,
+      "letterboxd_rating_count": 1776,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -69724,7 +69682,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": null,
       "letterboxd_rating": 3.29,
-      "letterboxd_rating_count": 166546,
+      "letterboxd_rating_count": 166952,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -71252,7 +71210,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": null,
       "letterboxd_rating": 3.09,
-      "letterboxd_rating_count": 217484,
+      "letterboxd_rating_count": 217533,
       "letterboxd_url": "https://letterboxd.com/film/hell-house-llc/",
       "awards": "N/A",
       "language": "English",
@@ -75608,7 +75566,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.16,
-      "letterboxd_rating_count": 3694,
+      "letterboxd_rating_count": 4181,
       "letterboxd_url": "https://letterboxd.com/film/klara-and-the-sun/",
       "awards": "N/A",
       "language": "English",
@@ -76770,7 +76728,7 @@
       "rotten_tomatoes": "58%",
       "metacritic": "64/100",
       "letterboxd_rating": 3.73,
-      "letterboxd_rating_count": 887664,
+      "letterboxd_rating_count": 887823,
       "letterboxd_url": "https://letterboxd.com/film/marie-antoinette-2006/",
       "awards": "Won 1 Oscar. 19 wins & 24 nominations total",
       "language": "English, Latin, French",
@@ -76899,7 +76857,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "94/100",
       "letterboxd_rating": 4.54,
-      "letterboxd_rating_count": 37892,
+      "letterboxd_rating_count": 38191,
       "letterboxd_url": "https://letterboxd.com/film/naza/",
       "awards": "6 wins & 1 nomination total",
       "language": "Hebrew, English, Arabic",
@@ -77685,7 +77643,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.19,
-      "letterboxd_rating_count": 244095,
+      "letterboxd_rating_count": 245457,
       "letterboxd_url": "https://letterboxd.com/film/other-mommy/",
       "awards": "N/A",
       "language": "English",
@@ -81394,7 +81352,7 @@
       "rotten_tomatoes": "37%",
       "metacritic": null,
       "letterboxd_rating": 2.84,
-      "letterboxd_rating_count": 167569,
+      "letterboxd_rating_count": 167776,
       "letterboxd_url": "https://letterboxd.com/film/practical-magic-2/",
       "awards": "1 nomination total",
       "language": "English",
@@ -81685,7 +81643,7 @@
       "rotten_tomatoes": "86%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.66,
-      "letterboxd_rating_count": 760262,
+      "letterboxd_rating_count": 762209,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -81980,7 +81938,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": null,
       "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 3917,
+      "letterboxd_rating_count": 3950,
       "letterboxd_url": "https://letterboxd.com/film/queen-at-sea/",
       "awards": "1 nomination total",
       "language": "English",
@@ -83111,7 +83069,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.75,
-      "letterboxd_rating_count": 1628676,
+      "letterboxd_rating_count": 1631371,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -85750,7 +85708,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "70/100",
       "letterboxd_rating": 4.12,
-      "letterboxd_rating_count": 1113646,
+      "letterboxd_rating_count": 1113885,
       "letterboxd_url": "https://letterboxd.com/film/rocky/",
       "awards": "Won 3 Oscars. 23 wins & 23 nominations total",
       "language": "English, Spanish, Italian",
@@ -86254,7 +86212,7 @@
       "rotten_tomatoes": "78%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.02,
-      "letterboxd_rating_count": 2432194,
+      "letterboxd_rating_count": 2432885,
       "letterboxd_url": "https://letterboxd.com/film/scream/",
       "awards": "12 wins & 11 nominations total",
       "language": "English",
@@ -86829,7 +86787,7 @@
       "rotten_tomatoes": "79%",
       "metacritic": "72/100",
       "letterboxd_rating": 4,
-      "letterboxd_rating_count": 132454,
+      "letterboxd_rating_count": 133877,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -87215,6 +87173,48 @@
               "type": "SENIOR",
               "price": 13.9,
               "tax": 1.21
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148205983,
+          "datetime": "2026-10-23T21:00:00",
+          "datetime_utc": "2026-10-24T02:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-23/summit/all/148205983",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
             }
           ]
         },
@@ -90773,7 +90773,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.03,
-      "letterboxd_rating_count": 4603115,
+      "letterboxd_rating_count": 4605370,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -91287,7 +91287,7 @@
       "rotten_tomatoes": null,
       "metacritic": "46/100",
       "letterboxd_rating": 2.8,
-      "letterboxd_rating_count": 128073,
+      "letterboxd_rating_count": 129683,
       "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
       "awards": "N/A",
       "language": "English",
@@ -94550,7 +94550,7 @@
       "rotten_tomatoes": null,
       "metacritic": "46/100",
       "letterboxd_rating": 2.8,
-      "letterboxd_rating_count": 128073,
+      "letterboxd_rating_count": 129683,
       "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
       "awards": "N/A",
       "language": "English",
@@ -94678,7 +94678,7 @@
       "rotten_tomatoes": "44%",
       "metacritic": "43/100",
       "letterboxd_rating": 2.82,
-      "letterboxd_rating_count": 299469,
+      "letterboxd_rating_count": 299550,
       "letterboxd_url": "https://letterboxd.com/film/the-angry-birds-movie/",
       "awards": "3 wins & 8 nominations total",
       "language": "English",
@@ -103169,6 +103169,141 @@
       ]
     },
     {
+      "sort_index": "the last temptation of becky",
+      "source": "AMC",
+      "movie_id": 85402,
+      "title": "The Last Temptation of Becky",
+      "release_year": 2026,
+      "runtime": 89,
+      "rating": "NR",
+      "genres": [
+        "ACTION"
+      ],
+      "poster": "posters/the-last-temptation-of-becky-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Now a CIA field agent, Becky goes undercover in Poland to infiltrate a family running an inn at The Wolf's Lair, one of Hitler's WWII bunkers. When she learns the father, Wilhelm Reuss, plans to spark the Fourth Reich, Becky must stop him.",
+      "directors": [
+        "Jenn Wexler"
+      ],
+      "writers": [
+        "Jenn Wexler",
+        "Matt Angel",
+        "Suzanne Coote"
+      ],
+      "actors": [
+        "Kate Siegel",
+        "Lulu Wilson",
+        "Neil Patrick Harris"
+      ],
+      "imdb_id": "tt40210362",
+      "imdb_rating": "7.1",
+      "imdb_votes": "41",
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": 3.24,
+      "letterboxd_rating_count": 234,
+      "letterboxd_url": "https://letterboxd.com/film/the-last-temptation-of-becky/",
+      "awards": "N/A",
+      "language": "English",
+      "country": "United States",
+      "box_office": "N/A",
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/the-last-temptation-of-becky-85402",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148202630,
+          "datetime": "2026-11-04T20:00:00",
+          "datetime_utc": "2026-11-05T02:00:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-04/summit/all/148202630",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Closed Caption",
+            "Event",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148202631,
+          "datetime": "2026-11-05T20:00:00",
+          "datetime_utc": "2026-11-06T02:00:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-05/summit/all/148202631",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Alternative Content",
+            "Closed Caption",
+            "Event",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "the maltese falcon 85th anniversary",
       "source": "AMC",
       "movie_id": 82779,
@@ -103201,7 +103336,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 163869,
+      "letterboxd_rating_count": 163889,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -105775,7 +105910,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": null,
       "letterboxd_rating": 3.45,
-      "letterboxd_rating_count": 9922,
+      "letterboxd_rating_count": 9988,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -106114,7 +106249,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.01,
-      "letterboxd_rating_count": 134581,
+      "letterboxd_rating_count": 135051,
       "letterboxd_url": "https://letterboxd.com/film/the-social-reckoning/",
       "awards": "N/A",
       "language": "English",
@@ -107000,7 +107135,7 @@
       "rotten_tomatoes": "73%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 1036086,
+      "letterboxd_rating_count": 1036241,
       "letterboxd_url": "https://letterboxd.com/film/v-for-vendetta/",
       "awards": "7 wins & 29 nominations total",
       "language": "English, French, Latin, Spanish",
@@ -107182,7 +107317,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.65,
-      "letterboxd_rating_count": 375473,
+      "letterboxd_rating_count": 376636,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -109618,7 +109753,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.23,
-      "letterboxd_rating_count": 121320,
+      "letterboxd_rating_count": 123018,
       "letterboxd_url": "https://letterboxd.com/film/whalefall/",
       "awards": "N/A",
       "language": "English",
@@ -112733,7 +112868,7 @@
       "rotten_tomatoes": "92%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.71,
-      "letterboxd_rating_count": 13310,
+      "letterboxd_rating_count": 14077,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "1 nomination total",
       "language": "English",
@@ -116176,7 +116311,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": null,
       "letterboxd_rating": 4.12,
-      "letterboxd_rating_count": 11459,
+      "letterboxd_rating_count": 11489,
       "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
       "awards": "N/A",
       "language": "English",
@@ -119500,7 +119635,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.34,
-      "letterboxd_rating_count": 20625,
+      "letterboxd_rating_count": 24472,
       "letterboxd_url": "https://letterboxd.com/film/wildwood-2026/",
       "awards": "N/A",
       "language": "English",
@@ -122541,7 +122676,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.34,
-      "letterboxd_rating_count": 20625,
+      "letterboxd_rating_count": 24472,
       "letterboxd_url": "https://letterboxd.com/film/wildwood-2026/",
       "awards": "N/A",
       "language": "English",
@@ -122668,7 +122803,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "98/100",
       "letterboxd_rating": 4.63,
-      "letterboxd_rating_count": 323987,
+      "letterboxd_rating_count": 327895,
       "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
       "awards": "N/A",
       "language": "English",
@@ -126824,7 +126959,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 42231,
+      "letterboxd_rating_count": 42439,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
@@ -129182,6 +129317,36 @@
   ],
   "upcoming": [
     {
+      "tmdb_id": 1751103,
+      "imdb_id": "tt42027430",
+      "title": "The Infinite",
+      "release_date": "2026-10-25",
+      "runtime": 103,
+      "genres": [
+        "Drama"
+      ],
+      "plot": "Charlie Donovan, on the brink of losing everything he loves, is drawn into a fateful journey with seven strange strangers, each of whom holds a key to save him from self-destruction.",
+      "poster": "https://image.tmdb.org/t/p/w342/72uGzI3MBFYxiH1vJZHVrp2G6X9.jpg",
+      "url": "https://www.themoviedb.org/movie/1751103",
+      "popularity": 4.8
+    },
+    {
+      "tmdb_id": 1496785,
+      "imdb_id": "tt30768979",
+      "title": "Aadarsha Kutumbam House No: 47 - AK47",
+      "release_date": "2026-10-29",
+      "runtime": null,
+      "genres": [
+        "Family",
+        "Action",
+        "Comedy"
+      ],
+      "plot": "A seemingly flawless family at House No. 47 unravels after an incident reveals hidden tensions.",
+      "poster": "https://image.tmdb.org/t/p/w342/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg",
+      "url": "https://www.themoviedb.org/movie/1496785",
+      "popularity": 4.4
+    },
+    {
       "tmdb_id": 1294189,
       "imdb_id": "tt13611778",
       "title": "The Mongoose",
@@ -129286,6 +129451,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
       "url": "https://www.themoviedb.org/movie/1379486",
       "popularity": 5.5
+    },
+    {
+      "tmdb_id": 1505644,
+      "imdb_id": "tt37501891",
+      "title": "ENE Repeat",
+      "release_date": "2026-11-19",
+      "runtime": 155,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "plot": "A close-knit group of friends embark on another unforgettable journey, where old memories, new adventures, and unexpected twists test their friendship.",
+      "poster": "https://image.tmdb.org/t/p/w342/qMBlRfQNusaUhhBAIcHmforVTW5.jpg",
+      "url": "https://www.themoviedb.org/movie/1505644",
+      "popularity": 8.9
     },
     {
       "tmdb_id": 1300968,
@@ -129433,21 +129613,6 @@
       "popularity": 6.4
     },
     {
-      "tmdb_id": 1078446,
-      "imdb_id": "tt32432428",
-      "title": "Violent Night 2",
-      "release_date": "2026-12-04",
-      "runtime": 110,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "plot": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he’ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
-      "poster": "https://image.tmdb.org/t/p/w342/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
-      "url": "https://www.themoviedb.org/movie/1078446",
-      "popularity": 5.0
-    },
-    {
       "tmdb_id": 1452168,
       "imdb_id": "tt36415529",
       "title": "Behemoth!",
@@ -129460,6 +129625,21 @@
       "plot": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
       "poster": "https://image.tmdb.org/t/p/w342/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
       "url": "https://www.themoviedb.org/movie/1452168",
+      "popularity": 5.0
+    },
+    {
+      "tmdb_id": 1078446,
+      "imdb_id": "tt32432428",
+      "title": "Violent Night 2",
+      "release_date": "2026-12-04",
+      "runtime": 110,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "plot": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he’ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
+      "poster": "https://image.tmdb.org/t/p/w342/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
+      "url": "https://www.themoviedb.org/movie/1078446",
       "popularity": 5.0
     },
     {
@@ -129570,6 +129750,21 @@
       "popularity": 6.8
     },
     {
+      "tmdb_id": 1287365,
+      "imdb_id": "tt8613988",
+      "title": "The Liberation",
+      "release_date": "2027-01-08",
+      "runtime": 124,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "plot": "Rita is entranced by the mesmeric Leader and renounces her family to embrace the world of the enigmatic Harmonia commune. Her daughters Ella and Jo put everything on the line to infiltrate the cult and bring their mother home. Yet, once immersed in the commune, they find themselves inexorably drawn into the Leader’s labyrinthine web of psycho-spiritual manipulation.",
+      "poster": "https://image.tmdb.org/t/p/w342/cjbHYvJz9j5H3BSBfoaOiGMEHeZ.jpg",
+      "url": "https://www.themoviedb.org/movie/1287365",
+      "popularity": 4.2
+    },
+    {
       "tmdb_id": 1440769,
       "imdb_id": "tt35935357",
       "title": "The Beekeeper 2",
@@ -129584,6 +129779,20 @@
       "poster": "https://image.tmdb.org/t/p/w342/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg",
       "url": "https://www.themoviedb.org/movie/1440769",
       "popularity": 11.8
+    },
+    {
+      "tmdb_id": 1591675,
+      "imdb_id": "tt39094466",
+      "title": "Look Back",
+      "release_date": "2027-01-15",
+      "runtime": 100,
+      "genres": [
+        "Drama"
+      ],
+      "plot": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
+      "poster": "https://image.tmdb.org/t/p/w342/sxiJhMNTBRvQgMnB9H4VIVdQfW9.jpg",
+      "url": "https://www.themoviedb.org/movie/1591675",
+      "popularity": 6.2
     },
     {
       "tmdb_id": 621304,
