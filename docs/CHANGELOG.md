@@ -1,3 +1,8 @@
+## 2026-10-24 06:51 PM CDT
+
+**Movies removed:**
+- 5th Annual Film and Creative Media College Fair
+
 ## 2026-10-24 01:26 PM CDT
 
 **Showtime changes:**
