@@ -1,3 +1,18 @@
+## 2026-10-24 01:26 PM CDT
+
+**Showtime changes:**
+- Other Mommy
+  - − AMC Summit 16 @ 2026-10-24T17:25:00 (Standard)
+- Wildwood
+  - + AMC Summit 16 @ 2026-10-24T16:55:00 (Standard)
+- Whalefall
+  - + AMC Summit 16 @ 2026-10-24T17:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-24T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-24T17:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-24T19:45:00 (Standard)
+- HYBE CHEERING PARTY
+  - − AMC Summit 16 @ 2026-10-24T12:30:00 (RealD 3D)
+
 ## 2026-10-24 08:42 AM CDT
 
 **Showtime changes:**
