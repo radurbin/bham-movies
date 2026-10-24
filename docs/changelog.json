@@ -1,26 +1,5 @@
 [
   {
-    "date": "2026-09-28 04:27 PM CDT",
-    "movies_added": [
-      "Dive in Wonderland",
-      "Fresh Meat"
-    ],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Verity",
-        "added": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-10-02T18:30:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      }
-    ]
-  },
-  {
     "date": "2026-09-28 08:20 PM CDT",
     "movies_added": [
       "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
@@ -49955,6 +49934,51 @@
           {
             "theater": "AMC Patton Creek 15",
             "datetime": "2026-10-23T17:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24 08:42 AM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Filmmaker Focus - John Carpenter: In the Mouth of Madness (1994)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-23T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Ken Russell's The Devils (1971): Director's Cut",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-23T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-23T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Filmmaker Focus - John Carpenter: The Thing (1982)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-10-23T21:15:00",
             "format": "Standard"
           }
         ]

@@ -1,3 +1,14 @@
+## 2026-10-24 08:42 AM CDT
+
+**Showtime changes:**
+- Filmmaker Focus - John Carpenter: In the Mouth of Madness (1994)
+  - − Sidewalk Film Center + Cinema @ 2026-10-23T19:00:00 (Standard)
+- Ken Russell's The Devils (1971): Director's Cut
+  - − Sidewalk Film Center + Cinema @ 2026-10-23T19:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-23T21:45:00 (Standard)
+- Filmmaker Focus - John Carpenter: The Thing (1982)
+  - − Sidewalk Film Center + Cinema @ 2026-10-23T21:15:00 (Standard)
+
 ## 2026-10-24 03:28 AM CDT
 
 **Showtime changes:**
