@@ -1,3 +1,24 @@
+## 2026-10-23 07:08 PM CDT
+
+**Movies added:**
+- JIMMY - Early Bird Sneak
+
+**Showtime changes:**
+- Wildwood
+  - + AMC Summit 16 @ 2026-10-23T22:05:00 (Standard)
+- Resident Evil
+  - + AMC Patton Creek 15 @ 2026-10-29T19:45:00 (Standard)
+- Klara and the Sun
+  - − AMC Summit 16 @ 2026-10-23T22:10:00 (Standard)
+- You Can See Everything
+  - + AMC Patton Creek 15 @ 2026-10-29T13:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-29T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-29T18:40:00 (Standard)
+- Other Mommy
+  - + AMC Patton Creek 15 @ 2026-10-29T14:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-29T17:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-10-29T20:00:00 (Standard)
+
 ## 2026-10-23 02:37 PM CDT
 
 **Movies added:**
