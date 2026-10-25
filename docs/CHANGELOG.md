@@ -1,3 +1,14 @@
+## 2026-10-25 09:01 AM CDT
+
+**Showtime changes:**
+- Ken Russell's The Devils (1971): Director's Cut
+  - − Sidewalk Film Center + Cinema @ 2026-10-24T20:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-10-24T22:30:00 (Standard)
+- Filmmaker Focus - John Carpenter: The Thing (1982)
+  - − Sidewalk Film Center + Cinema @ 2026-10-24T22:45:00 (Standard)
+- Filmmaker Focus - John Carpenter: Prince of Darkness (1987)
+  - − Sidewalk Film Center + Cinema @ 2026-10-24T20:30:00 (Standard)
+
 ## 2026-10-25 03:48 AM CDT
 
 **Movies removed:**
