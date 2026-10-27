@@ -1,3 +1,9 @@
+## 2026-10-27 10:36 AM CDT
+
+**Movies added:**
+- AMC Screen Unseen: November 9
+- Ghost Soldier
+
 ## 2026-10-27 04:25 AM CDT
 
 **Movies added:**
