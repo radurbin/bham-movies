@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-10-26T11:22:06.094728-05:00",
+    "generated_at": "2026-10-26T19:59:30.369562-05:00",
     "movie_count": 105,
-    "showtime_count": 2572,
+    "showtime_count": 2584,
     "theaters": {
-      "AMC Patton Creek 15": 958,
+      "AMC Patton Creek 15": 970,
       "AMC Summit 16": 1014,
       "AMC Vestavia Hills 10": 466,
       "Sidewalk Film Center + Cinema": 133,
@@ -332,7 +332,7 @@
       "rotten_tomatoes": "74%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 688977,
+      "letterboxd_rating_count": 689184,
       "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind/",
       "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
       "language": "English",
@@ -559,7 +559,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": null,
       "letterboxd_rating": 3.23,
-      "letterboxd_rating_count": 6210,
+      "letterboxd_rating_count": 6426,
       "letterboxd_url": "https://letterboxd.com/film/a-talent-for-murder-2026/",
       "awards": "N/A",
       "language": "English",
@@ -2276,6 +2276,47 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232204,
+          "datetime": "2026-12-17T14:15:00",
+          "datetime_utc": "2026-12-17T20:15:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148232204",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.55,
+              "tax": 1.26
+            },
+            {
+              "type": "CHILD",
+              "price": 11.92,
+              "tax": 1.03
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.24,
+              "tax": 1.15
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
           "showtime_id": 145963237,
           "datetime": "2026-12-17T14:45:00",
           "datetime_utc": "2026-12-17T20:45:00Z",
@@ -2394,6 +2435,47 @@
               "type": "SENIOR",
               "price": 13.96,
               "tax": 1.27
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232211,
+          "datetime": "2026-12-17T15:15:00",
+          "datetime_utc": "2026-12-17T21:15:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 38.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148232211",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.55,
+              "tax": 1.26
+            },
+            {
+              "type": "CHILD",
+              "price": 11.92,
+              "tax": 1.03
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.24,
+              "tax": 1.15
             }
           ]
         },
@@ -2651,6 +2733,47 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232205,
+          "datetime": "2026-12-17T18:15:00",
+          "datetime_utc": "2026-12-18T00:15:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148232205",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.28,
+              "tax": 1.59
+            },
+            {
+              "type": "CHILD",
+              "price": 14.99,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.63,
+              "tax": 1.44
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
           "showtime_id": 145963238,
           "datetime": "2026-12-17T18:45:00",
           "datetime_utc": "2026-12-18T00:45:00Z",
@@ -2770,6 +2893,47 @@
               "type": "SENIOR",
               "price": 17.48,
               "tax": 1.59
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232210,
+          "datetime": "2026-12-17T19:15:00",
+          "datetime_utc": "2026-12-18T01:15:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 38.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148232210",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.28,
+              "tax": 1.59
+            },
+            {
+              "type": "CHILD",
+              "price": 14.99,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.63,
+              "tax": 1.44
             }
           ]
         },
@@ -3065,6 +3229,47 @@
               "type": "SENIOR",
               "price": 22.98,
               "tax": 2.09
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232206,
+          "datetime": "2026-12-17T22:15:00",
+          "datetime_utc": "2026-12-18T04:15:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148232206",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.28,
+              "tax": 1.59
+            },
+            {
+              "type": "CHILD",
+              "price": 14.99,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.63,
+              "tax": 1.44
             }
           ]
         },
@@ -28701,7 +28906,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.41,
-      "letterboxd_rating_count": 566,
+      "letterboxd_rating_count": 644,
       "letterboxd_url": "https://letterboxd.com/film/breeder-2026-1/",
       "awards": "N/A",
       "language": "N/A",
@@ -29837,7 +30042,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 5019,
+      "letterboxd_rating_count": 5070,
       "letterboxd_url": "https://letterboxd.com/film/chronovisor/",
       "awards": "N/A",
       "language": "English",
@@ -29983,7 +30188,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.75,
-      "letterboxd_rating_count": 304183,
+      "letterboxd_rating_count": 325646,
       "letterboxd_url": "https://letterboxd.com/film/clayface/",
       "awards": "N/A",
       "language": "English",
@@ -32210,47 +32415,6 @@
               "type": "SENIOR",
               "price": 14.73,
               "tax": 1.34
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147984805,
-          "datetime": "2026-10-30T20:20:00",
-          "datetime_utc": "2026-10-31T01:20:00Z",
-          "auditorium": 8,
-          "screen_width_ft": 61.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-30/pattoncreek/all/147984805",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
-            },
-            {
-              "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
             }
           ]
         },
@@ -42571,6 +42735,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232244,
+          "datetime": "2026-12-17T15:00:00",
+          "datetime_utc": "2026-12-17T21:00:00Z",
+          "auditorium": 11,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148232244",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.55,
+              "tax": 1.26
+            },
+            {
+              "type": "CHILD",
+              "price": 11.92,
+              "tax": 1.03
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.24,
+              "tax": 1.15
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
           "showtime_id": 148049729,
@@ -42651,6 +42856,47 @@
               "type": "SENIOR",
               "price": 13.96,
               "tax": 1.27
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232202,
+          "datetime": "2026-12-17T16:00:00",
+          "datetime_utc": "2026-12-17T22:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148232202",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.28,
+              "tax": 1.59
+            },
+            {
+              "type": "CHILD",
+              "price": 14.99,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.63,
+              "tax": 1.44
             }
           ]
         },
@@ -42867,6 +43113,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232246,
+          "datetime": "2026-12-17T19:00:00",
+          "datetime_utc": "2026-12-18T01:00:00Z",
+          "auditorium": 11,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148232246",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.28,
+              "tax": 1.59
+            },
+            {
+              "type": "CHILD",
+              "price": 14.99,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.63,
+              "tax": 1.44
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 147975126,
@@ -42946,6 +43233,47 @@
               "type": "SENIOR",
               "price": 17.48,
               "tax": 1.59
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232203,
+          "datetime": "2026-12-17T20:00:00",
+          "datetime_utc": "2026-12-18T02:00:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148232203",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.28,
+              "tax": 1.59
+            },
+            {
+              "type": "CHILD",
+              "price": 14.99,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.63,
+              "tax": 1.44
             }
           ]
         },
@@ -43157,6 +43485,47 @@
               "type": "SENIOR",
               "price": 17.48,
               "tax": 1.59
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232245,
+          "datetime": "2026-12-17T23:00:00",
+          "datetime_utc": "2026-12-18T05:00:00Z",
+          "auditorium": 11,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148232245",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.28,
+              "tax": 1.59
+            },
+            {
+              "type": "CHILD",
+              "price": 14.99,
+              "tax": 1.3
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.63,
+              "tax": 1.44
             }
           ]
         },
@@ -56324,7 +56693,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": "65/100",
       "letterboxd_rating": 3.54,
-      "letterboxd_rating_count": 857,
+      "letterboxd_rating_count": 863,
       "letterboxd_url": "https://letterboxd.com/film/everest-the-other-side/",
       "awards": "N/A",
       "language": "English",
@@ -57965,6 +58334,46 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 147800255,
+          "datetime": "2026-11-03T12:15:00",
+          "datetime_utc": "2026-11-03T18:15:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-03/pattoncreek/all/147800255",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 12.36,
+              "tax": 1.07
+            },
+            {
+              "type": "CHILD",
+              "price": 9.73,
+              "tax": 0.84
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.05,
+              "tax": 0.96
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 147816392,
@@ -58001,47 +58410,6 @@
               "type": "SENIOR",
               "price": 11.76,
               "tax": 1.07
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147800255,
-          "datetime": "2026-11-03T12:45:00",
-          "datetime_utc": "2026-11-03T18:45:00Z",
-          "auditorium": 15,
-          "screen_width_ft": 59.5,
-          "premium_format": "IMAX at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-03/pattoncreek/all/147800255",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "IMAX at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.84,
-              "tax": 1.55
-            },
-            {
-              "type": "CHILD",
-              "price": 15.21,
-              "tax": 1.32
-            },
-            {
-              "type": "SENIOR",
-              "price": 16.52,
-              "tax": 1.43
             }
           ]
         },
@@ -59323,7 +59691,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "78/100",
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 93000,
+      "letterboxd_rating_count": 93502,
       "letterboxd_url": "https://letterboxd.com/film/fjord-2026/",
       "awards": "3 wins & 2 nominations total",
       "language": "English, Romanian, Norwegian, Swedish",
@@ -61440,7 +61808,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 4,
-      "letterboxd_rating_count": 1830,
+      "letterboxd_rating_count": 1864,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -61737,6 +62105,47 @@
               "type": "SENIOR",
               "price": 14.73,
               "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232283,
+          "datetime": "2026-11-05T22:30:00",
+          "datetime_utc": "2026-11-06T04:30:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-05/pattoncreek/all/148232283",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "IMAX at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.01,
+              "tax": 1.82
+            },
+            {
+              "type": "CHILD",
+              "price": 17.73,
+              "tax": 1.54
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.37,
+              "tax": 1.68
             }
           ]
         },
@@ -65229,6 +65638,48 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232250,
+          "datetime": "2026-11-03T12:30:00",
+          "datetime_utc": "2026-11-03T18:30:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-03/pattoncreek/all/148232250",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Excluded from 50% off Discount",
+            "IMAX at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.84,
+              "tax": 1.55
+            },
+            {
+              "type": "CHILD",
+              "price": 15.21,
+              "tax": 1.32
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.52,
+              "tax": 1.43
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
           "showtime_id": 147711349,
           "datetime": "2026-11-03T15:45:00",
           "datetime_utc": "2026-11-03T21:45:00Z",
@@ -65387,7 +65838,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 4,
-      "letterboxd_rating_count": 1830,
+      "letterboxd_rating_count": 1864,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -65590,7 +66041,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": null,
       "letterboxd_rating": 3.29,
-      "letterboxd_rating_count": 172389,
+      "letterboxd_rating_count": 173165,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -66630,7 +67081,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": null,
       "letterboxd_rating": 3.09,
-      "letterboxd_rating_count": 218408,
+      "letterboxd_rating_count": 218515,
       "letterboxd_url": "https://letterboxd.com/film/hell-house-llc/",
       "awards": "N/A",
       "language": "English",
@@ -70733,8 +71184,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.15,
-      "letterboxd_rating_count": 10555,
+      "letterboxd_rating": 3.14,
+      "letterboxd_rating_count": 11828,
       "letterboxd_url": "https://letterboxd.com/film/klara-and-the-sun/",
       "awards": "N/A",
       "language": "English",
@@ -71405,7 +71856,7 @@
       "rotten_tomatoes": "58%",
       "metacritic": "64/100",
       "letterboxd_rating": 3.73,
-      "letterboxd_rating_count": 890381,
+      "letterboxd_rating_count": 890749,
       "letterboxd_url": "https://letterboxd.com/film/marie-antoinette-2006/",
       "awards": "Won 1 Oscar. 19 wins & 24 nominations total",
       "language": "English, Latin, French",
@@ -71493,7 +71944,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "94/100",
       "letterboxd_rating": 4.54,
-      "letterboxd_rating_count": 41791,
+      "letterboxd_rating_count": 42489,
       "letterboxd_url": "https://letterboxd.com/film/naza/",
       "awards": "6 wins & 1 nomination total",
       "language": "Hebrew, English, Arabic",
@@ -72279,7 +72730,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.18,
-      "letterboxd_rating_count": 262447,
+      "letterboxd_rating_count": 264755,
       "letterboxd_url": "https://letterboxd.com/film/other-mommy/",
       "awards": "N/A",
       "language": "English",
@@ -73828,7 +74279,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 347,
+      "letterboxd_rating_count": 348,
       "letterboxd_url": "https://letterboxd.com/film/back-to-the-beginning-ozzys-final-bow/",
       "awards": "N/A",
       "language": "N/A",
@@ -74390,7 +74841,7 @@
       "rotten_tomatoes": "37%",
       "metacritic": null,
       "letterboxd_rating": 2.83,
-      "letterboxd_rating_count": 171502,
+      "letterboxd_rating_count": 171977,
       "letterboxd_url": "https://letterboxd.com/film/practical-magic-2/",
       "awards": "1 nomination total",
       "language": "English",
@@ -74558,7 +75009,7 @@
       "rotten_tomatoes": "86%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.65,
-      "letterboxd_rating_count": 783340,
+      "letterboxd_rating_count": 786301,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -74727,7 +75178,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": null,
       "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 4367,
+      "letterboxd_rating_count": 4431,
       "letterboxd_url": "https://letterboxd.com/film/queen-at-sea/",
       "awards": "1 nomination total",
       "language": "English",
@@ -75858,7 +76309,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.74,
-      "letterboxd_rating_count": 1669031,
+      "letterboxd_rating_count": 1674091,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -77242,7 +77693,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "70/100",
       "letterboxd_rating": 4.12,
-      "letterboxd_rating_count": 1117156,
+      "letterboxd_rating_count": 1117629,
       "letterboxd_url": "https://letterboxd.com/film/rocky/",
       "awards": "Won 3 Oscars. 23 wins & 23 nominations total",
       "language": "English, Spanish, Italian",
@@ -77746,7 +78197,7 @@
       "rotten_tomatoes": "78%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.02,
-      "letterboxd_rating_count": 2443777,
+      "letterboxd_rating_count": 2445830,
       "letterboxd_url": "https://letterboxd.com/film/scream/",
       "awards": "12 wins & 11 nominations total",
       "language": "English",
@@ -78321,7 +78772,7 @@
       "rotten_tomatoes": "79%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.99,
-      "letterboxd_rating_count": 159335,
+      "letterboxd_rating_count": 162620,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -80723,7 +81174,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "76/100",
       "letterboxd_rating": 3.59,
-      "letterboxd_rating_count": 528,
+      "letterboxd_rating_count": 530,
       "letterboxd_url": "https://letterboxd.com/film/soul-patrol/",
       "awards": "1 win & 1 nomination total",
       "language": "English",
@@ -80964,7 +81415,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.03,
-      "letterboxd_rating_count": 4635204,
+      "letterboxd_rating_count": 4639335,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -81358,7 +81809,7 @@
       "rotten_tomatoes": null,
       "metacritic": "46/100",
       "letterboxd_rating": 2.79,
-      "letterboxd_rating_count": 151581,
+      "letterboxd_rating_count": 153995,
       "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
       "awards": "N/A",
       "language": "English",
@@ -82931,7 +83382,7 @@
       "rotten_tomatoes": null,
       "metacritic": "46/100",
       "letterboxd_rating": 2.79,
-      "letterboxd_rating_count": 151581,
+      "letterboxd_rating_count": 153995,
       "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
       "awards": "N/A",
       "language": "English",
@@ -83060,7 +83511,7 @@
       "rotten_tomatoes": "44%",
       "metacritic": "43/100",
       "letterboxd_rating": 2.82,
-      "letterboxd_rating_count": 300341,
+      "letterboxd_rating_count": 300442,
       "letterboxd_url": "https://letterboxd.com/film/the-angry-birds-movie/",
       "awards": "3 wins & 8 nominations total",
       "language": "English",
@@ -91584,7 +92035,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.23,
-      "letterboxd_rating_count": 236,
+      "letterboxd_rating_count": 240,
       "letterboxd_url": "https://letterboxd.com/film/the-last-temptation-of-becky/",
       "awards": "N/A",
       "language": "English",
@@ -91716,7 +92167,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 164169,
+      "letterboxd_rating_count": 164204,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -94175,6 +94626,46 @@
               "tax": 1.21
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148232209,
+          "datetime": "2026-11-05T22:30:00",
+          "datetime_utc": "2026-11-06T04:30:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 33.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-05/pattoncreek/all/148232209",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
         }
       ]
     },
@@ -94330,7 +94821,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": null,
       "letterboxd_rating": 3.45,
-      "letterboxd_rating_count": 11421,
+      "letterboxd_rating_count": 11601,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -94669,7 +95160,7 @@
       "rotten_tomatoes": "54%",
       "metacritic": null,
       "letterboxd_rating": 3.02,
-      "letterboxd_rating_count": 142631,
+      "letterboxd_rating_count": 143565,
       "letterboxd_url": "https://letterboxd.com/film/the-social-reckoning/",
       "awards": "N/A",
       "language": "English",
@@ -95223,7 +95714,7 @@
       "rotten_tomatoes": "73%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 1038465,
+      "letterboxd_rating_count": 1038797,
       "letterboxd_url": "https://letterboxd.com/film/v-for-vendetta/",
       "awards": "7 wins & 29 nominations total",
       "language": "English, French, Latin, Spanish",
@@ -95405,7 +95896,7 @@
       "rotten_tomatoes": "31%",
       "metacritic": null,
       "letterboxd_rating": 2.65,
-      "letterboxd_rating_count": 393132,
+      "letterboxd_rating_count": 395129,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -96684,7 +97175,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.22,
-      "letterboxd_rating_count": 145941,
+      "letterboxd_rating_count": 148755,
       "letterboxd_url": "https://letterboxd.com/film/whalefall/",
       "awards": "N/A",
       "language": "English",
@@ -98202,7 +98693,7 @@
       "rotten_tomatoes": "92%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.71,
-      "letterboxd_rating_count": 40803,
+      "letterboxd_rating_count": 43415,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "1 nomination total",
       "language": "English",
@@ -99735,7 +100226,7 @@
       "runtime": 128,
       "rating": "NR",
       "genres": [],
-      "poster": null,
+      "poster": "posters/wild-at-heart-unrated-2026.jpg",
       "backdrop": null,
       "short_description": null,
       "plot": "Guests under 17 must be accompanied by a guardian who is 21 or older. Please be prepared to show ID at the theatre. \nYoung lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor.",
@@ -99963,8 +100454,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": "93%",
       "metacritic": null,
-      "letterboxd_rating": 4.12,
-      "letterboxd_rating_count": 12226,
+      "letterboxd_rating": 4.11,
+      "letterboxd_rating_count": 12306,
       "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
       "awards": "N/A",
       "language": "English",
@@ -103288,7 +103779,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.45,
-      "letterboxd_rating_count": 111878,
+      "letterboxd_rating_count": 123331,
       "letterboxd_url": "https://letterboxd.com/film/wildwood-2026/",
       "awards": "N/A",
       "language": "English",
@@ -104888,7 +105379,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "98/100",
       "letterboxd_rating": 4.62,
-      "letterboxd_rating_count": 455275,
+      "letterboxd_rating_count": 464504,
       "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
       "awards": "N/A",
       "language": "English",
@@ -106859,7 +107350,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.97,
-      "letterboxd_rating_count": 46494,
+      "letterboxd_rating_count": 46961,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
@@ -108899,7 +109390,7 @@
       "plot": "Single dad Jim and his spirited, science-minded 20-year-old daughter, Isla, share a tradition of alternating who decides how they spend Christmas each year. Jim, a former major league baseball player turned broadcaster, never misses hosting his annual Christmas Eve show from Times Square – until Isla persuades him to take a once-in-a-lifetime Arctic cruise, promising they will return in time for his broadcast.",
       "poster": "https://image.tmdb.org/t/p/w342/iyuVTpASpRy2FpsLbGbwF7T2PtI.jpg",
       "url": "https://www.themoviedb.org/movie/1664264",
-      "popularity": 4.8
+      "popularity": 4.5
     },
     {
       "tmdb_id": 1294189,
@@ -108914,7 +109405,7 @@
       "plot": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
       "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
       "url": "https://www.themoviedb.org/movie/1294189",
-      "popularity": 135.2
+      "popularity": 125.7
     },
     {
       "tmdb_id": 1422041,
@@ -108929,7 +109420,7 @@
       "plot": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
       "poster": "https://image.tmdb.org/t/p/w342/t1azKLExwUxKj6v6m2L535evuRa.jpg",
       "url": "https://www.themoviedb.org/movie/1422041",
-      "popularity": 73.3
+      "popularity": 62.3
     },
     {
       "tmdb_id": 1437696,
@@ -108944,7 +109435,7 @@
       "plot": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
       "poster": "https://image.tmdb.org/t/p/w342/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
       "url": "https://www.themoviedb.org/movie/1437696",
-      "popularity": 14.7
+      "popularity": 12.1
     },
     {
       "tmdb_id": 1562642,
@@ -108959,7 +109450,7 @@
       "plot": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
       "poster": "https://image.tmdb.org/t/p/w342/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
       "url": "https://www.themoviedb.org/movie/1562642",
-      "popularity": 26.6
+      "popularity": 23.0
     },
     {
       "tmdb_id": 1567605,
@@ -108974,7 +109465,7 @@
       "plot": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
       "poster": "https://image.tmdb.org/t/p/w342/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
       "url": "https://www.themoviedb.org/movie/1567605",
-      "popularity": 16.2
+      "popularity": 16.5
     },
     {
       "tmdb_id": 1437511,
@@ -108990,7 +109481,7 @@
       "plot": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
       "poster": "https://image.tmdb.org/t/p/w342/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
       "url": "https://www.themoviedb.org/movie/1437511",
-      "popularity": 8.6
+      "popularity": 9.1
     },
     {
       "tmdb_id": 1379486,
@@ -109005,7 +109496,7 @@
       "plot": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
       "poster": "https://image.tmdb.org/t/p/w342/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
       "url": "https://www.themoviedb.org/movie/1379486",
-      "popularity": 6.5
+      "popularity": 5.9
     },
     {
       "tmdb_id": 1505644,
@@ -109020,7 +109511,7 @@
       "plot": "A close-knit group of friends embark on another unforgettable journey, where old memories, new adventures, and unexpected twists test their friendship.",
       "poster": "https://image.tmdb.org/t/p/w342/qMBlRfQNusaUhhBAIcHmforVTW5.jpg",
       "url": "https://www.themoviedb.org/movie/1505644",
-      "popularity": 12.1
+      "popularity": 11.2
     },
     {
       "tmdb_id": 1300968,
@@ -109036,7 +109527,7 @@
       "plot": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
       "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
       "url": "https://www.themoviedb.org/movie/1300968",
-      "popularity": 19.2
+      "popularity": 20.5
     },
     {
       "tmdb_id": 1286656,
@@ -109051,7 +109542,7 @@
       "plot": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
       "poster": "https://image.tmdb.org/t/p/w342/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
       "url": "https://www.themoviedb.org/movie/1286656",
-      "popularity": 9.5
+      "popularity": 9.0
     },
     {
       "tmdb_id": 1287520,
@@ -109068,7 +109559,7 @@
       "plot": "Follows the 48 hours after the assassination of President John F. Kennedy, the alleged involvement of Sam Giancana and the 'Chicago Outfit', and a supposed broken promise after the mob helped to get Kennedy elected.",
       "poster": "https://image.tmdb.org/t/p/w342/ujp2aHu1lWMjAGoletnsmv3mcMn.jpg",
       "url": "https://www.themoviedb.org/movie/1287520",
-      "popularity": 6.8
+      "popularity": 6.9
     },
     {
       "tmdb_id": 1381273,
@@ -109084,23 +109575,7 @@
       "plot": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
       "poster": "https://image.tmdb.org/t/p/w342/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
       "url": "https://www.themoviedb.org/movie/1381273",
-      "popularity": 5.6
-    },
-    {
-      "tmdb_id": 1650896,
-      "imdb_id": "tt47973863",
-      "title": "Peppa Pig: Perfect Holiday",
-      "release_date": "2026-11-22",
-      "runtime": 88,
-      "genres": [
-        "Comedy",
-        "Animation",
-        "Adventure"
-      ],
-      "plot": "When Peppa learned that her family wouldn't be going on vacation this year, she was very disappointed. However, a sudden storm transported her to faraway China! Peppa embarked on a wonderful adventure until she was reunited with her family, and Peppa had the perfect vacation ever.",
-      "poster": "https://image.tmdb.org/t/p/w342/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
-      "url": "https://www.themoviedb.org/movie/1650896",
-      "popularity": 4.5
+      "popularity": 5.4
     },
     {
       "tmdb_id": 1538497,
@@ -109118,7 +109593,7 @@
       "plot": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
       "poster": "https://image.tmdb.org/t/p/w342/3zxrelHqoPJwOP4oj4Wq1cNOUdG.jpg",
       "url": "https://www.themoviedb.org/movie/1538497",
-      "popularity": 25.0
+      "popularity": 23.8
     },
     {
       "tmdb_id": 1088548,
@@ -109133,7 +109608,7 @@
       "plot": "During a long December holiday weekend, a woman, whose mother has recently died, throws herself into work as a form of escape. Her relentless pace is interrupted when a panic attack forces her to take a break.",
       "poster": "https://image.tmdb.org/t/p/w342/kiPGcHX0YT49nrab76G0bqw3gHW.jpg",
       "url": "https://www.themoviedb.org/movie/1088548",
-      "popularity": 8.8
+      "popularity": 6.9
     },
     {
       "tmdb_id": 1400336,
@@ -109148,7 +109623,7 @@
       "plot": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
       "poster": "https://image.tmdb.org/t/p/w342/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
       "url": "https://www.themoviedb.org/movie/1400336",
-      "popularity": 8.7
+      "popularity": 8.3
     },
     {
       "tmdb_id": 1129104,
@@ -109165,23 +109640,7 @@
       "plot": "The adventures of 11-year-old Flavia de Luce, who is both an amateur detective and a master poisoner. When she discovers a dead body in her family’s decaying British manor house and her father is accused of the murder, Flavia launches her own investigation to uncover family secrets and bring the true murderer to justice.",
       "poster": "https://image.tmdb.org/t/p/w342/xwm7TGTmQcM2PkVvMxTjpYYk600.jpg",
       "url": "https://www.themoviedb.org/movie/1129104",
-      "popularity": 7.4
-    },
-    {
-      "tmdb_id": 1198746,
-      "imdb_id": "tt29634374",
-      "title": "Above the Below",
-      "release_date": "2026-12-04",
-      "runtime": null,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "plot": "Three astronauts survive a violently destructive re-entry, only to discover their landing capsule is sinking into the uncharted depths of the ocean. Completely cut off from the world, they must battle both the sea and their isolation to survive.",
-      "poster": "https://image.tmdb.org/t/p/w342/ytUoQYt0m7vbpnNqMrDJ7Prp0Aj.jpg",
-      "url": "https://www.themoviedb.org/movie/1198746",
-      "popularity": 5.5
+      "popularity": 7.0
     },
     {
       "tmdb_id": 1078446,
@@ -109197,7 +109656,23 @@
       "plot": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he’ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
       "poster": "https://image.tmdb.org/t/p/w342/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
       "url": "https://www.themoviedb.org/movie/1078446",
-      "popularity": 5.2
+      "popularity": 4.9
+    },
+    {
+      "tmdb_id": 1198746,
+      "imdb_id": "tt29634374",
+      "title": "Above the Below",
+      "release_date": "2026-12-04",
+      "runtime": null,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "plot": "Three astronauts survive a violently destructive re-entry, only to discover their landing capsule is sinking into the uncharted depths of the ocean. Completely cut off from the world, they must battle both the sea and their isolation to survive.",
+      "poster": "https://image.tmdb.org/t/p/w342/ytUoQYt0m7vbpnNqMrDJ7Prp0Aj.jpg",
+      "url": "https://www.themoviedb.org/movie/1198746",
+      "popularity": 4.8
     },
     {
       "tmdb_id": 1379537,
@@ -109212,7 +109687,7 @@
       "plot": "A desperate gallerist conspires to sell a dead body at Art Basel Miami.",
       "poster": "https://image.tmdb.org/t/p/w342/xqqno510An90CfExaIW5Co7m0xY.jpg",
       "url": "https://www.themoviedb.org/movie/1379537",
-      "popularity": 5.0
+      "popularity": 4.8
     },
     {
       "tmdb_id": 1452168,
@@ -109227,21 +109702,6 @@
       "plot": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
       "poster": "https://image.tmdb.org/t/p/w342/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
       "url": "https://www.themoviedb.org/movie/1452168",
-      "popularity": 4.8
-    },
-    {
-      "tmdb_id": 1299329,
-      "imdb_id": "tt32321285",
-      "title": "Josephine",
-      "release_date": "2026-12-04",
-      "runtime": 119,
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "plot": "After eight-year-old Josephine accidentally witnesses a brutal assault, she begins acting out violently to protect herself. This emotional trauma leads to conflicts between her parents as they search for justice and a way to feel safe again.",
-      "poster": "https://image.tmdb.org/t/p/w342/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
-      "url": "https://www.themoviedb.org/movie/1299329",
       "popularity": 4.6
     },
     {
@@ -109258,7 +109718,7 @@
       "plot": "In the early 17th century, a soldier arrives at an isolated Protestant village in Germany claiming to be the heir to an abandoned farmstead. Even though he proves to be a good man, the villagers’ suspicions about his identity grow and they force a reckoning.",
       "poster": "https://image.tmdb.org/t/p/w342/4k3ph6BoeZr7IMiQx8ioEV8d9cJ.jpg",
       "url": "https://www.themoviedb.org/movie/1176962",
-      "popularity": 5.5
+      "popularity": 5.2
     },
     {
       "tmdb_id": 1300926,
@@ -109274,7 +109734,7 @@
       "plot": "Red faces his greatest challenge yet - surviving fatherhood - while saving the world.",
       "poster": "https://image.tmdb.org/t/p/w342/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
       "url": "https://www.themoviedb.org/movie/1300926",
-      "popularity": 11.3
+      "popularity": 11.0
     },
     {
       "tmdb_id": 1260649,
@@ -109290,7 +109750,7 @@
       "plot": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
       "poster": "https://image.tmdb.org/t/p/w342/qGFuvcXqQdXS5ZNblDlVTOmK6mq.jpg",
       "url": "https://www.themoviedb.org/movie/1260649",
-      "popularity": 12.8
+      "popularity": 11.9
     },
     {
       "tmdb_id": 1421903,
@@ -109304,7 +109764,7 @@
       "plot": "A harrowing tale of devotion, damnation and the devil within.",
       "poster": "https://image.tmdb.org/t/p/w342/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg",
       "url": "https://www.themoviedb.org/movie/1421903",
-      "popularity": 7.6
+      "popularity": 7.5
     },
     {
       "tmdb_id": 1372443,
@@ -109318,7 +109778,7 @@
       "plot": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle, defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
       "poster": "https://image.tmdb.org/t/p/w342/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
       "url": "https://www.themoviedb.org/movie/1372443",
-      "popularity": 5.8
+      "popularity": 5.5
     },
     {
       "tmdb_id": 1287365,
@@ -109333,7 +109793,7 @@
       "plot": "Rita is entranced by the mesmeric Leader and renounces her family to embrace the world of the enigmatic Harmonia commune. Her daughters Ella and Jo put everything on the line to infiltrate the cult and bring their mother home. Yet, once immersed in the commune, they find themselves inexorably drawn into the Leader’s labyrinthine web of psycho-spiritual manipulation.",
       "poster": "https://image.tmdb.org/t/p/w342/cjbHYvJz9j5H3BSBfoaOiGMEHeZ.jpg",
       "url": "https://www.themoviedb.org/movie/1287365",
-      "popularity": 7.7
+      "popularity": 6.7
     },
     {
       "tmdb_id": 1440769,
@@ -109349,7 +109809,7 @@
       "plot": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
       "poster": "https://image.tmdb.org/t/p/w342/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg",
       "url": "https://www.themoviedb.org/movie/1440769",
-      "popularity": 9.7
+      "popularity": 8.7
     },
     {
       "tmdb_id": 1591675,
@@ -109363,22 +109823,7 @@
       "plot": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
       "poster": "https://image.tmdb.org/t/p/w342/sxiJhMNTBRvQgMnB9H4VIVdQfW9.jpg",
       "url": "https://www.themoviedb.org/movie/1591675",
-      "popularity": 6.5
-    },
-    {
-      "tmdb_id": 621304,
-      "imdb_id": "tt6779038",
-      "title": "Children of Blood and Bone",
-      "release_date": "2027-01-15",
-      "runtime": 146,
-      "genres": [
-        "Fantasy",
-        "Adventure"
-      ],
-      "plot": "In the world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule.",
-      "poster": "https://image.tmdb.org/t/p/w342/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
-      "url": "https://www.themoviedb.org/movie/621304",
-      "popularity": 4.3
+      "popularity": 6.3
     },
     {
       "tmdb_id": 1316999,
@@ -109394,7 +109839,7 @@
       "plot": "A young woman is forced to return to the conservative small town where her bizarre family lives to take care of her mother, having to deal with the cruel reality of her mom's Alzheimer disease and become the daughter they need.",
       "poster": "https://image.tmdb.org/t/p/w342/agQGw5Cux2CYaxI8UHlLbta2bgw.jpg",
       "url": "https://www.themoviedb.org/movie/1316999",
-      "popularity": 8.5
+      "popularity": 7.9
     },
     {
       "tmdb_id": 1115030,

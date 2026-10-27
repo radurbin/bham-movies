@@ -1,3 +1,30 @@
+## 2026-10-26 07:59 PM CDT
+
+**Showtime changes:**
+- Everest: The Other Side
+  - + AMC Patton Creek 15 @ 2026-11-03T12:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-03T12:45:00 (IMAX at AMC)
+- Avengers: Doomsday
+  - + AMC Patton Creek 15 @ 2026-12-17T14:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-17T15:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-17T18:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-17T19:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-17T22:15:00 (Standard)
+- Dune: Part Three
+  - + AMC Patton Creek 15 @ 2026-12-17T15:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-17T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-17T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-17T20:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-17T23:00:00 (Standard)
+- Godzilla Minus Zero - Godzilla Day IMAX Early Access
+  - + AMC Patton Creek 15 @ 2026-11-03T12:30:00 (IMAX at AMC)
+- Clayface
+  - − AMC Patton Creek 15 @ 2026-10-30T20:20:00 (Standard)
+- Godzilla Minus Zero
+  - + AMC Patton Creek 15 @ 2026-11-05T22:30:00 (IMAX at AMC)
+- The Mosquito Bowl
+  - + AMC Patton Creek 15 @ 2026-11-05T22:30:00 (Standard)
+
 ## 2026-10-26 11:22 AM CDT
 
 No changes.
