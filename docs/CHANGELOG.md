@@ -1,3 +1,11 @@
+## 2026-10-28 09:29 AM CDT
+
+**Movies added:**
+- American Sniper
+- Hunger Games: Sunrise on the Reaping Early Access
+- Hunger Games: Sunrise on the Reaping: Sensory Friendly Screening
+- Hunger Games: Sunrise on the Reaping
+
 ## 2026-10-28 07:21 AM CDT
 
 No changes.
