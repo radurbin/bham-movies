@@ -1,3 +1,67 @@
+## 2026-10-27 07:49 PM CDT
+
+**Showtime changes:**
+- Other Mommy
+  - + AMC Summit 16 @ 2026-10-29T13:45:00 (Standard)
+- You Can See Everything
+  - + AMC Summit 16 @ 2026-10-29T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T14:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T15:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T19:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T21:00:00 (Standard)
+- Whalefall
+  - + AMC Summit 16 @ 2026-10-29T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T14:30:00 (Standard)
+- Heart of the Beast
+  - + AMC Summit 16 @ 2026-10-29T12:55:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T15:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T18:15:00 (Standard)
+- Klara and the Sun
+  - + AMC Summit 16 @ 2026-10-29T14:40:00 (Standard)
+- Wildwood
+  - + AMC Summit 16 @ 2026-10-29T12:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T16:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T19:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T21:50:00 (Standard)
+- Aadarsha Kutumbam - House No. 47
+  - + AMC Summit 16 @ 2026-10-29T21:45:00 (Standard)
+- Paging Hezbollah
+  - + AMC Summit 16 @ 2026-10-29T12:15:00 (Standard)
+- Breeder
+  - + AMC Summit 16 @ 2026-10-29T16:15:00 (Standard)
+- Verity
+  - + AMC Summit 16 @ 2026-10-29T12:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T15:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T18:55:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T22:00:00 (Standard)
+- The Only Living Pickpocket In New York
+  - + AMC Summit 16 @ 2026-10-29T17:25:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T19:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T22:10:00 (Standard)
+- Sense and Sensibility
+  - + AMC Summit 16 @ 2026-10-29T12:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T21:55:00 (Standard)
+- The Mongoose
+  - + AMC Summit 16 @ 2026-10-29T19:40:00 (Standard)
+- Street Fighter
+  - + AMC Summit 16 @ 2026-10-29T13:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T16:10:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T19:05:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T22:05:00 (Standard)
+- Wicker
+  - + AMC Summit 16 @ 2026-10-29T13:55:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T16:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T19:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T22:15:00 (Standard)
+- Resident Evil
+  - + AMC Summit 16 @ 2026-10-29T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T17:15:00 (Standard)
+- Christmas at the Kringles
+  - + AMC Summit 16 @ 2026-10-29T14:20:00 (Standard)
+  - + AMC Summit 16 @ 2026-10-29T22:15:00 (Standard)
+
 ## 2026-10-27 03:19 PM CDT
 
 **Movies added:**
