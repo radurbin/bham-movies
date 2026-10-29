@@ -1,3 +1,8 @@
+## 2026-10-28 08:22 PM CDT
+
+**Movies added:**
+- Ebenezer: Sensory Friendly Screening
+
 ## 2026-10-28 03:42 PM CDT
 
 **Movies added:**
