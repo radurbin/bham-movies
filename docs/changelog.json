@@ -1,58 +1,5 @@
 [
   {
-    "date": "2026-10-03 01:53 PM CDT",
-    "movies_added": [
-      "Wicker"
-    ],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Verity",
-        "added": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-10-03T16:00:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      },
-      {
-        "title": "The Odyssey",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-10-03T21:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Drishyam - The Conclusion",
-        "added": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-10-03T21:45:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      },
-      {
-        "title": "Coyote vs. Acme",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-10-03T16:00:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-03 07:12 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -49669,6 +49616,225 @@
           {
             "theater": "AMC Patton Creek 15",
             "datetime": "2026-10-28T17:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29 03:44 PM CDT",
+    "movies_added": [
+      "Paper Tiger"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Aadarsha Kutumbam - House No. 47",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-30T21:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-30T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Hunger Games: Sunrise on the Reaping",
+        "added": [
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-19T14:45:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-19T14:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-19T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-19T18:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-19T18:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-19T20:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-19T22:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-20T12:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-20T12:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-20T12:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-20T15:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-20T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-20T16:30:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-20T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-20T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-20T20:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-21T12:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-21T12:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-21T12:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-21T15:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-21T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-21T16:30:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-21T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-21T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-21T20:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-22T12:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T12:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-22T12:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-22T15:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-22T16:30:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-22T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Vestavia Hills 10",
+            "datetime": "2026-11-22T20:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "You Can See Everything",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-30T21:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-10-30T21:15:00",
             "format": "Standard"
           }
         ]

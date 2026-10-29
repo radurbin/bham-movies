@@ -1,3 +1,51 @@
+## 2026-10-29 03:44 PM CDT
+
+**Movies added:**
+- Paper Tiger
+
+**Showtime changes:**
+- Aadarsha Kutumbam - House No. 47
+  - + AMC Summit 16 @ 2026-10-30T21:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-30T21:45:00 (Standard)
+- Hunger Games: Sunrise on the Reaping
+  - + AMC Vestavia Hills 10 @ 2026-11-19T14:45:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-19T14:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-19T16:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-19T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-19T18:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-19T20:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-19T22:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-20T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-20T12:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-20T12:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-20T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-20T16:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-20T16:30:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-11-20T19:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-20T19:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-20T20:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-21T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-21T12:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-21T12:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-21T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-21T16:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-21T16:30:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-11-21T19:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-21T19:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-21T20:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-22T12:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-22T12:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-22T12:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-22T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-22T16:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-22T16:30:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-11-22T19:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-22T19:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-22T20:15:00 (Standard)
+- You Can See Everything
+  - + AMC Summit 16 @ 2026-10-30T21:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-10-30T21:15:00 (Standard)
+
 ## 2026-10-29 05:31 AM CDT
 
 **Movies removed:**
