@@ -1,90 +1,5 @@
 [
   {
-    "date": "2026-10-03 07:12 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Practical Magic 2",
-        "added": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-05T18:35:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-05T18:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Forgotten Island",
-        "added": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-05T21:40:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-05T21:35:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Pajama Party: Jimmy Neutron: Boy Genius (2001)",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Sidewalk Film Center + Cinema",
-            "datetime": "2026-10-03T10:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Digger",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Sidewalk Film Center + Cinema",
-            "datetime": "2026-10-03T10:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Sidewalk Film Center + Cinema",
-            "datetime": "2026-10-03T12:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Resident Evil",
-        "added": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-05T16:15:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": [
-          {
-            "theater": "AMC Patton Creek 15",
-            "datetime": "2026-10-05T16:20:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-04 05:17 AM CDT",
     "movies_added": [],
     "movies_removed": [
@@ -49840,5 +49755,11 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-29 08:25 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": []
   }
 ]
