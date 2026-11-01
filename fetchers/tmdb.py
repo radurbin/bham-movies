@@ -12,7 +12,8 @@ and running times) to be the source for that, so the upcoming releases
 come from TMDB's API instead.
 
 The numbers below were set from data/screen_unseen_history.csv, the 97
-screenings from Nov 2023 to Sep 2026 as recorded by the r/AMCsAList
+screenings from Nov 2023 to Sep 2026 (rechecked against 103 through Oct
+2026, with no change needed) as recorded by the r/AMCsAList
 megathread (AMC's listed running time, the real one, and the film):
 
   - Listed minus real running time ran from -7 to +17 minutes, with
@@ -20,7 +21,7 @@ megathread (AMC's listed running time, the real one, and the film):
   - The film opened 4-13 days after the screening 90% of the time
     (i.e. that Friday or the next), 14-20 days for most of the rest,
     and later than that once.
-  - Every Scream Unseen film was tagged Horror on TMDB; 4 of 79 Screen
+  - Every Scream Unseen film was tagged Horror on TMDB; 5 of 83 Screen
     Unseen films were too, so horror is penalised there, not excluded.
 
 tools/backtest_unseen.py replays those screenings through score()

@@ -161,23 +161,32 @@ attaches the best six as `predictions` on the movie; the modal shows them as
 "Likely candidates", best first. AMC's own catalog was tried first and
 rejected as the source: it doesn't list films far enough ahead.
 
-The rules come from `data/screen_unseen_history.csv`: all 97 screenings from
-Nov 2023 to Sep 2026 as recorded by the r/AMCsAList megathread (AMC's listed
+The rules come from `data/screen_unseen_history.csv`: every screening from
+Nov 2023 on (103 through Oct 26, 2026) as recorded by the r/AMCsAList megathread (AMC's listed
 running time, the real one, and the film). What that history shows:
 
 - AMC's listed running time minus the real one ranged from -7 to +17
   minutes; more than half fell between +2 and +6.
 - The film opened 4-13 days after the screening 90% of the time, 14-20 days
   for most of the rest.
-- Every Scream Unseen film was tagged Horror on TMDB. So were 4 of the 79
-  Screen Unseen films, so horror is penalised there rather than excluded.
-- 94 of 97 screenings were on a Monday; 68 were rated R.
+- Every Scream Unseen film (20 of 20) was tagged Horror on TMDB. So were 5
+  of the 83 Screen Unseen films, so horror is penalised there rather than
+  excluded.
+- 100 of 103 screenings were on a Monday; 73 were rated R.
 
 `python tools/backtest_unseen.py` (needs `TMDB_API_KEY`) replays that history
-through the real scoring code. As of Oct 2026 the actual film was the first
-pick 54 times out of 97, in the top three 78 times, and on the six-film
-shortlist 87 times. That flatters the rules a little, since they were tuned
-on the same history.
+through the real scoring code. The rules were tuned on the first 97
+screenings, which flatters them on those: 54 first picks, 78 in the top
+three, 87 on the six-film shortlist. With the six screenings added on Nov 1,
+2026 the totals were 57, 86 and 94 out of 103, and the live predictions for
+those six had the real film on the shortlist every time (first pick twice,
+second three times, third once). Loosening or tightening the running-time,
+opening-date, horror and unknown-running-time weights all moved the totals
+by only one or two, so the rules were left as they were.
+- TMDB's data changes after the fact, which can hide a past hit: The Only
+  Living Pickpocket in New York (Oct 19, 2026) ranked second live, but TMDB
+  later added a US release three days before the screening, so the
+  backtest now rules it out.
 
 - Needs the `TMDB_API_KEY` secret (free key from themoviedb.org). Without it
   the step is skipped and everything else runs normally.
