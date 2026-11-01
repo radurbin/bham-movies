@@ -5,11 +5,13 @@ tools/backtest_unseen.py
 Replays every past mystery screening in data/screen_unseen_history.csv
 through the prediction rules in fetchers/tmdb.py and reports how often
 the real film would have been the first pick, in the top three, and on
-the six-film shortlist.
+the six-film shortlist. Regal's listed running time comes from the
+community sheet (fetchers/mystery_sheet.py), matched by title; pass
+--no-regal to score on AMC's clues alone for comparison.
 
 Run from the repo root with TMDB_API_KEY set:
 
-    python tools/backtest_unseen.py
+    python tools/backtest_unseen.py [--no-regal]
 
 Two things to keep in mind when reading the result: the rules were
 tuned on this same history, so it flatters them a little; and TMDB's
@@ -25,6 +27,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
+from fetchers.mystery_sheet import MysterySheet  # noqa: E402
 from fetchers.tmdb import MAX_CANDIDATES, TMDBFetcher  # noqa: E402
 
 
@@ -47,11 +50,18 @@ def main():
     with open(ROOT / "data" / "screen_unseen_history.csv", newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
 
+    sheet = MysterySheet()
+    if "--no-regal" not in sys.argv:
+        sheet.load()
+
     ranks = []
+    with_regal = 0
 
     for row in rows:
         screening = date.fromisoformat(row["date"])
         actual = find_film(tmdb, row["title"], screening)
+        regal_runtime = sheet.regal_runtime_by_title(row["title"])
+        with_regal += bool(regal_runtime)
 
         ids = [
             c["tmdb_id"]
@@ -60,6 +70,7 @@ def main():
                 int(row["listed_runtime"]),
                 screening,
                 row["scream"] == "1",
+                regal_runtime,
             )
         ]
 
@@ -71,7 +82,7 @@ def main():
 
     total = len(ranks)
     print()
-    print(f"Screenings:      {total}")
+    print(f"Screenings:      {total} ({with_regal} with a Regal running time)")
     print(f"First pick:      {sum(1 for r in ranks if r == 1)}")
     print(f"Top three:       {sum(1 for r in ranks if r and r <= 3)}")
     print(f"On shortlist:    {sum(1 for r in ranks if r and r <= MAX_CANDIDATES)}")

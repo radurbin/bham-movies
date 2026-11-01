@@ -28,7 +28,7 @@ import re
 import shutil
 import unicodedata
 from collections import Counter
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 import requests
@@ -49,6 +49,7 @@ from config import (
 
 from fetchers.amc import AMCFetcher
 from fetchers.letterboxd import LetterboxdFetcher
+from fetchers.mystery_sheet import MysterySheet
 from fetchers.omdb import OMDbFetcher, clean_title_for_lookup
 from fetchers.sidewalk import SidewalkFetcher
 from fetchers.tmdb import TMDBFetcher, is_mystery_screening
@@ -285,17 +286,31 @@ class MoviePipeline:
             except Exception as ex:
                 print("Failed to read mystery screening history:", ex)
 
+        # Regal's running time for the same screening, a second clue.
+        sheet = MysterySheet()
+        sheet.load()
+
         for movie in mysteries:
 
+            regal_runtime = None
+
+            if movie.showtimes and movie.rating:
+                regal_runtime = sheet.regal_runtime(
+                    date.fromisoformat(movie.showtimes[0].datetime[:10]),
+                    movie.rating,
+                    movie.runtime,
+                )
+
             try:
-                movie.predictions = tmdb.predict(movie)
+                movie.predictions = tmdb.predict(movie, regal_runtime)
             except Exception as ex:
                 # Nice to have, never worth failing the run over.
                 print(f"Prediction failed for {movie.title}: {ex}")
                 continue
 
             print(
-                f"{movie.title} ({movie.rating}, {movie.runtime} min): "
+                f"{movie.title} ({movie.rating}, {movie.runtime} min, "
+                f"Regal {regal_runtime or '?'} min): "
                 + (", ".join(c["title"] for c in movie.predictions) or "no candidates")
             )
 
@@ -308,6 +323,7 @@ class MoviePipeline:
                 "date": movie.showtimes[0].datetime[:10] if movie.showtimes else None,
                 "rating": movie.rating,
                 "listed_runtime": movie.runtime,
+                "regal_runtime": regal_runtime,
                 "candidates": [
                     {"title": c["title"], "runtime": c["runtime"], "release_date": c["release_date"]}
                     for c in movie.predictions

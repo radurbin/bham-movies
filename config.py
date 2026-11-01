@@ -52,6 +52,15 @@ TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 
+# Community Google Sheet comparing AMC, Regal, Cinemark and Marcus
+# mystery screenings ("Monday Mystery Movies" tab), read as CSV. Supplies
+# Regal's listed running time as a second clue for the predictions.
+MYSTERY_SHEET_CSV_URL = (
+    "https://docs.google.com/spreadsheets/d/"
+    "11nOmxj21jJQyHxXVNZhOV6GL5sE8N7wgzkte_cQBEy0"
+    "/gviz/tq?tqx=out:csv&sheet=Monday%20Mystery%20Movies"
+)
+
 # Films pencilled onto the calendar on their opening date before any
 # theater here sells tickets: wide US releases in the next
 # UPCOMING_DAYS days with at least this TMDB popularity. At 4 that was

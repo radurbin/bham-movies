@@ -183,6 +183,25 @@ those six had the real film on the shortlist every time (first pick twice,
 second three times, third once). Loosening or tightening the running-time,
 opening-date, horror and unknown-running-time weights all moved the totals
 by only one or two, so the rules were left as they were.
+- Regal's running time as a second clue (since Nov 2026): Regal shows the
+  same film the same Monday and lists its own running time, padded more
+  than AMC's (median +8 minutes against +4) but with errors mostly
+  unrelated to AMC's, so the two together pin the real length down much
+  better. `fetchers/mystery_sheet.py` reads it on every run from a
+  community Google Sheet that tracks AMC, Regal, Cinemark and Marcus
+  mystery screenings side by side (`MYSTERY_SHEET_CSV_URL` in
+  `config.py`; view-only, downloaded as CSV, no key needed). It is matched
+  to AMC's listing by date and rating, and by AMC's running time when two
+  screenings share a night. With it the backtest went from 57 to 65 first
+  picks and 86 to 90 in the top three (69 of the 103 screenings have a
+  Regal number). Regal's site blocks scripts, so the sheet is the only
+  source; it is kept by a volunteer, and when it is unreachable or has no
+  Regal number yet the predictions use AMC's clues alone. The run log
+  prints the Regal number used for each screening, and
+  `docs/unseen_history.json` records it as `regal_runtime`.
+  `python tools/backtest_unseen.py --no-regal` scores without it.
+  The sheet's Cinemark (17 films) and Marcus (68, much noisier) columns
+  aren't used yet.
 - TMDB's data changes after the fact, which can hide a past hit: The Only
   Living Pickpocket in New York (Oct 19, 2026) ranked second live, but TMDB
   later added a US release three days before the screening, so the

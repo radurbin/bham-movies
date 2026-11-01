@@ -24,6 +24,12 @@ megathread (AMC's listed running time, the real one, and the film):
   - Every Scream Unseen film was tagged Horror on TMDB; 5 of 83 Screen
     Unseen films were too, so horror is penalised there, not excluded.
 
+  - Regal shows the same film the same Monday and lists its own
+    running time, padded more (median +8 minutes) but with errors
+    mostly unrelated to AMC's. fetchers/mystery_sheet.py reads it from
+    a community sheet; added Nov 2026, it took the backtest's first
+    pick from 36 to 44 right out of the 70 screenings that have one.
+
 tools/backtest_unseen.py replays those screenings through score()
 below. Re-run it after changing any of these numbers.
 
@@ -56,6 +62,11 @@ RELEASE_WINDOW_DAYS = 20
 PADDING_MIN = -7
 PADDING_MAX = 17
 
+# Regal's listed running time minus the real one: the 4-12 band holds
+# about two thirds of films, 0-16 nearly all the rest.
+REGAL_PADDING_CLOSE = (4, 12)
+REGAL_PADDING_LOOSE = (0, 16)
+
 MAX_CANDIDATES = 6
 
 # AMC writes ratings without the hyphen.
@@ -78,6 +89,7 @@ def score(
     runtime: Optional[int],
     genres: List[str],
     popularity: float,
+    regal_runtime: Optional[int] = None,
 ) -> Optional[float]:
     """
     How well one upcoming film fits a mystery screening's clues: None
@@ -121,6 +133,20 @@ def score(
     else:
         # TMDB doesn't know the running time yet: possible, unproven.
         value *= 0.15
+
+    # Regal's running time, when known, is a second, independent clue.
+    # Never a hard cut-off: one chain's typo shouldn't rule a film out.
+    if regal_runtime:
+        if runtime:
+            regal_padding = regal_runtime - runtime
+            if REGAL_PADDING_CLOSE[0] <= regal_padding <= REGAL_PADDING_CLOSE[1]:
+                value *= 1.0
+            elif REGAL_PADDING_LOOSE[0] <= regal_padding <= REGAL_PADDING_LOOSE[1]:
+                value *= 0.4
+            else:
+                value *= 0.05
+        else:
+            value *= 0.5
 
     if lead_days <= 6:
         value *= 1.0
@@ -214,6 +240,7 @@ class TMDBFetcher:
         listed_runtime: Optional[int],
         screening: date,
         horror_only: bool,
+        regal_runtime: Optional[int] = None,
     ) -> List[dict]:
         """Every film that fits the clues, best fit first."""
 
@@ -245,6 +272,7 @@ class TMDBFetcher:
                 runtime,
                 genres,
                 details.get("popularity") or 0,
+                regal_runtime,
             )
 
             if value is None:
@@ -352,10 +380,15 @@ class TMDBFetcher:
 
         return results
 
-    def predict(self, movie: Movie) -> List[dict]:
+    def predict(
+        self,
+        movie: Movie,
+        regal_runtime: Optional[int] = None,
+    ) -> List[dict]:
         """
         Return up to MAX_CANDIDATES likely films for one mystery
-        screening, best fit first.
+        screening, best fit first. regal_runtime is Regal's listed
+        running time for the same screening, if known.
         """
         if not movie.showtimes or not movie.rating:
             return []
@@ -365,4 +398,5 @@ class TMDBFetcher:
             movie.runtime,
             date.fromisoformat(movie.showtimes[0].datetime[:10]),
             "scream" in movie.title.lower(),
+            regal_runtime,
         )[:MAX_CANDIDATES]
