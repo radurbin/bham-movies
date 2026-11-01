@@ -792,6 +792,8 @@
 									el.className = 'poster' + (isSelected ? ' selected' : '');
 									el.src = movie.poster;
 									el.alt = movie.title;
+									el.loading = 'lazy';
+									el.decoding = 'async';
 									el.dataset.formats = formats;
 									el.dataset.theaters = theaters;
 									el.dataset.attributes = attributes;

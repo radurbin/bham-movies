@@ -223,6 +223,14 @@ PLACEHOLDER_POSTER_FINGERPRINTS = [
 ]
 PLACEHOLDER_POSTER_MAX_DISTANCE = 20
 
+# Every poster is resized to this width and re-saved as JPEG before it
+# goes into docs/posters/. The page shows posters at most 220px wide
+# (the details popup), so 440px is sharp on high-DPI screens. AMC's
+# originals can be thousands of pixels wide and 100+ MB, which is over
+# GitHub's file size limit and was failing the workflow's push.
+POSTER_WIDTH = 440
+POSTER_JPEG_QUALITY = 82
+
 POSTER_PRIORITY = [
     "posterDynamic",
     "posterAlternateDynamic",

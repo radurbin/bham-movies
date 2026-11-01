@@ -242,6 +242,7 @@ Poster and movie data retention
 - OMDb responses are cached in `cache/omdb_cache.json` by `fetchers/omdb.py` to avoid re-querying OMDb for unchanged titles.
 - Letterboxd ratings are looked up fresh on every run by `fetchers/letterboxd.py` and never cached on disk, so they are at most one run (about six hours) old. Letterboxd has no public API, so each movie's page is found via its IMDb ID (`letterboxd.com/imdb/{imdb_id}/`, which redirects to the film page) and the rating is read out of that page's embedded JSON-LD. This only works for movies OMDb already resolved an `imdb_id` for; Letterboxd's own search page 403s scripted requests, so there's no title-based fallback for movies OMDb missed.
 - Posters are downloaded into `docs/posters/`. `docs/poster_sources.json` records which remote URL each file came from; a poster is re-downloaded only when its source URL changes. This matters for special events, which AMC lists weeks ahead with "poster coming soon" art and updates later under a new URL (before Oct 2026 the pipeline kept the first file forever).
+- Every poster is resized to 440px wide (`POSTER_WIDTH` in `config.py`) and re-saved as a JPEG of roughly 20-90 KB before it is written. The page shows posters at most 220px wide, so this is still sharp on high-DPI screens. AMC's originals can be thousands of pixels wide and over 100 MB (the Nov 2026 Dune reissues were 166 MB and 222 MB), which GitHub refuses to accept in a push, failing the workflow. AMC's posters are requested from its image host already resized; posters from other hosts are resized after download. Posters saved before resizing existed are shrunk on the next run.
 - Placeholder art is recognised by an image fingerprint (`PLACEHOLDER_POSTER_FINGERPRINTS` in `config.py`) and treated as no poster, so the movie falls back to OMDb's poster, or to the plain title tile, until real art appears. If a new placeholder design shows up, add its fingerprint there.
 - OMDb matching for re-releases: AMC's release year is the re-release's, so `fetchers/omdb.py` tries the original year implied by "Nth Anniversary" in the title, then AMC's year, then a title-only lookup, and only accepts a result that agrees with AMC's own director, cast or running time. Director, cast and synopsis come from AMC's movie record when it has them. A film OMDb can't match confidently is left un-enriched rather than given another film's data.
 - `cache/omdb_cache.json` is committed by the workflow so each run only queries new or expired titles (hits expire after 1 day for films from this year or last and 7 days for older ones, misses after 2). OMDb's free tier allows 1,000 requests a day; an OMDb failure no longer stops the run.
@@ -263,6 +264,5 @@ Troubleshooting
 
 Next improvements (suggested)
 
-- Add image resizing/optimization to generate thumbnails and medium sizes for faster page loads.
 - Add a configurable date-range for AMC fetches.
 - Add test coverage for stale-poster removal behavior.
