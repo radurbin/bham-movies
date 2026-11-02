@@ -60,7 +60,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568869.5720377
+    "_fetched_at": 1793661318.9395506
   },
   "dune: part three (2026)": {
     "Title": "Dune: Part Three",
@@ -88,7 +88,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568875.4168158
+    "_fetched_at": 1793661321.0851653
   },
   "dune: part three insider screenings (2026)": {
     "Response": "False",
@@ -192,7 +192,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568873.5148544
+    "_fetched_at": 1793661320.6928158
   },
   "dune: part three insider screenings": {
     "Response": "False",
@@ -234,7 +234,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568881.5267656
+    "_fetched_at": 1793661323.8220053
   },
   "it's a wonderful life (1946)": {
     "Title": "It's A Wonderful Life (1946)",
@@ -290,7 +290,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568885.1526325
+    "_fetched_at": 1793661325.5450954
   },
   "other mommy (2026)": {
     "Title": "Other Mommy",
@@ -318,7 +318,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568888.353447
+    "_fetched_at": 1793661326.5700529
   },
   "rammstein - live in mexico city (2026)": {
     "Title": "Rammstein - Live in Mexico City",
@@ -346,7 +346,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568889.7924352
+    "_fetched_at": 1793661327.9503176
   },
   "resident evil (2026)": {
     "Title": "Resident Evil",
@@ -379,7 +379,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568890.1276052
+    "_fetched_at": 1793661328.2823682
   },
   "rocky (1976)": {
     "Title": "Rocky",
@@ -461,7 +461,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568890.8434544
+    "_fetched_at": 1793661328.65977
   },
   "street fighter (2026)": {
     "Title": "Street Fighter",
@@ -498,7 +498,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568892.692782
+    "_fetched_at": 1793661330.327171
   },
   "the maltese falcon (1941)": {
     "Title": "The Maltese Falcon",
@@ -613,7 +613,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568896.968065
+    "_fetched_at": 1793661332.5054188
   },
   "whalefall (2026)": {
     "Title": "Whalefall",
@@ -641,35 +641,44 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568897.3422408
+    "_fetched_at": 1793661332.8306956
   },
   "wildwood (2026)": {
     "Title": "Wildwood",
     "Year": "2026",
-    "Rated": "N/A",
+    "Rated": "PG-13",
     "Released": "23 Oct 2026",
-    "Runtime": "N/A",
-    "Genre": "Animation, Adventure, Drama",
+    "Runtime": "130 min",
+    "Genre": "Animation, Adventure, Fantasy",
     "Director": "Travis Knight",
-    "Writer": "Chris Butler, Carson Ellis, Colin Meloy",
+    "Writer": "Chris Butler, Colin Meloy, Carson Ellis",
     "Actors": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan",
     "Plot": "The adventures of Prue McKeel as she sets off to the forests outside Portland to find her kidnapped brother.",
     "Language": "English",
-    "Country": "United States, United Kingdom",
-    "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BM2YyMTYwMzAtMjczYy00OWI4LTk0NjUtYzU5NDJmZjRkNDkzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-    "Ratings": [],
-    "Metascore": "N/A",
-    "imdbRating": "N/A",
-    "imdbVotes": "N/A",
+    "Country": "United States, United Kingdom, Canada",
+    "Awards": "1 win total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2JjOGQ1OGMtZmUwYS00YmQ2LTllNzQtZjU2YjY1NzM2NzJjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.7/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "88/100"
+      }
+    ],
+    "Metascore": "88",
+    "imdbRating": "8.7",
+    "imdbVotes": "15,186",
     "imdbID": "tt2056785",
     "Type": "movie",
     "DVD": "N/A",
-    "BoxOffice": "N/A",
+    "BoxOffice": "$25,896,210",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568899.064541
+    "_fetched_at": 1793661333.914232
   },
   "you can see everything (2026)": {
     "Title": "You Can See Everything",
@@ -710,7 +719,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568899.4170635
+    "_fetched_at": 1793661334.2476988
   },
   "knitflix and chill: the big lebowski": {
     "Response": "False",
@@ -805,12 +814,12 @@
     "Runtime": "105 min",
     "Genre": "Comedy, Drama, Fantasy",
     "Director": "Alex Huston Fischer, Eleanor Wilson",
-    "Writer": "Alex Huston Fischer, Ursula Wills, Eleanor Wilson",
-    "Actors": "Richard E. Grant, Alexander Skarsg\u00e5rd, Olivia Colman",
+    "Writer": "Alex Huston Fischer, Eleanor Wilson, Ursula Wills",
+    "Actors": "Olivia Colman, Alexander Skarsg\u00e5rd, Elizabeth Debicki",
     "Plot": "An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village.",
     "Language": "English",
     "Country": "United Kingdom, United States, Australia, Hungary",
-    "Awards": "1 nomination total",
+    "Awards": "2 wins & 1 nomination total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BODliMTEzMTUtOGFlZS00NTgxLThjODEtMzcwNTE1OWE5Mzg2XkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
     "Ratings": [
       {
@@ -828,15 +837,15 @@
     ],
     "Metascore": "70",
     "imdbRating": "7.4",
-    "imdbVotes": "376",
+    "imdbVotes": "4,315",
     "imdbID": "tt29611136",
     "Type": "movie",
     "DVD": "N/A",
-    "BoxOffice": "N/A",
+    "BoxOffice": "$13,261,094",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568897.6967366
+    "_fetched_at": 1793661333.1712382
   },
   "fjord (2026)": {
     "Title": "Fjord",
@@ -877,7 +886,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568878.3085577
+    "_fetched_at": 1793661322.4599156
   },
   "festive fun with peppa cinema experience (2026)": {
     "Title": "Festive Fun with Peppa Cinema Experience",
@@ -905,7 +914,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568877.9290884
+    "_fetched_at": 1793661322.0923684
   },
   "george michael: the faith tour (2026)": {
     "Title": "George Michael: The Faith Tour",
@@ -933,7 +942,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568878.6836936
+    "_fetched_at": 1793661322.8062456
   },
   "god with us (2026)": {
     "Title": "God with Us",
@@ -961,7 +970,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568879.394483
+    "_fetched_at": 1793661323.147294
   },
   "godzilla minus zero (2026)": {
     "Title": "Godzilla Minus Zero",
@@ -994,7 +1003,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568879.7490504
+    "_fetched_at": 1793661323.4763227
   },
   "godzilla minus zero - godzilla day imax (2026)": {
     "Response": "False",
@@ -1042,35 +1051,44 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568891.1966982
+    "_fetched_at": 1793661328.989282
   },
   "clayface (2026)": {
     "Title": "Clayface",
     "Year": "2026",
-    "Rated": "N/A",
+    "Rated": "R",
     "Released": "23 Oct 2026",
-    "Runtime": "N/A",
+    "Runtime": "108 min",
     "Genre": "Horror, Sci-Fi, Thriller",
     "Director": "James Watkins",
-    "Writer": "Hossein Amini, Mike Flanagan",
-    "Actors": "Eddie Marsan, Max Minghella, Naomi Ackie",
+    "Writer": "Mike Flanagan, Hossein Amini",
+    "Actors": "Tom Rhys Harries, Tim Faraday, Naomi Todd",
     "Plot": "Rising Hollywood star Matt Hagen descends into a horrifying revenge-filled monster when scientific ambition strips him of his identity and humanity.",
     "Language": "English",
-    "Country": "United States",
+    "Country": "United Kingdom, United States",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTAyMjgxZjctMjRjNC00Zjg1LWJiNzctMDkxYzk0NWVmODMwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-    "Ratings": [],
-    "Metascore": "N/A",
-    "imdbRating": "N/A",
-    "imdbVotes": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjNlMjM4NTAtYjE5YS00ZGYyLWEyMTYtNjFlMmIxZDEzYjhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "Metascore": "59",
+    "imdbRating": "7.5",
+    "imdbVotes": "37,372",
     "imdbID": "tt34890576",
     "Type": "movie",
     "DVD": "N/A",
-    "BoxOffice": "N/A",
+    "BoxOffice": "$44,064,252",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568871.029637
+    "_fetched_at": 1793661320.3491488
   },
   "soul patrol (2026)": {
     "Title": "Soul Patrol",
@@ -1111,7 +1129,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568891.530821
+    "_fetched_at": 1793661329.3252769
   },
   "the only living pickpocket in new york (2026)": {
     "Title": "The Only Living Pickpocket in New York",
@@ -1144,7 +1162,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568896.6094136
+    "_fetched_at": 1793661332.0993426
   },
   "hershey (2026)": {
     "Title": "Hershey",
@@ -1172,7 +1190,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568884.0419147
+    "_fetched_at": 1793661324.151653
   },
   "klara and the sun (2026)": {
     "Response": "False",
@@ -1205,7 +1223,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568886.5601425
+    "_fetched_at": 1793661325.882183
   },
   "the mosquito bowl (2026)": {
     "Title": "The Mosquito Bowl",
@@ -1233,7 +1251,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568895.5507617
+    "_fetched_at": 1793661331.7593992
   },
   "stray kids world tour 'run it' live viewing (2026)": {
     "Title": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
@@ -1261,7 +1279,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568891.9096856
+    "_fetched_at": 1793661329.6676965
   },
   "stray kids world tour 'run it' live viewing": {
     "Title": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
@@ -1289,7 +1307,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568892.311635
+    "_fetched_at": 1793661329.9929802
   },
   "wild horse nine (2026)": {
     "Title": "Wild Horse Nine",
@@ -1322,7 +1340,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568898.7229223
+    "_fetched_at": 1793661333.5401506
   },
   "breeder (2026)": {
     "Title": "Breeder",
@@ -1350,7 +1368,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568870.264087
+    "_fetched_at": 1793661319.6516564
   },
   "scream (1996)": {
     "Title": "Scream",
@@ -1432,7 +1450,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568900.8513987
+    "_fetched_at": 1793661334.9339297
   },
   "southern circuit: from scene to screen - anatomy of a documentary workshop": {
     "Response": "False",
@@ -1480,7 +1498,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568889.4464235
+    "_fetched_at": 1793661327.570475
   },
   "the irregular at magic high school the movie -yotsuba succession arc (2026)": {
     "Response": "False",
@@ -1541,7 +1559,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568877.583282
+    "_fetched_at": 1793661321.7626967
   },
   "the cat in the hat (2026)": {
     "Title": "The Cat in the Hat",
@@ -1569,7 +1587,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568893.0472608
+    "_fetched_at": 1793661330.6602502
   },
   "disney's hexed (2026)": {
     "Response": "False",
@@ -1626,7 +1644,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568901.939688
+    "_fetched_at": 1793661335.2639184
   },
   "the angry birds movie (2016)": {
     "Title": "The Angry Birds Movie",
@@ -1768,7 +1786,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568894.834053
+    "_fetched_at": 1793661331.0042706
   },
   "aadarsha kutumbam - house no. 47 (2026)": {
     "Response": "False",
@@ -1806,7 +1824,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568870.6376734
+    "_fetched_at": 1793661319.9856832
   },
   "ebenezer (2026)": {
     "Title": "Ebenezer: A Christmas Carol",
@@ -1834,7 +1852,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568877.2326348
+    "_fetched_at": 1793661321.423001
   },
   "the mongoose (2026)": {
     "Title": "The Mongoose",
@@ -1862,7 +1880,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568895.19379
+    "_fetched_at": 1793661331.3710983
   },
   "the nightmare before christmas (re26 (2026)": {
     "Response": "False",
@@ -1948,7 +1966,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568888.7193115
+    "_fetched_at": 1793661326.908149
   },
   "american sniper (2026)": {
     "Response": "False",
@@ -2022,7 +2040,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568884.794066
+    "_fetched_at": 1793661324.8674061
   },
   "how to rob a bank (2026)": {
     "Title": "How to Rob a Bank",
@@ -2050,7 +2068,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568884.3981183
+    "_fetched_at": 1793661324.498195
   },
   "paper tiger (2026)": {
     "Title": "Paper Tiger",
@@ -2091,7 +2109,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568889.0806506
+    "_fetched_at": 1793661327.2407746
   },
   "being heumann (2026)": {
     "Title": "Being Heumann",
@@ -2124,7 +2142,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568869.9135315
+    "_fetched_at": 1793661319.314016
   },
   "dune: part one & dune: part two double feature (2026)": {
     "Response": "False",
@@ -2195,7 +2213,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793568886.9228046
+    "_fetched_at": 1793661326.22396
   },
   "moulin rouge! (2001)": {
     "Title": "Moulin Rouge!",
@@ -2325,5 +2343,43 @@
     "Website": "N/A",
     "Response": "True",
     "_fetched_at": 1793568906.2620683
+  },
+  "i play rocky (2026)": {
+    "Title": "I Play Rocky",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "20 Nov 2026",
+    "Runtime": "N/A",
+    "Genre": "Biography, Drama",
+    "Director": "Peter Farrelly",
+    "Writer": "Peter Gamble",
+    "Actors": "AnnaSophia Robb, Toby Kebbell, Matt Dillon",
+    "Plot": "A failing actor writes the ultimate underdog story and must fight for his chance to play the role of a lifetime - Rocky Balboa.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDZlN2IyYjUtM2FhMi00OTQ0LTk5YjktNTdiZGM1ZDg3NzIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "84%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt11995650",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "_fetched_at": 1793661325.2087133
+  },
+  "bad movie night (free!": {
+    "Response": "False",
+    "Error": "Movie not found!",
+    "_fetched_at": 1793661334.5999453
   }
 }

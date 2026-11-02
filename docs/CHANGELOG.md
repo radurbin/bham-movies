@@ -1,3 +1,26 @@
+## 2026-11-02 05:16 PM CST
+
+**Movies added:**
+- Bad Movie Night (Free!)
+- I Play Rocky
+
+**Showtime changes:**
+- Heated Rivalry: Episode 3 & 4
+  - + AMC Patton Creek 15 @ 2026-11-06T22:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-08T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-10T19:00:00 (Standard)
+- Heated Rivalry: Episode 1 & 2
+  - + AMC Patton Creek 15 @ 2026-11-06T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-07T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-08T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-09T19:00:00 (Standard)
+- Everest: The Other Side
+  - − AMC Patton Creek 15 @ 2026-11-05T22:00:00 (Standard)
+- Heated Rivalry: Episode 5 & 6
+  - + AMC Patton Creek 15 @ 2026-11-07T13:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-08T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-11T19:00:00 (Standard)
+
 ## 2026-11-02 05:46 AM CST
 
 **Movies removed:**

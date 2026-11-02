@@ -231,11 +231,6 @@
     "listed_runtime": 120,
     "candidates": [
       {
-        "title": "Paper Tiger",
-        "runtime": 115,
-        "release_date": "2026-11-13"
-      },
-      {
         "title": "How to Rob a Bank",
         "runtime": 122,
         "release_date": "2026-11-13"
@@ -243,6 +238,11 @@
       {
         "title": "Plucked",
         "runtime": 120,
+        "release_date": "2026-11-13"
+      },
+      {
+        "title": "Paper Tiger",
+        "runtime": 115,
         "release_date": "2026-11-13"
       },
       {
@@ -261,6 +261,6 @@
         "release_date": "2026-11-13"
       }
     ],
-    "regal_runtime": null
+    "regal_runtime": 136
   }
 }
