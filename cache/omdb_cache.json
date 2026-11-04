@@ -796,16 +796,6 @@
     "Error": "Movie not found!",
     "_fetched_at": 1793756767.1445057
   },
-  "wild at heart - unrated (2026)": {
-    "Response": "False",
-    "Error": "Movie not found!",
-    "_fetched_at": 1793756755.2825768
-  },
-  "wild at heart - unrated": {
-    "Response": "False",
-    "Error": "Movie not found!",
-    "_fetched_at": 1793756755.6409993
-  },
   "wicker (2026)": {
     "Title": "Wicker",
     "Year": "2026",
@@ -2388,7 +2378,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1793705207.6545002
+    "_fetched_at": 1793792464.647894
   },
   "scene": {
     "Title": "CSI: Crime Scene Investigation",
@@ -2462,5 +2452,79 @@
     "Response": "False",
     "Error": "Movie not found!",
     "_fetched_at": 1793740821.3823187
+  },
+  "josephine (2026)": {
+    "Title": "Josephine",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "23 Jan 2026",
+    "Runtime": "114 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Beth de Ara\u00fajo",
+    "Writer": "N/A",
+    "Actors": "Hunter Bold, Gemma Chan, Jimmy Dahroug",
+    "Plot": "After 8-year-old Josephine accidentally witnesses a crime in Golden Gate Park, she acts out in search of a way to regain control of her safety, while adults are helpless to console her.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTcxMjBmNWMtNDUxZS00ZGQ4LThlNjgtMTc1NjU1ZTVlZTg2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt32321285",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "_fetched_at": 1793792464.317514
+  },
+  "victorian psycho (2026)": {
+    "Title": "Victorian Psycho",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "25 Sep 2026",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Horror, Thriller",
+    "Director": "Zachary Wigon",
+    "Writer": "Virginia Feito",
+    "Actors": "Guillaume Doradoux, Maika Monroe, Jason Isaacs",
+    "Plot": "In 1858, an eccentric young governess, Winifred Notty, arrives at the remote gothic manor Ensor House. As Winifred assimilates, staff begin to inexplicably disappear, and the owners wonder if something is amiss about this new gove...",
+    "Language": "English",
+    "Country": "United Kingdom, Ireland",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjdmNmYwMzEtMzJmYS00MDkxLThiNGItZjA0MGJlMjU4MTNmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "81%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "52/100"
+      }
+    ],
+    "Metascore": "52",
+    "imdbRating": "5.0",
+    "imdbVotes": "291",
+    "imdbID": "tt34374553",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "_fetched_at": 1793792464.9787898
   }
 }
