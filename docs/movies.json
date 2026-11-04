@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-11-03T15:21:07.007595-06:00",
+    "generated_at": "2026-11-03T19:46:55.217180-06:00",
     "movie_count": 102,
-    "showtime_count": 3870,
+    "showtime_count": 3849,
     "theaters": {
-      "AMC Summit 16": 1445,
-      "AMC Patton Creek 15": 1444,
-      "AMC Vestavia Hills 10": 847,
+      "AMC Summit 16": 1435,
+      "AMC Patton Creek 15": 1441,
+      "AMC Vestavia Hills 10": 839,
       "Sidewalk Film Center + Cinema": 133,
       "Sidewalk Film Center + Cinema - Classroom": 1
     }
@@ -45,7 +45,7 @@
       "rotten_tomatoes": "74%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 692504,
+      "letterboxd_rating_count": 692587,
       "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind/",
       "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
       "language": "English",
@@ -566,7 +566,7 @@
           ],
           "poster": "https://image.tmdb.org/t/p/w185/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
           "url": "https://www.themoviedb.org/movie/940009",
-          "score": 0.028
+          "score": 0.029
         }
       ],
       "showtimes": [
@@ -1045,7 +1045,7 @@
       "rotten_tomatoes": "71%",
       "metacritic": "73/100",
       "letterboxd_rating": 3.44,
-      "letterboxd_rating_count": 640739,
+      "letterboxd_rating_count": 640830,
       "letterboxd_url": "https://letterboxd.com/film/american-sniper/",
       "awards": "Won 1 Oscar. 25 wins & 45 nominations total",
       "language": "English, Arabic",
@@ -28003,7 +28003,7 @@
       "rotten_tomatoes": "86%",
       "metacritic": null,
       "letterboxd_rating": 3.66,
-      "letterboxd_rating_count": 2735,
+      "letterboxd_rating_count": 2737,
       "letterboxd_url": "https://letterboxd.com/film/being-heumann/",
       "awards": "N/A",
       "language": "English",
@@ -28234,7 +28234,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.09,
-      "letterboxd_rating_count": 6763,
+      "letterboxd_rating_count": 6867,
       "letterboxd_url": "https://letterboxd.com/film/breeder-2026-1/",
       "awards": "N/A",
       "language": "N/A",
@@ -28563,7 +28563,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 1.93,
-      "letterboxd_rating_count": 1937,
+      "letterboxd_rating_count": 1995,
       "letterboxd_url": "https://letterboxd.com/film/christmas-at-the-kringles/",
       "awards": "N/A",
       "language": "N/A",
@@ -29054,7 +29054,7 @@
       "rotten_tomatoes": null,
       "metacritic": "59/100",
       "letterboxd_rating": 3.73,
-      "letterboxd_rating_count": 616092,
+      "letterboxd_rating_count": 622840,
       "letterboxd_url": "https://letterboxd.com/film/clayface/",
       "awards": "N/A",
       "language": "English",
@@ -70603,7 +70603,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": "65/100",
       "letterboxd_rating": 3.59,
-      "letterboxd_rating_count": 5102,
+      "letterboxd_rating_count": 5230,
       "letterboxd_url": "https://letterboxd.com/film/everest-the-other-side/",
       "awards": "N/A",
       "language": "English",
@@ -72155,46 +72155,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148521331,
-          "datetime": "2026-11-11T12:45:00",
-          "datetime_utc": "2026-11-11T18:45:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 38.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/pattoncreek/all/148521331",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 12.36,
-              "tax": 1.07
-            },
-            {
-              "type": "CHILD",
-              "price": 9.73,
-              "tax": 0.84
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.05,
-              "tax": 0.96
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 148482755,
@@ -72231,6 +72191,46 @@
               "type": "SENIOR",
               "price": 11.76,
               "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148545919,
+          "datetime": "2026-11-11T16:10:00",
+          "datetime_utc": "2026-11-11T22:10:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 61.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/pattoncreek/all/148545919",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
             }
           ]
         }
@@ -72886,7 +72886,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "78/100",
       "letterboxd_rating": 3.77,
-      "letterboxd_rating_count": 109346,
+      "letterboxd_rating_count": 109829,
       "letterboxd_url": "https://letterboxd.com/film/fjord-2026/",
       "awards": "3 wins & 2 nominations total",
       "language": "English, Romanian, Norwegian, Swedish",
@@ -78711,7 +78711,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 4.02,
-      "letterboxd_rating_count": 5736,
+      "letterboxd_rating_count": 12301,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -83471,7 +83471,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 4.02,
-      "letterboxd_rating_count": 5736,
+      "letterboxd_rating_count": 12301,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -83635,7 +83635,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": null,
       "letterboxd_rating": 3.29,
-      "letterboxd_rating_count": 181714,
+      "letterboxd_rating_count": 181929,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -84258,6 +84258,47 @@
               "type": "SENIOR",
               "price": 11.76,
               "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148545914,
+          "datetime": "2026-11-11T13:20:00",
+          "datetime_utc": "2026-11-11T19:20:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/pattoncreek/all/148545914",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Fan Faves",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.39,
+              "tax": 0.64
+            },
+            {
+              "type": "CHILD",
+              "price": 7.39,
+              "tax": 0.64
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.39,
+              "tax": 0.64
             }
           ]
         }
@@ -92730,912 +92771,6 @@
           "screen_width_ft": 43.5,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/vestaviahills/all/148049935",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.93,
-              "tax": 1.54
-            },
-            {
-              "type": "CHILD",
-              "price": 13.63,
-              "tax": 1.24
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.28,
-              "tax": 1.39
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148164413,
-          "datetime": "2026-11-25T10:20:00",
-          "datetime_utc": "2026-11-25T16:20:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/summit/all/148164413",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "CHILD",
-              "price": 10.44,
-              "tax": 0.95
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.76,
-              "tax": 1.07
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148164412,
-          "datetime": "2026-11-25T13:20:00",
-          "datetime_utc": "2026-11-25T19:20:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/summit/all/148164412",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "CHILD",
-              "price": 10.44,
-              "tax": 0.95
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.76,
-              "tax": 1.07
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148049941,
-          "datetime": "2026-11-25T14:00:00",
-          "datetime_utc": "2026-11-25T20:00:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 43.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/vestaviahills/all/148049941",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.52,
-              "tax": 1.23
-            },
-            {
-              "type": "CHILD",
-              "price": 10.88,
-              "tax": 0.99
-            },
-            {
-              "type": "SENIOR",
-              "price": 12.2,
-              "tax": 1.11
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147984850,
-          "datetime": "2026-11-25T16:15:00",
-          "datetime_utc": "2026-11-25T22:15:00Z",
-          "auditorium": 12,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/pattoncreek/all/147984850",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
-            },
-            {
-              "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148164409,
-          "datetime": "2026-11-25T16:20:00",
-          "datetime_utc": "2026-11-25T22:20:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/summit/all/148164409",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.38,
-              "tax": 1.49
-            },
-            {
-              "type": "CHILD",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.73,
-              "tax": 1.34
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148049940,
-          "datetime": "2026-11-25T17:00:00",
-          "datetime_utc": "2026-11-25T23:00:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 43.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/vestaviahills/all/148049940",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.93,
-              "tax": 1.54
-            },
-            {
-              "type": "CHILD",
-              "price": 13.63,
-              "tax": 1.24
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.28,
-              "tax": 1.39
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148164410,
-          "datetime": "2026-11-25T19:20:00",
-          "datetime_utc": "2026-11-26T01:20:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/summit/all/148164410",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.38,
-              "tax": 1.49
-            },
-            {
-              "type": "CHILD",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.73,
-              "tax": 1.34
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147984851,
-          "datetime": "2026-11-25T19:20:00",
-          "datetime_utc": "2026-11-26T01:20:00Z",
-          "auditorium": 12,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/pattoncreek/all/147984851",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
-            },
-            {
-              "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148049938,
-          "datetime": "2026-11-25T20:00:00",
-          "datetime_utc": "2026-11-26T02:00:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 43.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/vestaviahills/all/148049938",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.93,
-              "tax": 1.54
-            },
-            {
-              "type": "CHILD",
-              "price": 13.63,
-              "tax": 1.24
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.28,
-              "tax": 1.39
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148164411,
-          "datetime": "2026-11-25T22:20:00",
-          "datetime_utc": "2026-11-26T04:20:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/summit/all/148164411",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.38,
-              "tax": 1.49
-            },
-            {
-              "type": "CHILD",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.73,
-              "tax": 1.34
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148049939,
-          "datetime": "2026-11-25T23:00:00",
-          "datetime_utc": "2026-11-26T05:00:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 43.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/vestaviahills/all/148049939",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.93,
-              "tax": 1.54
-            },
-            {
-              "type": "CHILD",
-              "price": 13.63,
-              "tax": 1.24
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.28,
-              "tax": 1.39
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148164418,
-          "datetime": "2026-11-26T10:00:00",
-          "datetime_utc": "2026-11-26T16:00:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/summit/all/148164418",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "CHILD",
-              "price": 10.44,
-              "tax": 0.95
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.76,
-              "tax": 1.07
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148164417,
-          "datetime": "2026-11-26T13:00:00",
-          "datetime_utc": "2026-11-26T19:00:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/summit/all/148164417",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "CHILD",
-              "price": 10.44,
-              "tax": 0.95
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.76,
-              "tax": 1.07
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148049945,
-          "datetime": "2026-11-26T14:00:00",
-          "datetime_utc": "2026-11-26T20:00:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 43.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/vestaviahills/all/148049945",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 13.52,
-              "tax": 1.23
-            },
-            {
-              "type": "CHILD",
-              "price": 10.88,
-              "tax": 0.99
-            },
-            {
-              "type": "SENIOR",
-              "price": 12.2,
-              "tax": 1.11
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148164414,
-          "datetime": "2026-11-26T16:05:00",
-          "datetime_utc": "2026-11-26T22:05:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/summit/all/148164414",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.38,
-              "tax": 1.49
-            },
-            {
-              "type": "CHILD",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.73,
-              "tax": 1.34
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147984852,
-          "datetime": "2026-11-26T16:15:00",
-          "datetime_utc": "2026-11-26T22:15:00Z",
-          "auditorium": 12,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/pattoncreek/all/147984852",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
-            },
-            {
-              "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148049944,
-          "datetime": "2026-11-26T17:00:00",
-          "datetime_utc": "2026-11-26T23:00:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 43.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/vestaviahills/all/148049944",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.93,
-              "tax": 1.54
-            },
-            {
-              "type": "CHILD",
-              "price": 13.63,
-              "tax": 1.24
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.28,
-              "tax": 1.39
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148164415,
-          "datetime": "2026-11-26T19:00:00",
-          "datetime_utc": "2026-11-27T01:00:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/summit/all/148164415",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.38,
-              "tax": 1.49
-            },
-            {
-              "type": "CHILD",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.73,
-              "tax": 1.34
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 147984853,
-          "datetime": "2026-11-26T19:20:00",
-          "datetime_utc": "2026-11-27T01:20:00Z",
-          "auditorium": 12,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/pattoncreek/all/147984853",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
-            },
-            {
-              "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148049942,
-          "datetime": "2026-11-26T20:00:00",
-          "datetime_utc": "2026-11-27T02:00:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 43.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/vestaviahills/all/148049942",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dine-In Delivery to Seat",
-            "Heated AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.93,
-              "tax": 1.54
-            },
-            {
-              "type": "CHILD",
-              "price": 13.63,
-              "tax": 1.24
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.28,
-              "tax": 1.39
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 148164416,
-          "datetime": "2026-11-26T22:00:00",
-          "datetime_utc": "2026-11-27T04:00:00Z",
-          "auditorium": 6,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/summit/all/148164416",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.38,
-              "tax": 1.49
-            },
-            {
-              "type": "CHILD",
-              "price": 13.08,
-              "tax": 1.19
-            },
-            {
-              "type": "SENIOR",
-              "price": 14.73,
-              "tax": 1.34
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4105,
-          "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148049943,
-          "datetime": "2026-11-26T23:00:00",
-          "datetime_utc": "2026-11-27T05:00:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 43.5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/vestaviahills/all/148049943",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -106158,7 +105293,7 @@
       "rotten_tomatoes": "84%",
       "metacritic": null,
       "letterboxd_rating": 3.65,
-      "letterboxd_rating_count": 8068,
+      "letterboxd_rating_count": 8176,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -113280,7 +112415,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.11,
-      "letterboxd_rating_count": 20685,
+      "letterboxd_rating_count": 20873,
       "letterboxd_url": "https://letterboxd.com/film/klara-and-the-sun/",
       "awards": "N/A",
       "language": "English",
@@ -113545,7 +112680,7 @@
       "rotten_tomatoes": "92%",
       "metacritic": "86/100",
       "letterboxd_rating": 4.44,
-      "letterboxd_rating_count": 248540,
+      "letterboxd_rating_count": 249942,
       "letterboxd_url": "https://letterboxd.com/film/la-bola-negra/",
       "awards": "4 wins & 6 nominations total",
       "language": "Spanish",
@@ -114698,7 +113833,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": "66/100",
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 608042,
+      "letterboxd_rating_count": 608127,
       "letterboxd_url": "https://letterboxd.com/film/moulin-rouge-2001/",
       "awards": "Won 2 Oscars. 89 wins & 133 nominations total",
       "language": "English, French, Spanish",
@@ -114920,7 +114055,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "94/100",
       "letterboxd_rating": 4.55,
-      "letterboxd_rating_count": 49884,
+      "letterboxd_rating_count": 50089,
       "letterboxd_url": "https://letterboxd.com/film/naza/",
       "awards": "6 wins & 1 nomination total",
       "language": "Hebrew, English, Arabic",
@@ -115244,7 +114379,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.18,
-      "letterboxd_rating_count": 294827,
+      "letterboxd_rating_count": 295537,
       "letterboxd_url": "https://letterboxd.com/film/other-mommy/",
       "awards": "N/A",
       "language": "English",
@@ -116870,7 +116005,7 @@
       "rotten_tomatoes": "87%",
       "metacritic": "79/100",
       "letterboxd_rating": 3.45,
-      "letterboxd_rating_count": 12103,
+      "letterboxd_rating_count": 12110,
       "letterboxd_url": "https://letterboxd.com/film/paper-tiger-2026/",
       "awards": "1 win & 3 nominations total",
       "language": "English",
@@ -117711,7 +116846,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": null,
       "letterboxd_rating": 3.83,
-      "letterboxd_rating_count": 5388,
+      "letterboxd_rating_count": 5404,
       "letterboxd_url": "https://letterboxd.com/film/queen-at-sea/",
       "awards": "1 nomination total",
       "language": "English",
@@ -118537,7 +117672,7 @@
           "datetime_utc": "2026-11-07T03:00:00Z",
           "auditorium": 7,
           "screen_width_ft": 61.3,
-          "premium_format": "Standard",
+          "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-06/pattoncreek/all/148479695",
           "sold_out": false,
           "almost_sold_out": false,
@@ -118548,23 +117683,24 @@
           "attributes": [
             "Hindi Spoken with English Subtitles",
             "International Films",
+            "RealD 3D",
             "Reserved Seating"
           ],
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
+              "price": 21.01,
+              "tax": 1.82
             },
             {
               "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
+              "price": 17.73,
+              "tax": 1.54
             },
             {
               "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
+              "price": 19.37,
+              "tax": 1.68
             }
           ]
         },
@@ -118947,7 +118083,7 @@
           "datetime_utc": "2026-11-09T00:45:00Z",
           "auditorium": 5,
           "screen_width_ft": 38.5,
-          "premium_format": "Standard",
+          "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-08/pattoncreek/all/148508793",
           "sold_out": false,
           "almost_sold_out": false,
@@ -118958,23 +118094,24 @@
           "attributes": [
             "Hindi Spoken with English Subtitles",
             "International Films",
+            "RealD 3D",
             "Reserved Seating"
           ],
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
+              "price": 21.01,
+              "tax": 1.82
             },
             {
               "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
+              "price": 17.73,
+              "tax": 1.54
             },
             {
               "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
+              "price": 19.37,
+              "tax": 1.68
             }
           ]
         },
@@ -119274,7 +118411,7 @@
           "datetime_utc": "2026-11-10T01:40:00Z",
           "auditorium": 6,
           "screen_width_ft": 47.3,
-          "premium_format": "Standard",
+          "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-09/pattoncreek/all/148521333",
           "sold_out": false,
           "almost_sold_out": false,
@@ -119285,23 +118422,24 @@
           "attributes": [
             "Hindi Spoken with English Subtitles",
             "International Films",
+            "RealD 3D",
             "Reserved Seating"
           ],
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
+              "price": 21.01,
+              "tax": 1.82
             },
             {
               "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
+              "price": 17.73,
+              "tax": 1.54
             },
             {
               "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
+              "price": 19.37,
+              "tax": 1.68
             }
           ]
         },
@@ -119552,46 +118690,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148521356,
-          "datetime": "2026-11-11T14:45:00",
-          "datetime_utc": "2026-11-11T20:45:00Z",
-          "auditorium": 8,
-          "screen_width_ft": 61.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/pattoncreek/all/148521356",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Hindi Spoken with English Subtitles",
-            "International Films",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 12.36,
-              "tax": 1.07
-            },
-            {
-              "type": "CHILD",
-              "price": 9.73,
-              "tax": 0.84
-            },
-            {
-              "type": "SENIOR",
-              "price": 11.05,
-              "tax": 0.96
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 147913419,
@@ -119628,6 +118726,46 @@
               "type": "SENIOR",
               "price": 14.73,
               "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148545921,
+          "datetime": "2026-11-11T19:20:00",
+          "datetime_utc": "2026-11-12T01:20:00Z",
+          "auditorium": 14,
+          "screen_width_ft": 59.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/pattoncreek/all/148545921",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Hindi Spoken with English Subtitles",
+            "International Films",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
             }
           ]
         },
@@ -119834,7 +118972,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.74,
-      "letterboxd_rating_count": 1763500,
+      "letterboxd_rating_count": 1769892,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -120762,7 +119900,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "70/100",
       "letterboxd_rating": 4.12,
-      "letterboxd_rating_count": 1125282,
+      "letterboxd_rating_count": 1125982,
       "letterboxd_url": "https://letterboxd.com/film/rocky/",
       "awards": "Won 3 Oscars. 23 wins & 23 nominations total",
       "language": "English, Spanish, Italian",
@@ -121268,7 +120406,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.47,
-      "letterboxd_rating_count": 826877,
+      "letterboxd_rating_count": 827025,
       "letterboxd_url": "https://letterboxd.com/film/romeo-juliet-1996/",
       "awards": "Nominated for 1 Oscar. 15 wins & 30 nominations total",
       "language": "English",
@@ -121706,7 +120844,7 @@
       "rotten_tomatoes": "78%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.02,
-      "letterboxd_rating_count": 2487496,
+      "letterboxd_rating_count": 2488292,
       "letterboxd_url": "https://letterboxd.com/film/scream/",
       "awards": "12 wins & 11 nominations total",
       "language": "English",
@@ -121957,7 +121095,7 @@
       "rotten_tomatoes": "79%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 229939,
+      "letterboxd_rating_count": 231961,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -123974,7 +123112,7 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "0oRWDbdPZq",
+          "showtime_id": "lJ4MwoUCEd",
           "datetime": "2026-11-19T19:00:00",
           "datetime_utc": null,
           "auditorium": null,
@@ -123994,7 +123132,7 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "lJ4MwoUCEd",
+          "showtime_id": "0oRWDbdPZq",
           "datetime": "2026-11-19T19:00:00",
           "datetime_utc": null,
           "auditorium": null,
@@ -125178,13 +124316,13 @@
           "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
-          "showtime_id": 148521295,
-          "datetime": "2026-11-11T12:40:00",
-          "datetime_utc": "2026-11-11T18:40:00Z",
-          "auditorium": 1,
-          "screen_width_ft": 29.8,
+          "showtime_id": 148545917,
+          "datetime": "2026-11-11T12:50:00",
+          "datetime_utc": "2026-11-11T18:50:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 61.3,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/pattoncreek/all/148521295",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/pattoncreek/all/148545917",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -125253,46 +124391,6 @@
               "tax": 1.21
             }
           ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148521317,
-          "datetime": "2026-11-11T19:40:00",
-          "datetime_utc": "2026-11-12T01:40:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/pattoncreek/all/148521317",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
-            },
-            {
-              "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
-            }
-          ]
         }
       ]
     },
@@ -125326,7 +124424,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "76/100",
       "letterboxd_rating": 3.59,
-      "letterboxd_rating_count": 545,
+      "letterboxd_rating_count": 546,
       "letterboxd_url": "https://letterboxd.com/film/soul-patrol/",
       "awards": "1 win & 1 nomination total",
       "language": "English",
@@ -125740,7 +124838,7 @@
       "rotten_tomatoes": null,
       "metacritic": "46/100",
       "letterboxd_rating": 2.78,
-      "letterboxd_rating_count": 180014,
+      "letterboxd_rating_count": 180590,
       "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
       "awards": "N/A",
       "language": "English",
@@ -128517,7 +127615,7 @@
       "rotten_tomatoes": "44%",
       "metacritic": "43/100",
       "letterboxd_rating": 2.82,
-      "letterboxd_rating_count": 302371,
+      "letterboxd_rating_count": 302428,
       "letterboxd_url": "https://letterboxd.com/film/the-angry-birds-movie/",
       "awards": "3 wins & 8 nominations total",
       "language": "English",
@@ -138664,7 +137762,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.23,
-      "letterboxd_rating_count": 282,
+      "letterboxd_rating_count": 284,
       "letterboxd_url": "https://letterboxd.com/film/the-last-temptation-of-becky/",
       "awards": "N/A",
       "language": "English",
@@ -138796,7 +137894,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 164965,
+      "letterboxd_rating_count": 164983,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -139190,7 +138288,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.2,
-      "letterboxd_rating_count": 1648,
+      "letterboxd_rating_count": 1701,
       "letterboxd_url": "https://letterboxd.com/film/the-mosquito-bowl/",
       "awards": "N/A",
       "language": "English",
@@ -140335,6 +139433,46 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148545916,
+          "datetime": "2026-11-11T12:40:00",
+          "datetime_utc": "2026-11-11T18:40:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 38.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/pattoncreek/all/148545916",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 12.36,
+              "tax": 1.07
+            },
+            {
+              "type": "CHILD",
+              "price": 9.73,
+              "tax": 0.84
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.05,
+              "tax": 0.96
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 148482819,
@@ -140615,7 +139753,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": null,
       "letterboxd_rating": 3.46,
-      "letterboxd_rating_count": 24754,
+      "letterboxd_rating_count": 25702,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -142571,7 +141709,7 @@
       "rotten_tomatoes": "73%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 1044699,
+      "letterboxd_rating_count": 1045105,
       "letterboxd_url": "https://letterboxd.com/film/v-for-vendetta/",
       "awards": "7 wins & 29 nominations total",
       "language": "English, French, Latin, Spanish",
@@ -142663,7 +141801,7 @@
       "rotten_tomatoes": "31%",
       "metacritic": null,
       "letterboxd_rating": 2.64,
-      "letterboxd_rating_count": 462796,
+      "letterboxd_rating_count": 464535,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -144110,7 +143248,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.21,
-      "letterboxd_rating_count": 175956,
+      "letterboxd_rating_count": 176594,
       "letterboxd_url": "https://letterboxd.com/film/whalefall/",
       "awards": "N/A",
       "language": "English",
@@ -144745,7 +143883,7 @@
       "rotten_tomatoes": "92%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.67,
-      "letterboxd_rating_count": 112280,
+      "letterboxd_rating_count": 115232,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "2 wins & 1 nomination total",
       "language": "English",
@@ -148712,7 +147850,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": null,
       "letterboxd_rating": 4.13,
-      "letterboxd_rating_count": 25834,
+      "letterboxd_rating_count": 26152,
       "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
       "awards": "N/A",
       "language": "English",
@@ -152199,7 +151337,7 @@
       "rotten_tomatoes": null,
       "metacritic": "88/100",
       "letterboxd_rating": 4.42,
-      "letterboxd_rating_count": 320022,
+      "letterboxd_rating_count": 326451,
       "letterboxd_url": "https://letterboxd.com/film/wildwood-2026/",
       "awards": "1 win total",
       "language": "English",
@@ -156192,10 +155330,10 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 148521399,
-          "datetime": "2026-11-11T19:20:00",
-          "datetime_utc": "2026-11-12T01:20:00Z",
-          "auditorium": 14,
-          "screen_width_ft": 59.5,
+          "datetime": "2026-11-11T19:45:00",
+          "datetime_utc": "2026-11-12T01:45:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 33.3,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/pattoncreek/all/148521399",
           "sold_out": false,
@@ -156343,7 +155481,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "98/100",
       "letterboxd_rating": 4.59,
-      "letterboxd_rating_count": 626623,
+      "letterboxd_rating_count": 630210,
       "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
       "awards": "N/A",
       "language": "English",
@@ -162423,7 +161561,7 @@
       "plot": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
       "poster": "https://image.tmdb.org/t/p/w342/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
       "url": "https://www.themoviedb.org/movie/1379486",
-      "popularity": 6.3
+      "popularity": 6.4
     },
     {
       "tmdb_id": 1505644,
@@ -162464,14 +161602,14 @@
       "release_date": "2026-11-22",
       "runtime": 88,
       "genres": [
-        "Comedy",
         "Animation",
-        "Adventure"
+        "Adventure",
+        "Family"
       ],
-      "plot": "When Peppa learned that her family wouldn't be going on vacation this year, she was very disappointed. However, a sudden storm transported her to faraway China! Peppa embarked on a wonderful adventure until she was reunited with her family, and Peppa had the perfect vacation ever.",
+      "plot": "Peppa is disappointed when she learns her family vacation is canceled. However, a sudden storm blows a hot air balloon carrying Peppa, George, Granny Pig, and Grandpa Pig all the way to China",
       "poster": "https://image.tmdb.org/t/p/w342/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
       "url": "https://www.themoviedb.org/movie/1650896",
-      "popularity": 5.2
+      "popularity": 4.9
     },
     {
       "tmdb_id": 1538497,
@@ -162504,7 +161642,7 @@
       "plot": "During a long December holiday weekend, a woman, whose mother has recently died, throws herself into work as a form of escape. Her relentless pace is interrupted when a panic attack forces her to take a break.",
       "poster": "https://image.tmdb.org/t/p/w342/kiPGcHX0YT49nrab76G0bqw3gHW.jpg",
       "url": "https://www.themoviedb.org/movie/1088548",
-      "popularity": 6.0
+      "popularity": 5.9
     },
     {
       "tmdb_id": 1400336,
@@ -162534,7 +161672,23 @@
       "plot": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
       "poster": "https://image.tmdb.org/t/p/w342/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
       "url": "https://www.themoviedb.org/movie/1452168",
-      "popularity": 6.1
+      "popularity": 5.8
+    },
+    {
+      "tmdb_id": 1078446,
+      "imdb_id": "tt32432428",
+      "title": "Violent Night 2",
+      "release_date": "2026-12-04",
+      "runtime": 110,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "plot": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he’ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
+      "poster": "https://image.tmdb.org/t/p/w342/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
+      "url": "https://www.themoviedb.org/movie/1078446",
+      "popularity": 5.4
     },
     {
       "tmdb_id": 1129104,
@@ -162551,7 +161705,7 @@
       "plot": "The adventures of 11-year-old Flavia de Luce, who is both an amateur detective and a master poisoner. When she discovers a dead body in her family’s decaying British manor house and her father is accused of the murder, Flavia launches her own investigation to uncover family secrets and bring the true murderer to justice.",
       "poster": "https://image.tmdb.org/t/p/w342/xwm7TGTmQcM2PkVvMxTjpYYk600.jpg",
       "url": "https://www.themoviedb.org/movie/1129104",
-      "popularity": 5.7
+      "popularity": 5.2
     },
     {
       "tmdb_id": 1379537,
@@ -162566,23 +161720,7 @@
       "plot": "A desperate gallerist conspires to sell a dead body at Art Basel Miami.",
       "poster": "https://image.tmdb.org/t/p/w342/xqqno510An90CfExaIW5Co7m0xY.jpg",
       "url": "https://www.themoviedb.org/movie/1379537",
-      "popularity": 5.0
-    },
-    {
-      "tmdb_id": 1078446,
-      "imdb_id": "tt32432428",
-      "title": "Violent Night 2",
-      "release_date": "2026-12-04",
-      "runtime": 110,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Fantasy"
-      ],
-      "plot": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he’ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
-      "poster": "https://image.tmdb.org/t/p/w342/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg",
-      "url": "https://www.themoviedb.org/movie/1078446",
-      "popularity": 5.0
+      "popularity": 4.8
     },
     {
       "tmdb_id": 1176962,
@@ -162598,7 +161736,7 @@
       "plot": "In the early 17th century, a soldier arrives at an isolated Protestant village in Germany claiming to be the heir to an abandoned farmstead. Even though he proves to be a good man, the villagers’ suspicions about his identity grow and they force a reckoning.",
       "poster": "https://image.tmdb.org/t/p/w342/4k3ph6BoeZr7IMiQx8ioEV8d9cJ.jpg",
       "url": "https://www.themoviedb.org/movie/1176962",
-      "popularity": 5.0
+      "popularity": 4.4
     },
     {
       "tmdb_id": 1300926,
@@ -162614,7 +161752,7 @@
       "plot": "Red faces his greatest challenge yet - surviving fatherhood - while saving the world.",
       "poster": "https://image.tmdb.org/t/p/w342/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg",
       "url": "https://www.themoviedb.org/movie/1300926",
-      "popularity": 8.3
+      "popularity": 8.8
     },
     {
       "tmdb_id": 1145110,
@@ -162629,7 +161767,7 @@
       "plot": "Mentor and disciple embark on a perilous journey, pushing their survival skills to the limit against overwhelming odds and unforgiving environments.",
       "poster": "https://image.tmdb.org/t/p/w342/74fHULlTBMGGLusfFBVAkMAZbce.jpg",
       "url": "https://www.themoviedb.org/movie/1145110",
-      "popularity": 6.6
+      "popularity": 6.3
     },
     {
       "tmdb_id": 1260649,
@@ -162659,7 +161797,7 @@
       "plot": "A harrowing tale of devotion, damnation and the devil within.",
       "poster": "https://image.tmdb.org/t/p/w342/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg",
       "url": "https://www.themoviedb.org/movie/1421903",
-      "popularity": 6.7
+      "popularity": 7.1
     },
     {
       "tmdb_id": 1372443,
@@ -162673,7 +161811,7 @@
       "plot": "The last player selected in the 1983 NFL draft by the New York Giants, underdog John Tuggle, defies expectations on and off the field for head coach Bill Parcells, his newfound love, and his team, proving that remarkable hope and perseverance can transcend even the greatest challenges.",
       "poster": "https://image.tmdb.org/t/p/w342/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
       "url": "https://www.themoviedb.org/movie/1372443",
-      "popularity": 6.0
+      "popularity": 5.3
     },
     {
       "tmdb_id": 1151265,
@@ -162689,7 +161827,7 @@
       "plot": "The adventures of a young girl named Providence, who is entrusted with a magic quill that makes everything she writes come true. Faced with this incredible power, she has to choose between living her dreams and saving the world.",
       "poster": "https://image.tmdb.org/t/p/w342/5lpoAYLV0oOf9mcGslQoEeJSCAI.jpg",
       "url": "https://www.themoviedb.org/movie/1151265",
-      "popularity": 5.5
+      "popularity": 5.2
     },
     {
       "tmdb_id": 1440769,
@@ -162719,7 +161857,7 @@
       "plot": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
       "poster": "https://image.tmdb.org/t/p/w342/sxiJhMNTBRvQgMnB9H4VIVdQfW9.jpg",
       "url": "https://www.themoviedb.org/movie/1591675",
-      "popularity": 5.2
+      "popularity": 5.6
     },
     {
       "tmdb_id": 1115030,
@@ -162735,7 +161873,7 @@
       "plot": "Two fugitive animals embark on an adventure across America to find the ranch that was once their home, healing their friendship while pursued by an equally \"odd-couple\" DEA agent and Fish and Wildlife ranger with something to prove.",
       "poster": "https://image.tmdb.org/t/p/w342/AfJldsj8a42yeg9Ued3MdgbfWnC.jpg",
       "url": "https://www.themoviedb.org/movie/1115030",
-      "popularity": 4.8
+      "popularity": 4.3
     },
     {
       "tmdb_id": 1316999,
@@ -162752,7 +161890,7 @@
       "plot": "A young woman is forced to return to the conservative small town where her bizarre family lives to take care of her mother, having to deal with the cruel reality of her mom's Alzheimer disease and become the daughter they need.",
       "poster": "https://image.tmdb.org/t/p/w342/agQGw5Cux2CYaxI8UHlLbta2bgw.jpg",
       "url": "https://www.themoviedb.org/movie/1316999",
-      "popularity": 4.7
+      "popularity": 4.2
     },
     {
       "tmdb_id": 1442761,

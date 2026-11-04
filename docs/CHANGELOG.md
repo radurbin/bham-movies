@@ -1,3 +1,53 @@
+## 2026-11-03 07:46 PM CST
+
+**Showtime changes:**
+- Sight & Sound Presents: Joshua Live!
+  - + AMC Patton Creek 15 @ 2026-11-11T12:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-11T12:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-11T19:40:00 (Standard)
+- How to Rob a Bank
+  - − AMC Summit 16 @ 2026-11-25T10:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-25T13:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-25T14:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-25T16:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-25T16:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-25T17:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-25T19:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-25T19:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-25T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-25T22:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-25T23:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-26T10:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-26T13:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-26T14:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-26T16:05:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-26T16:15:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-26T17:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-26T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-26T19:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-26T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-26T22:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-26T23:00:00 (Standard)
+- Ramayana
+  - + AMC Patton Creek 15 @ 2026-11-06T21:00:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-11-08T18:45:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-11-09T19:40:00 (RealD 3D)
+  - + AMC Patton Creek 15 @ 2026-11-11T19:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-06T21:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-08T18:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-09T19:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-11T14:45:00 (Standard)
+- The Mosquito Bowl
+  - + AMC Patton Creek 15 @ 2026-11-11T12:40:00 (Standard)
+- Everest: The Other Side
+  - + AMC Patton Creek 15 @ 2026-11-11T16:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-11T12:45:00 (Standard)
+- Heart of the Beast
+  - + AMC Patton Creek 15 @ 2026-11-11T13:20:00 (Standard)
+- Wildwood
+  - + AMC Patton Creek 15 @ 2026-11-11T19:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-11T19:20:00 (Standard)
+
 ## 2026-11-03 03:21 PM CST
 
 **Movies added:**
