@@ -1,3 +1,42 @@
+## 2026-11-04 03:38 PM CST
+
+**Showtime changes:**
+- Rocky 50th Anniversary
+  - − AMC Patton Creek 15 @ 2026-11-08T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-09T19:00:00 (Standard)
+- George Michael: The Faith Tour
+  - + AMC Summit 16 @ 2026-12-11T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-11T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-12T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-12T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-13T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-13T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-14T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-14T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-15T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-15T18:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-16T15:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-16T18:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-12-11T19:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-12-12T19:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-12-13T19:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-12-14T19:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-12-15T19:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-12-16T19:15:00 (Standard)
+- Paper Tiger
+  - + AMC Summit 16 @ 2026-11-24T14:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-24T16:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-24T19:40:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-24T22:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-25T19:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-26T19:25:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-27T19:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-28T19:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-29T19:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-30T19:25:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-01T19:25:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-02T19:25:00 (Standard)
+
 ## 2026-11-04 05:41 AM CST
 
 **Movies added:**
