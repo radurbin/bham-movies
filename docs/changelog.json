@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-08 08:32 PM CDT",
-    "movies_added": [
-      "Hershey"
-    ],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Drummer Boy",
-        "added": [
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-11-05T16:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-11-06T16:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-11-07T16:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-11-08T16:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-11-09T16:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-11-10T16:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "AMC Summit 16",
-            "datetime": "2026-11-11T16:15:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      }
-    ]
-  },
-  {
     "date": "2026-10-09 05:59 AM CDT",
     "movies_added": [
       "American Doctor",
@@ -52610,5 +52560,21 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-11-05 03:39 PM CST",
+    "movies_added": [
+      "Elsinore",
+      "Focker In-Law",
+      "The Hunger Games: Sunrise on the Reaping Early Access",
+      "The Hunger Games: Sunrise on the Reaping: Sensory Friendly Screening",
+      "The Hunger Games: Sunrise on the Reaping"
+    ],
+    "movies_removed": [
+      "Hunger Games: Sunrise on the Reaping Early Access",
+      "Hunger Games: Sunrise on the Reaping: Sensory Friendly Screening",
+      "Hunger Games: Sunrise on the Reaping"
+    ],
+    "showtime_changes": []
   }
 ]

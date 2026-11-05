@@ -1,3 +1,17 @@
+## 2026-11-05 03:39 PM CST
+
+**Movies added:**
+- Elsinore
+- Focker In-Law
+- The Hunger Games: Sunrise on the Reaping Early Access
+- The Hunger Games: Sunrise on the Reaping: Sensory Friendly Screening
+- The Hunger Games: Sunrise on the Reaping
+
+**Movies removed:**
+- Hunger Games: Sunrise on the Reaping Early Access
+- Hunger Games: Sunrise on the Reaping: Sensory Friendly Screening
+- Hunger Games: Sunrise on the Reaping
+
 ## 2026-11-05 05:42 AM CST
 
 **Movies removed:**
