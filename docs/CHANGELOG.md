@@ -1,3 +1,61 @@
+## 2026-11-06 03:09 PM CST
+
+**Movies added:**
+- BTS WORLD TOUR 'ARIRANG' IN JAKARTA: LIVE VIEWING
+- BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING
+- Bad Santa
+- Dr. Seuss' How The Grinch Stole Christmas
+- Elf
+- Gremlins
+- Love Actually (HFS26)
+- Mouse
+- Scrooged
+- The Polar Express
+
+**Showtime changes:**
+- How to Rob a Bank
+  - + AMC Patton Creek 15 @ 2026-11-21T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-21T19:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-21T16:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-21T19:15:00 (Standard)
+- Josephine
+  - + AMC Patton Creek 15 @ 2026-12-03T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-03T20:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-04T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-05T16:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-06T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-07T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-08T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-09T17:00:00 (Standard)
+- Victorian Psycho
+  - + AMC Patton Creek 15 @ 2026-11-12T16:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-12T19:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-13T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-13T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-13T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-13T21:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-14T11:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-14T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-14T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-14T18:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-14T21:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-15T11:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-15T13:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-15T16:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-15T18:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-15T21:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-16T14:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-16T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-16T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-17T14:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-17T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-17T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-18T14:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-18T17:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-18T19:45:00 (Standard)
+- The Mosquito Bowl
+  - + AMC Patton Creek 15 @ 2026-11-08T15:40:00 (Standard)
+
 ## 2026-11-06 05:41 AM CST
 
 **Movies added:**
