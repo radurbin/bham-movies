@@ -1,3 +1,13 @@
+## 2026-11-06 07:24 PM CST
+
+**Showtime changes:**
+- The Cat in the Hat
+  - − AMC Patton Creek 15 @ 2026-11-06T20:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-08T19:45:00 (Standard)
+- Wicker
+  - + AMC Patton Creek 15 @ 2026-11-06T20:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-08T20:00:00 (Standard)
+
 ## 2026-11-06 03:09 PM CST
 
 **Movies added:**
