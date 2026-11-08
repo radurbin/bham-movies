@@ -1,3 +1,28 @@
+## 2026-11-08 02:02 PM CST
+
+**Showtime changes:**
+- Clayface
+  - + AMC Patton Creek 15 @ 2026-11-12T14:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-12T17:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-12T20:15:00 (Standard)
+- Wild Horse Nine
+  - + AMC Patton Creek 15 @ 2026-11-12T13:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-12T13:15:00 (Standard)
+- Sight & Sound Presents: Joshua Live!
+  - + AMC Patton Creek 15 @ 2026-11-12T13:00:00 (Standard)
+- Drummer Boy
+  - + AMC Patton Creek 15 @ 2026-11-12T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-12T16:20:00 (Standard)
+- Heart of the Beast
+  - + AMC Patton Creek 15 @ 2026-11-12T13:50:00 (Standard)
+- Wildwood
+  - + AMC Patton Creek 15 @ 2026-11-12T13:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-12T17:00:00 (Standard)
+- Ramayana
+  - + AMC Patton Creek 15 @ 2026-11-12T20:00:00 (RealD 3D)
+- JIMMY
+  - + AMC Patton Creek 15 @ 2026-11-12T13:00:00 (Standard)
+
 ## 2026-11-08 04:51 AM CST
 
 **Movies removed:**
