@@ -1,3 +1,185 @@
+## 2026-11-08 04:51 AM CST
+
+**Movies removed:**
+- Rammstein - Live in Mexico City
+- Stray Kids World Tour 'RUN IT' LIVE VIEWING
+
+**Showtime changes:**
+- Ramayana
+  - − AMC Summit 16 @ 2026-11-07T13:05:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-07T17:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T18:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T21:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T21:15:00 (RealD 3D)
+- Godzilla Minus Zero
+  - − AMC Summit 16 @ 2026-11-07T12:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T12:45:00 (IMAX at AMC)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T13:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T14:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T16:00:00 (IMAX at AMC)
+  - − AMC Summit 16 @ 2026-11-07T16:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T16:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T19:15:00 (IMAX at AMC)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T19:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T22:25:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T22:30:00 (IMAX at AMC)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T23:00:00 (Standard)
+- Resident Evil
+  - − AMC Summit 16 @ 2026-11-07T22:20:00 (Standard)
+- Summer Holidays
+  - − AMC Patton Creek 15 @ 2026-11-07T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T22:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T22:30:00 (Standard)
+- The Only Living Pickpocket In New York
+  - − AMC Patton Creek 15 @ 2026-11-07T12:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T20:20:00 (Standard)
+- Scene
+  - − AMC Patton Creek 15 @ 2026-11-07T22:00:00 (Standard)
+- The Cat in the Hat
+  - − AMC Patton Creek 15 @ 2026-11-07T12:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T12:30:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-07T12:30:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-11-07T13:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T15:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T15:30:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T15:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T16:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T18:30:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-11-07T18:30:00 (RealD 3D)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T18:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T19:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T21:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T21:25:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T21:30:00 (RealD 3D)
+- Rocky 50th Anniversary
+  - − AMC Patton Creek 15 @ 2026-11-07T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T16:00:00 (Standard)
+- Clayface
+  - − AMC Summit 16 @ 2026-11-07T11:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T13:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T13:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T14:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T16:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T16:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T16:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T19:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T20:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T20:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T22:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T22:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T23:05:00 (Standard)
+- Wild Horse Nine
+  - − AMC Summit 16 @ 2026-11-07T12:55:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T13:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T14:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T15:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T16:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T17:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T18:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T19:10:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T22:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T22:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T23:00:00 (Standard)
+- Wicker
+  - − AMC Summit 16 @ 2026-11-07T11:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T12:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T14:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T14:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T15:35:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T17:20:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T18:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T22:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T22:55:00 (Standard)
+- Drummer Boy
+  - − AMC Vestavia Hills 10 @ 2026-11-07T12:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T13:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T13:10:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T16:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T16:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T18:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T19:25:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T19:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T21:55:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T22:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T22:35:00 (Standard)
+- Heated Rivalry: Episode 1 & 2
+  - − AMC Patton Creek 15 @ 2026-11-07T16:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T16:00:00 (Standard)
+- You Can See Everything
+  - − AMC Vestavia Hills 10 @ 2026-11-07T12:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T12:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T12:50:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T16:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T16:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T17:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T18:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T19:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T21:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T21:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T21:30:00 (Standard)
+- Street Fighter
+  - − AMC Summit 16 @ 2026-11-07T13:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T19:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T22:15:00 (Standard)
+- Heated Rivalry: Episode 5 & 6
+  - − AMC Summit 16 @ 2026-11-07T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T13:00:00 (Standard)
+- Heart of the Beast
+  - − AMC Summit 16 @ 2026-11-07T13:50:00 (Standard)
+- The Mosquito Bowl
+  - − AMC Patton Creek 15 @ 2026-11-07T17:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T18:00:00 (Standard)
+- Sense and Sensibility
+  - − AMC Summit 16 @ 2026-11-07T12:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T16:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T19:05:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T19:15:00 (Standard)
+- Verity
+  - − AMC Summit 16 @ 2026-11-07T12:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T19:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T22:35:00 (Standard)
+- JIMMY
+  - − AMC Summit 16 @ 2026-11-07T13:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T13:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T16:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T16:20:00 (Standard)
+- Other Mommy
+  - − AMC Vestavia Hills 10 @ 2026-11-07T22:25:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T22:45:00 (Standard)
+- La Bola Negra
+  - − AMC Summit 16 @ 2026-11-07T11:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T15:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T18:25:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T21:40:00 (Standard)
+- Everest: The Other Side
+  - − AMC Summit 16 @ 2026-11-07T11:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T15:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T17:50:00 (Standard)
+- Wildwood
+  - − AMC Summit 16 @ 2026-11-07T11:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T13:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T13:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T15:55:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T16:05:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T16:50:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T18:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T19:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T20:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-07T21:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-07T22:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T22:10:00 (Standard)
+- Sight & Sound Presents: Joshua Live!
+  - − AMC Patton Creek 15 @ 2026-11-07T12:50:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T16:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T19:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-07T22:20:00 (Standard)
+
 ## 2026-11-07 06:58 PM CST
 
 **Movies added:**
