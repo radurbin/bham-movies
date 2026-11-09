@@ -121,13 +121,23 @@ the Worker. The setup notes below describe that fallback.
 
 Worker setup (Cloudflare dashboard, account-side -- none of this lives in
 the repo, and the Worker code is deployed by pasting the file into the
-dashboard's editor, not by CI):
+dashboard's editor, not by CI). State as of Nov 9, 2026: the Worker is
+parked. It is still deployed, but its Cron Trigger was deleted so it no
+longer scrapes, and it still runs the pre-Nov 4 code (it was never
+updated for the new site). Its `/status` will keep showing the last
+failed attempt from Nov 9 and the stored copy from Nov 4; that is
+expected and nothing reads it.
 
-- Worker: `shiny-resonance-e149` (`https://shiny-resonance-e149.rileydurbin.workers.dev/`,
-  set as `SIDEWALK_CINEMA_URL` in `config.py`)
+- Worker: `shiny-resonance-e149` (`https://shiny-resonance-e149.rileydurbin.workers.dev/`)
 - KV namespace `sidewalk-cache`, bound to the Worker as `SIDEWALK_KV`
-- Cron Trigger `30 3,9,15,21 * * *` (UTC), half an hour before each
-  GitHub Actions run. If the workflow's schedule changes, change this too.
+- Cron Trigger (deleted Nov 9, 2026): `30 3,9,15,21 * * *` (UTC), half an
+  hour before each GitHub Actions run.
+
+To bring the fallback back: paste the current
+`cloudflare/sidewalk-proxy-worker.js` into the Worker and deploy, re-add
+the Cron Trigger above (matched to the workflow's schedule), wait for a
+scheduled run and confirm `/status` shows `"ok": true`, then set
+`SIDEWALK_CINEMA_URL` in `config.py` to the Worker's URL.
 
 Worker endpoints:
 
@@ -303,7 +313,7 @@ Poster and movie data retention
 
 Scheduling and frequency
 
-- The workflow runs at 04:00, 10:00, 16:00 and 22:00 UTC (see `.github/workflows/update.yml`). You can change the cron schedule in that file or trigger the workflow manually from the Actions tab (`gh workflow run update.yml`). The Cloudflare Worker's Cron Trigger is set 30 minutes ahead of these times, so keep the two in step.
+- The workflow runs at 04:00, 10:00, 16:00 and 22:00 UTC (see `.github/workflows/update.yml`). You can change the cron schedule in that file or trigger the workflow manually from the Actions tab (`gh workflow run update.yml`). If the Sidewalk Worker fallback is ever re-enabled, set its Cron Trigger 30 minutes ahead of these times.
 
 Security and secrets
 

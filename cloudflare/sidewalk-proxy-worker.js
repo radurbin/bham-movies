@@ -19,6 +19,10 @@
 // and stores the result in KV. `fetch()` only ever reads from KV, so the
 // GitHub runner never causes a request to Sidewalk at all.
 //
+// Status (Nov 9, 2026): not in use. The pipeline reads Sidewalk's site
+// directly, and this Worker's Cron Trigger has been deleted. Kept as the
+// fallback in case GitHub's runners get challenged again; see README.
+//
 // Setup (Cloudflare dashboard):
 //   1. Create a KV namespace and bind it to this Worker as SIDEWALK_KV.
 //   2. Add a Cron Trigger (e.g. `30 3,9,15,21 * * *`, half an hour before
