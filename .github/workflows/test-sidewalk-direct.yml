@@ -1,0 +1,62 @@
+name: Test Sidewalk direct fetch
+
+# One-off, manual-only check: can a GitHub runner read Sidewalk's new
+# schedule page directly, without the Cloudflare Worker? Sidewalk's old
+# site challenged runners while working fine from a home connection, so
+# only a run from here answers it. Changes nothing in the repo.
+# Run it a few times over a couple of days, then delete this file.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch Sidewalk's schedule page directly
+        run: |
+          python - <<'EOF'
+          import json, re
+          import requests
+
+          # Same extraction as fetchers/sidewalk.py, inlined so this test
+          # doesn't depend on that file's version.
+          def extract_showtimes(html):
+              chunks = re.findall(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)\s*</script>', html, re.S)
+              stream = "".join(json.loads(f'"{c}"') for c in chunks)
+              i = stream.find('"initialShowtimes":')
+              if i < 0:
+                  return None
+              return json.JSONDecoder().raw_decode(stream, i + len('"initialShowtimes":'))[0]
+
+          url = "https://www.sidewalkfest.com/cinema/now-playing?view=list"
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                            "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+              "Accept": "text/html,application/xhtml+xml",
+              "Accept-Language": "en-US,en;q=0.9",
+          }
+
+          for attempt in range(1, 4):
+              r = requests.get(url, headers=headers, timeout=30)
+              shows = extract_showtimes(r.text) if r.status_code == 200 else None
+              print(
+                  f"attempt {attempt}: status {r.status_code}, "
+                  f"{len(r.content)} bytes, "
+                  f"cf-mitigated {r.headers.get('cf-mitigated', 'none')}, "
+                  f"cf-ray {r.headers.get('cf-ray', '?')}, "
+                  f"showtimes {len(shows) if shows is not None else 'NOT FOUND'}"
+              )
+              if shows is None:
+                  print("  page title:", r.text.split("<title>")[-1].split("</title>")[0][:80])
+          EOF
