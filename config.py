@@ -75,17 +75,18 @@ UNSEEN_HISTORY_JSON = DOCS_DIR / "unseen_history.json"
 
 # Sidewalk isn't in TMS/Gracenote's theatre database (confirmed by
 # directly querying TMS and finding no Sidewalk listings at all), so
-# showtimes are scraped from Sidewalk's own public showtimes page instead.
+# showtimes come from Sidewalk's own schedule page instead
+# (see fetchers/sidewalk.py).
 #
-# That page sits behind Cloudflare, which answers GitHub Actions' runners
-# with a JavaScript challenge instead of the page -- including when the
-# runner asks a Cloudflare Worker to fetch it on its behalf. So the Worker
-# (cloudflare/sidewalk-proxy-worker.js) scrapes the pages itself on a Cron
-# Trigger and stores them; this URL only ever returns that stored copy.
-SIDEWALK_CINEMA_URL = "https://shiny-resonance-e149.rileydurbin.workers.dev/"
-SIDEWALK_MAX_PAGES = 30  # safety ceiling; the real page count usually stops well short
-SIDEWALK_PAGE_DELAY = 0.5
-SIDEWALK_STALE_HOURS = 24  # warn when the Worker's stored copy is older than this
+# Fetched directly. Sidewalk's old site (until Nov 4, 2026) answered
+# GitHub Actions' runners with a Cloudflare challenge, so it was read
+# through a Cloudflare Worker's stored copy instead; the new site let
+# runners through when tested on Nov 9. If runners get challenged again,
+# point SIDEWALK_CINEMA_URL back at the Worker,
+# https://shiny-resonance-e149.rileydurbin.workers.dev/ (README has setup).
+SIDEWALK_SITE = "https://www.sidewalkfest.com"
+SIDEWALK_CINEMA_URL = SIDEWALK_SITE + "/cinema/now-playing?view=list"
+SIDEWALK_STALE_HOURS = 24  # only applies to the Worker's stored copy  # warn when the Worker's stored copy is older than this
 
 # ============================================================
 # Request settings

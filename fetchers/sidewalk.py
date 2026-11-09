@@ -1,72 +1,123 @@
 """
 fetchers/sidewalk.py
 
-Scrapes showtimes for Sidewalk Film Center + Cinema directly from their
-public cinema page (sidewalkfest.com/cinema/).
+Reads showtimes for Sidewalk Film Center + Cinema from their own
+schedule page (www.sidewalkfest.com/cinema/now-playing).
 
-Sidewalk isn't in TMS/Gracenote's theatre database at all (confirmed by
-querying TMS directly for the area and finding no Sidewalk listings, even
-though Sidewalk publishes current showtimes on their own site), so scraping
-their own listings is the only reliable source right now.
+Sidewalk isn't in TMS/Gracenote's theatre database at all, so their own
+site is the only source.
 
-The page is server-rendered by a WordPress plugin (class names prefixed
-`fwpl-`) and paginates with a plain `?_paged=N` query param, so no headless
-browser is needed. One quirk: each showtime is a custom
-`<elevent-ticket-button-widget>` element, and HTML parsers (tested with
-html.parser, lxml, and html5lib) mishandle its closing tag when many of
-them appear in one document -- each movie card ends up nested inside the
-previous one instead of being its sibling. Splitting the raw HTML into
-one chunk per movie card *before* parsing each chunk avoids this.
+Since Nov 4, 2026 the site is a Next.js app built by Elevent, Sidewalk's
+ticketing vendor (it replaced the WordPress site this fetcher used to
+scrape). The schedule page embeds the full schedule as JSON for the
+page's own JavaScript: an "initialShowtimes" array, every upcoming
+showtime (about six weeks) with its film's details, in a single page.
+This fetcher pulls that array out of the page rather than reading the
+HTML layout, so a visual redesign shouldn't break it.
+
+The page is fetched directly (config.SIDEWALK_CINEMA_URL). The Cloudflare
+Worker that used to stand in between still works as a fallback; see the
+README.
 """
 
 from __future__ import annotations
 
+import json
 import re
-import time
 from datetime import datetime, timezone
-from typing import List, Optional
+from typing import Dict, List, Optional
+from zoneinfo import ZoneInfo
 
 import requests
-from bs4 import BeautifulSoup
 
 from config import (
     REQUEST_TIMEOUT,
     SIDEWALK_CINEMA_URL,
-    SIDEWALK_MAX_PAGES,
-    SIDEWALK_PAGE_DELAY,
     SIDEWALK_SCREEN_WIDTH_FT,
+    SIDEWALK_SITE,
     SIDEWALK_STALE_HOURS,
 )
 
 from models import Movie, Showtime
 
-RESULT_SPLIT_RE = re.compile(r'(?=<div class="fwpl-result )')
-TOTAL_PAGES_RE = re.compile(r'"total_pages":(\d+)')
+# Next.js streams the page's data as JavaScript string literals:
+#   self.__next_f.push([1,"..."])
+NEXT_DATA_RE = re.compile(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)\s*</script>', re.S)
+
+SHOWTIMES_KEY = '"initialShowtimes":'
+
+# Both auditoriums are listed under this venue. Lobby, classroom and
+# online events (trivia, karaoke, meetings) have other venue names.
+CINEMA_VENUE = "Sidewalk Film Center + Cinema"
+
+LOCAL_TZ = ZoneInfo("America/Chicago")
+
+# What the Nov 9, 2026 test from a GitHub runner sent (and got through with).
+BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+
+def extract_showtimes(html: str) -> Optional[List[dict]]:
+    """The page's "initialShowtimes" array, or None if it isn't there."""
+
+    # Each chunk is a JSON-compatible string literal; joined, they form
+    # the page's data stream.
+    stream = "".join(json.loads(f'"{chunk}"') for chunk in NEXT_DATA_RE.findall(html))
+
+    start = stream.find(SHOWTIMES_KEY)
+    if start < 0:
+        return None
+
+    showtimes, _ = json.JSONDecoder().raw_decode(stream, start + len(SHOWTIMES_KEY))
+    return showtimes
+
+
+def _date(value: Optional[str]) -> Optional[datetime]:
+    """Next.js marks dates as "$D2026-11-11T20:00:00.000Z" (UTC)."""
+    if not value:
+        return None
+    return datetime.fromisoformat(value.removeprefix("$D").replace("Z", "+00:00"))
+
+
+def _names(value: Optional[str]) -> List[str]:
+    return [n.strip() for n in (value or "").split(",") if n.strip()]
+
+
+def _poster(event: dict) -> Optional[str]:
+    poster = event.get("posterImageUrl")
+    if poster:
+        # Sidewalk links TMDB's full-size original; a 500px-wide copy is
+        # plenty (fetch_movies.py resizes posters to 440px anyway).
+        return poster.replace("/t/p/original/", "/t/p/w500/")
+    # Some events only have a wide banner image.
+    return event.get("imageUrl")
 
 
 class SidewalkFetcher:
-    """Scrapes Sidewalk Film Center + Cinema showtimes from the copy of
-    their pages stored by the Cloudflare Worker (see
-    config.SIDEWALK_CINEMA_URL for why)."""
 
     # --------------------------------------------------
     # HTTP helper
     # --------------------------------------------------
 
-    def _fetch_page(self, page: int) -> str:
-        params = {"_paged": page} if page > 1 else None
+    def _fetch_page(self) -> str:
         response = requests.get(
             SIDEWALK_CINEMA_URL,
-            params=params,
+            headers=BROWSER_HEADERS,
             timeout=REQUEST_TIMEOUT,
         )
         response.raise_for_status()
 
-        # The Worker serves a stored copy rather than fetching live, so
-        # say how old it is -- a copy that stops refreshing would
-        # otherwise look like Sidewalk simply not adding showtimes.
+        # Only when reading through the Worker, which serves a stored
+        # copy: say how old it is, since a copy that stops refreshing
+        # would otherwise look like Sidewalk simply not adding showtimes.
         fetched_at = response.headers.get("X-Fetched-At")
-        if page == 1 and fetched_at:
+        if fetched_at:
             age = datetime.now(timezone.utc) - datetime.fromisoformat(
                 fetched_at.replace("Z", "+00:00")
             )
@@ -78,181 +129,82 @@ class SidewalkFetcher:
         return response.text
 
     # --------------------------------------------------
-    # Parsing helpers
-    # --------------------------------------------------
-
-    @staticmethod
-    def _split_result_chunks(html: str) -> List[str]:
-        parts = RESULT_SPLIT_RE.split(html)
-        return [p for p in parts if p.startswith('<div class="fwpl-result')]
-
-    @staticmethod
-    def _text(el) -> Optional[str]:
-        if el is None:
-            return None
-        return el.get_text(strip=True) or None
-
-    def _parse_runtime(self, result) -> Optional[int]:
-        m = re.match(r"(\d+)\s*min", self._text(result.select_one(".event-running-time")) or "")
-        return int(m.group(1)) if m else None
-
-    def _parse_year(self, result) -> Optional[int]:
-        t = self._text(result.select_one(".event-year"))
-        if not t:
-            return None
-        try:
-            return int(t[:4])
-        except ValueError:
-            return None
-
-    def _parse_poster(self, result) -> Optional[str]:
-        img = result.select_one(".event-image img")
-        if img is None:
-            return None
-
-        srcset = img.get("srcset")
-        if srcset:
-            best_url, best_width = None, -1
-            for part in srcset.split(","):
-                bits = part.strip().rsplit(" ", 1)
-                if len(bits) == 2 and bits[1].endswith("w"):
-                    try:
-                        width = int(bits[1][:-1])
-                    except ValueError:
-                        continue
-                    if width > best_width:
-                        best_width, best_url = width, bits[0]
-            if best_url:
-                return best_url
-
-        return img.get("src")
-
-    def _parse_synopsis(self, result) -> Optional[str]:
-        details = result.select_one(".fwpl-col.details")
-        if details is None:
-            return None
-
-        # The synopsis div's class name is a hashed, non-semantic string
-        # that isn't safe to depend on, so find it structurally instead:
-        # it's the direct-child item that isn't the title or the button.
-        for div in details.find_all("div", class_="fwpl-item", recursive=False):
-            classes = div.get("class", [])
-            if "title" in classes or "event-button" in classes:
-                continue
-            text = self._text(div)
-            if text:
-                return text
-
-        return None
-
-    @staticmethod
-    def _parse_showtime_dt(date_str: str, time_text: str) -> Optional[str]:
-        try:
-            parsed = datetime.strptime(time_text, "%I:%M %p")
-        except ValueError:
-            return None
-        return f"{date_str}T{parsed.strftime('%H:%M:%S')}"
-
-    def _parse_movie(self, chunk: str) -> Optional[Movie]:
-        soup = BeautifulSoup(chunk, "html.parser")
-        result = soup.select_one(".fwpl-result")
-        if result is None:
-            return None
-
-        title_el = result.select_one(".fwpl-item.title a")
-        if title_el is None:
-            return None
-
-        title = title_el.get_text(strip=True)
-        detail_url = title_el.get("href")
-
-        # Sidewalk's listing page includes non-screening events too (movie
-        # trivia, filmmaker networking nights, etc.) which run in other
-        # on-site spaces. Only keep actual screenings in the cinema itself.
-        venue = self._text(result.select_one(".venue-wrapper h3")) or ""
-        if "Sidewalk Film Center" not in venue:
-            return None
-
-        directors = [
-            d.strip()
-            for d in (self._text(result.select_one(".event-director")) or "").split(",")
-            if d.strip()
-        ]
-
-        movie = Movie(
-            source="Sidewalk",
-            title=title,
-            release_year=self._parse_year(result),
-            runtime=self._parse_runtime(result),
-            poster=self._parse_poster(result),
-            directors=directors,
-            country=self._text(result.select_one(".event-countries")),
-            plot=self._parse_synopsis(result),
-            movie_url=detail_url,
-        )
-
-        for date_div in result.select(".tickets-for-date"):
-            date_str = date_div.get("data-date")
-            if not date_str:
-                continue
-
-            for widget in date_div.find_all("elevent-ticket-button-widget"):
-                dt = self._parse_showtime_dt(date_str, widget.get_text(strip=True))
-                if not dt:
-                    continue
-
-                status_classes = widget.get("class") or []
-                status = status_classes[0] if isinstance(status_classes, list) else str(status_classes)
-
-                movie.add_showtime(Showtime(
-                    source="Sidewalk",
-                    theater_id=0,
-                    theater=venue,
-                    showtime_id=widget.get("showtime") or 0,
-                    datetime=dt,
-                    purchase_url=detail_url,
-                    sold_out="sold" in status.lower(),
-                    screen_width_ft=SIDEWALK_SCREEN_WIDTH_FT,
-                ))
-
-        return movie
-
-    # --------------------------------------------------
     # Public method
     # --------------------------------------------------
 
     def fetch_movies(self) -> List[Movie]:
         """
-        Scrape Sidewalk's cinema page and return normalized movies.
+        Read Sidewalk's schedule and return normalized movies.
         """
 
-        movies: List[Movie] = []
-        total_pages = 1
+        print("  Fetching Sidewalk schedule...")
 
-        page = 1
-        while page <= total_pages and page <= SIDEWALK_MAX_PAGES:
-            print(f"  Fetching Sidewalk cinema page {page}...")
+        showtimes = extract_showtimes(self._fetch_page())
 
-            html = self._fetch_page(page)
+        if showtimes is None:
+            raise ValueError(
+                "Sidewalk's schedule page has no initialShowtimes data -- "
+                "the site may have changed again"
+            )
 
-            if page == 1:
-                m = TOTAL_PAGES_RE.search(html)
-                if m:
-                    total_pages = int(m.group(1))
+        movies: Dict[str, Movie] = {}
 
-            chunks = self._split_result_chunks(html)
-            if not chunks:
-                break
+        for show in showtimes:
 
-            for chunk in chunks:
-                movie = self._parse_movie(chunk)
-                if movie is not None:
-                    movies.append(movie)
+            venue = (show.get("venue") or {}).get("name") or ""
+            event = show.get("event") or {}
+            start = _date(show.get("startDateTime"))
 
-            page += 1
-            if page <= total_pages and page <= SIDEWALK_MAX_PAGES:
-                time.sleep(SIDEWALK_PAGE_DELAY)
+            if venue != CINEMA_VENUE or not event.get("name") or not start:
+                continue
 
-        print(f"  Found {len(movies)} Sidewalk screenings across {min(page - 1, total_pages)} page(s).")
+            if show.get("status") != "Active" or event.get("status") != "Active":
+                continue
 
-        return movies
+            event_url = (
+                f"{SIDEWALK_SITE}/events/{event['urlName']}"
+                if event.get("urlName") else f"{SIDEWALK_SITE}/cinema/now-playing"
+            )
+
+            movie = movies.get(event["id"])
+
+            if movie is None:
+                year = event.get("releaseYear")
+                movie = movies[event["id"]] = Movie(
+                    source="Sidewalk",
+                    title=event["name"].strip(),
+                    release_year=int(year) if year and str(year).isdigit() else None,
+                    runtime=event.get("lengthInMinutes") or show.get("lengthInMinutes"),
+                    rating=event.get("rating") or None,
+                    poster=_poster(event),
+                    directors=_names(event.get("director")),
+                    actors=_names(event.get("cast")),
+                    writers=_names(event.get("writer")),
+                    plot=event.get("description") or None,
+                    trailer_url=event.get("trailerUrl") or None,
+                    movie_url=event_url,
+                )
+
+            sold_out = max(
+                show.get("capacitySoldOutPercentage") or 0,
+                show.get("publicAllocationSoldOutPercentage") or 0,
+            ) >= 100
+
+            movie.add_showtime(Showtime(
+                source="Sidewalk",
+                theater_id=0,
+                theater=venue,
+                showtime_id=show.get("eleventId") or show.get("id") or 0,
+                datetime=start.astimezone(LOCAL_TZ).strftime("%Y-%m-%dT%H:%M:%S"),
+                datetime_utc=start.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                purchase_url=event_url,
+                sold_out=sold_out,
+                screen_width_ft=SIDEWALK_SCREEN_WIDTH_FT,
+            ))
+
+        print(
+            f"  Found {len(movies)} Sidewalk films with "
+            f"{sum(len(m.showtimes) for m in movies.values())} showtimes."
+        )
+
+        return list(movies.values())

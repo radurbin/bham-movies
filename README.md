@@ -89,9 +89,35 @@ with a JavaScript challenge ("Just a moment...", HTTP 403,
    GitHub runner was the one calling the Worker. The same Worker called
    from a home IP (or a VPN's datacenter IP) still got the real page.
 3. Current design (since Oct 1, 2026): the Worker
-   (`cloudflare/sidewalk-proxy-worker.js`) scrapes every page itself on a
-   Cron Trigger and stores them in Workers KV. Requests to the Worker only
+   (`cloudflare/sidewalk-proxy-worker.js`) scrapes the page itself on a
+   Cron Trigger and stores it in Workers KV. Requests to the Worker only
    read that stored copy, so the runner never causes a request to Sidewalk.
+
+Sidewalk's new site (since Nov 4, 2026): Sidewalk replaced its WordPress
+site with a Next.js site built by Elevent, its ticketing vendor, at
+`www.sidewalkfest.com`. The old `sidewalkfest.com/cinema/` address now
+redirects to a page with no showtimes, so every scrape failed from Nov 4
+to Nov 9 while the site kept showing the Nov 4 copy. The Worker now
+stores `www.sidewalkfest.com/cinema/now-playing?view=list`, which embeds
+the whole schedule (about six weeks, every showtime) as JSON in one page:
+an `initialShowtimes` array with each film's name, length, rating,
+director, cast, year, poster and synopsis. `fetchers/sidewalk.py` reads
+that JSON instead of the page layout. Only showtimes in the venue
+"Sidewalk Film Center + Cinema" (both auditoriums) are kept; lobby,
+classroom and online events are dropped. If the site changes again, the
+Worker's `/status` error says whether the schedule data was found and
+which URL it ended up on.
+
+Direct fetch (since Nov 9, 2026): a test from a GitHub runner
+(`.github/workflows/test-sidewalk-direct.yml`, run by hand) got the new
+schedule page directly with no challenge, so `SIDEWALK_CINEMA_URL` in
+`config.py` now points at Sidewalk itself and the pipeline no longer
+uses the Worker. The Worker code is kept, updated for the new site, as
+the fallback: if runners start getting challenged again (the run log
+shows a 403 or "no initialShowtimes data"), paste
+`cloudflare/sidewalk-proxy-worker.js` into the dashboard, confirm its
+`/status` shows `"ok": true`, then point `SIDEWALK_CINEMA_URL` back at
+the Worker. The setup notes below describe that fallback.
 
 Worker setup (Cloudflare dashboard, account-side -- none of this lives in
 the repo, and the Worker code is deployed by pasting the file into the
@@ -105,9 +131,9 @@ dashboard's editor, not by CI):
 
 Worker endpoints:
 
-- `/` and `/?_paged=N` -- the stored HTML for page N, with an
-  `X-Fetched-At` header saying when it was scraped
-- `/status` -- JSON with the stored copy's timestamp and page count, plus
+- `/` -- the stored schedule page, with an `X-Fetched-At` header saying
+  when it was scraped
+- `/status` -- JSON with the stored copy's timestamp, plus
   the result of the latest scrape attempt (including the error if it failed)
 
 A failed scrape leaves the previous stored copy in place, so the site keeps
@@ -115,10 +141,9 @@ showing the last good Sidewalk data rather than dropping the theater.
 `fetchers/sidewalk.py` prints the stored copy's age on every run and a
 `WARNING` once it is older than `SIDEWALK_STALE_HOURS` (24).
 
-Other sources looked at and ruled out: Elevent (Sidewalk's ticketing
-vendor; its widget API at `widget.goelevent.com` needs keys and has no
-listing endpoint), and Sidewalk's WordPress REST API (same host, so the
-same challenge).
+Other sources looked at and ruled out: Elevent's widget API at
+`widget.goelevent.com` (needs keys and has no listing endpoint), and
+Sidewalk's old WordPress REST API (gone with the old site).
 
 Seat maps (AMC showtimes only)
 

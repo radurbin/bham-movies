@@ -1,6 +1,11 @@
 // Cloudflare Worker: keeps a stored copy of Sidewalk Film Center's public
-// showtimes pages (https://sidewalkfest.com/cinema/) and serves that copy
-// to the Python fetcher.
+// schedule page (https://www.sidewalkfest.com/cinema/now-playing) and
+// serves that copy to the Python fetcher.
+//
+// Since Nov 4, 2026 Sidewalk's site is a Next.js app built by Elevent. The
+// schedule page embeds every upcoming showtime (about six weeks) as JSON in
+// a single page, so there is no paging any more. The old WordPress address
+// (sidewalkfest.com/cinema/) now redirects to a page with no showtimes.
 //
 // Why this exists: Sidewalk's site sits behind Cloudflare, which answers
 // GitHub Actions' runners with a JavaScript challenge ("Just a moment...")
@@ -21,14 +26,14 @@
 //   3. Paste this file's contents into the Worker and deploy.
 //
 // Endpoints:
-//   /            stored page 1 (same HTML Sidewalk served)
-//   /?_paged=N   stored page N
+//   /            the stored schedule page (same HTML Sidewalk served)
 //   /status      JSON describing the stored copy and the latest attempt
 
-const TARGET = "https://sidewalkfest.com/cinema/";
+const TARGET = "https://www.sidewalkfest.com/cinema/now-playing?view=list";
 
-const MAX_PAGES = 30; // safety ceiling; the real page count is usually ~5
-const PAGE_DELAY_MS = 500;
+// The schedule data the Python fetcher reads. In the raw HTML it sits
+// inside a JavaScript string, so its quotes are backslash-escaped.
+const SCHEDULE_MARKER = '\\"initialShowtimes\\":';
 
 const SNAPSHOT_KEY = "snapshot";
 const LAST_ATTEMPT_KEY = "last_attempt";
@@ -42,21 +47,18 @@ const BROWSER_HEADERS = {
   "Accept-Language": "en-US,en;q=0.9",
 };
 
-async function fetchSidewalkPage(page) {
-  const target = new URL(TARGET);
-  if (page > 1) {
-    target.searchParams.set("_paged", String(page));
-  }
-
-  const upstream = await fetch(target.toString(), { headers: BROWSER_HEADERS });
+async function fetchSchedulePage() {
+  const upstream = await fetch(TARGET, { headers: BROWSER_HEADERS });
   const body = await upstream.text();
 
-  // A challenge page can come back with any status, so also require the
-  // listing markup the Python parser depends on.
-  if (upstream.status !== 200 || !body.includes('class="fwpl-result ')) {
+  // A challenge page, a redirect to a page without showtimes, or another
+  // redesign can all come back as 200, so also require the schedule data.
+  if (upstream.status !== 200 || !body.includes(SCHEDULE_MARKER)) {
     const mitigated = upstream.headers.get("cf-mitigated") || "none";
     throw new Error(
-      `page ${page}: status ${upstream.status}, cf-mitigated ${mitigated}, ` +
+      `status ${upstream.status}, schedule data ` +
+        `${body.includes(SCHEDULE_MARKER) ? "present" : "missing"}, ` +
+        `final URL ${upstream.url}, cf-mitigated ${mitigated}, ` +
         `cf-ray ${upstream.headers.get("cf-ray") || "?"}`
     );
   }
@@ -68,18 +70,12 @@ async function refreshSnapshot(env) {
   const attempt = { attempted_at: new Date().toISOString(), ok: false };
 
   try {
-    const pages = [await fetchSidewalkPage(1)];
+    // Stored as a one-item list, the same shape as when the old site
+    // needed several pages.
+    const pages = [await fetchSchedulePage()];
 
-    const match = pages[0].match(/"total_pages":(\d+)/);
-    const totalPages = Math.min(match ? Number(match[1]) : 1, MAX_PAGES);
-
-    for (let page = 2; page <= totalPages; page++) {
-      await new Promise((resolve) => setTimeout(resolve, PAGE_DELAY_MS));
-      pages.push(await fetchSidewalkPage(page));
-    }
-
-    // Only replace the stored copy once every page succeeded, so a failed
-    // run leaves the last good copy in place.
+    // Only replace the stored copy on success, so a failed run leaves
+    // the last good copy in place.
     await env.SIDEWALK_KV.put(
       SNAPSHOT_KEY,
       JSON.stringify({ fetched_at: attempt.attempted_at, pages })
@@ -117,14 +113,7 @@ export default {
       return new Response("No stored Sidewalk pages yet.", { status: 503 });
     }
 
-    const page = Number(url.searchParams.get("_paged") || "1");
-    const body = snapshot.pages[page - 1];
-
-    if (!body) {
-      return new Response(`No stored page ${page}.`, { status: 404 });
-    }
-
-    return new Response(body, {
+    return new Response(snapshot.pages[0], {
       headers: {
         "Content-Type": "text/html; charset=utf-8",
         "X-Fetched-At": snapshot.fetched_at,
