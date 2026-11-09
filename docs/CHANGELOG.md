@@ -1,3 +1,42 @@
+## 2026-11-09 05:54 PM CST
+
+**Movies removed:**
+- Soul Patrol
+
+**Showtime changes:**
+- Ebenezer
+  - + AMC Patton Creek 15 @ 2026-11-12T15:30:00 (Standard)
+- Scene
+  - + AMC Patton Creek 15 @ 2026-11-12T19:45:00 (Standard)
+- Street Fighter
+  - + AMC Summit 16 @ 2026-11-09T18:55:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-11T18:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-12T12:50:00 (Standard)
+- Victorian Psycho
+  - + AMC Patton Creek 15 @ 2026-11-12T20:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-12T19:10:00 (Standard)
+- You Can See Everything
+  - + AMC Patton Creek 15 @ 2026-11-12T13:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-12T19:00:00 (Standard)
+- Drummer Boy
+  - + AMC Patton Creek 15 @ 2026-11-12T19:20:00 (Standard)
+- JIMMY
+  - + AMC Patton Creek 15 @ 2026-11-12T19:10:00 (Standard)
+- Rocky 50th Anniversary
+  - − AMC Summit 16 @ 2026-11-10T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-10T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-11T19:00:00 (Standard)
+- Godzilla Minus Zero
+  - + AMC Patton Creek 15 @ 2026-11-12T17:30:00 (Standard)
+- American Sniper
+  - − AMC Summit 16 @ 2026-11-11T16:00:00 (Standard)
+- Ramayana
+  - + AMC Patton Creek 15 @ 2026-11-12T14:45:00 (Standard)
+- Wicker
+  - + AMC Patton Creek 15 @ 2026-11-10T18:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-11T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-12T12:45:00 (Standard)
+
 ## 2026-11-09 09:44 AM CST
 
 **Movies added:**
