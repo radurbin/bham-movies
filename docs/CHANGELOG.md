@@ -1,3 +1,60 @@
+## 2026-11-09 09:44 AM CST
+
+**Movies added:**
+- Black Friday Morning Cartoons (FREE!)
+- Noirvember: Dark Passage (1947)
+- Noirvember: Taxi Driver (1976) 50th Anniversary
+- Noirvember: The Big Sleep (1946) 80th Anniversary
+- Noirvember: Thief (1981) 45th Anniversary
+- Student Night: The School of Rock
+- Tapesgiving (Free!)
+- Unzipped (1995) 4K Restoration
+- zi - One Night Only
+
+**Movies removed:**
+- Bad Movie Night (Free!)
+- Fjord
+- Knitflix and Chill: The Big Lebowski (1998)
+- Pajama Party: The Great Mouse Detective (1986)
+
+**Showtime changes:**
+- NAZA
+  - − Sidewalk Film Center + Cinema @ 2026-11-04T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-04T16:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-04T18:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-05T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-05T16:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-05T21:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-06T17:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-07T12:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-07T19:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-08T15:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-08T20:00:00 (Standard)
+- Godzilla Minus Zero
+  - − Sidewalk Film Center + Cinema @ 2026-11-06T14:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-06T17:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-06T20:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-07T10:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-07T13:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-07T16:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-07T19:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-07T22:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-08T10:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-08T13:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-08T16:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-08T19:00:00 (Standard)
+- Scene
+  - − Sidewalk Film Center + Cinema - Classroom @ 2026-11-13T17:00:00 (Standard)
+- Queen at Sea
+  - − Sidewalk Film Center + Cinema @ 2026-11-06T14:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-06T19:00:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-06T21:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-07T14:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-07T17:15:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-07T21:45:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-08T12:30:00 (Standard)
+  - − Sidewalk Film Center + Cinema @ 2026-11-08T17:15:00 (Standard)
+
 ## 2026-11-09 06:16 AM CST
 
 **Movies added:**
