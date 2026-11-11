@@ -1,3 +1,9 @@
+## 2026-11-11 04:21 PM CST
+
+**Movies added:**
+- Crunchyroll Anime Nights Sneak Peek - December '26
+- Prince 3121 Las Vegas Live
+
 ## 2026-11-11 05:32 AM CST
 
 **Showtime changes:**
