@@ -98,6 +98,72 @@
 			let showUpcoming = true;
 			try { showUpcoming = localStorage.getItem('showUpcoming') !== '0'; } catch (e) {}
 
+			// How each day's posters are ordered (the "Sort" row). Clicking
+			// the active button again reverses it. Films without the value,
+			// such as no Letterboxd rating yet, go last either way.
+			const ratingNumber = v => { const n = parseFloat(v); return Number.isFinite(n) ? n : null; };
+			const SORTS = {
+				showtimes: { label: 'Showtimes', desc: true, directions: ['Fewest first', 'Most first'], value: e => e.shows.length },
+				start: { label: 'Start time', desc: false, directions: ['Earliest first', 'Latest first'], value: e => e.shows.map(s => s.datetime || '').filter(Boolean).sort()[0] || null },
+				letterboxd: { label: 'Letterboxd', desc: true, directions: ['Lowest first', 'Highest first'], value: e => ratingNumber(e.movie.letterboxd_rating) },
+				imdb: { label: 'IMDb', desc: true, directions: ['Lowest first', 'Highest first'], value: e => ratingNumber(e.movie.imdb_rating) },
+				runtime: { label: 'Length', desc: false, directions: ['Shortest first', 'Longest first'], value: e => e.movie.runtime || null },
+				year: { label: 'Year', desc: true, directions: ['Oldest first', 'Newest first'], value: e => e.movie.release_year || null },
+				title: { label: 'Title', desc: false, directions: ['A–Z', 'Z–A'], value: e => (e.movie.title || '').toLowerCase() },
+			};
+			let sortKey = 'showtimes';
+			let sortDesc = true;
+			try {
+				const [key, dir] = (localStorage.getItem('sortBy') || '').split(':');
+				if (SORTS[key]) { sortKey = key; sortDesc = dir === 'desc'; }
+			} catch (e) {}
+			// posterKey -> { movie, shows } for every listing on the calendar.
+			let calendarEntries = {};
+
+			function compareEntries(a, b) {
+				const value = SORTS[sortKey].value;
+				const va = value(a), vb = value(b);
+				if (va !== vb) {
+					if (va === null) return 1;
+					if (vb === null) return -1;
+					return (va < vb ? -1 : 1) * (sortDesc ? -1 : 1);
+				}
+				// Ties: most showtimes, then title.
+				return (b.shows.length - a.shows.length) || (a.movie.title || '').localeCompare(b.movie.title || '');
+			}
+
+			function setSort(key) {
+				if (key === sortKey) sortDesc = !sortDesc;
+				else { sortKey = key; sortDesc = SORTS[key].desc; }
+				try { localStorage.setItem('sortBy', `${sortKey}:${sortDesc ? 'desc' : 'asc'}`); } catch (e) {}
+				updateSortButtons();
+				applySort();
+			}
+
+			function updateSortButtons() {
+				document.querySelectorAll('.filter-btn[data-sort]').forEach(btn => {
+					const sort = SORTS[btn.dataset.sort];
+					const active = btn.dataset.sort === sortKey;
+					btn.classList.toggle('active', active);
+					btn.textContent = sort.label + (active ? (sortDesc ? ' ↓' : ' ↑') : '');
+					btn.title = active
+						? `${sort.directions[sortDesc ? 1 : 0]} — click for ${sort.directions[sortDesc ? 0 : 1].toLowerCase()}`
+						: sort.directions[sort.desc ? 1 : 0];
+				});
+			}
+
+			// Reorders the posters already on the calendar, so filters and
+			// plan-mode picks stay as they are. Pencilled-in films stay last.
+			function applySort() {
+				document.querySelectorAll('#grid .posters').forEach(container => {
+					const children = Array.from(container.children);
+					const listed = children.filter(el => calendarEntries[el.dataset.posterKey]);
+					const rest = children.filter(el => !calendarEntries[el.dataset.posterKey]);
+					listed.sort((x, y) => compareEntries(calendarEntries[x.dataset.posterKey], calendarEntries[y.dataset.posterKey]));
+					for (const el of listed.concat(rest)) container.appendChild(el);
+				});
+			}
+
 			function applyUpcomingVisibility() {
 				GRID.classList.toggle('hide-upcoming', !showUpcoming);
 				document.getElementById('upcomingToggle').classList.toggle('active', showUpcoming);
@@ -540,6 +606,22 @@
 				const filtersDiv = document.getElementById('filters');
 				filtersDiv.innerHTML = '';
 
+				const sortGroup = document.createElement('div');
+				sortGroup.className = 'filter-group';
+				const sortLabel = document.createElement('span');
+				sortLabel.className = 'filter-label';
+				sortLabel.textContent = 'Sort';
+				sortGroup.appendChild(sortLabel);
+				for (const key of Object.keys(SORTS)) {
+					const btn = document.createElement('button');
+					btn.className = 'filter-btn';
+					btn.dataset.sort = key;
+					btn.onclick = () => setSort(key);
+					sortGroup.appendChild(btn);
+				}
+				filtersDiv.appendChild(sortGroup);
+				updateSortButtons();
+
 				const formatGroup = document.createElement('div');
 				formatGroup.className = 'filter-group';
 				const formatLabel = document.createElement('span');
@@ -721,6 +803,7 @@
 			function render(days) {
 				GRID.innerHTML = '';
 				posterWeekMap = {};
+				calendarEntries = {};
 				pencilHandover = {};
 				let migratedPicks = false;
 
@@ -760,7 +843,7 @@
 						const posters = cell.querySelector('.posters');
 
 						if(days[d]) {
-							const sortedEntries = Object.values(days[d]).sort((a, b) => b.shows.length - a.shows.length);
+							const sortedEntries = Object.values(days[d]).sort(compareEntries);
 
 							for (const entry of sortedEntries) {
 								const movie = entry.movie;
@@ -774,6 +857,7 @@
 								const screenWidths = JSON.stringify(shows.map(s => typeof s.screen_width_ft === 'number' ? s.screen_width_ft : null));
 								const posterKey = `${d}::${movieKey(movie)}`;
 								posterWeekMap[posterKey] = weekIndex;
+								calendarEntries[posterKey] = entry;
 
 								// Picked while it was only pencilled in on this date:
 								// move the pick onto the real listing.

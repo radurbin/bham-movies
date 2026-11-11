@@ -4,6 +4,7 @@ This folder builds a static movie showtimes site suitable for GitHub Pages.
 
 Overview
 - The Python backend fetches showtimes from the AMC API (`fetchers/amc.py`) and by scraping Sidewalk Film Center + Cinema's public showtimes page (`fetchers/sidewalk.py`), enriches metadata using OMDb (`fetchers/omdb.py`) and Letterboxd ratings (`fetchers/letterboxd.py`), downloads poster images into `docs/posters/`, and writes `docs/movies.json` consumed by the frontend (`docs/index.html`).
+- On the page, the Sort row orders each day's posters by showtime count (default), earliest start time, Letterboxd or IMDb rating, length, release year or title. Clicking the active button reverses it, films without that value go last, and the choice is remembered in the browser (`localStorage` key `sortBy`). Sorting only reorders posters already drawn, so filters and plan-mode picks are unaffected, and pencilled-in upcoming films stay at the end of each day.
 
 Quick local preview
 
