@@ -1,3 +1,15 @@
+## 2026-11-12 03:58 PM CST
+
+**Movies added:**
+- Violent Night 2
+
+**Showtime changes:**
+- Wildwood
+  - − AMC Vestavia Hills 10 @ 2026-11-17T12:05:00 (Standard)
+- Godzilla Minus Zero
+  - + AMC Vestavia Hills 10 @ 2026-11-17T12:00:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-17T12:30:00 (Standard)
+
 ## 2026-11-12 05:58 AM CST
 
 **Movies added:**
