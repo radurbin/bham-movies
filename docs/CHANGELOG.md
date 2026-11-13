@@ -1,3 +1,27 @@
+## 2026-11-13 03:44 PM CST
+
+**Movies added:**
+- Club Kid
+
+**Movies removed:**
+- Queen at Sea
+
+**Showtime changes:**
+- Verity
+  - + AMC Summit 16 @ 2026-11-15T13:50:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-15T12:10:00 (Standard)
+- God with Us
+  - − AMC Summit 16 @ 2026-11-15T14:00:00 (Standard)
+- Ebenezer
+  - + AMC Summit 16 @ 2026-11-15T12:00:00 (Standard)
+- Donga Naa Koduku
+  - − AMC Summit 16 @ 2026-11-18T22:05:00 (Standard)
+- ENE Repeat
+  - + AMC Summit 16 @ 2026-11-18T21:50:00 (Standard)
+- Godzilla Minus Zero
+  - + AMC Summit 16 @ 2026-11-18T22:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-18T21:50:00 (Standard)
+
 ## 2026-11-13 05:41 AM CST
 
 **Movies removed:**
