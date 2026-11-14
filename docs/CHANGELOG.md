@@ -1,3 +1,36 @@
+## 2026-11-13 07:54 PM CST
+
+**Movies added:**
+- Adam's Apple with Post-Screening Pre-Recorded Q&A (Free!)
+
+**Showtime changes:**
+- Drummer Boy
+  - + AMC Patton Creek 15 @ 2026-11-19T12:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T16:00:00 (Standard)
+- Mouse
+  - + AMC Patton Creek 15 @ 2026-11-19T15:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T16:00:00 (Standard)
+- Wild Horse Nine
+  - + AMC Patton Creek 15 @ 2026-11-19T13:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T17:00:00 (Standard)
+- Ghost Soldier
+  - + AMC Patton Creek 15 @ 2026-11-19T13:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T16:20:00 (Standard)
+- Victorian Psycho
+  - + AMC Patton Creek 15 @ 2026-11-19T19:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T22:00:00 (Standard)
+- Ebenezer
+  - + AMC Patton Creek 15 @ 2026-11-19T21:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T21:30:00 (Standard)
+- The Cat in the Hat
+  - + AMC Patton Creek 15 @ 2026-11-19T13:40:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T18:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T13:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T18:30:00 (Standard)
+- Clayface
+  - + AMC Patton Creek 15 @ 2026-11-19T20:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T22:15:00 (Standard)
+
 ## 2026-11-13 03:44 PM CST
 
 **Movies added:**

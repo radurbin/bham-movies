@@ -1,13 +1,5 @@
 [
   {
-    "date": "2026-10-16 01:19 PM CDT",
-    "movies_added": [
-      "Once Upon a Time… in Hollywood"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-10-16 02:07 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -50836,6 +50828,156 @@
             "format": "Standard"
           }
         ]
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13 07:54 PM CST",
+    "movies_added": [
+      "Adam's Apple with Post-Screening Pre-Recorded Q&A (Free!)"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Drummer Boy",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T12:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T16:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Mouse",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T15:20:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T16:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Wild Horse Nine",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T13:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T17:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Ghost Soldier",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T13:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T16:20:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Victorian Psycho",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T19:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T22:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Ebenezer",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T21:40:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T21:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Cat in the Hat",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T13:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T18:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T13:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T18:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Clayface",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T20:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T22:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
       }
     ]
   }

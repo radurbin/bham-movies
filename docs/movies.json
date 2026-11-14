@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-11-13T15:44:01.454137-06:00",
-    "movie_count": 96,
-    "showtime_count": 3616,
+    "generated_at": "2026-11-13T19:54:40.115867-06:00",
+    "movie_count": 97,
+    "showtime_count": 3627,
     "theaters": {
       "AMC Summit 16": 1362,
-      "AMC Patton Creek 15": 1347,
-      "AMC Vestavia Hills 10": 811,
-      "Sidewalk Film Center + Cinema": 96
+      "AMC Patton Creek 15": 1357,
+      "Sidewalk Film Center + Cinema": 97,
+      "AMC Vestavia Hills 10": 811
     }
   },
   "movies": [
@@ -44,7 +44,7 @@
       "rotten_tomatoes": "74%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 696520,
+      "letterboxd_rating_count": 696603,
       "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind/",
       "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
       "language": "English",
@@ -240,6 +240,68 @@
       ]
     },
     {
+      "sort_index": "adam's apple with post-screening pre-recorded q&a (free!)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Adam's Apple with Post-Screening Pre-Recorded Q&A (Free!)",
+      "release_year": 2026,
+      "runtime": 97,
+      "rating": "Not Rated",
+      "genres": [],
+      "poster": "posters/adams-apple-with-post-screening-pre-recorded-qa-free-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Join us for a FREE screening of 2026 Sidewalk Festival alum Adam's Apple, accompanied by a pre-recorded virtual Q&A in celebration of Trans Awareness Week. Presented by Alabama Central Pride and Sidewalk Cinema.\n\nADAM’S APPLE is an intimate, collaborative documentary told through the dual perspectives of Adam, a transgender teen, and his mother, visual artist Amy Jenkins, offering an authentic and tender counterpoint to the hostility facing trans youth today. Adam’s journey balances the milestones of gender transition with the rhythms of adolescence. As Adam asserts his identity and steps out into the world, his parents grapple with the challenges of raising a teen while learning to let go. Through a visually poetic approach, the film transforms a deeply personal archive, collected over two decades, into a powerful, joyful testament to the beauty and difficulty of reckoning with profound change.",
+      "directors": [
+        "Amy K. Jenkins"
+      ],
+      "writers": [
+        "Adam Sieswerda"
+      ],
+      "actors": [
+        "Adam Sieswerda",
+        "Amy K. Jenkins"
+      ],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.sidewalkfest.com/events/AdamsAppleCAP",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "02pD6Eg7EO",
+          "datetime": "2026-11-25T18:15:00",
+          "datetime_utc": "2026-11-26T00:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/AdamsAppleCAP",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
       "sort_index": "amc screen unseen: november 16",
       "source": "AMC",
       "movie_id": 85583,
@@ -332,7 +394,7 @@
             "Family",
             "Science Fiction"
           ],
-          "poster": "https://image.tmdb.org/t/p/w185/fiKAxvuHInioQHGJU0fGDxc6hXR.jpg",
+          "poster": "https://image.tmdb.org/t/p/w185/jcSRKU1htEfDl2lcwpFYaJvTfc8.jpg",
           "url": "https://www.themoviedb.org/movie/1720486",
           "score": 0.093
         },
@@ -27413,7 +27475,7 @@
       "rotten_tomatoes": "78%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.19,
-      "letterboxd_rating_count": 131034,
+      "letterboxd_rating_count": 131047,
       "letterboxd_url": "https://letterboxd.com/film/bad-santa/",
       "awards": "1 win & 12 nominations total",
       "language": "English",
@@ -27615,7 +27677,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.54,
-      "letterboxd_rating_count": 6959,
+      "letterboxd_rating_count": 6977,
       "letterboxd_url": "https://letterboxd.com/film/behemoth-2026/",
       "awards": "N/A",
       "language": "English",
@@ -33108,7 +33170,7 @@
       "rotten_tomatoes": null,
       "metacritic": "59/100",
       "letterboxd_rating": 3.71,
-      "letterboxd_rating_count": 806492,
+      "letterboxd_rating_count": 809173,
       "letterboxd_url": "https://letterboxd.com/film/clayface/",
       "awards": "N/A",
       "language": "English",
@@ -35544,6 +35606,88 @@
               "tax": 1.39
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148745934,
+          "datetime": "2026-11-19T20:20:00",
+          "datetime_utc": "2026-11-20T02:20:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148745934",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148745931,
+          "datetime": "2026-11-19T22:15:00",
+          "datetime_utc": "2026-11-20T04:15:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148745931",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
         }
       ]
     },
@@ -35579,7 +35723,7 @@
       "rotten_tomatoes": null,
       "metacritic": "84/100",
       "letterboxd_rating": 4.42,
-      "letterboxd_rating_count": 61746,
+      "letterboxd_rating_count": 63364,
       "letterboxd_url": "https://letterboxd.com/film/club-kid/",
       "awards": "2 wins & 6 nominations total",
       "language": "English",
@@ -47216,7 +47360,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.94,
-      "letterboxd_rating_count": 1931,
+      "letterboxd_rating_count": 1967,
       "letterboxd_url": "https://letterboxd.com/film/drummer-boy/",
       "awards": "N/A",
       "language": "N/A",
@@ -49672,6 +49816,86 @@
               "type": "SENIOR",
               "price": 14.73,
               "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148745936,
+          "datetime": "2026-11-19T12:30:00",
+          "datetime_utc": "2026-11-19T18:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148745936",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 12.36,
+              "tax": 1.07
+            },
+            {
+              "type": "CHILD",
+              "price": 9.73,
+              "tax": 0.84
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.05,
+              "tax": 0.96
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148745939,
+          "datetime": "2026-11-19T16:00:00",
+          "datetime_utc": "2026-11-19T22:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148745939",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
             }
           ]
         }
@@ -67791,7 +68015,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.24,
-      "letterboxd_rating_count": 12669,
+      "letterboxd_rating_count": 15628,
       "letterboxd_url": "https://letterboxd.com/film/ebenezer-2026/",
       "awards": "N/A",
       "language": "N/A",
@@ -71527,8 +71751,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 148639010,
-          "datetime": "2026-11-19T21:30:00",
-          "datetime_utc": "2026-11-20T03:30:00Z",
+          "datetime": "2026-11-19T21:40:00",
+          "datetime_utc": "2026-11-20T03:40:00Z",
           "auditorium": 11,
           "screen_width_ft": 35.0,
           "premium_format": "Standard",
@@ -74851,7 +75075,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.24,
-      "letterboxd_rating_count": 12669,
+      "letterboxd_rating_count": 15628,
       "letterboxd_url": "https://letterboxd.com/film/ebenezer-2026/",
       "awards": "N/A",
       "language": "N/A",
@@ -75147,7 +75371,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.86,
-      "letterboxd_rating_count": 7040,
+      "letterboxd_rating_count": 7166,
       "letterboxd_url": "https://letterboxd.com/film/elsinore/",
       "awards": "N/A",
       "language": "English",
@@ -84365,7 +84589,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.18,
-      "letterboxd_rating_count": 3306,
+      "letterboxd_rating_count": 3366,
       "letterboxd_url": "https://letterboxd.com/film/george-michael-the-faith-tour/",
       "awards": "N/A",
       "language": "English",
@@ -88136,6 +88360,86 @@
               "tax": 1.39
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148745938,
+          "datetime": "2026-11-19T13:15:00",
+          "datetime_utc": "2026-11-19T19:15:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148745938",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 12.36,
+              "tax": 1.07
+            },
+            {
+              "type": "CHILD",
+              "price": 9.73,
+              "tax": 0.84
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.05,
+              "tax": 0.96
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148745937,
+          "datetime": "2026-11-19T16:20:00",
+          "datetime_utc": "2026-11-19T22:20:00Z",
+          "auditorium": 11,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148745937",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
         }
       ]
     },
@@ -88413,7 +88717,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.04,
-      "letterboxd_rating_count": 291655,
+      "letterboxd_rating_count": 295587,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -95144,7 +95448,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.12,
-      "letterboxd_rating_count": 11885,
+      "letterboxd_rating_count": 13832,
       "letterboxd_url": "https://letterboxd.com/film/how-to-rob-a-bank-2026/",
       "awards": "N/A",
       "language": "English",
@@ -100854,7 +101158,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.73,
-      "letterboxd_rating_count": 22478,
+      "letterboxd_rating_count": 23411,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -106905,7 +107209,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.81,
-      "letterboxd_rating_count": 2365,
+      "letterboxd_rating_count": 2395,
       "letterboxd_url": "https://letterboxd.com/film/jimmy-2026/",
       "awards": "N/A",
       "language": "English",
@@ -108209,7 +108513,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.05,
-      "letterboxd_rating_count": 10486,
+      "letterboxd_rating_count": 10503,
       "letterboxd_url": "https://letterboxd.com/film/josephine-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -108928,7 +109232,7 @@
       "rotten_tomatoes": null,
       "metacritic": "86/100",
       "letterboxd_rating": 4.46,
-      "letterboxd_rating_count": 322388,
+      "letterboxd_rating_count": 324098,
       "letterboxd_url": "https://letterboxd.com/film/la-bola-negra/",
       "awards": "4 wins & 6 nominations total",
       "language": "Spanish",
@@ -109419,7 +109723,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": "66/100",
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 612292,
+      "letterboxd_rating_count": 612403,
       "letterboxd_url": "https://letterboxd.com/film/moulin-rouge-2001/",
       "awards": "Won 2 Oscars. 89 wins & 133 nominations total",
       "language": "English, French, Spanish",
@@ -109639,7 +109943,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4,
-      "letterboxd_rating_count": 4279,
+      "letterboxd_rating_count": 4411,
       "letterboxd_url": "https://letterboxd.com/film/mouse-2026/",
       "awards": "N/A",
       "language": "N/A",
@@ -109895,18 +110199,18 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 148600481,
-          "datetime": "2026-11-19T16:00:00",
-          "datetime_utc": "2026-11-19T22:00:00Z",
-          "auditorium": 9,
-          "screen_width_ft": 29.8,
+          "datetime": "2026-11-19T15:20:00",
+          "datetime_utc": "2026-11-19T21:20:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 33.3,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148600481",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
           "attributes": [
             "Closed Caption",
             "Audio Description",
@@ -109915,18 +110219,18 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
+              "price": 12.36,
+              "tax": 1.07
             },
             {
               "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
+              "price": 9.73,
+              "tax": 0.84
             },
             {
               "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
+              "price": 11.05,
+              "tax": 0.96
             }
           ]
         }
@@ -110633,7 +110937,7 @@
       "rotten_tomatoes": null,
       "metacritic": "79/100",
       "letterboxd_rating": 3.37,
-      "letterboxd_rating_count": 20266,
+      "letterboxd_rating_count": 20442,
       "letterboxd_url": "https://letterboxd.com/film/paper-tiger-2026/",
       "awards": "1 win & 3 nominations total",
       "language": "English",
@@ -112259,7 +112563,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.58,
-      "letterboxd_rating_count": 46279,
+      "letterboxd_rating_count": 46604,
       "letterboxd_url": "https://letterboxd.com/film/ramayana-rise-of-a-legend/",
       "awards": "N/A",
       "language": "Hindi",
@@ -113461,7 +113765,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.47,
-      "letterboxd_rating_count": 832464,
+      "letterboxd_rating_count": 832602,
       "letterboxd_url": "https://letterboxd.com/film/romeo-juliet-1996/",
       "awards": "Nominated for 1 Oscar. 15 wins & 30 nominations total",
       "language": "English",
@@ -113883,7 +114187,7 @@
       "rotten_tomatoes": "72%",
       "metacritic": "38/100",
       "letterboxd_rating": 3.33,
-      "letterboxd_rating_count": 151406,
+      "letterboxd_rating_count": 151414,
       "letterboxd_url": "https://letterboxd.com/film/scrooged/",
       "awards": "Nominated for 1 Oscar. 1 win & 5 nominations total",
       "language": "English",
@@ -114084,7 +114388,7 @@
       "rotten_tomatoes": null,
       "metacritic": "72/100",
       "letterboxd_rating": 3.97,
-      "letterboxd_rating_count": 287664,
+      "letterboxd_rating_count": 288402,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -114840,7 +115144,7 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "tVU5M2t4WJ",
+          "showtime_id": "2hN4WLnVrU",
           "datetime": "2026-11-22T13:00:00",
           "datetime_utc": "2026-11-22T19:00:00Z",
           "auditorium": null,
@@ -114860,7 +115164,7 @@
           "source": "Sidewalk",
           "theater_id": 0,
           "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "2hN4WLnVrU",
+          "showtime_id": "tVU5M2t4WJ",
           "datetime": "2026-11-22T13:00:00",
           "datetime_utc": "2026-11-22T19:00:00Z",
           "auditorium": null,
@@ -115026,7 +115330,7 @@
       "rotten_tomatoes": "44%",
       "metacritic": "43/100",
       "letterboxd_rating": 2.83,
-      "letterboxd_rating_count": 305676,
+      "letterboxd_rating_count": 305777,
       "letterboxd_url": "https://letterboxd.com/film/the-angry-birds-movie/",
       "awards": "3 wins & 8 nominations total",
       "language": "English",
@@ -115687,7 +115991,7 @@
       "rotten_tomatoes": null,
       "metacritic": "47/100",
       "letterboxd_rating": 3.1,
-      "letterboxd_rating_count": 13636,
+      "letterboxd_rating_count": 13845,
       "letterboxd_url": "https://letterboxd.com/film/the-cat-in-the-hat-2026/",
       "awards": "N/A",
       "language": "English",
@@ -118677,8 +118981,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 147803859,
-          "datetime": "2026-11-19T13:45:00",
-          "datetime_utc": "2026-11-19T19:45:00Z",
+          "datetime": "2026-11-19T13:40:00",
+          "datetime_utc": "2026-11-19T19:40:00Z",
           "auditorium": 1,
           "screen_width_ft": 29.8,
           "premium_format": "Standard",
@@ -118757,8 +119061,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 147803948,
-          "datetime": "2026-11-19T18:30:00",
-          "datetime_utc": "2026-11-20T00:30:00Z",
+          "datetime": "2026-11-19T18:45:00",
+          "datetime_utc": "2026-11-20T00:45:00Z",
           "auditorium": 11,
           "screen_width_ft": 35.0,
           "premium_format": "Standard",
@@ -118831,7 +119135,7 @@
       "rotten_tomatoes": null,
       "metacritic": "47/100",
       "letterboxd_rating": 3.1,
-      "letterboxd_rating_count": 13636,
+      "letterboxd_rating_count": 13845,
       "letterboxd_url": "https://letterboxd.com/film/the-cat-in-the-hat-2026/",
       "awards": "N/A",
       "language": "English",
@@ -132846,7 +133150,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 165834,
+      "letterboxd_rating_count": 165859,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -133075,7 +133379,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.45,
-      "letterboxd_rating_count": 41494,
+      "letterboxd_rating_count": 41697,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -133624,7 +133928,7 @@
       "rotten_tomatoes": "55%",
       "metacritic": "61/100",
       "letterboxd_rating": 3.34,
-      "letterboxd_rating_count": 976009,
+      "letterboxd_rating_count": 976163,
       "letterboxd_url": "https://letterboxd.com/film/the-polar-express/",
       "awards": "Nominated for 3 Oscars. 5 wins & 26 nominations total",
       "language": "English",
@@ -133957,7 +134261,7 @@
       "rotten_tomatoes": "31%",
       "metacritic": null,
       "letterboxd_rating": 2.63,
-      "letterboxd_rating_count": 514538,
+      "letterboxd_rating_count": 515434,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -134494,7 +134798,7 @@
       "rotten_tomatoes": null,
       "metacritic": "52/100",
       "letterboxd_rating": 3.11,
-      "letterboxd_rating_count": 5799,
+      "letterboxd_rating_count": 6342,
       "letterboxd_url": "https://letterboxd.com/film/victorian-psycho/",
       "awards": "2 nominations total",
       "language": "English",
@@ -136701,6 +137005,88 @@
               "type": "SENIOR",
               "price": 14.73,
               "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148745932,
+          "datetime": "2026-11-19T19:40:00",
+          "datetime_utc": "2026-11-20T01:40:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148745932",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148745940,
+          "datetime": "2026-11-19T22:00:00",
+          "datetime_utc": "2026-11-20T04:00:00Z",
+          "auditorium": 13,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148745940",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
             }
           ]
         }
@@ -142286,7 +142672,7 @@
       "rotten_tomatoes": null,
       "metacritic": "70/100",
       "letterboxd_rating": 3.65,
-      "letterboxd_rating_count": 199421,
+      "letterboxd_rating_count": 200545,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "2 wins & 1 nomination total",
       "language": "English",
@@ -143350,7 +143736,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.15,
-      "letterboxd_rating_count": 183467,
+      "letterboxd_rating_count": 188107,
       "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
       "awards": "N/A",
       "language": "English",
@@ -146272,6 +146658,86 @@
               "tax": 1.39
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148745933,
+          "datetime": "2026-11-19T13:50:00",
+          "datetime_utc": "2026-11-19T19:50:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148745933",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 12.36,
+              "tax": 1.07
+            },
+            {
+              "type": "CHILD",
+              "price": 9.73,
+              "tax": 0.84
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.05,
+              "tax": 0.96
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148745935,
+          "datetime": "2026-11-19T17:00:00",
+          "datetime_utc": "2026-11-19T23:00:00Z",
+          "auditorium": 5,
+          "screen_width_ft": 38.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148745935",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
         }
       ]
     },
@@ -146309,7 +146775,7 @@
       "rotten_tomatoes": null,
       "metacritic": "88/100",
       "letterboxd_rating": 4.39,
-      "letterboxd_rating_count": 526646,
+      "letterboxd_rating_count": 529654,
       "letterboxd_url": "https://letterboxd.com/film/wildwood-2026/",
       "awards": "1 win total",
       "language": "English",
@@ -148279,7 +148745,7 @@
       "rotten_tomatoes": null,
       "metacritic": "98/100",
       "letterboxd_rating": 4.58,
-      "letterboxd_rating_count": 781885,
+      "letterboxd_rating_count": 784936,
       "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
       "awards": "N/A",
       "language": "English",
@@ -152511,7 +152977,8 @@
       "release_date": "2026-12-25",
       "runtime": 120,
       "genres": [
-        "Horror"
+        "Horror",
+        "Fantasy"
       ],
       "plot": "A harrowing tale of devotion, damnation and the devil within.",
       "poster": "https://image.tmdb.org/t/p/w342/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg",
