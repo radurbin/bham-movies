@@ -747,11 +747,6 @@
     "Error": "Movie not found!",
     "_fetched_at": 1794484680.378459
   },
-  "southern circuit:  who's the we (with filmmaker q&a": {
-    "Response": "False",
-    "Error": "Movie not found!",
-    "_fetched_at": 1794484682.4262745
-  },
   "ramayana (2026)": {
     "Title": "Ramayana",
     "Year": "2026",
@@ -1057,16 +1052,6 @@
     "Response": "True",
     "_fetched_at": 1794606196.6469438
   },
-  "dune: part one & dune: part two double feature (2026)": {
-    "Response": "False",
-    "Error": "Movie not found!",
-    "_fetched_at": 1794484665.7168617
-  },
-  "dune: part one & dune: part two double feature": {
-    "Response": "False",
-    "Error": "Movie not found!",
-    "_fetched_at": 1794484666.0528657
-  },
   "dune: part one reissue (2026)": {
     "Response": "False",
     "Error": "Movie not found!",
@@ -1312,7 +1297,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536324.675133
+    "_fetched_at": 1794654145.2428098
   },
   "scene": {
     "Title": "CSI: Crime Scene Investigation",
@@ -1380,7 +1365,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536323.2852776
+    "_fetched_at": 1794654144.5735598
   },
   "victorian psycho (2026)": {
     "Title": "Victorian Psycho",
@@ -1417,7 +1402,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536326.2162201
+    "_fetched_at": 1794654145.9027038
   },
   "elsinore (2026)": {
     "Title": "Elsinore",
@@ -1445,7 +1430,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536321.7559078
+    "_fetched_at": 1794654143.2438073
   },
   "focker in-law (2026)": {
     "Title": "Focker-In-Law",
@@ -1473,7 +1458,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536322.509617
+    "_fetched_at": 1794654143.90442
   },
   "the hunger games: sunrise on the reaping (2026)": {
     "Title": "The Hunger Games: Sunrise on the Reaping",
@@ -1501,7 +1486,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536325.47729
+    "_fetched_at": 1794654145.5762758
   },
   "andre rieu's 2026 christmas concert: let it snow! (2026)": {
     "Title": "Andr\u00e9 Rieu's 2026 Christmas Concert: Let It Snow",
@@ -1635,7 +1620,7 @@
     "Type": "series",
     "totalSeasons": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536321.3908398
+    "_fetched_at": 1794654142.9090974
   },
   "gremlins (2026)": {
     "Title": "Gremlins (The Rough Cut)",
@@ -1663,7 +1648,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536322.9535825
+    "_fetched_at": 1794654144.2453222
   },
   "love actually (hfs26 (2026)": {
     "Response": "False",
@@ -1678,30 +1663,39 @@
   "mouse (2026)": {
     "Title": "Mouse",
     "Year": "2026",
-    "Rated": "N/A",
-    "Released": "N/A",
-    "Runtime": "N/A",
-    "Genre": "N/A",
-    "Director": "N/A",
-    "Writer": "N/A",
-    "Actors": "Addisyn Grace Cain, Philip McDermott Young, Sophie Okonedo",
+    "Rated": "R",
+    "Released": "13 Nov 2026",
+    "Runtime": "120 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Kelly O&apos;Sullivan, Alex Thompson",
+    "Writer": "Kelly O&apos;Sullivan",
+    "Actors": "Sophie Okonedo, Katherine Mallen Kupferer, Chloe Coleman",
     "Plot": "In 2002, best friends Minnie and Callie's relationship is upended on the eve of their senior year.",
-    "Language": "N/A",
+    "Language": "English",
     "Country": "United States",
-    "Awards": "N/A",
-    "Poster": "N/A",
-    "Ratings": [],
-    "Metascore": "N/A",
-    "imdbRating": "N/A",
-    "imdbVotes": "N/A",
+    "Awards": "5 wins & 5 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzVjNzY1ZDAtZjk5NS00OTRjLTkzYjktZjk3NDMyZmRlNmNjXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "88/100"
+      }
+    ],
+    "Metascore": "88",
+    "imdbRating": "8.0",
+    "imdbVotes": "295",
     "imdbID": "tt13652154",
     "Type": "movie",
     "DVD": "N/A",
-    "BoxOffice": "N/A",
+    "BoxOffice": "$41,826",
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536324.2782469
+    "_fetched_at": 1794654144.9031167
   },
   "scrooged (2026)": {
     "Response": "False",
@@ -1821,7 +1815,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536320.3827784
+    "_fetched_at": 1794654142.576121
   },
   "behemoth! (2026)": {
     "Title": "Behemoth!",
@@ -1849,7 +1843,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536318.7339785
+    "_fetched_at": 1794654142.2488968
   },
   "tapesgiving (free!": {
     "Response": "False",
@@ -1987,7 +1981,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794536322.0824492
+    "_fetched_at": 1794654143.5729375
   },
   "end of the century: the story of the ramones (2026)": {
     "Response": "False",
