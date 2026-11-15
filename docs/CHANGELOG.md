@@ -1,3 +1,11 @@
+## 2026-11-14 07:25 PM CST
+
+**Showtime changes:**
+- Godzilla Minus Zero
+  - − Sidewalk Film Center + Cinema @ 2026-11-14T10:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Sidewalk Film Center + Cinema @ 2026-11-14T10:30:00 (Standard)
+
 ## 2026-11-14 02:13 PM CST
 
 No changes.
