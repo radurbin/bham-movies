@@ -1,3 +1,9 @@
+## 2026-11-15 02:39 PM CST
+
+**Showtime changes:**
+- Godzilla Minus Zero
+  - − Sidewalk Film Center + Cinema @ 2026-11-14T22:00:00 (Standard)
+
 ## 2026-11-15 05:37 AM CST
 
 **Movies removed:**

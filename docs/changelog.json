@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-10-17 01:01 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-10-17 06:36 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -51756,6 +51750,24 @@
           {
             "theater": "AMC Summit 16",
             "datetime": "2026-11-14T22:20:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-11-15 02:39 PM CST",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Godzilla Minus Zero",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-14T22:00:00",
             "format": "Standard"
           }
         ]
