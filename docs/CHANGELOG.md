@@ -1,3 +1,127 @@
+## 2026-11-16 05:54 PM CST
+
+**Movies added:**
+- Bitter Christmas
+- God with Us
+- The Holiday - 20th Anniversary
+
+**Showtime changes:**
+- ENE Repeat
+  - + AMC Patton Creek 15 @ 2026-11-18T19:10:00 (Standard)
+- Ramayana
+  - + AMC Patton Creek 15 @ 2026-11-19T20:00:00 (Standard)
+- Josephine
+  - + Sidewalk Film Center + Cinema @ 2026-12-11T19:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-11T21:45:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-12T16:45:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-12T19:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-12T22:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-13T14:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-16T14:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-17T16:15:00 (Standard)
+- How to Rob a Bank
+  - + AMC Patton Creek 15 @ 2026-11-19T16:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T22:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T16:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T19:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T22:20:00 (Standard)
+- The Cat in the Hat
+  - + AMC Patton Creek 15 @ 2026-11-19T19:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T22:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T18:45:00 (Standard)
+- You Can See Everything
+  - + AMC Patton Creek 15 @ 2026-11-19T12:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-18T19:20:00 (Standard)
+- Ebenezer
+  - + AMC Patton Creek 15 @ 2026-11-19T22:30:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T21:40:00 (Standard)
+- Paper Tiger
+  - + Sidewalk Film Center + Cinema @ 2026-11-24T19:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-25T14:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-25T16:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-25T19:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-27T13:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-27T15:45:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-27T18:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-27T21:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-29T10:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-29T13:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-29T15:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-29T18:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-02T14:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-02T16:45:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-02T19:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-03T14:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-03T16:45:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-03T19:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-03T21:45:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-04T14:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-04T17:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-04T19:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-05T10:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-05T12:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-05T15:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-05T17:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-05T20:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-06T10:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-06T12:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-06T15:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-06T17:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-06T20:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-09T14:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-09T16:45:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-09T19:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-10T14:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-10T16:45:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-10T19:15:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-10T21:45:00 (Standard)
+- Dune: Part Three
+  - + AMC Patton Creek 15 @ 2026-12-24T22:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-31T21:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-24T22:15:00 (Standard)
+- Disney's Hexed
+  - − AMC Patton Creek 15 @ 2026-11-24T16:50:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-11-24T19:00:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-24T21:30:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC Patton Creek 15 @ 2026-11-19T20:30:00 (Standard)
+- Ghost Soldier
+  - + AMC Patton Creek 15 @ 2026-11-19T13:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T16:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T19:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T13:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T16:20:00 (Standard)
+- JIMMY
+  - + AMC Patton Creek 15 @ 2026-11-19T12:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-19T16:00:00 (Standard)
+- Wild Horse Nine
+  - + AMC Patton Creek 15 @ 2026-11-19T19:05:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T17:00:00 (Standard)
+- Fatherland
+  - + Sidewalk Film Center + Cinema @ 2026-11-27T13:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-27T15:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-27T17:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-27T21:45:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-29T10:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-29T12:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-29T14:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-11-29T16:00:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-02T14:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-02T16:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-03T14:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-03T16:30:00 (Standard)
+  - + Sidewalk Film Center + Cinema @ 2026-12-03T21:30:00 (Standard)
+- Avengers: Doomsday
+  - + AMC Patton Creek 15 @ 2026-12-24T21:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-31T21:30:00 (Standard)
+- Clayface
+  - + AMC Patton Creek 15 @ 2026-11-19T22:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T22:15:00 (Standard)
+- Victorian Psycho
+  - + AMC Patton Creek 15 @ 2026-11-19T12:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T19:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-19T22:00:00 (Standard)
+
 ## 2026-11-16 06:10 AM CST
 
 **Movies removed:**

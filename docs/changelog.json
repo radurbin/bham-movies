@@ -1,39 +1,5 @@
 [
   {
-    "date": "2026-10-18 08:40 AM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Ken Russell's The Devils (1971): Director's Cut",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Sidewalk Film Center + Cinema",
-            "datetime": "2026-10-17T20:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Sidewalk Film Center + Cinema",
-            "datetime": "2026-10-17T22:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "American Doctor",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Sidewalk Film Center + Cinema",
-            "datetime": "2026-10-17T22:00:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-18 01:21 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -51496,6 +51462,619 @@
           {
             "theater": "AMC Summit 16",
             "datetime": "2026-11-15T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-11-16 05:54 PM CST",
+    "movies_added": [
+      "Bitter Christmas",
+      "God with Us",
+      "The Holiday - 20th Anniversary"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "ENE Repeat",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-18T19:10:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Ramayana",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T20:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Josephine",
+        "added": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-11T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-11T21:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-12T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-12T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-12T22:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-13T14:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-16T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-17T16:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "How to Rob a Bank",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T16:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T22:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T16:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T22:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Cat in the Hat",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T22:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "You Can See Everything",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T12:10:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-18T19:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Ebenezer",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T22:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T21:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Paper Tiger",
+        "added": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-24T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-25T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-25T16:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-25T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-27T13:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-27T15:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-27T18:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-27T21:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-29T10:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-29T13:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-29T15:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-29T18:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-02T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-02T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-02T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-03T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-03T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-03T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-03T21:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-04T14:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-04T17:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-04T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-05T10:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-05T12:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-05T15:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-05T17:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-05T20:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-06T10:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-06T12:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-06T15:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-06T17:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-06T20:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-09T14:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-09T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-09T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-10T14:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-10T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-10T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-10T21:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Dune: Part Three",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-12-24T22:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-12-31T21:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-12-24T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Disney's Hexed",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-24T16:50:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-24T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-24T21:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T20:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Ghost Soldier",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T13:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T19:40:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T13:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T16:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "JIMMY",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T12:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T16:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Wild Horse Nine",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T19:05:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T17:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Fatherland",
+        "added": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-27T13:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-27T15:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-27T17:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-27T21:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-29T10:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-29T12:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-29T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-29T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-02T14:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-02T16:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-03T14:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-03T16:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-12-03T21:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Avengers: Doomsday",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-12-24T21:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-12-31T21:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Clayface",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T22:20:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Victorian Psycho",
+        "added": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T12:40:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T19:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Patton Creek 15",
+            "datetime": "2026-11-19T22:00:00",
             "format": "Standard"
           }
         ]
