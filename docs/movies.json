@@ -1,244 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-11-18T06:24:48.932980-06:00",
-    "movie_count": 91,
-    "showtime_count": 3819,
+    "generated_at": "2026-11-18T16:45:52.479705-06:00",
+    "movie_count": 97,
+    "showtime_count": 3844,
     "theaters": {
-      "AMC Summit 16": 1488,
-      "AMC Patton Creek 15": 1410,
-      "Sidewalk Film Center + Cinema": 137,
+      "Sidewalk Film Center + Cinema": 161,
+      "AMC Summit 16": 1492,
+      "AMC Patton Creek 15": 1407,
       "AMC Vestavia Hills 10": 784
     }
   },
   "movies": [
-    {
-      "sort_index": "a beautiful mind 25th anniversary",
-      "source": "AMC",
-      "movie_id": 82780,
-      "title": "A Beautiful Mind 25th Anniversary",
-      "release_year": 2026,
-      "runtime": 140,
-      "rating": "PG13",
-      "genres": [
-        "DRAMA"
-      ],
-      "poster": "posters/a-beautiful-mind-25th-anniversary-2026.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "A mathematical genius, John Forbes Nash, Jr. made an astonishing discovery early in life and stood on the brink of international acclaim. But his prodigious career was sidetracked by problems that would have broken many men. Nash, however, fought back. He had always been driven by his quest for one truly original idea and never lost sight of that dream. After many years of struggle, he triumphed over tragedy and literally changed the world. The film is inspired by events in the life of John Forbes Nash, Jr., and in part based on the biography A Beautiful Mind, by Sylvia Nasar.\n\nThis special 25th anniversary release includes exclusive insight from Leonard Maltin.",
-      "directors": [
-        "Ron Howard"
-      ],
-      "writers": [
-        "Akiva Goldsman",
-        "Sylvia Nasar"
-      ],
-      "actors": [
-        "Ed Harris",
-        "Jennifer Connelly",
-        "Russell Crowe"
-      ],
-      "imdb_id": "tt0268978",
-      "imdb_rating": "8.2",
-      "imdb_votes": "1,065,553",
-      "rotten_tomatoes": "74%",
-      "metacritic": "72/100",
-      "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 698449,
-      "letterboxd_url": "https://letterboxd.com/film/a-beautiful-mind/",
-      "awards": "Won 4 Oscars. 37 wins & 69 nominations total",
-      "language": "English",
-      "country": "United States",
-      "box_office": "$170,742,341",
-      "website": null,
-      "movie_url": "https://www.amctheatres.com/movies/a-beautiful-mind-25th-anniversary-82780",
-      "trailer_url": null,
-      "predictions": [],
-      "showtimes": [
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 140486146,
-          "datetime": "2026-11-22T15:00:00",
-          "datetime_utc": "2026-11-22T21:00:00Z",
-          "auditorium": 3,
-          "screen_width_ft": 20.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-22/summit/all/140486146",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Alternative Content",
-            "Closed Caption",
-            "Event",
-            "Excluded from A-List",
-            "No Passes",
-            "No Trailers",
-            "NoTrailers",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 19.8,
-              "tax": 1.8
-            },
-            {
-              "type": "CHILD",
-              "price": 19.8,
-              "tax": 1.8
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.8,
-              "tax": 1.8
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 140486179,
-          "datetime": "2026-11-22T15:00:00",
-          "datetime_utc": "2026-11-22T21:00:00Z",
-          "auditorium": 1,
-          "screen_width_ft": 29.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-22/pattoncreek/all/140486179",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Alternative Content",
-            "Closed Caption",
-            "Event",
-            "Excluded from A-List",
-            "No Passes",
-            "No Trailers",
-            "NoTrailers",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "CHILD",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "SENIOR",
-              "price": 16.43,
-              "tax": 1.43
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4101,
-          "theater": "AMC Summit 16",
-          "showtime_id": 140486147,
-          "datetime": "2026-11-23T19:00:00",
-          "datetime_utc": "2026-11-24T01:00:00Z",
-          "auditorium": 13,
-          "screen_width_ft": 17.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-23/summit/all/140486147",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Alternative Content",
-            "Closed Caption",
-            "Event",
-            "Excluded from A-List",
-            "No Passes",
-            "No Trailers",
-            "NoTrailers",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 19.8,
-              "tax": 1.8
-            },
-            {
-              "type": "CHILD",
-              "price": 19.8,
-              "tax": 1.8
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.8,
-              "tax": 1.8
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 140486180,
-          "datetime": "2026-11-23T19:00:00",
-          "datetime_utc": "2026-11-24T01:00:00Z",
-          "auditorium": 2,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-23/pattoncreek/all/140486180",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Alternative Content",
-            "Closed Caption",
-            "Event",
-            "Excluded from A-List",
-            "No Passes",
-            "No Trailers",
-            "NoTrailers",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "CHILD",
-              "price": 16.43,
-              "tax": 1.43
-            },
-            {
-              "type": "SENIOR",
-              "price": 16.43,
-              "tax": 1.43
-            }
-          ]
-        }
-      ]
-    },
     {
       "sort_index": "adam's apple with post-screening pre-recorded q&a (free!)",
       "source": "Sidewalk",
@@ -28271,7 +28043,7 @@
       "rotten_tomatoes": "78%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.19,
-      "letterboxd_rating_count": 131387,
+      "letterboxd_rating_count": 131414,
       "letterboxd_url": "https://letterboxd.com/film/bad-santa/",
       "awards": "1 win & 12 nominations total",
       "language": "English",
@@ -28287,8 +28059,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 148416770,
-          "datetime": "2026-12-04T16:40:00",
-          "datetime_utc": "2026-12-04T22:40:00Z",
+          "datetime": "2026-12-04T16:45:00",
+          "datetime_utc": "2026-12-04T22:45:00Z",
           "auditorium": 1,
           "screen_width_ft": 29.8,
           "premium_format": "Standard",
@@ -28360,84 +28132,6 @@
               "tax": 0.64
             }
           ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416775,
-          "datetime": "2026-12-21T16:20:00",
-          "datetime_utc": "2026-12-21T22:20:00Z",
-          "auditorium": 2,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/pattoncreek/all/148416775",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416803,
-          "datetime": "2026-12-31T16:20:00",
-          "datetime_utc": "2026-12-31T22:20:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-31/pattoncreek/all/148416803",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
         }
       ]
     },
@@ -28473,7 +28167,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.54,
-      "letterboxd_rating_count": 7320,
+      "letterboxd_rating_count": 7412,
       "letterboxd_url": "https://letterboxd.com/film/behemoth-2026/",
       "awards": "N/A",
       "language": "English",
@@ -33549,7 +33243,7 @@
       "rotten_tomatoes": "87%",
       "metacritic": "69/100",
       "letterboxd_rating": 3.15,
-      "letterboxd_rating_count": 68165,
+      "letterboxd_rating_count": 68323,
       "letterboxd_url": "https://letterboxd.com/film/bitter-christmas/",
       "awards": "3 nominations total",
       "language": "Spanish",
@@ -34066,7 +33760,7 @@
       "rotten_tomatoes": null,
       "metacritic": "59/100",
       "letterboxd_rating": 3.71,
-      "letterboxd_rating_count": 854868,
+      "letterboxd_rating_count": 857917,
       "letterboxd_url": "https://letterboxd.com/film/clayface/",
       "awards": "N/A",
       "language": "English",
@@ -36073,7 +35767,7 @@
       "rotten_tomatoes": null,
       "metacritic": "84/100",
       "letterboxd_rating": 4.44,
-      "letterboxd_rating_count": 91120,
+      "letterboxd_rating_count": 93554,
       "letterboxd_url": "https://letterboxd.com/film/club-kid/",
       "awards": "2 wins & 6 nominations total",
       "language": "English",
@@ -46662,46 +46356,6 @@
               "tax": 1.34
             }
           ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148639001,
-          "datetime": "2026-11-18T19:45:00",
-          "datetime_utc": "2026-11-19T01:45:00Z",
-          "auditorium": 11,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-18/pattoncreek/all/148639001",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "International Films",
-            "Reserved Seating",
-            "Telugu Spoken with English Subtitles"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 15.54,
-              "tax": 1.35
-            },
-            {
-              "type": "CHILD",
-              "price": 12.25,
-              "tax": 1.06
-            },
-            {
-              "type": "SENIOR",
-              "price": 13.9,
-              "tax": 1.21
-            }
-          ]
         }
       ]
     },
@@ -46819,88 +46473,6 @@
               "tax": 0.64
             }
           ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416795,
-          "datetime": "2026-12-19T16:15:00",
-          "datetime_utc": "2026-12-19T22:15:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-19/pattoncreek/all/148416795",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416798,
-          "datetime": "2026-12-25T16:15:00",
-          "datetime_utc": "2026-12-25T22:15:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/pattoncreek/all/148416798",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
         }
       ]
     },
@@ -46936,7 +46508,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.9,
-      "letterboxd_rating_count": 2584,
+      "letterboxd_rating_count": 2611,
       "letterboxd_url": "https://letterboxd.com/film/drummer-boy/",
       "awards": "N/A",
       "language": "N/A",
@@ -66824,8 +66396,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.26,
-      "letterboxd_rating_count": 62151,
+      "letterboxd_rating": 3.25,
+      "letterboxd_rating_count": 66049,
       "letterboxd_url": "https://letterboxd.com/film/ebenezer-2026/",
       "awards": "N/A",
       "language": "N/A",
@@ -74658,8 +74230,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.26,
-      "letterboxd_rating_count": 62151,
+      "letterboxd_rating": 3.25,
+      "letterboxd_rating_count": 66049,
       "letterboxd_url": "https://letterboxd.com/film/ebenezer-2026/",
       "awards": "N/A",
       "language": "N/A",
@@ -74761,8 +74333,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 148416768,
-          "datetime": "2026-12-08T16:40:00",
-          "datetime_utc": "2026-12-08T22:40:00Z",
+          "datetime": "2026-12-08T16:45:00",
+          "datetime_utc": "2026-12-08T22:45:00Z",
           "auditorium": 1,
           "screen_width_ft": 29.8,
           "premium_format": "Standard",
@@ -74838,88 +74410,6 @@
               "tax": 0.64
             }
           ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416776,
-          "datetime": "2026-12-23T16:15:00",
-          "datetime_utc": "2026-12-23T22:15:00Z",
-          "auditorium": 2,
-          "screen_width_ft": 35.0,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/pattoncreek/all/148416776",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416799,
-          "datetime": "2026-12-26T16:15:00",
-          "datetime_utc": "2026-12-26T22:15:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/pattoncreek/all/148416799",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
         }
       ]
     },
@@ -74955,7 +74445,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.86,
-      "letterboxd_rating_count": 7941,
+      "letterboxd_rating_count": 7974,
       "letterboxd_url": "https://letterboxd.com/film/elsinore/",
       "awards": "N/A",
       "language": "English",
@@ -77504,9 +76994,9 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
+      "letterboxd_rating": 3.58,
+      "letterboxd_rating_count": 916,
+      "letterboxd_url": "https://letterboxd.com/film/ene-repeat/",
       "awards": "N/A",
       "language": "N/A",
       "country": "India",
@@ -77594,6 +77084,46 @@
               "type": "SENIOR",
               "price": 14.73,
               "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148945703,
+          "datetime": "2026-11-18T20:00:00",
+          "datetime_utc": "2026-11-19T02:00:00Z",
+          "auditorium": 11,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-18/pattoncreek/all/148945703",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Reserved Seating",
+            "Telugu Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
             }
           ]
         },
@@ -84876,7 +84406,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.18,
-      "letterboxd_rating_count": 4436,
+      "letterboxd_rating_count": 4509,
       "letterboxd_url": "https://letterboxd.com/film/george-michael-the-faith-tour/",
       "awards": "N/A",
       "language": "English",
@@ -88216,7 +87746,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4,
-      "letterboxd_rating_count": 367965,
+      "letterboxd_rating_count": 372201,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -90909,8 +90439,8 @@
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 148416767,
-          "datetime": "2026-12-07T16:40:00",
-          "datetime_utc": "2026-12-07T22:40:00Z",
+          "datetime": "2026-12-07T16:45:00",
+          "datetime_utc": "2026-12-07T22:45:00Z",
           "auditorium": 1,
           "screen_width_ft": 29.8,
           "premium_format": "Standard",
@@ -90955,86 +90485,6 @@
           "screen_width_ft": 29.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-12/pattoncreek/all/148416832",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416797,
-          "datetime": "2026-12-24T16:15:00",
-          "datetime_utc": "2026-12-24T22:15:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/pattoncreek/all/148416797",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416801,
-          "datetime": "2026-12-29T16:15:00",
-          "datetime_utc": "2026-12-29T22:15:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/pattoncreek/all/148416801",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -91327,7 +90777,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.82,
-      "letterboxd_rating_count": 637,
+      "letterboxd_rating_count": 651,
       "letterboxd_url": "https://letterboxd.com/film/hershey/",
       "awards": "N/A",
       "language": "English",
@@ -94828,8 +94278,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.09,
-      "letterboxd_rating_count": 44846,
+      "letterboxd_rating": 3.08,
+      "letterboxd_rating_count": 46664,
       "letterboxd_url": "https://letterboxd.com/film/how-to-rob-a-bank-2026/",
       "awards": "N/A",
       "language": "English",
@@ -97999,7 +97449,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 40606,
+      "letterboxd_rating_count": 41715,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -106320,7 +105770,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.79,
-      "letterboxd_rating_count": 2921,
+      "letterboxd_rating_count": 2943,
       "letterboxd_url": "https://letterboxd.com/film/jimmy-2026/",
       "awards": "N/A",
       "language": "English",
@@ -106991,7 +106441,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.04,
-      "letterboxd_rating_count": 11466,
+      "letterboxd_rating_count": 11568,
       "letterboxd_url": "https://letterboxd.com/film/josephine-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -107870,7 +107320,7 @@
       "rotten_tomatoes": null,
       "metacritic": "86/100",
       "letterboxd_rating": 4.46,
-      "letterboxd_rating_count": 352316,
+      "letterboxd_rating_count": 354334,
       "letterboxd_url": "https://letterboxd.com/film/la-bola-negra/",
       "awards": "4 wins & 6 nominations total",
       "language": "Spanish",
@@ -108038,88 +107488,6 @@
               "tax": 0.64
             }
           ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416794,
-          "datetime": "2026-12-22T16:15:00",
-          "datetime_utc": "2026-12-22T22:15:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/pattoncreek/all/148416794",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416800,
-          "datetime": "2026-12-28T16:20:00",
-          "datetime_utc": "2026-12-28T22:20:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/pattoncreek/all/148416800",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
         }
       ]
     },
@@ -108156,7 +107524,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": "66/100",
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 614208,
+      "letterboxd_rating_count": 614366,
       "letterboxd_url": "https://letterboxd.com/film/moulin-rouge-2001/",
       "awards": "Won 2 Oscars. 89 wins & 133 nominations total",
       "language": "English, French, Spanish",
@@ -108382,7 +107750,7 @@
       "rotten_tomatoes": null,
       "metacritic": "88/100",
       "letterboxd_rating": 4.04,
-      "letterboxd_rating_count": 6263,
+      "letterboxd_rating_count": 6343,
       "letterboxd_url": "https://letterboxd.com/film/mouse-2026/",
       "awards": "5 wins & 5 nominations total",
       "language": "English",
@@ -108472,6 +107840,670 @@
               "tax": 0.96
             }
           ]
+        }
+      ]
+    },
+    {
+      "sort_index": "muppet holiday series: muppet treasure island (1996)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Muppet Holiday Series: Muppet Treasure Island (1996)",
+      "release_year": 1996,
+      "runtime": 100,
+      "rating": "G",
+      "genres": [],
+      "poster": "posters/muppet-holiday-series-muppet-treasure-island-1996-1996.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "A reworking of Robert Louis Stevenson's classic tale in which The Muppets take to the high seas in search of buried treasure. Young Jim Hawkins is given a treasure map by a mysterious sailor and sets sail with his friends the Great Gonzo and Rizzo the Rat. Among the crew is the mutinous sea dog Long John Silver (the late great Tim Curry), who has his own plans for the loot.",
+      "directors": [
+        "Brian Henson"
+      ],
+      "writers": [],
+      "actors": [
+        "Tim Curry",
+        "Kevin Bishop",
+        "Billy Connolly",
+        "Jennifer Saunders",
+        "Dave Goelz",
+        "Steve Whitmire"
+      ],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.sidewalkfest.com/events/MuppetTreasureIsland",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "AlB7rtgSHW",
+          "datetime": "2026-12-18T14:00:00",
+          "datetime_utc": "2026-12-18T20:00:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/MuppetTreasureIsland",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "t5OKcXlVNZ",
+          "datetime": "2026-12-19T12:30:00",
+          "datetime_utc": "2026-12-19T18:30:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/MuppetTreasureIsland",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "1fBD7BSS3L",
+          "datetime": "2026-12-20T21:15:00",
+          "datetime_utc": "2026-12-21T03:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/MuppetTreasureIsland",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "xPoKbOH0RG",
+          "datetime": "2026-12-21T16:00:00",
+          "datetime_utc": "2026-12-21T22:00:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/MuppetTreasureIsland",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "A2RYHa8XUs",
+          "datetime": "2026-12-22T14:00:00",
+          "datetime_utc": "2026-12-22T20:00:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/MuppetTreasureIsland",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "hAVUubKK2f",
+          "datetime": "2026-12-23T17:00:00",
+          "datetime_utc": "2026-12-23T23:00:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/MuppetTreasureIsland",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "muppet holiday series: the great muppet caper (1981)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Muppet Holiday Series: The Great Muppet Caper (1981)",
+      "release_year": 1981,
+      "runtime": 97,
+      "rating": "G",
+      "genres": [],
+      "poster": "posters/muppet-holiday-series-the-great-muppet-caper-1981-1981.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "In the second live-action Muppets film, intrepid journalists Kermit, Fozzie and Gonzo snag an assignment reporting on a British jewel heist. Arriving in England, the trio settles in at the raucous Happiness Hotel and seeks out socialite Lady Holiday, the victim of the theft. Soon Miss Piggy appears, intending to work for Lady Holiday, but she ends up being framed by the aristocrat's scheming brother, Nicky. Kermit and company work to clear Piggy's name.",
+      "directors": [
+        "Jim Henson"
+      ],
+      "writers": [
+        "Jerry Juhl",
+        "Jay Tarses",
+        "Tom Patchett",
+        "Jack Rose"
+      ],
+      "actors": [
+        "Jim Henson",
+        "Frank Oz",
+        "Dave Goelz",
+        "Jerry Nelson",
+        "Richard Hunt",
+        "Charles Grodin"
+      ],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.sidewalkfest.com/events/TheGreatMuppetCaper",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "niJsn3aLft",
+          "datetime": "2026-12-11T16:30:00",
+          "datetime_utc": "2026-12-11T22:30:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheGreatMuppetCaper",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "3lhxS2MZeQ",
+          "datetime": "2026-12-12T12:15:00",
+          "datetime_utc": "2026-12-12T18:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheGreatMuppetCaper",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "iKaIwrgN1N",
+          "datetime": "2026-12-13T12:15:00",
+          "datetime_utc": "2026-12-13T18:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheGreatMuppetCaper",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "AOtjiCDMe6",
+          "datetime": "2026-12-13T17:15:00",
+          "datetime_utc": "2026-12-13T23:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheGreatMuppetCaper",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "lkEM1csqDV",
+          "datetime": "2026-12-16T21:15:00",
+          "datetime_utc": "2026-12-17T03:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheGreatMuppetCaper",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "TRHflX57am",
+          "datetime": "2026-12-17T14:00:00",
+          "datetime_utc": "2026-12-17T20:00:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheGreatMuppetCaper",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "muppet holiday series: the muppet christmas carol (1992)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Muppet Holiday Series: The Muppet Christmas Carol (1992)",
+      "release_year": 1992,
+      "runtime": 86,
+      "rating": "G",
+      "genres": [],
+      "poster": "posters/muppet-holiday-series-the-muppet-christmas-carol-1992-1992.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
+      "directors": [
+        "Brian Henson"
+      ],
+      "writers": [],
+      "actors": [
+        "Michael Caine",
+        "Dave Goelz",
+        "Steve Whitmire",
+        "Jerry Nelson",
+        "Frank Oz",
+        "David Rudman"
+      ],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.sidewalkfest.com/events/TheMuppetChristmasCarol2026",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "aKIt94Zeyk",
+          "datetime": "2026-12-18T16:15:00",
+          "datetime_utc": "2026-12-18T22:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetChristmasCarol2026",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "HoL6gKEvFb",
+          "datetime": "2026-12-19T17:45:00",
+          "datetime_utc": "2026-12-19T23:45:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetChristmasCarol2026",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "oS7hmieZVa",
+          "datetime": "2026-12-21T14:00:00",
+          "datetime_utc": "2026-12-21T20:00:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetChristmasCarol2026",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "oOTaa6Fudg",
+          "datetime": "2026-12-22T16:15:00",
+          "datetime_utc": "2026-12-22T22:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetChristmasCarol2026",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "WLKk6x2cRa",
+          "datetime": "2026-12-23T19:15:00",
+          "datetime_utc": "2026-12-24T01:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetChristmasCarol2026",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
+      "sort_index": "muppet holiday series: the muppet movie (1979)",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Muppet Holiday Series: The Muppet Movie (1979)",
+      "release_year": 1979,
+      "runtime": 97,
+      "rating": "G",
+      "genres": [],
+      "poster": "posters/muppet-holiday-series-the-muppet-movie-1979-1979.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "After Kermit the Frog decides to pursue a movie career, he starts his cross-country trip from Florida to California. Along the way, he meets and befriends Fozzie Bear, Miss Piggy, Gonzo and rock musicians Dr. Teeth and the Electric Mayhem. When Kermit is offered a job by Doc Hopper to advertise the fried frog legs at his restaurant chain, Kermit turns Hopper down. However, Hopper refuses to relent and pursues Kermit and his companions to a final showdown.",
+      "directors": [
+        "James Frawley"
+      ],
+      "writers": [
+        "Jerry Juhl",
+        "Jack Burns"
+      ],
+      "actors": [
+        "Jim Henson",
+        "Frank Oz",
+        "Jerry Nelson",
+        "Richard Hunt",
+        "Dave Goelz",
+        "Charles Durning"
+      ],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.sidewalkfest.com/events/TheMuppetMovie",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "VFIDreKqta",
+          "datetime": "2026-12-11T14:15:00",
+          "datetime_utc": "2026-12-11T20:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetMovie",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "5V2vUlq7Gi",
+          "datetime": "2026-12-12T02:30:00",
+          "datetime_utc": "2026-12-12T08:30:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetMovie",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "JhTY5dQx8J",
+          "datetime": "2026-12-12T10:00:00",
+          "datetime_utc": "2026-12-12T16:00:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetMovie",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "NRpmA0I5ty",
+          "datetime": "2026-12-13T07:30:00",
+          "datetime_utc": "2026-12-13T13:30:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetMovie",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "b8JXEH6rto",
+          "datetime": "2026-12-13T10:00:00",
+          "datetime_utc": "2026-12-13T16:00:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetMovie",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "LLBSrveL8q",
+          "datetime": "2026-12-16T04:30:00",
+          "datetime_utc": "2026-12-16T10:30:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetMovie",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "jfLiVce99L",
+          "datetime": "2026-12-17T22:00:00",
+          "datetime_utc": "2026-12-18T04:00:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetMovie",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
         }
       ]
     },
@@ -108894,6 +108926,370 @@
       ]
     },
     {
+      "sort_index": "om: chapter 1 - udhiram",
+      "source": "AMC",
+      "movie_id": 85543,
+      "title": "OM: Chapter 1 - Udhiram",
+      "release_year": 2026,
+      "runtime": 179,
+      "rating": "NR",
+      "genres": [
+        "ACTION"
+      ],
+      "poster": "posters/om-chapter-1-udhiram-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Om: Chapter 1 - Udhiram (The Blood Wood) is an upcoming pan-Indian action-drama thriller inspired by socio-political and historical events. The narrative follows a protagonist played by Dhanush who attempts to rescue impoverished Tamil woodcutters cornered by police in the Tiruvannamalai forests, leading into a broader conflict involving red sandalwood smuggling and an international criminal mastermind portrayed by Mammootty.",
+      "directors": [
+        "Rajkumar Periasamy"
+      ],
+      "writers": [
+        "Rajkumar Periasamy"
+      ],
+      "actors": [
+        "Dhanush",
+        "Mammooty"
+      ],
+      "imdb_id": "tt34515768",
+      "imdb_rating": "N/A",
+      "imdb_votes": "N/A",
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": "N/A",
+      "language": "Tamil, Telugu, Hindi",
+      "country": "India",
+      "box_office": "N/A",
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/om-chapter-1-udhiram-85543",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148755914,
+          "datetime": "2026-11-19T18:30:00",
+          "datetime_utc": "2026-11-20T00:30:00Z",
+          "auditorium": 11,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/pattoncreek/all/148755914",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Reserved Seating",
+            "Tamil Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148778256,
+          "datetime": "2026-11-20T20:30:00",
+          "datetime_utc": "2026-11-21T02:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-20/pattoncreek/all/148778256",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Reserved Seating",
+            "Tamil Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148778259,
+          "datetime": "2026-11-21T20:30:00",
+          "datetime_utc": "2026-11-22T02:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-21/pattoncreek/all/148778259",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Reserved Seating",
+            "Tamil Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148778215,
+          "datetime": "2026-11-22T18:00:00",
+          "datetime_utc": "2026-11-23T00:00:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-22/pattoncreek/all/148778215",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Reserved Seating",
+            "Tamil Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148784642,
+          "datetime": "2026-11-23T19:40:00",
+          "datetime_utc": "2026-11-24T01:40:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-23/pattoncreek/all/148784642",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Reserved Seating",
+            "Tamil Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148797907,
+          "datetime": "2026-11-24T20:00:00",
+          "datetime_utc": "2026-11-25T02:00:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 29.8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/pattoncreek/all/148797907",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Reserved Seating",
+            "Tamil Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148797940,
+          "datetime": "2026-11-25T17:45:00",
+          "datetime_utc": "2026-11-25T23:45:00Z",
+          "auditorium": 3,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/pattoncreek/all/148797940",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Reserved Seating",
+            "Tamil Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148797926,
+          "datetime": "2026-11-26T19:40:00",
+          "datetime_utc": "2026-11-27T01:40:00Z",
+          "auditorium": 2,
+          "screen_width_ft": 35.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-26/pattoncreek/all/148797926",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Reserved Seating",
+            "Tamil Spoken with English Subtitles"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.54,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.25,
+              "tax": 1.06
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.9,
+              "tax": 1.21
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "pajama party: harriet the spy (1996)",
       "source": "Sidewalk",
       "movie_id": null,
@@ -109062,90 +109458,6 @@
       ]
     },
     {
-      "sort_index": "pajama party: the muppet christmas carol (1992)",
-      "source": "Sidewalk",
-      "movie_id": null,
-      "title": "Pajama Party: The Muppet Christmas Carol (1992)",
-      "release_year": 1992,
-      "runtime": 86,
-      "rating": "G",
-      "genres": [],
-      "poster": "posters/pajama-party-the-muppet-christmas-carol-1992-1992.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "Join us for our family matinee series on select Saturday and Sunday mornings. Come cozy in your PJs and from 10am - 2pm enjoy light breakfast options for the whole family, plus a Bloody Mary and Mimosa bar for the grown-ups. \n\nFilm Synopsis: A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
-      "directors": [
-        "Brian Henson"
-      ],
-      "writers": [],
-      "actors": [
-        "Michael Caine",
-        "Dave Goelz",
-        "Steve Whitmire",
-        "Jerry Nelson",
-        "Frank Oz",
-        "David Rudman"
-      ],
-      "imdb_id": null,
-      "imdb_rating": null,
-      "imdb_votes": null,
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
-      "awards": null,
-      "language": null,
-      "country": null,
-      "box_office": null,
-      "website": null,
-      "movie_url": "https://www.sidewalkfest.com/events/TheMuppetChristmasCarol",
-      "trailer_url": null,
-      "predictions": [],
-      "showtimes": [
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "rdtYkmwxQr",
-          "datetime": "2026-12-19T10:30:00",
-          "datetime_utc": "2026-12-19T16:30:00Z",
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetChristmasCarol",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Sidewalk",
-          "theater_id": 0,
-          "theater": "Sidewalk Film Center + Cinema",
-          "showtime_id": "1igew1N8Ot",
-          "datetime": "2026-12-20T10:30:00",
-          "datetime_utc": "2026-12-20T16:30:00Z",
-          "auditorium": null,
-          "screen_width_ft": 26.25,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.sidewalkfest.com/events/TheMuppetChristmasCarol",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        }
-      ]
-    },
-    {
       "sort_index": "paper tiger",
       "source": "AMC",
       "movie_id": 84308,
@@ -109176,7 +109488,7 @@
       "rotten_tomatoes": null,
       "metacritic": "79/100",
       "letterboxd_rating": 3.38,
-      "letterboxd_rating_count": 23702,
+      "letterboxd_rating_count": 23938,
       "letterboxd_url": "https://letterboxd.com/film/paper-tiger-2026/",
       "awards": "1 win & 3 nominations total",
       "language": "English",
@@ -113339,6 +113651,95 @@
       ]
     },
     {
+      "sort_index": "raise the red lantern (1991) 35th anniversary 4k restoration",
+      "source": "Sidewalk",
+      "movie_id": null,
+      "title": "Raise the Red Lantern (1991) 35th Anniversary 4k Restoration",
+      "release_year": 1991,
+      "runtime": 125,
+      "rating": "PG",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster": "posters/raise-the-red-lantern-1991-35th-anniversary-4k-restoration-1991.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father's death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen’s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul.",
+      "directors": [
+        "Zhang Yimou"
+      ],
+      "writers": [
+        "Ni Zhen"
+      ],
+      "actors": [
+        "Gong Li",
+        "He Saifei",
+        "Cao Cuifen",
+        "Kong Lin",
+        "Jin Shuyuan",
+        "Ma Jingwu"
+      ],
+      "imdb_id": "tt0101640",
+      "imdb_rating": "8.1",
+      "imdb_votes": "38,549",
+      "rotten_tomatoes": "97%",
+      "metacritic": "81/100",
+      "letterboxd_rating": 4.35,
+      "letterboxd_rating_count": 65347,
+      "letterboxd_url": "https://letterboxd.com/film/raise-the-red-lantern/",
+      "awards": "Nominated for 1 Oscar. 24 wins & 17 nominations total",
+      "language": "Mandarin",
+      "country": "China, Hong Kong",
+      "box_office": "$2,603,061",
+      "website": null,
+      "movie_url": "https://www.sidewalkfest.com/events/RaisetheRedLantern",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "jVR1JiVQwK",
+          "datetime": "2026-11-27T19:00:00",
+          "datetime_utc": "2026-11-28T01:00:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/RaisetheRedLantern",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        },
+        {
+          "source": "Sidewalk",
+          "theater_id": 0,
+          "theater": "Sidewalk Film Center + Cinema",
+          "showtime_id": "YjgPbkOQnb",
+          "datetime": "2026-11-29T18:15:00",
+          "datetime_utc": "2026-11-30T00:15:00Z",
+          "auditorium": null,
+          "screen_width_ft": 26.25,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.sidewalkfest.com/events/RaisetheRedLantern",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [],
+          "ticket_prices": []
+        }
+      ]
+    },
+    {
       "sort_index": "ramayana",
       "source": "AMC",
       "movie_id": 84991,
@@ -113371,7 +113772,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.57,
-      "letterboxd_rating_count": 60112,
+      "letterboxd_rating_count": 61002,
       "letterboxd_url": "https://letterboxd.com/film/ramayana-rise-of-a-legend/",
       "awards": "N/A",
       "language": "Hindi",
@@ -114401,7 +114802,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.47,
-      "letterboxd_rating_count": 835542,
+      "letterboxd_rating_count": 835892,
       "letterboxd_url": "https://letterboxd.com/film/romeo-juliet-1996/",
       "awards": "Nominated for 1 Oscar. 15 wins & 30 nominations total",
       "language": "English",
@@ -114625,7 +115026,7 @@
       "rotten_tomatoes": "72%",
       "metacritic": "38/100",
       "letterboxd_rating": 3.33,
-      "letterboxd_rating_count": 151852,
+      "letterboxd_rating_count": 151890,
       "letterboxd_url": "https://letterboxd.com/film/scrooged/",
       "awards": "Nominated for 1 Oscar. 1 win & 5 nominations total",
       "language": "English",
@@ -114647,123 +115048,6 @@
           "screen_width_ft": 29.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-09/pattoncreek/all/148416769",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416774,
-          "datetime": "2026-12-17T16:40:00",
-          "datetime_utc": "2026-12-17T22:40:00Z",
-          "auditorium": 1,
-          "screen_width_ft": 29.8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/pattoncreek/all/148416774",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416796,
-          "datetime": "2026-12-20T16:15:00",
-          "datetime_utc": "2026-12-20T22:15:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-20/pattoncreek/all/148416796",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Fan Faves",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "CHILD",
-              "price": 7.39,
-              "tax": 0.64
-            },
-            {
-              "type": "SENIOR",
-              "price": 7.39,
-              "tax": 0.64
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416802,
-          "datetime": "2026-12-30T16:15:00",
-          "datetime_utc": "2026-12-30T22:15:00Z",
-          "auditorium": 4,
-          "screen_width_ft": 33.3,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/pattoncreek/all/148416802",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -114826,7 +115110,7 @@
       "rotten_tomatoes": null,
       "metacritic": "72/100",
       "letterboxd_rating": 3.96,
-      "letterboxd_rating_count": 301590,
+      "letterboxd_rating_count": 302611,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -115488,7 +115772,7 @@
       "rotten_tomatoes": "44%",
       "metacritic": "43/100",
       "letterboxd_rating": 2.83,
-      "letterboxd_rating_count": 307405,
+      "letterboxd_rating_count": 307539,
       "letterboxd_url": "https://letterboxd.com/film/the-angry-birds-movie/",
       "awards": "3 wins & 8 nominations total",
       "language": "English",
@@ -115670,7 +115954,7 @@
       "rotten_tomatoes": null,
       "metacritic": "47/100",
       "letterboxd_rating": 3.08,
-      "letterboxd_rating_count": 17997,
+      "letterboxd_rating_count": 18213,
       "letterboxd_url": "https://letterboxd.com/film/the-cat-in-the-hat-2026/",
       "awards": "N/A",
       "language": "English",
@@ -121160,13 +121444,304 @@
       ]
     },
     {
+      "sort_index": "the departed: 20th anniversary",
+      "source": "AMC",
+      "movie_id": 85630,
+      "title": "The Departed: 20th Anniversary",
+      "release_year": 2026,
+      "runtime": 152,
+      "rating": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster": "posters/the-departed-20th-anniversary-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "THE DEPARTED is set in South Boston, where the state police force is waging war on organized crime.  Young undercover cop Billy Costigan (Leonardo DiCaprio) is assigned to infiltrate the mob syndicate run by gangland chief Costello (Jack Nicholson).   While Billy is quickly gaining Costello's confidence, Colin Sullivan (Matt Damon), a hardened young criminal who has infiltrated the police department as an informer for the syndicate, is rising to a position of power in the Special Investigation Unit.  Each man becomes deeply consumed by his double life, gathering information about the plans and counter-plans of the operations he has penetrated.  But when it becomes clear to both the gangsters and the police that there's a mole in their midst, Billy and Colin are suddenly in danger of being caught and exposed to the enemy - and each must race to uncover the identity of the other man in time to save himself.",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "writers": [
+        "William Monahan",
+        "Alan Mak",
+        "Felix Chong"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+      ],
+      "imdb_id": "tt0407887",
+      "imdb_rating": "8.5",
+      "imdb_votes": "1,583,117",
+      "rotten_tomatoes": "91%",
+      "metacritic": "85/100",
+      "letterboxd_rating": 4.35,
+      "letterboxd_rating_count": 1823390,
+      "letterboxd_url": "https://letterboxd.com/film/the-departed/",
+      "awards": "Won 4 Oscars. 100 wins & 141 nominations total",
+      "language": "English, Cantonese",
+      "country": "United States, Hong Kong",
+      "box_office": "$132,399,394",
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/the-departed-20th-anniversary-85630",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148716825,
+          "datetime": "2026-12-04T16:00:00",
+          "datetime_utc": "2026-12-04T22:00:00Z",
+          "auditorium": 16,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-04/summit/all/148716825",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148716826,
+          "datetime": "2026-12-05T16:00:00",
+          "datetime_utc": "2026-12-05T22:00:00Z",
+          "auditorium": 16,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-05/summit/all/148716826",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148716827,
+          "datetime": "2026-12-06T16:00:00",
+          "datetime_utc": "2026-12-06T22:00:00Z",
+          "auditorium": 16,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-06/summit/all/148716827",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148716828,
+          "datetime": "2026-12-07T16:00:00",
+          "datetime_utc": "2026-12-07T22:00:00Z",
+          "auditorium": 16,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-07/summit/all/148716828",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148716829,
+          "datetime": "2026-12-08T16:00:00",
+          "datetime_utc": "2026-12-08T22:00:00Z",
+          "auditorium": 16,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-08/summit/all/148716829",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Excluded from 50% off Discount",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148716830,
+          "datetime": "2026-12-09T16:00:00",
+          "datetime_utc": "2026-12-09T22:00:00Z",
+          "auditorium": 16,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-09/summit/all/148716830",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Excluded from 50% off Discount",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "the further mis-adventures of cliff booth",
       "source": "AMC",
       "movie_id": 84204,
       "title": "The Further Mis-Adventures Of Cliff Booth",
       "release_year": 2026,
       "runtime": 145,
-      "rating": null,
+      "rating": "R",
       "genres": [
         "COMEDY"
       ],
@@ -122579,7 +123154,7 @@
       "rotten_tomatoes": "51%",
       "metacritic": "52/100",
       "letterboxd_rating": 3.64,
-      "letterboxd_rating_count": 1100422,
+      "letterboxd_rating_count": 1100883,
       "letterboxd_url": "https://letterboxd.com/film/the-holiday/",
       "awards": "2 wins & 12 nominations total",
       "language": "English",
@@ -122867,8 +123442,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 9195,
+      "letterboxd_rating": 4.05,
+      "letterboxd_rating_count": 47787,
       "letterboxd_url": "https://letterboxd.com/film/the-hunger-games-sunrise-on-the-reaping/",
       "awards": "N/A",
       "language": "English",
@@ -125364,7 +125939,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-20/summit/all/148407596",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -127882,7 +128457,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-21/vestaviahills/all/148192746",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -144909,8 +145484,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 9195,
+      "letterboxd_rating": 4.05,
+      "letterboxd_rating_count": 47787,
       "letterboxd_url": "https://letterboxd.com/film/the-hunger-games-sunrise-on-the-reaping/",
       "awards": "N/A",
       "language": "English",
@@ -145001,8 +145576,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 9195,
+      "letterboxd_rating": 4.05,
+      "letterboxd_rating_count": 47787,
       "letterboxd_url": "https://letterboxd.com/film/the-hunger-games-sunrise-on-the-reaping/",
       "awards": "N/A",
       "language": "English",
@@ -145091,7 +145666,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 166221,
+      "letterboxd_rating_count": 166256,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -145289,6 +145864,306 @@
       ]
     },
     {
+      "sort_index": "the odyssey",
+      "source": "AMC",
+      "movie_id": 85695,
+      "title": "The Odyssey",
+      "release_year": 2026,
+      "runtime": 172,
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "poster": "posters/the-odyssey-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "AMC has been advised that this film contains sequences with flashing lights that may affect photosensitive viewers.\nChristopher Nolan's next film, THE ODYSSEY, is a mythic action epic shot across the world using brand new IMAX film technology. The film brings Homer's foundational saga to IMAX film screens for the first time",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "writers": [
+        "Christopher Nolan",
+        "Homer"
+      ],
+      "actors": [
+        "Matt Damon",
+        "Tom Holland",
+        "Anne Hathaway"
+      ],
+      "imdb_id": "tt33764258",
+      "imdb_rating": "8.4",
+      "imdb_votes": "544,815",
+      "rotten_tomatoes": null,
+      "metacritic": "88/100",
+      "letterboxd_rating": 4.33,
+      "letterboxd_rating_count": 4820461,
+      "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
+      "awards": "4 wins total",
+      "language": "English, Greek",
+      "country": "United Kingdom, United States, Canada, New Zealand, Iceland",
+      "box_office": "$625,595,435",
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/the-odyssey-85695",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148942202,
+          "datetime": "2026-12-11T14:00:00",
+          "datetime_utc": "2026-12-11T20:00:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-11/pattoncreek/all/148942202",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "IMAX at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.15,
+              "tax": 1.66
+            },
+            {
+              "type": "CHILD",
+              "price": 16.52,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.84,
+              "tax": 1.55
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148942203,
+          "datetime": "2026-12-12T14:00:00",
+          "datetime_utc": "2026-12-12T20:00:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-12/pattoncreek/all/148942203",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "IMAX at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.15,
+              "tax": 1.66
+            },
+            {
+              "type": "CHILD",
+              "price": 16.52,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.84,
+              "tax": 1.55
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148942204,
+          "datetime": "2026-12-13T14:00:00",
+          "datetime_utc": "2026-12-13T20:00:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-13/pattoncreek/all/148942204",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "IMAX at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.15,
+              "tax": 1.66
+            },
+            {
+              "type": "CHILD",
+              "price": 16.52,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.84,
+              "tax": 1.55
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148942205,
+          "datetime": "2026-12-14T14:00:00",
+          "datetime_utc": "2026-12-14T20:00:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-14/pattoncreek/all/148942205",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "IMAX at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.15,
+              "tax": 1.66
+            },
+            {
+              "type": "CHILD",
+              "price": 16.52,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.84,
+              "tax": 1.55
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148942206,
+          "datetime": "2026-12-15T14:00:00",
+          "datetime_utc": "2026-12-15T20:00:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-15/pattoncreek/all/148942206",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "IMAX at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.15,
+              "tax": 1.66
+            },
+            {
+              "type": "CHILD",
+              "price": 16.52,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.84,
+              "tax": 1.55
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148942207,
+          "datetime": "2026-12-16T14:00:00",
+          "datetime_utc": "2026-12-16T20:00:00Z",
+          "auditorium": 15,
+          "screen_width_ft": 59.5,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-16/pattoncreek/all/148942207",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "IMAX at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.15,
+              "tax": 1.66
+            },
+            {
+              "type": "CHILD",
+              "price": 16.52,
+              "tax": 1.43
+            },
+            {
+              "type": "SENIOR",
+              "price": 17.84,
+              "tax": 1.55
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "the only living pickpocket in new york",
       "source": "Sidewalk",
       "movie_id": null,
@@ -145320,7 +146195,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.45,
-      "letterboxd_rating_count": 44940,
+      "letterboxd_rating_count": 45195,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -145649,7 +146524,7 @@
       "rotten_tomatoes": "55%",
       "metacritic": "61/100",
       "letterboxd_rating": 3.34,
-      "letterboxd_rating_count": 979618,
+      "letterboxd_rating_count": 979918,
       "letterboxd_url": "https://letterboxd.com/film/the-polar-express/",
       "awards": "Nominated for 3 Oscars. 5 wins & 26 nominations total",
       "language": "English",
@@ -145723,90 +146598,6 @@
             "Closed Caption",
             "Audio Description",
             "Excluded from 50% off Discount",
-            "Fan Faves",
-            "RealD 3D",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 10.68,
-              "tax": 0.93
-            },
-            {
-              "type": "CHILD",
-              "price": 10.68,
-              "tax": 0.93
-            },
-            {
-              "type": "SENIOR",
-              "price": 10.68,
-              "tax": 0.93
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416836,
-          "datetime": "2026-12-18T16:15:00",
-          "datetime_utc": "2026-12-18T22:15:00Z",
-          "auditorium": 10,
-          "screen_width_ft": 33.3,
-          "premium_format": "RealD 3D",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-18/pattoncreek/all/148416836",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Fan Faves",
-            "RealD 3D",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 10.68,
-              "tax": 0.93
-            },
-            {
-              "type": "CHILD",
-              "price": 10.68,
-              "tax": 0.93
-            },
-            {
-              "type": "SENIOR",
-              "price": 10.68,
-              "tax": 0.93
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 4103,
-          "theater": "AMC Patton Creek 15",
-          "showtime_id": 148416838,
-          "datetime": "2026-12-27T16:15:00",
-          "datetime_utc": "2026-12-27T22:15:00Z",
-          "auditorium": 10,
-          "screen_width_ft": 33.3,
-          "premium_format": "RealD 3D",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/pattoncreek/all/148416838",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
             "Fan Faves",
             "RealD 3D",
             "Reserved Seating"
@@ -145982,7 +146773,7 @@
       "rotten_tomatoes": "31%",
       "metacritic": null,
       "letterboxd_rating": 2.63,
-      "letterboxd_rating_count": 530189,
+      "letterboxd_rating_count": 531229,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -146068,7 +146859,7 @@
       "rotten_tomatoes": null,
       "metacritic": "52/100",
       "letterboxd_rating": 2.98,
-      "letterboxd_rating_count": 16618,
+      "letterboxd_rating_count": 17200,
       "letterboxd_url": "https://letterboxd.com/film/victorian-psycho/",
       "awards": "2 nominations total",
       "language": "English",
@@ -152285,7 +153076,7 @@
       "rotten_tomatoes": null,
       "metacritic": "70/100",
       "letterboxd_rating": 3.65,
-      "letterboxd_rating_count": 221881,
+      "letterboxd_rating_count": 223233,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "2 wins & 1 nomination total",
       "language": "English",
@@ -152794,7 +153585,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.15,
-      "letterboxd_rating_count": 267969,
+      "letterboxd_rating_count": 274438,
       "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
       "awards": "N/A",
       "language": "English",
@@ -154267,7 +155058,7 @@
       "rotten_tomatoes": null,
       "metacritic": "88/100",
       "letterboxd_rating": 4.38,
-      "letterboxd_rating_count": 596319,
+      "letterboxd_rating_count": 600569,
       "letterboxd_url": "https://letterboxd.com/film/wildwood-2026/",
       "awards": "1 win total",
       "language": "English",
@@ -155173,7 +155964,7 @@
       "rotten_tomatoes": null,
       "metacritic": "98/100",
       "letterboxd_rating": 4.58,
-      "letterboxd_rating_count": 849283,
+      "letterboxd_rating_count": 853492,
       "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
       "awards": "N/A",
       "language": "English",
@@ -159550,22 +160341,6 @@
     }
   ],
   "upcoming": [
-    {
-      "tmdb_id": 1384528,
-      "imdb_id": "tt34515768",
-      "title": "O.M: Operation Mole",
-      "release_date": "2026-11-19",
-      "runtime": 178,
-      "genres": [
-        "Crime",
-        "Action",
-        "Thriller"
-      ],
-      "plot": "Set across the temple corridors of Tirupati and Tiruvannamalai, an elite undercover operative infiltrates a sprawling transnational red sanders syndicate. As criminal politics escalate, a covert task force launches Operation Mole to dismantle the cartel from within.",
-      "poster": "https://image.tmdb.org/t/p/w342/vFnFLqXjf7RQfkNxrrys43BZKxJ.jpg",
-      "url": "https://www.themoviedb.org/movie/1384528",
-      "popularity": 8.3
-    },
     {
       "tmdb_id": 1538497,
       "imdb_id": "tt38077943",

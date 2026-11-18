@@ -1,3 +1,53 @@
+## 2026-11-18 04:45 PM CST
+
+**Movies added:**
+- Muppet Holiday Series: Muppet Treasure Island (1996)
+- Muppet Holiday Series: The Great Muppet Caper (1981)
+- Muppet Holiday Series: The Muppet Christmas Carol (1992)
+- Muppet Holiday Series: The Muppet Movie (1979)
+- OM: Chapter 1 - Udhiram
+- Raise the Red Lantern (1991) 35th Anniversary 4k Restoration
+- The Departed: 20th Anniversary
+- The Odyssey
+
+**Movies removed:**
+- A Beautiful Mind 25th Anniversary
+- Pajama Party: The Muppet Christmas Carol (1992)
+
+**Showtime changes:**
+- Dr. Seuss' How The Grinch Stole Christmas
+  - − AMC Patton Creek 15 @ 2026-12-19T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-25T16:15:00 (Standard)
+- ENE Repeat
+  - + AMC Patton Creek 15 @ 2026-11-18T20:00:00 (Standard)
+- The Polar Express
+  - − AMC Patton Creek 15 @ 2026-12-18T16:15:00 (RealD 3D)
+  - − AMC Patton Creek 15 @ 2026-12-27T16:15:00 (RealD 3D)
+- Donga Naa Koduku
+  - − AMC Patton Creek 15 @ 2026-11-18T19:45:00 (Standard)
+- Elf
+  - + AMC Patton Creek 15 @ 2026-12-08T16:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-08T16:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-23T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-26T16:15:00 (Standard)
+- Love Actually (HFS26)
+  - − AMC Patton Creek 15 @ 2026-12-22T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-28T16:20:00 (Standard)
+- Gremlins
+  - + AMC Patton Creek 15 @ 2026-12-07T16:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-07T16:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-24T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-29T16:15:00 (Standard)
+- Scrooged
+  - − AMC Patton Creek 15 @ 2026-12-17T16:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-20T16:15:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-30T16:15:00 (Standard)
+- Bad Santa
+  - + AMC Patton Creek 15 @ 2026-12-04T16:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-04T16:40:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-21T16:20:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-31T16:20:00 (Standard)
+
 ## 2026-11-18 06:24 AM CST
 
 **Movies removed:**
