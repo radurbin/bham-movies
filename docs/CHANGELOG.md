@@ -1,3 +1,91 @@
+## 2026-11-19 04:49 PM CST
+
+**Movies added:**
+- Above the Below
+- Flavia Girl Detective
+- Spider-Man: (Brand New) Brand New Day
+
+**Showtime changes:**
+- You Can See Everything
+  - − AMC Summit 16 @ 2026-11-19T21:40:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-19T21:45:00 (Standard)
+- Ghost Soldier
+  - + AMC Summit 16 @ 2026-11-22T22:50:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-19T19:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-19T22:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-22T22:55:00 (Standard)
+- Wild Horse Nine
+  - − AMC Summit 16 @ 2026-11-23T22:25:00 (Standard)
+- Dune: Part Three
+  - − AMC Summit 16 @ 2026-12-17T16:15:00 (Standard)
+  - − AMC Summit 16 @ 2026-12-17T19:45:00 (Standard)
+  - − AMC Summit 16 @ 2026-12-17T23:30:00 (Standard)
+- The Cat in the Hat
+  - + AMC Summit 16 @ 2026-11-19T21:35:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-23T18:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-19T21:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-23T19:30:00 (Standard)
+- I Play Rocky
+  - + AMC Summit 16 @ 2026-11-22T22:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-22T22:45:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC Vestavia Hills 10 @ 2026-11-19T19:45:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-11-19T20:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-19T21:15:00 (RealD 3D)
+  - + AMC Vestavia Hills 10 @ 2026-11-19T21:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-20T13:35:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-20T15:20:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-20T22:35:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-21T13:35:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-21T15:20:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-21T22:35:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-22T13:35:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-22T14:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-23T13:35:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-23T19:00:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-24T22:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-20T13:30:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-20T15:15:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-20T22:30:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-21T13:30:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-21T15:15:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-21T22:30:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-22T13:30:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-23T13:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-24T22:00:00 (Standard)
+- Ebenezer
+  - + AMC Summit 16 @ 2026-11-20T22:30:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-21T22:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-20T22:35:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-21T22:35:00 (Standard)
+- Godzilla Minus Zero
+  - + AMC Summit 16 @ 2026-11-20T22:50:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-21T22:50:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-19T22:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-20T22:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-21T22:40:00 (Standard)
+- ENE Repeat
+  - + AMC Summit 16 @ 2026-11-23T19:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-23T19:00:00 (Standard)
+- The Odyssey
+  - + AMC Summit 16 @ 2026-12-11T18:55:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-12T18:55:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-13T18:55:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-14T18:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-15T18:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-16T18:15:00 (Standard)
+- Wildwood
+  - + AMC Summit 16 @ 2026-11-22T11:10:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-22T11:50:00 (Standard)
+- How to Rob a Bank
+  - + AMC Summit 16 @ 2026-11-19T22:45:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-19T20:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-19T22:10:00 (Standard)
+  - − AMC Vestavia Hills 10 @ 2026-11-19T23:00:00 (Standard)
+- Victorian Psycho
+  - + AMC Summit 16 @ 2026-11-21T23:00:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-21T22:50:00 (Standard)
+
 ## 2026-11-19 06:18 AM CST
 
 **Movies removed:**
