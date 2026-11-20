@@ -1,3 +1,36 @@
+## 2026-11-20 04:26 PM CST
+
+**Movies added:**
+- Live Like That
+- November 1963
+- Violent Night 2: Sensory Friendly Screening
+
+**Showtime changes:**
+- Drummer Boy
+  - − AMC Summit 16 @ 2026-11-21T21:55:00 (Standard)
+- How to Rob a Bank
+  - + AMC Summit 16 @ 2026-11-21T22:25:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-21T22:20:00 (Standard)
+- Ramayana
+  - − AMC Summit 16 @ 2026-11-21T21:40:00 (RealD 3D)
+- The Cat in the Hat
+  - + AMC Summit 16 @ 2026-11-21T21:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-21T22:25:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC Summit 16 @ 2026-11-20T22:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-21T21:40:00 (RealD 3D)
+  - + AMC Summit 16 @ 2026-11-21T22:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-21T22:45:00 (Standard)
+- You Can See Everything
+  - − AMC Summit 16 @ 2026-11-20T21:55:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-21T21:30:00 (Standard)
+- I Play Rocky
+  - + AMC Summit 16 @ 2026-11-21T22:20:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-21T22:45:00 (Standard)
+- Avengers: Doomsday
+  - + AMC Summit 16 @ 2026-12-17T20:45:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-17T22:30:00 (Standard)
+
 ## 2026-11-20 06:18 AM CST
 
 **Movies removed:**
