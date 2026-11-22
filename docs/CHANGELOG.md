@@ -1,3 +1,33 @@
+## 2026-11-21 07:44 PM CST
+
+**Showtime changes:**
+- Noirvember: Taxi Driver (1976) 50th Anniversary
+  - − Sidewalk Film Center + Cinema @ 2026-11-21T10:00:00 (Standard)
+- Ghost Soldier
+  - + AMC Summit 16 @ 2026-11-23T10:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-23T10:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-23T12:40:00 (Standard)
+- Drummer Boy
+  - − AMC Summit 16 @ 2026-11-22T10:40:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-23T10:10:00 (Standard)
+- Clayface
+  - + AMC Summit 16 @ 2026-11-22T11:05:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-22T12:00:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC Summit 16 @ 2026-11-22T11:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-22T22:00:00 (Standard)
+  - + AMC Summit 16 @ 2026-11-23T11:30:00 (Standard)
+- The Cat in the Hat
+  - + AMC Summit 16 @ 2026-11-22T21:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-22T21:55:00 (Standard)
+- Pajama Party: Harriet the Spy (1996)
+  - − Sidewalk Film Center + Cinema @ 2026-11-21T10:30:00 (Standard)
+- Ramayana
+  - + AMC Summit 16 @ 2026-11-23T19:50:00 (RealD 3D)
+  - − AMC Summit 16 @ 2026-11-23T19:50:00 (Standard)
+- You Can See Everything
+  - − AMC Summit 16 @ 2026-11-22T21:30:00 (Standard)
+
 ## 2026-11-21 03:16 PM CST
 
 **Showtime changes:**

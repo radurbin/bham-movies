@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-10-21 09:45 AM CDT",
-    "movies_added": [
-      "The Angry Birds Movie: 10th Anniversary",
-      "Udta Teer"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-10-21 02:46 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -53569,6 +53560,156 @@
           }
         ],
         "removed": []
+      }
+    ]
+  },
+  {
+    "date": "2026-11-21 07:44 PM CST",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Noirvember: Taxi Driver (1976) 50th Anniversary",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-21T10:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Ghost Soldier",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-23T10:40:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-23T10:05:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-23T12:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Drummer Boy",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T10:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-23T10:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Clayface",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T11:05:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T12:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T11:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T22:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-23T11:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "The Cat in the Hat",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T21:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T21:55:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Pajama Party: Harriet the Spy (1996)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Sidewalk Film Center + Cinema",
+            "datetime": "2026-11-21T10:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Ramayana",
+        "added": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-23T19:50:00",
+            "format": "RealD 3D"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-23T19:50:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "You Can See Everything",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Summit 16",
+            "datetime": "2026-11-22T21:30:00",
+            "format": "Standard"
+          }
+        ]
       }
     ]
   }
