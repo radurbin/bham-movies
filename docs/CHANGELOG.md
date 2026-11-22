@@ -1,3 +1,40 @@
+## 2026-11-22 03:23 PM CST
+
+**Movies added:**
+- Fing!
+- Yeh Prem Mol Liya
+
+**Showtime changes:**
+- November 1963
+  - + AMC Patton Creek 15 @ 2026-12-03T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-04T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-05T19:20:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-06T19:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-07T19:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-08T19:30:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-09T19:30:00 (Standard)
+- Scrooged
+  - + AMC Patton Creek 15 @ 2026-12-09T16:45:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-12-09T16:40:00 (Standard)
+- Paper Tiger
+  - + AMC Patton Creek 15 @ 2026-11-26T14:10:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-26T14:20:00 (Standard)
+- Above the Below
+  - + AMC Patton Creek 15 @ 2026-12-03T19:00:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-04T19:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-05T19:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-06T19:50:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-07T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-08T19:45:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-09T19:45:00 (Standard)
+- The Departed: 20th Anniversary
+  - + AMC Patton Creek 15 @ 2026-12-04T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-05T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-06T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-07T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-08T16:15:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-12-09T16:15:00 (Standard)
+
 ## 2026-11-22 06:06 AM CST
 
 **Movies removed:**
