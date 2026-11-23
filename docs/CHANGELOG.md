@@ -1,3 +1,14 @@
+## 2026-11-22 08:03 PM CST
+
+**Movies removed:**
+- Pajama Party: Harriet the Spy (1996)
+
+**Showtime changes:**
+- Noirvember: The Big Sleep (1946) 80th Anniversary
+  - − Sidewalk Film Center + Cinema @ 2026-11-22T10:00:00 (Standard)
+- Avengers: Doomsday
+  - − AMC Summit 16 @ 2026-12-17T19:15:00 (Standard)
+
 ## 2026-11-22 03:23 PM CST
 
 **Movies added:**
