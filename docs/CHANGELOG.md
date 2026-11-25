@@ -1,3 +1,13 @@
+## 2026-11-25 05:51 PM CST
+
+**Showtime changes:**
+- The Hunger Games: Sunrise on the Reaping: Sensory Friendly Screening
+  - + AMC Patton Creek 15 @ 2026-11-25T19:00:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC Vestavia Hills 10 @ 2026-11-25T22:15:00 (Standard)
+- Ebenezer
+  - − AMC Vestavia Hills 10 @ 2026-11-25T22:15:00 (Standard)
+
 ## 2026-11-25 07:41 AM CST
 
 **Movies removed:**
