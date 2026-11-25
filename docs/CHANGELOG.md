@@ -1,3 +1,38 @@
+## 2026-11-24 06:13 PM CST
+
+**Movies added:**
+- AMC Screen Unseen: December 7
+- The Debut
+
+**Showtime changes:**
+- The Holiday - 20th Anniversary
+  - + AMC Summit 16 @ 2026-12-11T12:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-12T12:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-13T12:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-14T12:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-15T12:15:00 (Standard)
+  - + AMC Summit 16 @ 2026-12-16T12:15:00 (Standard)
+- Dune: Part Three
+  - + AMC Vestavia Hills 10 @ 2027-01-01T09:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-01T13:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-01T16:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-01T20:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-01T23:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-02T09:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-02T13:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-02T16:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-02T20:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-02T23:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-03T09:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-03T13:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-03T16:30:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-03T20:00:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2027-01-03T23:30:00 (Standard)
+- Avengers: Doomsday
+  - + AMC Vestavia Hills 10 @ 2026-12-17T14:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-12-17T18:15:00 (Standard)
+  - + AMC Vestavia Hills 10 @ 2026-12-17T22:15:00 (Standard)
+
 ## 2026-11-24 08:23 AM CST
 
 **Movies added:**

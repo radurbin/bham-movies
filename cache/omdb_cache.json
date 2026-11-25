@@ -691,7 +691,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794957221.3040354
+    "_fetched_at": 1795565588.5862548
   },
   "how to rob a bank (2026)": {
     "Title": "How to Rob a Bank",
@@ -1467,10 +1467,6 @@
         "Value": "7.9/10"
       },
       {
-        "Source": "Rotten Tomatoes",
-        "Value": "95%"
-      },
-      {
         "Source": "Metacritic",
         "Value": "74/100"
       }
@@ -1485,7 +1481,7 @@
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True",
-    "_fetched_at": 1794957220.973382
+    "_fetched_at": 1795565587.9275494
   },
   "crunchyroll anime nights sneak peek - december '26 (2026)": {
     "Response": "False",
@@ -2022,7 +2018,7 @@
   "fing! (2027)": {
     "Response": "False",
     "Error": "Movie not found!",
-    "_fetched_at": 1795382577.5239801
+    "_fetched_at": 1795565588.2583392
   },
   "fing!": {
     "Title": "Fing!",
@@ -2173,5 +2169,57 @@
     "Website": "N/A",
     "Response": "True",
     "_fetched_at": 1795530173.7793336
+  },
+  "amc screen unseen: december 7 (2026)": {
+    "Response": "False",
+    "Error": "Movie not found!",
+    "_fetched_at": 1795565587.2645044
+  },
+  "amc screen unseen: december 7": {
+    "Response": "False",
+    "Error": "Movie not found!",
+    "_fetched_at": 1795565587.5968823
+  },
+  "the debut (2026)": {
+    "Response": "False",
+    "Error": "Movie not found!",
+    "_fetched_at": 1795565588.9204383
+  },
+  "the debut": {
+    "Title": "The Debut",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "13 Aug 2003",
+    "Runtime": "88 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Gene Cajayon",
+    "Writer": "Gene Cajayon, John Manal Castro",
+    "Actors": "Dante Basco, Eddie Garcia, Jayson Schaal",
+    "Plot": "A young man struggles with his desire to study art when his family thinks he's headed for premedical studies. Conflicts between Filipino traditions and expectations vs. personal dreams in the contemporary world erupt at his sister...",
+    "Language": "English, Tagalog, Filipino",
+    "Country": "United States",
+    "Awards": "4 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjg2MTEzMTgtMzhkZS00MTIxLWIwMjgtMTNiMTE2NTliYTJmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "60/100"
+      }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.5",
+    "imdbVotes": "701",
+    "imdbID": "tt0163745",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,745,778",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "_fetched_at": 1795565589.2569766
   }
 }

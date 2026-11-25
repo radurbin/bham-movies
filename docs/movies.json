@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-11-24T08:23:38.249151-06:00",
-    "movie_count": 87,
-    "showtime_count": 3543,
+    "generated_at": "2026-11-24T18:13:50.219989-06:00",
+    "movie_count": 89,
+    "showtime_count": 3636,
     "theaters": {
-      "AMC Patton Creek 15": 1302,
-      "AMC Summit 16": 1391,
+      "AMC Patton Creek 15": 1303,
+      "AMC Summit 16": 1464,
       "Sidewalk Film Center + Cinema": 120,
-      "AMC Vestavia Hills 10": 730
+      "AMC Vestavia Hills 10": 749
     }
   },
   "movies": [
@@ -687,6 +687,284 @@
       ]
     },
     {
+      "sort_index": "amc screen unseen: december 7",
+      "source": "AMC",
+      "movie_id": 85700,
+      "title": "AMC Screen Unseen: December 7",
+      "release_year": 2026,
+      "runtime": 118,
+      "rating": "R",
+      "genres": [],
+      "poster": "posters/amc-screen-unseen-december-7-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "AMC Screen Unseen, where guests can watch a never-before-seen film. We will share the movie’s MPA rating ahead of time, but the feature presentation will remain a mystery until showtime. Share your reaction after the movie with #AMCScreenUnseen on Instagram, Facebook, TikTok, Threads and X.",
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/amc-screen-unseen-december-7-85700",
+      "trailer_url": null,
+      "predictions": [
+        {
+          "tmdb_id": 1532610,
+          "title": "Ink",
+          "release_date": "2026-12-11",
+          "rating": "R",
+          "runtime": 116,
+          "genres": [
+            "Drama",
+            "History"
+          ],
+          "poster": "https://image.tmdb.org/t/p/w185/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
+          "url": "https://www.themoviedb.org/movie/1532610",
+          "score": 0.875
+        },
+        {
+          "tmdb_id": 1213643,
+          "title": "Killing Castro",
+          "release_date": "2026-12-11",
+          "rating": "R",
+          "runtime": 113,
+          "genres": [
+            "Drama",
+            "History"
+          ],
+          "poster": "https://image.tmdb.org/t/p/w185/pxiUYMlevGn56mnfPqfADdvo9ab.jpg",
+          "url": "https://www.themoviedb.org/movie/1213643",
+          "score": 0.752
+        },
+        {
+          "tmdb_id": 1473784,
+          "title": "Bunker",
+          "release_date": "2026-12-11",
+          "rating": "R",
+          "runtime": 118,
+          "genres": [
+            "Drama",
+            "Thriller"
+          ],
+          "poster": "https://image.tmdb.org/t/p/w185/gPo96q7vKzoCiZlLH4T78FYStk0.jpg",
+          "url": "https://www.themoviedb.org/movie/1473784",
+          "score": 0.402
+        },
+        {
+          "tmdb_id": 1744003,
+          "title": "The Secret Lives of Baba Segi's Wives",
+          "release_date": "2026-12-11",
+          "rating": "R",
+          "runtime": 119,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+          ],
+          "poster": "https://image.tmdb.org/t/p/w185/7qdPexxBHG8XWbyqGmYzxDIJqp8.jpg",
+          "url": "https://www.themoviedb.org/movie/1744003",
+          "score": 0.266
+        },
+        {
+          "tmdb_id": 1391239,
+          "title": "The Debut",
+          "release_date": "2026-12-11",
+          "rating": "R",
+          "runtime": 105,
+          "genres": [
+            "Music",
+            "Comedy",
+            "Drama"
+          ],
+          "poster": "https://image.tmdb.org/t/p/w185/qk8qWJxM9hZSbSjSoEz0LAzcoPb.jpg",
+          "url": "https://www.themoviedb.org/movie/1391239",
+          "score": 0.154
+        },
+        {
+          "tmdb_id": 1370191,
+          "title": "Tender Loving Care",
+          "release_date": "2026-12-11",
+          "rating": "R",
+          "runtime": 108,
+          "genres": [
+            "Drama",
+            "Comedy"
+          ],
+          "poster": "https://image.tmdb.org/t/p/w185/ritUkpIiQU1IofeQdG4RFMrSu9J.jpg",
+          "url": "https://www.themoviedb.org/movie/1370191",
+          "score": 0.122
+        }
+      ],
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148954915,
+          "datetime": "2026-12-07T19:00:00",
+          "datetime_utc": "2026-12-08T01:00:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 28.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-07/summit/all/148954915",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 148954916,
+          "datetime": "2026-12-07T19:00:00",
+          "datetime_utc": "2026-12-08T01:00:00Z",
+          "auditorium": 8,
+          "screen_width_ft": 28.7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-07/summit/all/148954916",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4103,
+          "theater": "AMC Patton Creek 15",
+          "showtime_id": 148954931,
+          "datetime": "2026-12-07T19:00:00",
+          "datetime_utc": "2026-12-08T01:00:00Z",
+          "auditorium": 7,
+          "screen_width_ft": 61.3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-07/pattoncreek/all/148954931",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.39,
+              "tax": 0.64
+            },
+            {
+              "type": "CHILD",
+              "price": 7.39,
+              "tax": 0.64
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.39,
+              "tax": 0.64
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 148954911,
+          "datetime": "2026-12-07T19:00:00",
+          "datetime_utc": "2026-12-08T01:00:00Z",
+          "auditorium": 10,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-07/vestaviahills/all/148954911",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 8.25,
+              "tax": 0.75
+            },
+            {
+              "type": "CHILD",
+              "price": 8.25,
+              "tax": 0.75
+            },
+            {
+              "type": "SENIOR",
+              "price": 8.25,
+              "tax": 0.75
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "andre rieu's 2026 christmas concert: let it snow!",
       "source": "AMC",
       "movie_id": 85107,
@@ -1038,6 +1316,49 @@
               "type": "SENIOR",
               "price": 13.24,
               "tax": 1.15
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149096070,
+          "datetime": "2026-12-17T14:15:00",
+          "datetime_utc": "2026-12-17T20:15:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/vestaviahills/all/149096070",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 15.72,
+              "tax": 1.43
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.4,
+              "tax": 1.31
             }
           ]
         },
@@ -1797,6 +2118,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149096068,
+          "datetime": "2026-12-17T18:15:00",
+          "datetime_utc": "2026-12-18T00:15:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/vestaviahills/all/149096068",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.68,
+              "tax": 1.79
+            },
+            {
+              "type": "CHILD",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.03,
+              "tax": 1.64
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4101,
           "theater": "AMC Summit 16",
           "showtime_id": 148813232,
@@ -2550,6 +2914,49 @@
               "type": "SENIOR",
               "price": 16.63,
               "tax": 1.44
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149096069,
+          "datetime": "2026-12-17T22:15:00",
+          "datetime_utc": "2026-12-18T04:15:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/vestaviahills/all/149096069",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Pay with Disney Rewards Redemption Card",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 19.68,
+              "tax": 1.79
+            },
+            {
+              "type": "CHILD",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.03,
+              "tax": 1.64
             }
           ]
         },
@@ -29079,7 +29486,7 @@
       "rotten_tomatoes": "78%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.19,
-      "letterboxd_rating_count": 131858,
+      "letterboxd_rating_count": 131898,
       "letterboxd_url": "https://letterboxd.com/film/bad-santa/",
       "awards": "1 win & 12 nominations total",
       "language": "English",
@@ -29203,7 +29610,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.54,
-      "letterboxd_rating_count": 7776,
+      "letterboxd_rating_count": 7790,
       "letterboxd_url": "https://letterboxd.com/film/behemoth-2026/",
       "awards": "N/A",
       "language": "English",
@@ -34279,7 +34686,7 @@
       "rotten_tomatoes": null,
       "metacritic": "69/100",
       "letterboxd_rating": 3.15,
-      "letterboxd_rating_count": 69073,
+      "letterboxd_rating_count": 69165,
       "letterboxd_url": "https://letterboxd.com/film/bitter-christmas/",
       "awards": "3 nominations total",
       "language": "Spanish",
@@ -34605,7 +35012,7 @@
       "rotten_tomatoes": null,
       "metacritic": "59/100",
       "letterboxd_rating": 3.71,
-      "letterboxd_rating_count": 882087,
+      "letterboxd_rating_count": 883596,
       "letterboxd_url": "https://letterboxd.com/film/clayface/",
       "awards": "N/A",
       "language": "English",
@@ -35489,7 +35896,7 @@
       "rotten_tomatoes": null,
       "metacritic": "84/100",
       "letterboxd_rating": 4.44,
-      "letterboxd_rating_count": 138383,
+      "letterboxd_rating_count": 141894,
       "letterboxd_url": "https://letterboxd.com/film/club-kid/",
       "awards": "2 wins & 6 nominations total",
       "language": "English",
@@ -48746,7 +49153,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.89,
-      "letterboxd_rating_count": 3017,
+      "letterboxd_rating_count": 3045,
       "letterboxd_url": "https://letterboxd.com/film/drummer-boy/",
       "awards": "N/A",
       "language": "N/A",
@@ -59428,8 +59835,8 @@
           "showtime_id": 147975112,
           "datetime": "2026-12-24T09:15:00",
           "datetime_utc": "2026-12-24T15:15:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/summit/all/147975112",
           "sold_out": false,
@@ -59720,8 +60127,8 @@
           "showtime_id": 147975111,
           "datetime": "2026-12-24T13:00:00",
           "datetime_utc": "2026-12-24T19:00:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/summit/all/147975111",
           "sold_out": false,
@@ -60055,8 +60462,8 @@
           "showtime_id": 147975110,
           "datetime": "2026-12-24T16:30:00",
           "datetime_utc": "2026-12-24T22:30:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/summit/all/147975110",
           "sold_out": false,
@@ -60430,8 +60837,8 @@
           "showtime_id": 147975109,
           "datetime": "2026-12-24T20:00:00",
           "datetime_utc": "2026-12-25T02:00:00Z",
-          "auditorium": 7,
-          "screen_width_ft": 28.7,
+          "auditorium": 14,
+          "screen_width_ft": 17.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/summit/all/147975109",
           "sold_out": false,
@@ -65847,6 +66254,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111322,
+          "datetime": "2027-01-01T09:30:00",
+          "datetime_utc": "2027-01-01T15:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/149111322",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.2,
+              "tax": 1.11
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.52,
+              "tax": 1.23
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145963410,
@@ -65884,6 +66334,49 @@
               "type": "SENIOR",
               "price": 17.84,
               "tax": 1.55
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111320,
+          "datetime": "2027-01-01T13:00:00",
+          "datetime_utc": "2027-01-01T19:00:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/149111320",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.2,
+              "tax": 1.11
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.52,
+              "tax": 1.23
             }
           ]
         },
@@ -65931,6 +66424,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111319,
+          "datetime": "2027-01-01T16:30:00",
+          "datetime_utc": "2027-01-01T22:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/149111319",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.58,
+              "tax": 1.69
+            },
+            {
+              "type": "CHILD",
+              "price": 15.28,
+              "tax": 1.39
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.93,
+              "tax": 1.54
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145963400,
@@ -65968,6 +66504,49 @@
               "type": "SENIOR",
               "price": 21.01,
               "tax": 1.82
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111318,
+          "datetime": "2027-01-01T20:00:00",
+          "datetime_utc": "2027-01-02T02:00:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/149111318",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.58,
+              "tax": 1.69
+            },
+            {
+              "type": "CHILD",
+              "price": 15.28,
+              "tax": 1.39
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.93,
+              "tax": 1.54
             }
           ]
         },
@@ -66015,6 +66594,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111321,
+          "datetime": "2027-01-01T23:30:00",
+          "datetime_utc": "2027-01-02T05:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/149111321",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.58,
+              "tax": 1.69
+            },
+            {
+              "type": "CHILD",
+              "price": 15.28,
+              "tax": 1.39
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.93,
+              "tax": 1.54
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145963402,
@@ -66052,6 +66674,49 @@
               "type": "SENIOR",
               "price": 17.84,
               "tax": 1.55
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111312,
+          "datetime": "2027-01-02T09:30:00",
+          "datetime_utc": "2027-01-02T15:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/149111312",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.2,
+              "tax": 1.11
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.52,
+              "tax": 1.23
             }
           ]
         },
@@ -66099,6 +66764,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111310,
+          "datetime": "2027-01-02T13:00:00",
+          "datetime_utc": "2027-01-02T19:00:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/149111310",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.2,
+              "tax": 1.11
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.52,
+              "tax": 1.23
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145963404,
@@ -66136,6 +66844,49 @@
               "type": "SENIOR",
               "price": 21.01,
               "tax": 1.82
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111309,
+          "datetime": "2027-01-02T16:30:00",
+          "datetime_utc": "2027-01-02T22:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/149111309",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.58,
+              "tax": 1.69
+            },
+            {
+              "type": "CHILD",
+              "price": 15.28,
+              "tax": 1.39
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.93,
+              "tax": 1.54
             }
           ]
         },
@@ -66183,6 +66934,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111308,
+          "datetime": "2027-01-02T20:00:00",
+          "datetime_utc": "2027-01-03T02:00:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/149111308",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.58,
+              "tax": 1.69
+            },
+            {
+              "type": "CHILD",
+              "price": 15.28,
+              "tax": 1.39
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.93,
+              "tax": 1.54
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145963394,
@@ -66220,6 +67014,49 @@
               "type": "SENIOR",
               "price": 21.01,
               "tax": 1.82
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111311,
+          "datetime": "2027-01-02T23:30:00",
+          "datetime_utc": "2027-01-03T05:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/149111311",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.58,
+              "tax": 1.69
+            },
+            {
+              "type": "CHILD",
+              "price": 15.28,
+              "tax": 1.39
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.93,
+              "tax": 1.54
             }
           ]
         },
@@ -66267,6 +67104,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111317,
+          "datetime": "2027-01-03T09:30:00",
+          "datetime_utc": "2027-01-03T15:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/149111317",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.2,
+              "tax": 1.11
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.52,
+              "tax": 1.23
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145963396,
@@ -66304,6 +67184,49 @@
               "type": "SENIOR",
               "price": 17.84,
               "tax": 1.55
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111315,
+          "datetime": "2027-01-03T13:00:00",
+          "datetime_utc": "2027-01-03T19:00:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/149111315",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 14.84,
+              "tax": 1.35
+            },
+            {
+              "type": "CHILD",
+              "price": 12.2,
+              "tax": 1.11
+            },
+            {
+              "type": "SENIOR",
+              "price": 13.52,
+              "tax": 1.23
             }
           ]
         },
@@ -66351,6 +67274,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111314,
+          "datetime": "2027-01-03T16:30:00",
+          "datetime_utc": "2027-01-03T22:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/149111314",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.58,
+              "tax": 1.69
+            },
+            {
+              "type": "CHILD",
+              "price": 15.28,
+              "tax": 1.39
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.93,
+              "tax": 1.54
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145963398,
@@ -66393,6 +67359,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111313,
+          "datetime": "2027-01-03T20:00:00",
+          "datetime_utc": "2027-01-04T02:00:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/149111313",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.58,
+              "tax": 1.69
+            },
+            {
+              "type": "CHILD",
+              "price": 15.28,
+              "tax": 1.39
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.93,
+              "tax": 1.54
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 145963387,
@@ -66430,6 +67439,49 @@
               "type": "SENIOR",
               "price": 21.01,
               "tax": 1.82
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4105,
+          "theater": "AMC Vestavia Hills 10",
+          "showtime_id": 149111316,
+          "datetime": "2027-01-03T23:30:00",
+          "datetime_utc": "2027-01-04T05:30:00Z",
+          "auditorium": 9,
+          "screen_width_ft": 43.5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/149111316",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dine-In Delivery to Seat",
+            "Heated AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 18.58,
+              "tax": 1.69
+            },
+            {
+              "type": "CHILD",
+              "price": 15.28,
+              "tax": 1.39
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.93,
+              "tax": 1.54
             }
           ]
         },
@@ -67090,7 +68142,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.22,
-      "letterboxd_rating_count": 98542,
+      "letterboxd_rating_count": 101011,
       "letterboxd_url": "https://letterboxd.com/film/ebenezer-2026/",
       "awards": "N/A",
       "language": "N/A",
@@ -71690,7 +72742,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.22,
-      "letterboxd_rating_count": 98542,
+      "letterboxd_rating_count": 101011,
       "letterboxd_url": "https://letterboxd.com/film/ebenezer-2026/",
       "awards": "N/A",
       "language": "N/A",
@@ -71947,7 +72999,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.87,
-      "letterboxd_rating_count": 10783,
+      "letterboxd_rating_count": 11010,
       "letterboxd_url": "https://letterboxd.com/film/elsinore/",
       "awards": "N/A",
       "language": "English",
@@ -74366,7 +75418,7 @@
       "imdb_id": "tt0368711",
       "imdb_rating": "7.9",
       "imdb_votes": "3,936",
-      "rotten_tomatoes": "95%",
+      "rotten_tomatoes": null,
       "metacritic": "74/100",
       "letterboxd_rating": 3.87,
       "letterboxd_rating_count": 3210,
@@ -74497,7 +75549,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.64,
-      "letterboxd_rating_count": 9321,
+      "letterboxd_rating_count": 9572,
       "letterboxd_url": "https://letterboxd.com/film/ene-repeat/",
       "awards": "N/A",
       "language": "N/A",
@@ -76047,8 +77099,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.28,
-      "letterboxd_rating_count": 3428,
+      "letterboxd_rating": 3.26,
+      "letterboxd_rating_count": 3691,
       "letterboxd_url": "https://letterboxd.com/film/focker-in-law/",
       "awards": "N/A",
       "language": "English",
@@ -84144,7 +85196,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.18,
-      "letterboxd_rating_count": 4844,
+      "letterboxd_rating_count": 4859,
       "letterboxd_url": "https://letterboxd.com/film/george-michael-the-faith-tour/",
       "awards": "N/A",
       "language": "English",
@@ -85736,7 +86788,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.99,
-      "letterboxd_rating_count": 414298,
+      "letterboxd_rating_count": 417054,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -86584,8 +87636,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.72,
-      "letterboxd_rating_count": 854,
+      "letterboxd_rating": 2.7,
+      "letterboxd_rating_count": 978,
       "letterboxd_url": "https://letterboxd.com/film/hershey/",
       "awards": "N/A",
       "language": "English",
@@ -87222,7 +88274,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-25/summit/all/147741613",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -90663,7 +91715,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.06,
-      "letterboxd_rating_count": 62376,
+      "letterboxd_rating_count": 63264,
       "letterboxd_url": "https://letterboxd.com/film/how-to-rob-a-bank-2026/",
       "awards": "N/A",
       "language": "English",
@@ -91491,7 +92543,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.83,
-      "letterboxd_rating_count": 75257,
+      "letterboxd_rating_count": 77910,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -99099,8 +100151,8 @@
           "showtime_id": 140486156,
           "datetime": "2026-12-24T16:00:00",
           "datetime_utc": "2026-12-24T22:00:00Z",
-          "auditorium": 2,
-          "screen_width_ft": 20.0,
+          "auditorium": 13,
+          "screen_width_ft": 17.8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/summit/all/140486156",
           "sold_out": false,
@@ -99217,8 +100269,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.78,
-      "letterboxd_rating_count": 3246,
+      "letterboxd_rating": 2.79,
+      "letterboxd_rating_count": 3261,
       "letterboxd_url": "https://letterboxd.com/film/jimmy-2026/",
       "awards": "N/A",
       "language": "English",
@@ -99613,7 +100665,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.05,
-      "letterboxd_rating_count": 14724,
+      "letterboxd_rating_count": 15084,
       "letterboxd_url": "https://letterboxd.com/film/josephine-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -101226,7 +102278,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": "66/100",
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 616385,
+      "letterboxd_rating_count": 616579,
       "letterboxd_url": "https://letterboxd.com/film/moulin-rouge-2001/",
       "awards": "Won 2 Oscars. 89 wins & 133 nominations total",
       "language": "English, French, Spanish",
@@ -102791,8 +103843,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.92,
-      "letterboxd_rating_count": 18361,
+      "letterboxd_rating": 2.91,
+      "letterboxd_rating_count": 18870,
       "letterboxd_url": "https://letterboxd.com/film/om-operation-mole/",
       "awards": "N/A",
       "language": "Tamil, Telugu, Hindi",
@@ -102960,7 +104012,7 @@
       "rotten_tomatoes": null,
       "metacritic": "79/100",
       "letterboxd_rating": 3.39,
-      "letterboxd_rating_count": 29477,
+      "letterboxd_rating_count": 30187,
       "letterboxd_url": "https://letterboxd.com/film/paper-tiger-2026/",
       "awards": "1 win & 3 nominations total",
       "language": "English",
@@ -107256,7 +108308,7 @@
       "rotten_tomatoes": null,
       "metacritic": "81/100",
       "letterboxd_rating": 4.35,
-      "letterboxd_rating_count": 66432,
+      "letterboxd_rating_count": 66483,
       "letterboxd_url": "https://letterboxd.com/film/raise-the-red-lantern/",
       "awards": "Nominated for 1 Oscar. 24 wins & 17 nominations total",
       "language": "Mandarin",
@@ -107362,7 +108414,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.56,
-      "letterboxd_rating_count": 69756,
+      "letterboxd_rating_count": 70395,
       "letterboxd_url": "https://letterboxd.com/film/ramayana-rise-of-a-legend/",
       "awards": "N/A",
       "language": "Hindi",
@@ -107814,7 +108866,7 @@
       "rotten_tomatoes": "75%",
       "metacritic": "62/100",
       "letterboxd_rating": 3.48,
-      "letterboxd_rating_count": 839143,
+      "letterboxd_rating_count": 839412,
       "letterboxd_url": "https://letterboxd.com/film/romeo-juliet-1996/",
       "awards": "Nominated for 1 Oscar. 15 wins & 30 nominations total",
       "language": "English",
@@ -107955,7 +109007,7 @@
       "rotten_tomatoes": "72%",
       "metacritic": "38/100",
       "letterboxd_rating": 3.33,
-      "letterboxd_rating_count": 152405,
+      "letterboxd_rating_count": 152458,
       "letterboxd_url": "https://letterboxd.com/film/scrooged/",
       "awards": "Nominated for 1 Oscar. 1 win & 5 nominations total",
       "language": "English",
@@ -108039,7 +109091,7 @@
       "rotten_tomatoes": null,
       "metacritic": "72/100",
       "letterboxd_rating": 3.96,
-      "letterboxd_rating_count": 313298,
+      "letterboxd_rating_count": 314001,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -109287,7 +110339,7 @@
       "rotten_tomatoes": null,
       "metacritic": "47/100",
       "letterboxd_rating": 3.07,
-      "letterboxd_rating_count": 21138,
+      "letterboxd_rating_count": 21352,
       "letterboxd_url": "https://letterboxd.com/film/the-cat-in-the-hat-2026/",
       "awards": "N/A",
       "language": "English",
@@ -112008,6 +113060,2777 @@
       ]
     },
     {
+      "sort_index": "the debut",
+      "source": "AMC",
+      "movie_id": 84449,
+      "title": "The Debut",
+      "release_year": 2026,
+      "runtime": 105,
+      "rating": "R",
+      "genres": [
+        "COMEDY"
+      ],
+      "poster": "posters/the-debut-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role--even if it means waging war against the show's domineering director.",
+      "directors": [
+        "Jesse Eisenberg"
+      ],
+      "writers": [],
+      "actors": [
+        "Halle Bailey",
+        "Julianne Moore",
+        "Paul Giamatti"
+      ],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/the-debut-84449",
+      "trailer_url": null,
+      "predictions": [],
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114546,
+          "datetime": "2026-12-24T12:10:00",
+          "datetime_utc": "2026-12-24T18:10:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/summit/all/149114546",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114547,
+          "datetime": "2026-12-24T14:55:00",
+          "datetime_utc": "2026-12-24T20:55:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/summit/all/149114547",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114548,
+          "datetime": "2026-12-24T17:45:00",
+          "datetime_utc": "2026-12-24T23:45:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/summit/all/149114548",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114549,
+          "datetime": "2026-12-24T20:35:00",
+          "datetime_utc": "2026-12-25T02:35:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/summit/all/149114549",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114554,
+          "datetime": "2026-12-25T11:15:00",
+          "datetime_utc": "2026-12-25T17:15:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/summit/all/149114554",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Open Caption (On-screen Subtitles)",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114553,
+          "datetime": "2026-12-25T13:55:00",
+          "datetime_utc": "2026-12-25T19:55:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/summit/all/149114553",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114552,
+          "datetime": "2026-12-25T16:40:00",
+          "datetime_utc": "2026-12-25T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/summit/all/149114552",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114550,
+          "datetime": "2026-12-25T19:25:00",
+          "datetime_utc": "2026-12-26T01:25:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/summit/all/149114550",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114551,
+          "datetime": "2026-12-25T22:05:00",
+          "datetime_utc": "2026-12-26T04:05:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/summit/all/149114551",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114559,
+          "datetime": "2026-12-26T11:15:00",
+          "datetime_utc": "2026-12-26T17:15:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/summit/all/149114559",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114558,
+          "datetime": "2026-12-26T14:00:00",
+          "datetime_utc": "2026-12-26T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/summit/all/149114558",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114557,
+          "datetime": "2026-12-26T16:40:00",
+          "datetime_utc": "2026-12-26T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/summit/all/149114557",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114555,
+          "datetime": "2026-12-26T19:20:00",
+          "datetime_utc": "2026-12-27T01:20:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/summit/all/149114555",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114556,
+          "datetime": "2026-12-26T22:00:00",
+          "datetime_utc": "2026-12-27T04:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/summit/all/149114556",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114564,
+          "datetime": "2026-12-27T11:15:00",
+          "datetime_utc": "2026-12-27T17:15:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/summit/all/149114564",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114563,
+          "datetime": "2026-12-27T14:00:00",
+          "datetime_utc": "2026-12-27T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/summit/all/149114563",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114562,
+          "datetime": "2026-12-27T16:40:00",
+          "datetime_utc": "2026-12-27T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/summit/all/149114562",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114560,
+          "datetime": "2026-12-27T19:20:00",
+          "datetime_utc": "2026-12-28T01:20:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/summit/all/149114560",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114561,
+          "datetime": "2026-12-27T22:00:00",
+          "datetime_utc": "2026-12-28T04:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/summit/all/149114561",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114569,
+          "datetime": "2026-12-28T11:15:00",
+          "datetime_utc": "2026-12-28T17:15:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/summit/all/149114569",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114568,
+          "datetime": "2026-12-28T14:00:00",
+          "datetime_utc": "2026-12-28T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/summit/all/149114568",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114567,
+          "datetime": "2026-12-28T16:40:00",
+          "datetime_utc": "2026-12-28T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/summit/all/149114567",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114565,
+          "datetime": "2026-12-28T19:25:00",
+          "datetime_utc": "2026-12-29T01:25:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/summit/all/149114565",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114566,
+          "datetime": "2026-12-28T22:10:00",
+          "datetime_utc": "2026-12-29T04:10:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/summit/all/149114566",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114574,
+          "datetime": "2026-12-29T11:15:00",
+          "datetime_utc": "2026-12-29T17:15:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/summit/all/149114574",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114573,
+          "datetime": "2026-12-29T14:00:00",
+          "datetime_utc": "2026-12-29T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/summit/all/149114573",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114572,
+          "datetime": "2026-12-29T16:40:00",
+          "datetime_utc": "2026-12-29T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/summit/all/149114572",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114570,
+          "datetime": "2026-12-29T19:25:00",
+          "datetime_utc": "2026-12-30T01:25:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/summit/all/149114570",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114571,
+          "datetime": "2026-12-29T22:10:00",
+          "datetime_utc": "2026-12-30T04:10:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/summit/all/149114571",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114579,
+          "datetime": "2026-12-30T11:15:00",
+          "datetime_utc": "2026-12-30T17:15:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/summit/all/149114579",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114578,
+          "datetime": "2026-12-30T14:00:00",
+          "datetime_utc": "2026-12-30T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/summit/all/149114578",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114577,
+          "datetime": "2026-12-30T16:40:00",
+          "datetime_utc": "2026-12-30T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/summit/all/149114577",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114575,
+          "datetime": "2026-12-30T19:25:00",
+          "datetime_utc": "2026-12-31T01:25:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/summit/all/149114575",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Open Caption (On-screen Subtitles)",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114576,
+          "datetime": "2026-12-30T22:10:00",
+          "datetime_utc": "2026-12-31T04:10:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/summit/all/149114576",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114583,
+          "datetime": "2026-12-31T11:15:00",
+          "datetime_utc": "2026-12-31T17:15:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-31/summit/all/149114583",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114582,
+          "datetime": "2026-12-31T14:00:00",
+          "datetime_utc": "2026-12-31T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-31/summit/all/149114582",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114581,
+          "datetime": "2026-12-31T16:40:00",
+          "datetime_utc": "2026-12-31T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-31/summit/all/149114581",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114580,
+          "datetime": "2026-12-31T19:20:00",
+          "datetime_utc": "2027-01-01T01:20:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-31/summit/all/149114580",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114588,
+          "datetime": "2027-01-01T11:15:00",
+          "datetime_utc": "2027-01-01T17:15:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/summit/all/149114588",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114587,
+          "datetime": "2027-01-01T14:00:00",
+          "datetime_utc": "2027-01-01T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/summit/all/149114587",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114586,
+          "datetime": "2027-01-01T16:40:00",
+          "datetime_utc": "2027-01-01T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/summit/all/149114586",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114584,
+          "datetime": "2027-01-01T19:25:00",
+          "datetime_utc": "2027-01-02T01:25:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/summit/all/149114584",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114585,
+          "datetime": "2027-01-01T22:10:00",
+          "datetime_utc": "2027-01-02T04:10:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/summit/all/149114585",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114593,
+          "datetime": "2027-01-02T11:15:00",
+          "datetime_utc": "2027-01-02T17:15:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/summit/all/149114593",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114592,
+          "datetime": "2027-01-02T14:00:00",
+          "datetime_utc": "2027-01-02T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/summit/all/149114592",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114591,
+          "datetime": "2027-01-02T16:40:00",
+          "datetime_utc": "2027-01-02T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/summit/all/149114591",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114589,
+          "datetime": "2027-01-02T19:25:00",
+          "datetime_utc": "2027-01-03T01:25:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/summit/all/149114589",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114590,
+          "datetime": "2027-01-02T22:10:00",
+          "datetime_utc": "2027-01-03T04:10:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/summit/all/149114590",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114598,
+          "datetime": "2027-01-03T11:15:00",
+          "datetime_utc": "2027-01-03T17:15:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/summit/all/149114598",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114597,
+          "datetime": "2027-01-03T14:00:00",
+          "datetime_utc": "2027-01-03T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/summit/all/149114597",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114596,
+          "datetime": "2027-01-03T16:40:00",
+          "datetime_utc": "2027-01-03T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/summit/all/149114596",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114594,
+          "datetime": "2027-01-03T19:25:00",
+          "datetime_utc": "2027-01-04T01:25:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/summit/all/149114594",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114595,
+          "datetime": "2027-01-03T22:10:00",
+          "datetime_utc": "2027-01-04T04:10:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/summit/all/149114595",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114602,
+          "datetime": "2027-01-04T14:00:00",
+          "datetime_utc": "2027-01-04T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-04/summit/all/149114602",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114601,
+          "datetime": "2027-01-04T16:40:00",
+          "datetime_utc": "2027-01-04T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-04/summit/all/149114601",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114599,
+          "datetime": "2027-01-04T19:20:00",
+          "datetime_utc": "2027-01-05T01:20:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-04/summit/all/149114599",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114600,
+          "datetime": "2027-01-04T22:00:00",
+          "datetime_utc": "2027-01-05T04:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-04/summit/all/149114600",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114606,
+          "datetime": "2027-01-05T14:00:00",
+          "datetime_utc": "2027-01-05T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-05/summit/all/149114606",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114605,
+          "datetime": "2027-01-05T16:40:00",
+          "datetime_utc": "2027-01-05T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-05/summit/all/149114605",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114603,
+          "datetime": "2027-01-05T19:20:00",
+          "datetime_utc": "2027-01-06T01:20:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-05/summit/all/149114603",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114604,
+          "datetime": "2027-01-05T22:00:00",
+          "datetime_utc": "2027-01-06T04:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-05/summit/all/149114604",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114610,
+          "datetime": "2027-01-06T14:00:00",
+          "datetime_utc": "2027-01-06T20:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-06/summit/all/149114610",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "CHILD",
+              "price": 10.44,
+              "tax": 0.95
+            },
+            {
+              "type": "SENIOR",
+              "price": 11.76,
+              "tax": 1.07
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114609,
+          "datetime": "2027-01-06T16:40:00",
+          "datetime_utc": "2027-01-06T22:40:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-06/summit/all/149114609",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114607,
+          "datetime": "2027-01-06T19:20:00",
+          "datetime_utc": "2027-01-07T01:20:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-06/summit/all/149114607",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114608,
+          "datetime": "2027-01-06T22:00:00",
+          "datetime_utc": "2027-01-07T04:00:00Z",
+          "auditorium": 4,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-06/summit/all/149114608",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.38,
+              "tax": 1.49
+            },
+            {
+              "type": "CHILD",
+              "price": 13.08,
+              "tax": 1.19
+            },
+            {
+              "type": "SENIOR",
+              "price": 14.73,
+              "tax": 1.34
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "the departed: 20th anniversary",
       "source": "AMC",
       "movie_id": 85630,
@@ -112043,7 +115866,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "85/100",
       "letterboxd_rating": 4.35,
-      "letterboxd_rating_count": 1829480,
+      "letterboxd_rating_count": 1829985,
       "letterboxd_url": "https://letterboxd.com/film/the-departed/",
       "awards": "Won 4 Oscars. 100 wins & 141 nominations total",
       "language": "English, Cantonese",
@@ -112565,8 +116388,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": "69/100",
-      "letterboxd_rating": 3.23,
-      "letterboxd_rating_count": 1185,
+      "letterboxd_rating": 3.2,
+      "letterboxd_rating_count": 1272,
       "letterboxd_url": "https://letterboxd.com/film/the-further-mis-adventures-of-cliff-booth/",
       "awards": "N/A",
       "language": "English",
@@ -113956,7 +117779,7 @@
       "rotten_tomatoes": null,
       "metacritic": "52/100",
       "letterboxd_rating": 3.64,
-      "letterboxd_rating_count": 1107995,
+      "letterboxd_rating_count": 1108679,
       "letterboxd_url": "https://letterboxd.com/film/the-holiday/",
       "awards": "2 wins & 12 nominations total",
       "language": "English",
@@ -113967,6 +117790,47 @@
       "trailer_url": null,
       "predictions": [],
       "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114536,
+          "datetime": "2026-12-11T12:15:00",
+          "datetime_utc": "2026-12-11T18:15:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-11/summit/all/149114536",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
         {
           "source": "AMC",
           "theater_id": 4103,
@@ -114004,6 +117868,47 @@
               "type": "SENIOR",
               "price": 7.39,
               "tax": 0.64
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114538,
+          "datetime": "2026-12-12T12:15:00",
+          "datetime_utc": "2026-12-12T18:15:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-12/summit/all/149114538",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
             }
           ]
         },
@@ -114049,6 +117954,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114539,
+          "datetime": "2026-12-13T12:15:00",
+          "datetime_utc": "2026-12-13T18:15:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-13/summit/all/149114539",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 148600502,
@@ -114084,6 +118030,47 @@
               "type": "SENIOR",
               "price": 7.39,
               "tax": 0.64
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114537,
+          "datetime": "2026-12-14T12:15:00",
+          "datetime_utc": "2026-12-14T18:15:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-14/summit/all/149114537",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
             }
           ]
         },
@@ -114129,6 +118116,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114540,
+          "datetime": "2026-12-15T12:15:00",
+          "datetime_utc": "2026-12-15T18:15:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-15/summit/all/149114540",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Excluded from 50% off Discount",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 4103,
           "theater": "AMC Patton Creek 15",
           "showtime_id": 148600490,
@@ -114165,6 +118194,48 @@
               "type": "SENIOR",
               "price": 7.39,
               "tax": 0.64
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 4101,
+          "theater": "AMC Summit 16",
+          "showtime_id": 149114541,
+          "datetime": "2026-12-16T12:15:00",
+          "datetime_utc": "2026-12-16T18:15:00Z",
+          "auditorium": 1,
+          "screen_width_ft": 20.0,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-16/summit/all/149114541",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Excluded from 50% off Discount",
+            "Fan Faves",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "CHILD",
+              "price": 7.98,
+              "tax": 0.73
+            },
+            {
+              "type": "SENIOR",
+              "price": 7.98,
+              "tax": 0.73
             }
           ]
         },
@@ -114244,8 +118315,8 @@
       "imdb_votes": "22,802",
       "rotten_tomatoes": null,
       "metacritic": "56/100",
-      "letterboxd_rating": 4.03,
-      "letterboxd_rating_count": 957846,
+      "letterboxd_rating": 4.02,
+      "letterboxd_rating_count": 1002079,
       "letterboxd_url": "https://letterboxd.com/film/the-hunger-games-sunrise-on-the-reaping/",
       "awards": "1 win & 3 nominations total",
       "language": "English",
@@ -114268,7 +118339,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/summit/all/148801313",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -114885,7 +118956,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/vestaviahills/all/148894354",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -114927,7 +118998,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/summit/all/148801289",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -115049,7 +119120,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/summit/all/148801311",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -115294,7 +119365,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/vestaviahills/all/148192760",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -115336,7 +119407,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/summit/all/148801282",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -115418,7 +119489,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/vestaviahills/all/148894352",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -115460,7 +119531,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/summit/all/148801288",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -115663,7 +119734,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/vestaviahills/all/148894326",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -128173,8 +132244,8 @@
       "imdb_votes": "22,802",
       "rotten_tomatoes": null,
       "metacritic": "56/100",
-      "letterboxd_rating": 4.03,
-      "letterboxd_rating_count": 957846,
+      "letterboxd_rating": 4.02,
+      "letterboxd_rating_count": 1002079,
       "letterboxd_url": "https://letterboxd.com/film/the-hunger-games-sunrise-on-the-reaping/",
       "awards": "1 win & 3 nominations total",
       "language": "English",
@@ -128263,7 +132334,7 @@
       "rotten_tomatoes": "99%",
       "metacritic": "97/100",
       "letterboxd_rating": 3.9,
-      "letterboxd_rating_count": 166719,
+      "letterboxd_rating_count": 166755,
       "letterboxd_url": "https://letterboxd.com/film/the-maltese-falcon-1941/",
       "awards": "Nominated for 3 Oscars. 8 wins & 4 nominations total",
       "language": "English",
@@ -128495,7 +132566,7 @@
       "rotten_tomatoes": null,
       "metacritic": "88/100",
       "letterboxd_rating": 4.33,
-      "letterboxd_rating_count": 4881249,
+      "letterboxd_rating_count": 4885401,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "4 wins total",
       "language": "English, Greek",
@@ -129044,7 +133115,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.45,
-      "letterboxd_rating_count": 47829,
+      "letterboxd_rating_count": 48025,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -129133,7 +133204,7 @@
       "rotten_tomatoes": "55%",
       "metacritic": "61/100",
       "letterboxd_rating": 3.35,
-      "letterboxd_rating_count": 984759,
+      "letterboxd_rating_count": 985262,
       "letterboxd_url": "https://letterboxd.com/film/the-polar-express/",
       "awards": "Nominated for 3 Oscars. 5 wins & 26 nominations total",
       "language": "English",
@@ -129320,7 +133391,7 @@
       "rotten_tomatoes": null,
       "metacritic": "52/100",
       "letterboxd_rating": 2.95,
-      "letterboxd_rating_count": 20900,
+      "letterboxd_rating_count": 21019,
       "letterboxd_url": "https://letterboxd.com/film/victorian-psycho/",
       "awards": "2 nominations total",
       "language": "English",
@@ -135647,8 +139718,8 @@
           "showtime_id": 148964245,
           "datetime": "2026-12-25T11:15:00",
           "datetime_utc": "2026-12-25T17:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/vestaviahills/all/148964245",
           "sold_out": false,
@@ -135772,8 +139843,8 @@
           "showtime_id": 148964244,
           "datetime": "2026-12-25T14:15:00",
           "datetime_utc": "2026-12-25T20:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/vestaviahills/all/148964244",
           "sold_out": false,
@@ -135898,8 +139969,8 @@
           "showtime_id": 148964243,
           "datetime": "2026-12-25T17:15:00",
           "datetime_utc": "2026-12-25T23:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/vestaviahills/all/148964243",
           "sold_out": false,
@@ -136024,8 +140095,8 @@
           "showtime_id": 148964241,
           "datetime": "2026-12-25T20:15:00",
           "datetime_utc": "2026-12-26T02:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/vestaviahills/all/148964241",
           "sold_out": false,
@@ -136150,8 +140221,8 @@
           "showtime_id": 148964242,
           "datetime": "2026-12-25T23:15:00",
           "datetime_utc": "2026-12-26T05:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/vestaviahills/all/148964242",
           "sold_out": false,
@@ -136276,8 +140347,8 @@
           "showtime_id": 148964250,
           "datetime": "2026-12-26T11:15:00",
           "datetime_utc": "2026-12-26T17:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/vestaviahills/all/148964250",
           "sold_out": false,
@@ -136402,8 +140473,8 @@
           "showtime_id": 148964249,
           "datetime": "2026-12-26T14:15:00",
           "datetime_utc": "2026-12-26T20:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/vestaviahills/all/148964249",
           "sold_out": false,
@@ -136528,8 +140599,8 @@
           "showtime_id": 148964248,
           "datetime": "2026-12-26T17:15:00",
           "datetime_utc": "2026-12-26T23:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/vestaviahills/all/148964248",
           "sold_out": false,
@@ -136654,8 +140725,8 @@
           "showtime_id": 148964246,
           "datetime": "2026-12-26T20:15:00",
           "datetime_utc": "2026-12-27T02:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/vestaviahills/all/148964246",
           "sold_out": false,
@@ -136780,8 +140851,8 @@
           "showtime_id": 148964247,
           "datetime": "2026-12-26T23:15:00",
           "datetime_utc": "2026-12-27T05:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/vestaviahills/all/148964247",
           "sold_out": false,
@@ -136906,8 +140977,8 @@
           "showtime_id": 148964255,
           "datetime": "2026-12-27T11:15:00",
           "datetime_utc": "2026-12-27T17:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/vestaviahills/all/148964255",
           "sold_out": false,
@@ -137032,8 +141103,8 @@
           "showtime_id": 148964254,
           "datetime": "2026-12-27T14:15:00",
           "datetime_utc": "2026-12-27T20:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/vestaviahills/all/148964254",
           "sold_out": false,
@@ -137157,8 +141228,8 @@
           "showtime_id": 148964253,
           "datetime": "2026-12-27T17:15:00",
           "datetime_utc": "2026-12-27T23:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/vestaviahills/all/148964253",
           "sold_out": false,
@@ -137283,8 +141354,8 @@
           "showtime_id": 148964251,
           "datetime": "2026-12-27T20:15:00",
           "datetime_utc": "2026-12-28T02:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/vestaviahills/all/148964251",
           "sold_out": false,
@@ -137409,8 +141480,8 @@
           "showtime_id": 148964252,
           "datetime": "2026-12-27T23:15:00",
           "datetime_utc": "2026-12-28T05:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/vestaviahills/all/148964252",
           "sold_out": false,
@@ -137535,8 +141606,8 @@
           "showtime_id": 148964260,
           "datetime": "2026-12-28T11:15:00",
           "datetime_utc": "2026-12-28T17:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/vestaviahills/all/148964260",
           "sold_out": false,
@@ -137661,8 +141732,8 @@
           "showtime_id": 148964259,
           "datetime": "2026-12-28T14:15:00",
           "datetime_utc": "2026-12-28T20:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/vestaviahills/all/148964259",
           "sold_out": false,
@@ -137787,8 +141858,8 @@
           "showtime_id": 148964258,
           "datetime": "2026-12-28T17:15:00",
           "datetime_utc": "2026-12-28T23:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/vestaviahills/all/148964258",
           "sold_out": false,
@@ -137913,8 +141984,8 @@
           "showtime_id": 148964256,
           "datetime": "2026-12-28T20:15:00",
           "datetime_utc": "2026-12-29T02:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/vestaviahills/all/148964256",
           "sold_out": false,
@@ -138039,8 +142110,8 @@
           "showtime_id": 148964257,
           "datetime": "2026-12-28T23:15:00",
           "datetime_utc": "2026-12-29T05:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/vestaviahills/all/148964257",
           "sold_out": false,
@@ -138165,8 +142236,8 @@
           "showtime_id": 148964265,
           "datetime": "2026-12-29T11:15:00",
           "datetime_utc": "2026-12-29T17:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/vestaviahills/all/148964265",
           "sold_out": false,
@@ -138291,8 +142362,8 @@
           "showtime_id": 148964264,
           "datetime": "2026-12-29T14:15:00",
           "datetime_utc": "2026-12-29T20:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/vestaviahills/all/148964264",
           "sold_out": false,
@@ -138417,8 +142488,8 @@
           "showtime_id": 148964263,
           "datetime": "2026-12-29T17:15:00",
           "datetime_utc": "2026-12-29T23:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/vestaviahills/all/148964263",
           "sold_out": false,
@@ -138543,8 +142614,8 @@
           "showtime_id": 148964261,
           "datetime": "2026-12-29T20:15:00",
           "datetime_utc": "2026-12-30T02:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/vestaviahills/all/148964261",
           "sold_out": false,
@@ -138668,8 +142739,8 @@
           "showtime_id": 148964262,
           "datetime": "2026-12-29T23:15:00",
           "datetime_utc": "2026-12-30T05:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/vestaviahills/all/148964262",
           "sold_out": false,
@@ -138794,8 +142865,8 @@
           "showtime_id": 148964270,
           "datetime": "2026-12-30T11:15:00",
           "datetime_utc": "2026-12-30T17:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/vestaviahills/all/148964270",
           "sold_out": false,
@@ -138920,8 +142991,8 @@
           "showtime_id": 148964269,
           "datetime": "2026-12-30T14:15:00",
           "datetime_utc": "2026-12-30T20:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/vestaviahills/all/148964269",
           "sold_out": false,
@@ -139046,8 +143117,8 @@
           "showtime_id": 148964268,
           "datetime": "2026-12-30T17:15:00",
           "datetime_utc": "2026-12-30T23:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/vestaviahills/all/148964268",
           "sold_out": false,
@@ -139170,8 +143241,8 @@
           "showtime_id": 148964266,
           "datetime": "2026-12-30T20:15:00",
           "datetime_utc": "2026-12-31T02:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/vestaviahills/all/148964266",
           "sold_out": false,
@@ -139296,8 +143367,8 @@
           "showtime_id": 148964267,
           "datetime": "2026-12-30T23:15:00",
           "datetime_utc": "2026-12-31T05:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/vestaviahills/all/148964267",
           "sold_out": false,
@@ -139422,8 +143493,8 @@
           "showtime_id": 148964274,
           "datetime": "2026-12-31T11:15:00",
           "datetime_utc": "2026-12-31T17:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-31/vestaviahills/all/148964274",
           "sold_out": false,
@@ -139548,8 +143619,8 @@
           "showtime_id": 148964273,
           "datetime": "2026-12-31T14:15:00",
           "datetime_utc": "2026-12-31T20:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-31/vestaviahills/all/148964273",
           "sold_out": false,
@@ -139674,8 +143745,8 @@
           "showtime_id": 148964272,
           "datetime": "2026-12-31T17:15:00",
           "datetime_utc": "2026-12-31T23:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-31/vestaviahills/all/148964272",
           "sold_out": false,
@@ -139800,8 +143871,8 @@
           "showtime_id": 148964271,
           "datetime": "2026-12-31T20:15:00",
           "datetime_utc": "2027-01-01T02:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-31/vestaviahills/all/148964271",
           "sold_out": false,
@@ -139964,13 +144035,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964280,
+          "showtime_id": 149111287,
           "datetime": "2027-01-01T11:15:00",
           "datetime_utc": "2027-01-01T17:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/148964280",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/149111287",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -140090,13 +144161,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964279,
+          "showtime_id": 149111286,
           "datetime": "2027-01-01T14:15:00",
           "datetime_utc": "2027-01-01T20:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/148964279",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/149111286",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -140216,13 +144287,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964277,
+          "showtime_id": 149111285,
           "datetime": "2027-01-01T17:15:00",
           "datetime_utc": "2027-01-01T23:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/148964277",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/149111285",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -140342,13 +144413,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964275,
+          "showtime_id": 149111283,
           "datetime": "2027-01-01T20:15:00",
           "datetime_utc": "2027-01-02T02:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/148964275",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/149111283",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -140468,13 +144539,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964276,
+          "showtime_id": 149111284,
           "datetime": "2027-01-01T23:15:00",
           "datetime_utc": "2027-01-02T05:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/148964276",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/vestaviahills/all/149111284",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -140594,13 +144665,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964285,
+          "showtime_id": 149111292,
           "datetime": "2027-01-02T11:15:00",
           "datetime_utc": "2027-01-02T17:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/148964285",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/149111292",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -140720,13 +144791,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964284,
+          "showtime_id": 149111291,
           "datetime": "2027-01-02T14:15:00",
           "datetime_utc": "2027-01-02T20:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/148964284",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/149111291",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -140846,13 +144917,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964283,
+          "showtime_id": 149111290,
           "datetime": "2027-01-02T17:15:00",
           "datetime_utc": "2027-01-02T23:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/148964283",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/149111290",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -140972,13 +145043,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964281,
+          "showtime_id": 149111288,
           "datetime": "2027-01-02T20:15:00",
           "datetime_utc": "2027-01-03T02:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/148964281",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/149111288",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -141098,13 +145169,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964282,
+          "showtime_id": 149111289,
           "datetime": "2027-01-02T23:15:00",
           "datetime_utc": "2027-01-03T05:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/148964282",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/vestaviahills/all/149111289",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -141224,13 +145295,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964290,
+          "showtime_id": 149111282,
           "datetime": "2027-01-03T11:15:00",
           "datetime_utc": "2027-01-03T17:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/148964290",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/149111282",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -141350,13 +145421,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964289,
+          "showtime_id": 149111281,
           "datetime": "2027-01-03T14:15:00",
           "datetime_utc": "2027-01-03T20:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/148964289",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/149111281",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -141476,13 +145547,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964288,
+          "showtime_id": 149111280,
           "datetime": "2027-01-03T17:15:00",
           "datetime_utc": "2027-01-03T23:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/148964288",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/149111280",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -141602,13 +145673,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964286,
+          "showtime_id": 149111278,
           "datetime": "2027-01-03T20:15:00",
           "datetime_utc": "2027-01-04T02:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/148964286",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/149111278",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -141728,13 +145799,13 @@
           "source": "AMC",
           "theater_id": 4105,
           "theater": "AMC Vestavia Hills 10",
-          "showtime_id": 148964287,
+          "showtime_id": 149111279,
           "datetime": "2027-01-03T23:15:00",
           "datetime_utc": "2027-01-04T05:15:00Z",
-          "auditorium": 5,
-          "screen_width_ft": 31.7,
+          "auditorium": 6,
+          "screen_width_ft": 29.0,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/148964287",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/vestaviahills/all/149111279",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -143321,7 +147392,7 @@
       "rotten_tomatoes": null,
       "metacritic": "70/100",
       "letterboxd_rating": 3.64,
-      "letterboxd_rating_count": 235951,
+      "letterboxd_rating_count": 237920,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "2 wins & 1 nomination total",
       "language": "English",
@@ -143407,7 +147478,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.14,
-      "letterboxd_rating_count": 332830,
+      "letterboxd_rating_count": 337138,
       "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
       "awards": "N/A",
       "language": "English",
@@ -144471,7 +148542,7 @@
       "rotten_tomatoes": null,
       "metacritic": "88/100",
       "letterboxd_rating": 4.37,
-      "letterboxd_rating_count": 643467,
+      "letterboxd_rating_count": 646204,
       "letterboxd_url": "https://letterboxd.com/film/wildwood-2026/",
       "awards": "1 win total",
       "language": "English",
@@ -144576,7 +148647,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-24/summit/all/148801396",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -145903,7 +149974,7 @@
       "rotten_tomatoes": null,
       "metacritic": "98/100",
       "letterboxd_rating": 4.6,
-      "letterboxd_rating_count": 977946,
+      "letterboxd_rating_count": 992498,
       "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
       "awards": "N/A",
       "language": "English",
@@ -148681,7 +152752,7 @@
         "Fantasy"
       ],
       "plot": "The adventures of a young girl named Providence, who is entrusted with a magic quill that makes everything she writes come true. Faced with this incredible power, she has to choose between living her dreams and saving the world.",
-      "poster": "https://image.tmdb.org/t/p/w342/3v3dJuUwBqTYtNCBlESFCRo9gEW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5cyVbwgVNFzCEfqxQ0ZikyUTCUR.jpg",
       "url": "https://www.themoviedb.org/movie/1151265",
       "popularity": 5.3
     },
@@ -148742,7 +152813,7 @@
         "Drama"
       ],
       "plot": "Near the end of the Showa era in the late 1980s, in Misaki town, an old mansion is rumored to be the home of a witch. After moving into the mansion, Aoko Aozaki begins to learn sorcery from a young mage, Alice Kuonji, the rumored witch of the mansion. The Aozaki family oversees the land on which Misaki is built and the heir (Aoko) is tasked with protecting it. Mysterious intruders have been disrupting the bounded field in Misaki, leading Alice and Aoko to investigate. A mannequin or puppet attacks them and is incinerated. As this happens, both of them spot someone running away, a civilian who must not get away having seen magic alive. Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and comes to reside with them as well.",
-      "poster": "https://image.tmdb.org/t/p/w342/xKpYIt7T6nJ8oqzV52yLtZdC0YB.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/iJtcWNvcTPgfzJP1k0U7fbQ1HDZ.jpg",
       "url": "https://www.themoviedb.org/movie/920167",
       "popularity": 4.6
     },
@@ -148759,7 +152830,7 @@
         "Comedy"
       ],
       "plot": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat – this time joined by Baby Scrat and the enormous Jurassic Scrat – and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
-      "poster": "https://image.tmdb.org/t/p/w342/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/h90ZGL00jrbCIwRoQJ86xN8Wdov.jpg",
       "url": "https://www.themoviedb.org/movie/1384758",
       "popularity": 18.1
     },
