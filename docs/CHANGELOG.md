@@ -1,3 +1,9 @@
+## 2026-11-27 05:48 PM CST
+
+**Showtime changes:**
+- Ebenezer
+  - + AMC Summit 16 @ 2026-11-27T12:00:00 (Standard)
+
 ## 2026-11-27 07:16 AM CST
 
 **Showtime changes:**
