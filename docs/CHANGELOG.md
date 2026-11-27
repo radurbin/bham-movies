@@ -1,3 +1,18 @@
+## 2026-11-26 06:09 PM CST
+
+**Showtime changes:**
+- Focker In-Law
+  - + AMC Summit 16 @ 2026-11-26T22:30:00 (Standard)
+- Ebenezer
+  - + AMC Summit 16 @ 2026-11-26T19:20:00 (Standard)
+- Wild Horse Nine
+  - + AMC Summit 16 @ 2026-11-26T22:10:00 (Standard)
+  - + AMC Patton Creek 15 @ 2026-11-26T22:35:00 (Standard)
+  - − AMC Patton Creek 15 @ 2026-11-26T22:30:00 (Standard)
+  - − AMC Summit 16 @ 2026-11-26T22:30:00 (Standard)
+- You Can See Everything
+  - − AMC Summit 16 @ 2026-11-26T19:05:00 (Standard)
+
 ## 2026-11-26 07:19 AM CST
 
 **Movies removed:**
